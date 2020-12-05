@@ -39,14 +39,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/markdown/</loc>
+    <loc>http://example.com/tags/LaTeX/</loc>
     <lastmod>2020-12-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/LaTeX/</loc>
+    <loc>http://example.com/tags/markdown/</loc>
     <lastmod>2020-12-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
