@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SiyuWu&#39;s Personal Page</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-12-05T02:24:44.724Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>SiyuWu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown语法</title>
+    <link href="http://example.com/2020/12/05/Markdown%E8%AF%AD%E6%B3%95/"/>
+    <id>http://example.com/2020/12/05/Markdown%E8%AF%AD%E6%B3%95/</id>
+    <published>2020-12-05T02:09:10.000Z</published>
+    <updated>2020-12-05T02:24:44.724Z</updated>
+    
+    <content type="html"><![CDATA[<p>Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（英语：John Gruber）。 它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。<br>由于Markdown的轻量化、易读易写特性，并且对于图片，图表、数学式都有支持，目前许多网站都广泛使用Markdown来撰写帮助文档或是用于论坛上发表消息。 如GitHub、Reddit、Diaspora、Stack Exchange、OpenStreetMap 、SourceForge、简书等，甚至还能被使用来撰写电子书。<br>  关于Markdown语法介绍参考链接:<a href="http://www.appinn.com/markdown/">http:///www.appinn.com/markdown/</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯（英语：John Gruber）。 它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。&lt;br&gt;由于Markdown的轻量</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>LaTeX学习笔记</title>
+    <link href="http://example.com/2020/12/05/LaTeX%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2020/12/05/LaTeX%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-12-04T16:30:34.000Z</published>
+    <updated>2020-12-05T02:44:15.290Z</updated>
+    
+    <content type="html"><![CDATA[<p>从2020年暑期开始接触LaTeX，觉得它真的不愧为写作利器，特别是对于理工科的工作人员来说，LaTeX极大地加快了写作效率。对于刚入门的同志们我在这里强烈建议阅读文档<a href="./lshort-zh-cn.pdf" target="_blank">lshort</a>，另外<a href="https://latexstudio.net/">LaTeXstudio</a>是一个不错的LaTeX学习网站。</p><h1 id="建立第一个LaTeX文档"><a href="#建立第一个LaTeX文档" class="headerlink" title="建立第一个LaTeX文档"></a>建立第一个LaTeX文档</h1><p>选择一个编译器如TeXworks或者TeXstudio，新建一个名为helloworld.tex的文档，输入以下代码并进行编译，你就可以得到一份名为helloworld的pdf文档。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">\documentclass&#123;article&#125;</span><br><span class="line">\begin&#123;document&#125;</span><br><span class="line">Hello world!</span><br><span class="line">\end&#123;document&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;从2020年暑期开始接触LaTeX，觉得它真的不愧为写作利器，特别是对于理工科的工作人员来说，LaTeX极大地加快了写作效率。对于刚入门的同志们我在这里强烈建议阅读文档&lt;a href=&quot;./lshort-zh-cn.pdf&quot; target=&quot;_blank&quot;&gt;lshort&lt;/</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
