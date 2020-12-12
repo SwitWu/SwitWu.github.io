@@ -32,22 +32,22 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <lastmod>2020-12-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/LaTeX/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <loc>http://example.com/tags/markdown/</loc>
+    <lastmod>2020-12-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/markdown/</loc>
-    <lastmod>2020-12-06</lastmod>
+    <loc>http://example.com/tags/LaTeX/</loc>
+    <lastmod>2020-12-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
