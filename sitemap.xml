@@ -53,14 +53,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E4%B9%A0%E9%A2%98%E8%A7%A3/</loc>
+    <loc>http://example.com/tags/markdown/</loc>
     <lastmod>2020-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/markdown/</loc>
+    <loc>http://example.com/tags/%E4%B9%A0%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2020-12-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
