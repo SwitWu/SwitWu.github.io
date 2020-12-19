@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-05T07:04:52.313Z</updated>
+  <updated>2020-12-19T13:54:30.577Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>常微分方程丁同仁习题解</title>
+    <link href="http://example.com/2020/12/19/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E4%B8%81%E5%90%8C%E4%BB%81%E4%B9%A0%E9%A2%98%E8%A7%A3/"/>
+    <id>http://example.com/2020/12/19/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E4%B8%81%E5%90%8C%E4%BB%81%E4%B9%A0%E9%A2%98%E8%A7%A3/</id>
+    <published>2020-12-19T13:03:02.000Z</published>
+    <updated>2020-12-19T13:54:30.577Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>常微分方程教程丁同仁习题解答(LaTeX制作)，需要购买者联系<a href="mailto:2401336502@qq.com">邮箱</a>.{&amp; pdf <a href="https://switwu.github.io/File/ODE_DingTongren_Preview.pdf">https://switwu.github.io/File/ODE_DingTongren_Preview.pdf</a> &amp;}</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="习题解" scheme="http://example.com/tags/%E4%B9%A0%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
   
   <entry>
     <title>优美语句集锦</title>
@@ -60,13 +82,13 @@
     <link href="http://example.com/2020/12/05/LaTeX%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     <id>http://example.com/2020/12/05/LaTeX%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</id>
     <published>2020-12-04T16:30:34.000Z</published>
-    <updated>2020-12-06T06:59:46.208Z</updated>
+    <updated>2020-12-19T13:49:12.869Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我从2020年暑期开始接触$\rm{\LaTeX}$，真心觉得它不愧为写作利器，特别对于理工科的学生以及教师工作人员来说，$\rm{\LaTeX}$极大地加快了写作效率。对于刚入门的同志们我在这里强烈建议阅读文档:<a href="https://switwu.github.io/File/lshort-zh-cn.pdf">lshort</a>，想要阅读更多关于$\mathrm{\LaTeX}$的教程，推荐在<a href="https://z-lib.org/">zlibrary</a>上搜索下载，另外<a href="https://latexstudio.net/">LaTeXstudio</a>是一个不错的$\rm{\LaTeX}$学习网站。</p><h2 id="建立第一个-mathrm-LaTeX-文档"><a href="#建立第一个-mathrm-LaTeX-文档" class="headerlink" title="建立第一个$\mathrm{\LaTeX}$文档"></a>建立第一个$\mathrm{\LaTeX}$文档</h2><p>选择一个编译器如$\rm{\TeX}$works或者$\rm{\TeX}$studio，新建一个名为helloworld.tex的文档，输入以下代码并进行编译，你就可以得到一份名为helloworld的pdf文档。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">\documentclass&#123;article&#125;</span><br><span class="line">\begin&#123;document&#125;</span><br><span class="line">Hello world!</span><br><span class="line">\end&#123;document&#125;</span><br></pre></td></tr></table></figure><a id="more"></a><h2 id="编辑器的选择"><a href="#编辑器的选择" class="headerlink" title="编辑器的选择"></a>编辑器的选择</h2><p>主流的编辑器有WinEdt,$\rm{\TeX}$studio,$\rm{\TeX}$works等，也可以使用文本编辑器VScode(添加$\rm{\LaTeX}$插件)</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我从2020年暑期开始接触$\rm{\LaTeX}$，真心觉得它不愧为写作利器，特别对于理工科的学生以及教师工作人员来说，$\rm{\LaTeX}$极大地加快了写作效率。对于刚入门的同志们我在这里强烈建议阅读文档:<a href="https://switwu.github.io/File/lshort-zh-cn.pdf">lshort</a>，想要阅读更多关于$\mathrm{\LaTeX}$的教程，推荐在<a href="https://z-lib.org/">zlibrary</a>上搜索下载，另外<a href="https://latexstudio.net/">LaTeXstudio</a>是一个不错的$\rm{\LaTeX}$学习网站。</p><h2 id="建立第一个-mathrm-LaTeX-文档"><a href="#建立第一个-mathrm-LaTeX-文档" class="headerlink" title="建立第一个$\mathrm{\LaTeX}$文档"></a>建立第一个$\mathrm{\LaTeX}$文档</h2><p>先下载发行版MikTeX或者TexLive，再选择一个编辑器如$\rm{\TeX}$works或者$\rm{\TeX}$studio，新建一个名为helloworld.tex的文档，输入以下代码并进行编译，你就可以得到一份名为helloworld的pdf文档。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">\documentclass&#123;article&#125;</span><br><span class="line">\begin&#123;document&#125;</span><br><span class="line">Hello world!</span><br><span class="line">\end&#123;document&#125;</span><br></pre></td></tr></table></figure><a id="more"></a><h2 id="编辑器的选择"><a href="#编辑器的选择" class="headerlink" title="编辑器的选择"></a>编辑器的选择</h2><p>主流的编辑器有WinEdt,$\rm{\TeX}$studio,$\rm{\TeX}$works等，也可以使用文本编辑器VScode(添加$\rm{\LaTeX}$插件)</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;我从2020年暑期开始接触$\rm{\LaTeX}$，真心觉得它不愧为写作利器，特别对于理工科的学生以及教师工作人员来说，$\rm{\LaTeX}$极大地加快了写作效率。对于刚入门的同志们我在这里强烈建议阅读文档:&lt;a href=&quot;https://switwu.github.io/File/lshort-zh-cn.pdf&quot;&gt;lshort&lt;/a&gt;，想要阅读更多关于$\mathrm{\LaTeX}$的教程，推荐在&lt;a href=&quot;https://z-lib.org/&quot;&gt;zlibrary&lt;/a&gt;上搜索下载，另外&lt;a href=&quot;https://latexstudio.net/&quot;&gt;LaTeXstudio&lt;/a&gt;是一个不错的$\rm{\LaTeX}$学习网站。&lt;/p&gt;
-&lt;h2 id=&quot;建立第一个-mathrm-LaTeX-文档&quot;&gt;&lt;a href=&quot;#建立第一个-mathrm-LaTeX-文档&quot; class=&quot;headerlink&quot; title=&quot;建立第一个$\mathrm{\LaTeX}$文档&quot;&gt;&lt;/a&gt;建立第一个$\mathrm{\LaTeX}$文档&lt;/h2&gt;&lt;p&gt;选择一个编译器如$\rm{\TeX}$works或者$\rm{\TeX}$studio，新建一个名为helloworld.tex的文档，输入以下代码并进行编译，你就可以得到一份名为helloworld的pdf文档。&lt;/p&gt;
+&lt;h2 id=&quot;建立第一个-mathrm-LaTeX-文档&quot;&gt;&lt;a href=&quot;#建立第一个-mathrm-LaTeX-文档&quot; class=&quot;headerlink&quot; title=&quot;建立第一个$\mathrm{\LaTeX}$文档&quot;&gt;&lt;/a&gt;建立第一个$\mathrm{\LaTeX}$文档&lt;/h2&gt;&lt;p&gt;先下载发行版MikTeX或者TexLive，再选择一个编辑器如$\rm{\TeX}$works或者$\rm{\TeX}$studio，新建一个名为helloworld.tex的文档，输入以下代码并进行编译，你就可以得到一份名为helloworld的pdf文档。&lt;/p&gt;
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;\documentclass&amp;#123;article&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\begin&amp;#123;document&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Hello world!&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;\end&amp;#123;document&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
     
     
