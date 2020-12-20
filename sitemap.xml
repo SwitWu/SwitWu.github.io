@@ -2,14 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/music/index.html</loc>
-    
-    <lastmod>2020-12-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/Gallery/index.html</loc>
+    <loc>http://example.com/2020/12/05/Markdown%E8%AF%AD%E6%B3%95/</loc>
     
     <lastmod>2020-12-20</lastmod>
     
@@ -23,7 +16,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/2020/12/05/Markdown%E8%AF%AD%E6%B3%95/</loc>
+    <loc>http://example.com/Gallery/index.html</loc>
+    
+    <lastmod>2020-12-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/music/index.html</loc>
     
     <lastmod>2020-12-20</lastmod>
     
