@@ -1,0 +1,461 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>vscode配置Cplusplus | SiyuWu's Personal Page</title><meta name="keywords" content="VScode,C++"><meta name="author" content="SiyuWu"><meta name="copyright" content="SiyuWu"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><meta name="description" content="预备条件(Prerequisites)  安装Visual Studio Code 安装拓展C&#x2F;C++ 通过SourceForge网站安装MinGW,点击链接下载Windows Mingw-w64安装程序。  运行安装程序 Architecture选择x86_64然后点击Next 在安装文件夹(Installation Folder)页面,可以自己选择文件夹,记住该位置后面将会用到 点击Next">
+<meta property="og:type" content="article">
+<meta property="og:title" content="vscode配置Cplusplus">
+<meta property="og:url" content="http://example.com/2020/12/29/vscode%E9%85%8D%E7%BD%AECplusplus/index.html">
+<meta property="og:site_name" content="SiyuWu&#39;s Personal Page">
+<meta property="og:description" content="预备条件(Prerequisites)  安装Visual Studio Code 安装拓展C&#x2F;C++ 通过SourceForge网站安装MinGW,点击链接下载Windows Mingw-w64安装程序。  运行安装程序 Architecture选择x86_64然后点击Next 在安装文件夹(Installation Folder)页面,可以自己选择文件夹,记住该位置后面将会用到 点击Next">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg">
+<meta property="article:published_time" content="2020-12-29T15:20:53.000Z">
+<meta property="article:modified_time" content="2020-12-29T15:22:41.741Z">
+<meta property="article:author" content="SiyuWu">
+<meta property="article:tag" content="VScode">
+<meta property="article:tag" content="C++">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="http://example.com/2020/12/29/vscode%E9%85%8D%E7%BD%AECplusplus/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="preconnect" href="//zz.bdstatic.com"/><meta name="baidu-site-verification" content="code-HthE2zhCGC"/><meta name="yandex-verification" content="{&quot;theme_color&quot;:{&quot;enable&quot;:true,&quot;main&quot;:&quot;#49B1F5&quot;,&quot;paginator&quot;:&quot;#00c4b6&quot;,&quot;button_hover&quot;:&quot;#FF7242&quot;,&quot;text_selection&quot;:&quot;#00c4b6&quot;,&quot;link_color&quot;:&quot;#99a9bf&quot;,&quot;meta_color&quot;:&quot;#858585&quot;,&quot;hr_color&quot;:&quot;#A4D8FA&quot;,&quot;code_foreground&quot;:&quot;#F47466&quot;,&quot;code_background&quot;:&quot;rgba(27, 31, 35, .05)&quot;,&quot;toc_color&quot;:&quot;#00c4b6&quot;,&quot;blockquote_padding_color&quot;:&quot;#49b1f5&quot;,&quot;blockquote_background_color&quot;:&quot;#49b1f5&quot;}}"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><script>var GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: undefined,
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    jQuery: 'https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js',
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/js/jquery.justifiedGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/justifiedGallery/dist/css/justifiedGallery.min.css'
+    },
+    fancybox: {
+      js: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@latest/dist/jquery.fancybox.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isanchor: false
+};
+
+var saveToLocal = {
+  set: function setWithExpiry(key, value, ttl) {
+    const now = new Date()
+    const expiryDay = ttl * 86400000
+    const item = {
+      value: value,
+      expiry: now.getTime() + expiryDay,
+    }
+    localStorage.setItem(key, JSON.stringify(item))
+  },
+
+  get: function getWithExpiry(key) {
+    const itemStr = localStorage.getItem(key)
+
+    if (!itemStr) {
+      return undefined
+    }
+    const item = JSON.parse(itemStr)
+    const now = new Date()
+
+    if (now.getTime() > item.expiry) {
+      localStorage.removeItem(key)
+      return undefined
+    }
+    return item.value
+  }
+}
+
+// https://stackoverflow.com/questions/16839698/jquery-getscript-alternative-in-native-javascript
+const getScript = url => new Promise((resolve, reject) => {
+  const script = document.createElement('script')
+  script.src = url
+  script.async = true
+  script.onerror = reject
+  script.onload = script.onreadystatechange = function() {
+    const loadState = this.readyState
+    if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+    script.onload = script.onreadystatechange = null
+    resolve()
+  }
+  document.head.appendChild(script)
+})</script><script id="config_change">var GLOBAL_CONFIG_SITE = { 
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2020-12-29 23:22:41'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(function () {  window.activateDarkMode = function () {
+    document.documentElement.setAttribute('data-theme', 'dark')
+    if (document.querySelector('meta[name="theme-color"]') !== null) {
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+    }
+  }
+  window.activateLightMode = function () {
+    document.documentElement.setAttribute('data-theme', 'light')
+   if (document.querySelector('meta[name="theme-color"]') !== null) {
+      document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+    }
+  }
+  const autoChangeMode = 'false'
+  const t = saveToLocal.get('theme')
+  if (autoChangeMode === '1') {
+    const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+    const isLightMode = window.matchMedia('(prefers-color-scheme: light)').matches
+    const isNotSpecified = window.matchMedia('(prefers-color-scheme: no-preference)').matches
+    const hasNoSupport = !isDarkMode && !isLightMode && !isNotSpecified
+    if (t === undefined) {
+      if (isLightMode) activateLightMode()
+      else if (isDarkMode) activateDarkMode()
+      else if (isNotSpecified || hasNoSupport) {
+        const now = new Date()
+        const hour = now.getHours()
+        const isNight = hour <= 6 || hour >= 18
+        isNight ? activateDarkMode() : activateLightMode()
+      }
+      window.matchMedia('(prefers-color-scheme: dark)').addListener(function (e) {
+        if (saveToLocal.get('theme') === undefined) {
+          e.matches ? activateDarkMode() : activateLightMode()
+        }
+      })
+    } else if (t === 'light') activateLightMode()
+    else activateDarkMode()
+  } else if (autoChangeMode === '2') {
+    const now = new Date()
+    const hour = now.getHours()
+    const isNight = hour <= 6 || hour >= 18
+    if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
+    else if (t === 'light') activateLightMode()
+    else activateDarkMode()
+  } else {
+    if (t === 'dark') activateDarkMode()
+    else if (t === 'light') activateLightMode()
+  }const asideStatus = saveToLocal.get('aside-status')
+if (asideStatus !== undefined) {
+   if (asideStatus === 'hide') {
+     document.documentElement.classList.add('hide-aside')
+   } else {
+     document.documentElement.classList.remove('hide-aside')
+   }
+}const fontSizeVal = saveToLocal.get('global-font-size')
+if (fontSizeVal !== undefined) {
+  document.documentElement.style.setProperty('--global-font-size', fontSizeVal + 'px')
+}})()</script><link rel="stylesheet" href="//at.alicdn.com/t/font_2282049_31uxn4v7vpk.css"><meta name="generator" content="Hexo 5.2.0"><link rel="alternate" href="/atom.xml" title="SiyuWu's Personal Page" type="application/atom+xml">
+</head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="author-avatar"><img class="avatar-img" src="/img/Conan.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">5</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">5</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 归档</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 清单</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/music/"><i class="fa-fw fas fa-music"></i><span> 音乐</span></a></li><li><a class="site-page" href="/Gallery/"><i class="fa-fw fas fa-images"></i><span> 照片</span></a></li><li><a class="site-page" href="/movies/"><i class="fa-fw fas fa-video"></i><span> 电影</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url(https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg)"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">SiyuWu's Personal Page</a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 归档</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 清单</span><i class="fas fa-chevron-down expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/music/"><i class="fa-fw fas fa-music"></i><span> 音乐</span></a></li><li><a class="site-page" href="/Gallery/"><i class="fa-fw fas fa-images"></i><span> 照片</span></a></li><li><a class="site-page" href="/movies/"><i class="fa-fw fas fa-video"></i><span> 电影</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">vscode配置Cplusplus</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2020-12-29T15:20:53.000Z" title="发表于 2020-12-29 23:20:53">2020-12-29</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2020-12-29T15:22:41.741Z" title="更新于 2020-12-29 23:22:41">2020-12-29</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/VScode/">VScode</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">字数总计:</span><span class="word-count">1.6k</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>5分钟</span></span><span class="post-meta-separator">|</span><span class="post-meta-pv-cv"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"></span></span><span class="post-meta-separator">|</span><span class="post-meta-commentcount"><i class="far fa-comments fa-fw post-meta-icon"></i><span class="post-meta-label">评论数:</span><a href="/2020/12/29/vscode%E9%85%8D%E7%BD%AECplusplus/#post-comment" itemprop="discussionUrl"><span class="valine-comment-count" data-xid="/2020/12/29/vscode%E9%85%8D%E7%BD%AECplusplus/" itemprop="commentCount"></span></a></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h1 id="预备条件prerequisites"><a class="markdownIt-Anchor" href="#预备条件prerequisites"></a> 预备条件(Prerequisites)</h1>
+<ol>
+<li>安装<a target="_blank" rel="noopener" href="https://code.visualstudio.com/download">Visual Studio Code</a></li>
+<li>安装拓展C/C++</li>
+<li>通过SourceForge网站安装MinGW,点击<a target="_blank" rel="noopener" href="https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download">链接</a>下载Windows Mingw-w64安装程序。
+<ul>
+<li>运行安装程序</li>
+<li>Architecture选择x86_64然后点击Next</li>
+<li>在安装文件夹(Installation Folder)页面,可以自己选择文件夹,记住该位置后面将会用到</li>
+<li>点击Next开始安装</li>
+</ul>
+</li>
+<li>将<code>bin</code>文件夹的路径添加到Windows的<code>PATH</code>环境变量当中</li>
+</ol>
+<h2 id="检查mingw的安装"><a class="markdownIt-Anchor" href="#检查mingw的安装"></a> 检查MinGW的安装</h2>
+<p>为了检测你的Mingw-w64工具被正确地安装并且是有效的,打开命令行输入:</p>
+<pre><code>g++ --version
+gdb --version
+</code></pre>
+<p>如果你没有看到期望输出或者<code>g++</code>或<code>gdb</code>为不被识别的命令的话，你需要检查你的环境变量的添加是否有误。</p>
+<h1 id="创建hello-world"><a class="markdownIt-Anchor" href="#创建hello-world"></a> 创建Hello World</h1>
+<p>通过Windows的命令行创建名为<code>projects</code>的空文件夹，这里可以用来放置你所有的VScode项目.然后创建名为<code>helloworld</code>的子文件夹，进入该文件夹，然后用VScode打开该文件夹：</p>
+<pre><code>mkdir projects
+cd projects
+mkdir hellowprld
+cd helloworld
+code .
+</code></pre>
+<p>其中的<code>code .</code>命令会让VScode打开当前文件夹,而这个文件夹就成为了你的工作空间(workspace)。</p>
+<h2 id="添加源代码文件"><a class="markdownIt-Anchor" href="#添加源代码文件"></a> 添加源代码文件</h2>
+<p>在VScode文件资源管理器的标题栏点击New File按钮新建文件并将文件命名为<code>helloworld.cpp</code>，回车，进行代码编辑，如下为示例代码:</p>
+<pre><code>#include&lt;iostream&gt;
+using namespace std;
+int main()
+&#123;
+    cout&lt;&lt;&quot;Hello World.&lt;&lt;endl;
+    return 0;
+&#125;
+</code></pre>
+<p>可以使用快捷键Ctrl+S保存代码，也可以将文件菜单中的Auto Save勾选完成自动保存。</p>
+<h1 id="build-helloworldcpp"><a class="markdownIt-Anchor" href="#build-helloworldcpp"></a> Build helloworld.cpp</h1>
+<p>接下来，你会创建一个<code>tasks.json</code>文件用来告诉VS Code怎样编译该程序：这个task会援引g++编译器创建一个基于源代码的可执行文件。</p>
+<p>在主菜单中选择<strong>终端&gt;配置默认生成任务</strong>，在下拉菜单中选择<code>g++.exe build active file</code>，同时这会在<code>.vscode</code>文件夹中生成文件<code>tasks.json</code>，在编辑器中将其打开，你的新<code>tasks.json</code>文件看起来与下面的类似:</p>
+<pre><code>&#123;
+&quot;version&quot;: &quot;2.0.0&quot;,
+&quot;tasks&quot;: [
+	&#123;
+		&quot;type&quot;: &quot;cppbuild&quot;,
+		&quot;label&quot;: &quot;C/C++: g++.exe build active file&quot;,
+		&quot;command&quot;: &quot;E:\\MinGW\\mingw64\\bin\\g++.exe&quot;,
+		&quot;args&quot;: [
+			&quot;-g&quot;,
+			&quot;$&#123;file&#125;&quot;,
+			&quot;-o&quot;,
+			&quot;$&#123;fileDirname&#125;\\$&#123;fileBasenameNoExtension&#125;.exe&quot;
+		],
+		&quot;options&quot;: &#123;
+			&quot;cwd&quot;: &quot;E:\\MinGW\\mingw64\\bin&quot;
+		&#125;,
+		&quot;problemMatcher&quot;: [
+			&quot;$gcc&quot;
+		],
+		&quot;group&quot;: &#123;
+			&quot;kind&quot;: &quot;build&quot;,
+			&quot;isDefault&quot;: true
+		&#125;,
+		&quot;detail&quot;: &quot;compiler: E:\\MinGW\\mingw64\\bin\\g++.exe&quot;
+	&#125;
+]
+&#125;
+</code></pre>
+<p>其中的<code>command</code>确定了要运行的程序，在这里是g++。<code>args</code>确定了将被传给g<ins>的命令行参数，这些参数必须按照编译器期望的顺序给定。此task告诉g</ins>获取活动文件(<code>$&#123;file&#125;</code>)，将其编译然后在当前目录(<code>$&#123;fileDirname&#125;</code>)创建与活动文件同名但是拓展名为<code>.exe</code>的可执行文件(<code>$&#123;fileBasenameNoExtension&#125;.exe</code>)，在我们的例子里面就是<code>helloworld.exe</code>。</p>
+<p><code>label</code>的值就是你将在任务列表中看到的东西，可以随意命名。</p>
+<p><code>group</code>中的<code>&quot;isDefault&quot;: true</code>表示可以通过快捷键Ctrl+Shift+B进行运行，这只是为了方便；如果将之设置为false，仍然可以通过点击<strong>终端&gt;运行生成任务</strong>进行运行。</p>
+<h2 id="运行running-the-build"><a class="markdownIt-Anchor" href="#运行running-the-build"></a> 运行(Running the build)</h2>
+<ol>
+<li>
+<p>返回到<code>helloworld.cpp</code></p>
+</li>
+<li>
+<p>为了运行定义在<code>tasks.json</code>中的已建立任务,按Ctrl+Shift+B或者在终端主菜单中选择运行任务</p>
+</li>
+<li>
+<p>task开始后，会看到源代码编辑器下方出现集成终端面板，当task完成后，终端显示从编译器传来的输出，如果编译成功，输出看起来类似下面:</p>
+<blockquote>
+<p>Executing task: C/C++: g++.exe build active file &lt;<br />
+Starting build…<br />
+Build finished successfully.</p>
+</blockquote>
+</li>
+<li>
+<p>另外创建一个新的终端，你会看到该终端以<code>helloworld</code>文件夹为工作目录，运行<code>dir</code>你会看到可执行文件<code>helloworld.exe</code>。</p>
+</li>
+<li>
+<p>在终端中键入<code>helloworld.exe</code>(如果使用的是PowerShell终端请键入<code>.\helloworld.exe</code>)来运行<code>helloworld</code>。</p>
+</li>
+</ol>
+<h2 id="修改tasksjson"><a class="markdownIt-Anchor" href="#修改tasksjson"></a> 修改tasks.json</h2>
+<p>你可以修改你的tasks.json文件,比如你可以将<code>$&#123;file&#125;</code>修改为<code>$&#123;workspaceFolder&#125;\\*.cpp</code>来生成当前文件夹中的所有<code>.cpp</code>文件。</p>
+<h1 id="调试helloworldcpp"><a class="markdownIt-Anchor" href="#调试helloworldcpp"></a> 调试helloworld.cpp</h1>
+<p>接下来，可以创建<code>launch.json</code>文件来配置VS Code使得当你按<code>F5</code>来调试程序时VS Code会启动GDB调试器。</p>
+<ol>
+<li>在主菜单选择<strong>运行&gt;添加配置</strong>，然后选择C++(GDB/LLDB)。</li>
+<li>你会看到下拉菜单，选择g++.exe build and debug active file。<br />
+VS Code会创建<code>launch.json</code>文件，在编辑器中将其打开。</li>
+</ol>
+<p><code>program</code>选项确定了你要调试的程序。</p>
+<p>默认情况下，C++拓展不会为你的源代码添加任何断点并且<code>stopAtEntry</code>的值被设置为<code>false</code></p>
+<p>将<code>stopAtEntry</code>的值设置为<code>true</code>会导致当你开始调试时调试器会在<code>main</code>方法前暂停一次</p>
+<p>注意：<code>preLaunchTask</code>的设置被用来确定开始调试之前要被执行的task，因此要确保其和<code>tasks.json</code>文件中<code>label</code>的设置相一致。</p>
+<h1 id="cc配置"><a class="markdownIt-Anchor" href="#cc配置"></a> C/C++配置</h1>
+<p>如果你想要对C/C<ins>拓展进行更多的控制，你可以创建一个<code>c_cpp_properties.json</code>文件，这个文件允许你改变一些设置比如编译器的路径，包含路径(include paths)，C</ins>标准和其它的一些设置。</p>
+<p>你可以通过在命令面板中键入C/C++:Edit Configurations(UI)来进入C/C++配置用户界面，当你在这个进行一些设置，VS Code会将它们写进<code>.vscode</code>文件夹中一个名为<code>c_cpp_properties.json</code>的文件中。</p>
+<p>将配置名改为GCC(可以不改)，将编译器路径设置为你的电脑上g++.exe所在路径，我的路径是</p>
+<pre><code>E:/MinGW/mingw64/bin/g++.exe
+</code></pre>
+<p>将智能感知模式(IntelliSense mode)设置为gcc-x64以匹配编译器。</p>
+<p>当你直接打开文件<code>c_cpp_properties.json</code>，会看到它类似下面：</p>
+<pre><code>&#123;
+&quot;configurations&quot;: [
+    &#123;
+        &quot;name&quot;: &quot;GCC&quot;,
+        &quot;includePath&quot;: [
+            &quot;$&#123;workspaceFolder&#125;/**&quot;
+        ],
+        &quot;defines&quot;: [
+            &quot;_DEBUG&quot;,
+            &quot;UNICODE&quot;,
+            &quot;_UNICODE&quot;
+        ],
+        &quot;compilerPath&quot;: &quot;E:/MinGW/mingw64/bin/g++.exe&quot;,
+        &quot;cStandard&quot;: &quot;gnu11&quot;,
+        &quot;cppStandard&quot;: &quot;c++17&quot;,
+        &quot;intelliSenseMode&quot;: &quot;gcc-x64&quot;
+    &#125;
+],
+&quot;version&quot;: 4
+&#125;
+</code></pre>
+<p>你仅仅需要做的是，当你的程序需要的头文件不在你的工作空间和标准库路径中时，你将头文件的路径添加到Include path中。</p>
+</article><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/VScode/">VScode</a><a class="post-meta__tags" href="/tags/C/">C++</a></div><div class="post_share"><div class="social-share" data-image="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js" defer></script></div></div><nav class="pagination-post" id="pagination"><div class="next-post pull-full"><a href="/2020/12/19/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E4%B8%81%E5%90%8C%E4%BB%81%E4%B9%A0%E9%A2%98%E8%A7%A3/"><img class="next-cover" src="/img/ODE_DingTongren_Cover.jpg" onerror="onerror=null;src='/img/404.jpg'" alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">常微分方程丁同仁习题解</div></div></a></div></nav><hr/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div class="vcomment" id="vcomment"></div></div></div></div></div><div class="aside_content" id="aside_content"><div class="card-widget card-info"><div class="card-content"><div class="card-info-avatar is-center"><img class="avatar-img" src="/img/Conan.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/><div class="author-info__name">SiyuWu</div><div class="author-info__description"></div></div><div class="card-info-data"><div class="card-info-data-item is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">5</div></a></div><div class="card-info-data-item is-center"><a href="/tags/"><div class="headline">标签</div><div class="length-num">5</div></a></div><div class="card-info-data-item is-center"><a href="/categories/"><div class="headline">分类</div><div class="length-num">4</div></a></div></div><a class="button--animated" id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/SwitWu"><i class="fab fa-github"></i><span>Follow Me</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="mailto:2401336502@qq.com" target="_blank" title="Email"><i class="iconfont icon-envelope"></i></a><a class="social-icon" href="http://music.163.com/m/user/home?id=613613244" target="_blank" title="网易云音乐"><i class="iconfont icon-netease"></i></a><a class="social-icon" href="https://space.bilibili.com/519371596" target="_blank" title="Bilibili"><i class="iconfont icon-bilibili-fill"></i></a></div></div></div><div class="card-widget card-announcement"><div class="card-content"><div class="item-headline"><i class="fas fa-bullhorn card-announcement-animation"></i><span>公告</span></div><div class="announcement_content">This is my Blog! 不定期更新，欢迎关注！</div></div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="card-content"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E9%A2%84%E5%A4%87%E6%9D%A1%E4%BB%B6prerequisites"><span class="toc-number">1.</span> <span class="toc-text"> 预备条件(Prerequisites)</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%A3%80%E6%9F%A5mingw%E7%9A%84%E5%AE%89%E8%A3%85"><span class="toc-number">1.1.</span> <span class="toc-text"> 检查MinGW的安装</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#%E5%88%9B%E5%BB%BAhello-world"><span class="toc-number">2.</span> <span class="toc-text"> 创建Hello World</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B7%BB%E5%8A%A0%E6%BA%90%E4%BB%A3%E7%A0%81%E6%96%87%E4%BB%B6"><span class="toc-number">2.1.</span> <span class="toc-text"> 添加源代码文件</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#build-helloworldcpp"><span class="toc-number">3.</span> <span class="toc-text"> Build helloworld.cpp</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%BF%90%E8%A1%8Crunning-the-build"><span class="toc-number">3.1.</span> <span class="toc-text"> 运行(Running the build)</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BF%AE%E6%94%B9tasksjson"><span class="toc-number">3.2.</span> <span class="toc-text"> 修改tasks.json</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#%E8%B0%83%E8%AF%95helloworldcpp"><span class="toc-number">4.</span> <span class="toc-text"> 调试helloworld.cpp</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#cc%E9%85%8D%E7%BD%AE"><span class="toc-number">5.</span> <span class="toc-text"> C&#x2F;C++配置</span></a></li></ol></div></div></div><div class="card-widget card-recent-post"><div class="card-content"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/2020/12/29/vscode%E9%85%8D%E7%BD%AECplusplus/" title="vscode配置Cplusplus"><img src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="vscode配置Cplusplus"/></a><div class="content"><a class="title" href="/2020/12/29/vscode%E9%85%8D%E7%BD%AECplusplus/" title="vscode配置Cplusplus">vscode配置Cplusplus</a><time datetime="2020-12-29T15:20:53.000Z" title="发表于 2020-12-29 23:20:53">2020-12-29</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2020/12/19/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E4%B8%81%E5%90%8C%E4%BB%81%E4%B9%A0%E9%A2%98%E8%A7%A3/" title="常微分方程丁同仁习题解"><img src="/img/ODE_DingTongren_Cover.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="常微分方程丁同仁习题解"/></a><div class="content"><a class="title" href="/2020/12/19/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E4%B8%81%E5%90%8C%E4%BB%81%E4%B9%A0%E9%A2%98%E8%A7%A3/" title="常微分方程丁同仁习题解">常微分方程丁同仁习题解</a><time datetime="2020-12-19T13:03:02.000Z" title="发表于 2020-12-19 21:03:02">2020-12-19</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2020/12/05/%E4%BC%98%E7%BE%8E%E8%AF%AD%E5%8F%A5%E9%9B%86%E9%94%A6/" title="优美语句集锦"><img src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="优美语句集锦"/></a><div class="content"><a class="title" href="/2020/12/05/%E4%BC%98%E7%BE%8E%E8%AF%AD%E5%8F%A5%E9%9B%86%E9%94%A6/" title="优美语句集锦">优美语句集锦</a><time datetime="2020-12-05T06:58:46.000Z" title="发表于 2020-12-05 14:58:46">2020-12-05</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2020/12/05/Markdown%E8%AF%AD%E6%B3%95/" title="Markdown语法"><img src="/img/markdown.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Markdown语法"/></a><div class="content"><a class="title" href="/2020/12/05/Markdown%E8%AF%AD%E6%B3%95/" title="Markdown语法">Markdown语法</a><time datetime="2020-12-05T02:09:10.000Z" title="发表于 2020-12-05 10:09:10">2020-12-05</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2020/12/05/LaTeX%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" title="LaTeX学习笔记"><img src="/img/latex.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="LaTeX学习笔记"/></a><div class="content"><a class="title" href="/2020/12/05/LaTeX%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" title="LaTeX学习笔记">LaTeX学习笔记</a><time datetime="2020-12-04T16:30:34.000Z" title="发表于 2020-12-05 00:30:34">2020-12-05</time></div></div></div></div></div></div></div></main><footer id="footer" style="background: rgb(0,255,255)"><div id="footer-wrap"><div class="copyright">&copy;2020 By SiyuWu</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div><div class="footer_custom_text">Hello! Welcome to my personal blog.</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="font-plus" type="button" title="放大字体"><i class="fas fa-plus"></i></button><button id="font-minus" type="button" title="缩小字体"><i class="fas fa-minus"></i></button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><div class="search-dialog__title" id="local-search-title">本地搜索</div><div id="local-input-panel"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div></div><hr/><div id="local-search-results"></div><span class="search-close-button"><i class="fas fa-times"></i></span></div><div id="search-mask"></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/instant.page/instantpage.min.js" type="module"></script><script>function panguFn () {
+  if (typeof pangu === 'object') pangu.spacingElementById('content-inner')
+  else {
+    getScript('https://cdn.jsdelivr.net/npm/pangu/dist/browser/pangu.min.js')
+      .then(() => {
+        pangu.spacingElementById('content-inner')
+      })
+  }
+}
+
+function panguInit () {
+  if (false){
+    GLOBAL_CONFIG_SITE.isPost && panguFn()
+  } else {
+    panguFn()
+  }
+}
+
+document.addEventListener('DOMContentLoaded', panguInit)</script><script src="/js/search/local-search.js"></script><div class="js-pjax"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"><script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css"><script>(() => {
+  document.querySelectorAll('#article-container span.katex-display').forEach(item => {
+    btf.wrap(item, 'div', '', 'katex-wrap')
+  })
+})()</script><script>function loadValine () {
+  function initValine () {
+    let initData = {
+      el: '#vcomment',
+      appId: '',
+      appKey: '',
+      placeholder: 'Please leave your footprints',
+      avatar: 'monsterid',
+      meta: 'nick,mail,link'.split(','),
+      pageSize: '10',
+      lang: 'en',
+      recordIP: false,
+      serverURLs: '',
+      emojiCDN: '',
+      emojiMaps: "",
+      enableQQ: false,
+      path: window.location.pathname,
+    }
+
+    if (true) { 
+      initData.requiredFields= ('nick,mail'.split(','))
+    }
+    
+    if (false) {
+      const otherData = false
+      initData = Object.assign({}, initData, otherData)
+    }
+    
+    const valine = new Valine(initData)
+  }
+
+  if (typeof Valine === 'function') initValine() 
+  else getScript('https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js').then(initValine)
+}
+
+if ('Valine' === 'Valine' || !false) {
+  if (false) btf.loadComment(document.querySelector('#vcomment'),loadValine)
+  else setTimeout(loadValine, 0)
+} else {
+  function loadOtherComment () {
+    loadValine()
+  }
+}</script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><script id="canvas_nest" defer="defer" color="0,0,255" opacity="0.7" zIndex="-1" count="99" mobile="true" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/canvas-nest.min.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/gh/metowolf/MetingJS@1.2/dist/Meting.min.js"></script><script src="https://cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script><script>let pjaxSelectors = [
+  'title',
+  '#config_change',
+  '#body-wrap',
+  '#rightside-config-hide',
+  '#rightside-config-show',
+  '.js-pjax'
+]
+
+if (false) {
+  pjaxSelectors.unshift('meta[property="og:image"]', 'meta[property="og:title"]', 'meta[property="og:url"]')
+}
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: false,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof chatBtnFn === 'function' && chatBtnFn()
+  typeof panguInit === 'function' && panguInit()
+
+  if (typeof gtag === 'function') {
+    gtag('config', '', {'page_path': window.location.pathname});
+  }
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // Analytics
+  if (false) {
+    MtaH5.pgv()
+  }
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+
+  typeof preloader === 'object' && preloader.endLoading()
+})
+
+
+document.addEventListener('pjax:send', function () {
+  typeof preloader === 'object' && preloader.initLoading()
+  
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+})</script><script>(function(){
+  const bp = document.createElement('script');
+  const curProtocol = window.location.protocol.split(':')[0];
+  if (curProtocol === 'https') {
+    bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+  }
+  else{
+    bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+  }
+  bp.dataset.pjax = ''
+  const s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(bp, s);
+})()</script></div></body></html>
