@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2020/12/05/Markdown%E8%AF%AD%E6%B3%95/</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/12/29/vscode%E9%85%8D%E7%BD%AECplusplus/</loc>
     
     <lastmod>2020-12-29</lastmod>
@@ -31,13 +38,6 @@
   
   <url>
     <loc>http://example.com/scenery/index.html</loc>
-    
-    <lastmod>2020-12-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/12/05/Markdown%E8%AF%AD%E6%B3%95/</loc>
     
     <lastmod>2020-12-20</lastmod>
     
@@ -102,14 +102,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/LaTeX/</loc>
+    <loc>http://example.com/tags/markdown/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/markdown/</loc>
+    <loc>http://example.com/tags/LaTeX/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -139,14 +139,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/LaTeX/</loc>
+    <loc>http://example.com/categories/markdown/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/markdown/</loc>
+    <loc>http://example.com/categories/LaTeX/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
