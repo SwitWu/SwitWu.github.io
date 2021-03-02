@@ -2,6 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/baidu_verify_code-5wRmpLY6g1.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/music/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/Gallery/timepaper/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/Gallery/index.html</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/19/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E4%B8%81%E5%90%8C%E4%BB%81%E4%B9%A0%E9%A2%98%E8%A7%A3/</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/05/LaTeX%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2021-03-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/12/05/Markdown%E8%AF%AD%E6%B3%95/</loc>
     
     <lastmod>2021-03-02</lastmod>
@@ -16,27 +79,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2020/12/05/LaTeX%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    
-    <lastmod>2020-12-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/Gallery/index.html</loc>
-    
-    <lastmod>2020-12-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/timepaper/index.html</loc>
-    
-    <lastmod>2020-12-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/scenery/index.html</loc>
     
     <lastmod>2020-12-20</lastmod>
@@ -44,35 +86,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/music/index.html</loc>
-    
-    <lastmod>2020-12-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2020/12/19/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E4%B8%81%E5%90%8C%E4%BB%81%E4%B9%A0%E9%A2%98%E8%A7%A3/</loc>
-    
-    <lastmod>2020-12-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/link/index.html</loc>
-    
-    <lastmod>2020-12-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/index.html</loc>
-    
-    <lastmod>2020-12-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2020-12-20</lastmod>
     
@@ -102,14 +116,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/markdown/</loc>
+    <loc>http://example.com/tags/LaTeX/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/LaTeX/</loc>
+    <loc>http://example.com/tags/markdown/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -139,14 +153,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/markdown/</loc>
+    <loc>http://example.com/categories/LaTeX/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/LaTeX/</loc>
+    <loc>http://example.com/categories/markdown/</loc>
     <lastmod>2021-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
