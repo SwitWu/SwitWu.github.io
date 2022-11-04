@@ -7,7 +7,7 @@ description: 任何一门编程语言都具有其代码规范，$\LaTeX$ 也不�
 
 任何一门编程语言都具有其代码规范，$\LaTeX$ 也不例外。具备良好的代码写作习惯可以使得源码的可读性增强，也使得后期的源码修改与维护变得更加简单。在这篇博客中我将记录一些在 $\LaTeX$ 写作时必须遵循或建议遵循的规范，此规范适用于 $\LaTeXe$ 文档代码写作。本篇博客的主要参考资料为 zepinglee 的 $\LaTeXe$ 编码风格指南[^1]。
 
-[^1]: [https://gitee.com/zepinglee/latex2e-style-guide](https://gitee.com/zepinglee/latex2e-style-guide)
+[^1]: zepinglee. [$\LaTeXe$ 编码风格指南](https://gitee.com/zepinglee/latex2e-style-guide)
 
 ## 缩进
 
@@ -176,7 +176,7 @@ description: 任何一门编程语言都具有其代码规范，$\LaTeX$ 也不�
 
 $\LaTeX$ 最初的设计目标是分离内容与格式，以便作者能够专注于内容创作而非版式设计，并能以此得到高质量排版的作品。关于内容与格式分离这一思想可以参考 Liam Huang 的文章《到底什么是「内容与样式分离」》[^2]。
 
-[^2]: <https://liam.page/2019/03/18/separation-of-content-and-presentation/>
+[^2]: Liam Huang. [到底什么是「内容与样式分离」](https://liam.page/2019/03/18/separation-of-content-and-presentation/)
 
 我们在文档写作时，应当严格遵循内容与格式分离的原则。对文档中重复出现的结构块应当封装成环境。即使就目前而言，你可能无法将这个环境完完全全封装成你预期中的模样，但是至少可以搭建一个框架出来，就像下面展示的
 ```latex
@@ -189,7 +189,7 @@ $\LaTeX$ 最初的设计目标是分离内容与格式，以便作者能够专�
 
 下面我们将使用 `xparse` 宏包[^3]封装出一个 `exercise` 环境，该环境具有下列功能：
 
-[^3]: `texdoc xparse`
+[^3]: [The `xparse` package: Document command parser](https://www.ctan.org/pkg/xparse)
 
 + 无可选参数时，计数器 `exercise` 自增，也即习题编号随新的 `exercise` 环境自增；
 + 有方括号类型的可选参数（如 `[8]`）时，习题编号设置为 $8$，后续的习题编号从 $9$ 开始自增；
