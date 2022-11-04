@@ -2,6 +2,7 @@
 layout: post
 title: 安装 mtpro2 字体
 categories: LaTeX
+description: mathtime professional II 是一款很优美的数学字体，这篇文章记录了该字体的安装方式。
 ---
 
 > 本教程仅在 mac 系统下经过测试，windows 用户请自行测试。
