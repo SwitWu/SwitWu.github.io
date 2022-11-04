@@ -52,7 +52,7 @@ description: 任何一门编程语言都具有其代码规范，$\LaTeX$ 也不�
       + b_1 + b_2 + \cdots + b_n.
 \end{equation}
 ```
-在 `align` 等数学对齐环境中，建议将 `&` 置于同一列中来提高可读性，例如
+另外，在 `align`、`align*` 等数学对齐环境中，建议将 `&` 置于同一列中来提高可读性，例如
 ```tex
 \begin{align}
   S & = 1 + 2 + \cdots + n \\
@@ -61,7 +61,9 @@ description: 任何一门编程语言都具有其代码规范，$\LaTeX$ 也不�
 ```
 
 ## 空行
-使用空行而不是 `\par` 来进行分段，`\par` 一般用于宏定义之中。章节命令（`\chapter`、`\section` 等）前后建议使用空行来凸显章节标题以及分隔不同章节内容。例如，前面空两行，后面空一行
+
+在 $\LaTeX$ 写作中，请使用空行而不是 `\par` 来进行分段，`\par` 一般用于宏定义之中。章节命令（`\chapter`、`\section` 等）前后建议使用空行来凸显章节标题以及分隔不同章节内容。例如，前面空两行，后面空一行:
+
 ```tex
 % 推荐
 上节内容
@@ -71,6 +73,7 @@ description: 任何一门编程语言都具有其代码规范，$\LaTeX$ 也不�
 
 本节内容
 ```
+
 ```tex
 % 不推荐
 上节内容
@@ -81,11 +84,13 @@ description: 任何一门编程语言都具有其代码规范，$\LaTeX$ 也不�
 ## 宏包调用
 
 一个 `\usepackage{}` 只调用一个宏包，方便定位报错位置。
+
 ```tex
 % 推荐
 \usepackage{amsmath}
 \usepackage{amssymb}
 ```
+
 ```tex
 % 不推荐
 \usepackage{amsmath,amssymb}
@@ -93,7 +98,10 @@ description: 任何一门编程语言都具有其代码规范，$\LaTeX$ 也不�
 
 有些宏包之间的调用顺序会影响配置的效果。 通常将所有宏包集中在一起调用，再进行相应的配置。 这是因为宏包在调用时会处理与其他宏包的兼容性，可能导致先前的配置失效。
 
-需要注意 `hyperref` 宏包应该在其它大多数宏包的调用和配置之后再进行调用，少数宏包会在其手册中声明需要在 `hyperref` 后面进行调用（如 `fixdif`）。
+需要注意 `hyperref` 宏包应该在其它大多数宏包的调用和配置之后再进行调用，少数宏包会在其手册中声明需要在 `hyperref` 后面进行调用（如 `fixdif`）[^fixdif]。
+
+[^fixdif]: [The fixdif package](https://www.ctan.org/pkg/fixdif)
+
 ```tex
 % 推荐
 \usepackage{geometry}
@@ -116,7 +124,11 @@ description: 任何一门编程语言都具有其代码规范，$\LaTeX$ 也不�
 
 > 在本小节中，我们假定编译命令为 $\XeLaTeX$。
 
-中文与西文（这里的西文包括阿拉伯数字和数学符号）之间应手动添加空格，这样可以提高代码的可读性。另外，xeCJK 在少数情况下无法自动处理中西文之间的空格，例如，`图\ref{fig:1}中` 和 `color\color{blue}蓝`，手动添加空格即可解决此问题。
+尽管 xeCJK 宏包会自动调整中西文间空白[^xeCJK]，但还是建议在中文与西文（这里的西文包括阿拉伯数字和数学符号）之间手动添加空格，这样可以提高代码的可读性。
+
+[^xeCJK]: [xeCJK 宏包](https://www.ctan.org/pkg/xecjk)
+
+另外，xeCJK 在少数情况下无法自动处理中西文之间的空格，例如，`图\ref{fig:1}中` 和 `color\color{blue}蓝`，手动添加空格即可解决此问题。
 
 ### 数学环境中的空格
 
