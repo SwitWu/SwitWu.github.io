@@ -2,6 +2,7 @@
 layout: post
 title: TeX 和 LaTeX 中的 Equation Tag
 category: LaTeX
+last_modified_at: 2022-11-10
 description: 在使用 $\LaTeX$ 写作数学文稿时，为方程式添加标签是很常见的需求，在本篇博客中，我们将围绕方程标签这个主题，讲讲关于它的故事。
 ---
 
