@@ -20,7 +20,7 @@ $$<formula>\eqno<formula>$$
 $$\lim_{n\to\infty}\biggl(1+{1\over n}\biggr)^n = {\rm e}.\eqno(8)$$
 ```
 的效果为
-![](/images/equation-tag-in-tex-and-latex/eqno.png)
+![](/images/equation-tag-in-tex-and-latex/eqno.png){:.invert}
 如果想要将标签置于方程式的左侧，则需要用另外一个宏 `\leqno`。
 
 > 需要注意的是第二个 `formula` 也是在数学模式中的，这与后面要说的 `\tag{}` 有所不同。
@@ -33,7 +33,7 @@ $$\lim_{n\to\infty}\biggl(1+{1\over n}\biggr)^n = {\rm e}.\eqno(**)$$
 $$\lim_{n\to\infty}\biggl(1+{1\over n}\biggr)^n = {\rm e}.\eqno(***)$$
 ```
 用 plain $\TeX$ 运行一下，你会看到结果是这样的：
-![](/images/equation-tag-in-tex-and-latex/eqno-star.png)
+![](/images/equation-tag-in-tex-and-latex/eqno-star.png){:.invert}
 
 可以看到，前面两个标签合乎心意，可第三个标签却有点奇怪：「为什么星号之间的间距这么大呢？」
 
@@ -55,7 +55,7 @@ $$\lim_{n\to\infty}\biggl(1+{1\over n}\biggr)^n = {\rm e}.\eqno(***)$$
 
 需要注意的是 `\tag` 和 `\tag*` 的参数处于文本模式，如果要在参数当中使用数学符号，需要用 `$` 将其包裹，例如 `\tag{$\star$}`。
 
-
+在默认情况下，标签都是由圆括号包裹，想要改用其它形式的话，可以使用 mathtools 宏包提供的一套命令，但是鉴于这一需求并不常见，在这里并不作展开介绍。
 
 
 
