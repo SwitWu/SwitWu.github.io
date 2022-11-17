@@ -10,13 +10,13 @@ last_modified_at: 2022-11-05
 
 ## 介绍
 
-MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/wiki/Michael_Spivak) 设计的很优美的数学字体，它被很多数学专著所使用。
+MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/wiki/Michael_Spivak) 设计的很优美的数学字体，它被很多数学专著和期刊所使用。
 
 该字体提供两个版本，Complete 版和 Lite 版。顾名思义，Complete 版为完整版，提供了所有设计功能，而 Lite 版为非完整版，只提供了部分设计功能。特别地，下面列出的特性只能在完整版中使用：
 
-+ Bold math fonts, except for the bold upright math alphabets `\mathbf` and `\mbf`, and for the bold versions of the CM Calligraphic and the Euler fonts;
-+ Times-compatible script, curly, fraktur and 'blackboard bold' fonts;
-+ AMS symbols.
++ Bold math fonts, except for the bold upright math alphabets `\mathbf` and `\mbf`, and for the bold versions of the CM Calligraphic and the Euler fonts
++ Times-compatible script, curly, fraktur and 'blackboard bold' fonts
++ AMS symbols
 
 ## 安装步骤
 
