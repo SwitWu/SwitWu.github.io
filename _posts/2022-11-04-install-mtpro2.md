@@ -3,7 +3,7 @@ layout: post
 title: 安装 mtpro2 字体
 categories: LaTeX
 description: MathTime Professional II 是一款很优美的数学字体，这篇文章记录了该字体的安装方式。
-last_modified_at: 2022-11-05
+last_modified_at: 2022-11-27
 ---
 
 > 本教程仅在 mac 系统下经过测试，windows 用户请自行测试。
@@ -37,6 +37,16 @@ MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/
 6. 终端运行 `sudo updmap-sys --disable Map=belleek.map`。
 7. 终端运行 `texdoc mtpro2` 和 `texdoc guide2` 阅读字体使用手册。
 
+## 一些问题
+
++ 如何将数学模式中的中括号字体改用相应的文本模式字体？
+
+  ```latex
+  \DeclareMathDelimiter{[}{\mathopen} {operators}{`[}{largesymbols}{"02}
+  \DeclareMathDelimiter{]}{\mathclose}{operators}{`]}{largesymbols}{"03}
+  ```
+
 ## 参考
 
 + [MathTime Professional 2 Fonts](https://www.pctex.com/mtpro2.html)
++ [Change the font of brackets in the math mode for mtpro2](https://tex.stackexchange.com/questions/666618/change-the-font-of-brackets-in-the-math-mode-for-mtpro2)
