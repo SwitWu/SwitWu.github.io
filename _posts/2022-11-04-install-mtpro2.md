@@ -37,6 +37,29 @@ MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/
 6. 终端运行 `sudo updmap-sys --disable Map=belleek.map`。
 7. 终端运行 `texdoc mtpro2` 和 `texdoc guide2` 阅读字体使用手册。
 
+## 宏包使用
+
+### 文本字体搭配
+
+`mtpro2` 和 Times 风格字体搭配最为融洽，目前使用 Times 风格字体的常用方法有：
+
++ 使用 `newtxtext` 宏包调用波兰 $\TeX$ 用户组开发的复刻字体 $\TeX$ Gyre Termes [^newtxtext]
++ 重定义 `\renewcommand{\rmdefault}{ptm}` 以使用 Adobe Times
++ 购买 Times New Roman 或者 Times 的商业使用权，再由 `fontspec` 宏包调用字体
+
+[^newtxtext]: 在 mac 下 `newtxtext` 是调用这个字体，其它系统下我没有测试。
+
+### Blackboard Bold Math Alphabet
+
+`mtpro2` 提供了多个版本的 Blackboard Bold 数学字母表，具体见下表：
+
+<figure>
+  <img src="../images/install-mtpro2/blackboard-bold.png" alt="blackboard-bold" class="invert" style="max-width: 100%;">
+  <figcaption markdown="span">Blackboard Bold 数学字母表</figcaption>
+</figure>
+
+需要注意的是 `amsbb` 选项只提供大写字母字母表，不支持小写字母和阿拉伯数字。
+
 ## 一些问题
 
 + 如何将数学模式中的中括号字体改用相应的文本模式字体？
@@ -45,6 +68,10 @@ MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/
   \DeclareMathDelimiter{[}{\mathopen} {operators}{`[}{largesymbols}{"02}
   \DeclareMathDelimiter{]}{\mathclose}{operators}{`]}{largesymbols}{"03}
   ```
+
+## 注释
+
+<div id="footnotes"></div>
 
 ## 参考
 
