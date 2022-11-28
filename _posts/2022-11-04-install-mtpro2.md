@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 安装 mtpro2 字体
+title: 安装及使用 mtpro2 字体宏包
 categories: LaTeX
 description: MathTime Professional II 是一款很优美的数学字体，这篇文章记录了该字体的安装方式。
 last_modified_at: 2022-11-27
@@ -63,6 +63,14 @@ MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/
 ## 一些问题
 
 + 如何将数学模式中的中括号字体改用相应的文本模式字体？
+
+  `mtpro2.dtx` 中源码为：
+  ```latex
+  \DeclareMathDelimiter{[}{\mathopen} {letters}{140}{largesymbols}{"02}
+  \DeclareMathDelimiter{]}{\mathclose}{letters}{141}{largesymbols}{"03}
+  ```
+
+  这里的 `letters` 数学符号字体来自 `\mathnormal`，我们需要将其改为 `operators`（来自 `\mathrm`），如下所示：
 
   ```latex
   \DeclareMathDelimiter{[}{\mathopen} {operators}{`[}{largesymbols}{"02}
