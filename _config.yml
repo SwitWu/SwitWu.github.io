@@ -61,7 +61,7 @@ exclude:
 markdown: kramdown
 sass:
     style: compressed
-paginate: 8
+paginate: 6
 paginate_path: /page/:num
 
 gitalk:
