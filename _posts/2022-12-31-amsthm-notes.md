@@ -272,7 +272,9 @@ This is a note.
 
 ![variant-without-hyperref](/images/amsthm-note/variant1.png)
 
-##
+## 最后的最后
+
+今天是 2022 年的最后一天，祝大家新年快乐。
 
 ## 参考
 
