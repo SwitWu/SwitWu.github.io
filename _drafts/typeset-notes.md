@@ -16,8 +16,8 @@ description:
 
 ### 二则一，该选哪一个？
 
-+ 在集合表示中，中间的竖线应该用 `\mid` 而不是 `|`，例如
-  ```
++ 在集合表示中，中间的竖线应该用 `\mid` 而不是直接使用 `|`，例如
+  ```latex
   \{x\in\mathbb{R} \mid 0\le x\le 1\}
   ```
 + 表示两个集合的差，应该用 `\setminus` 而不是 `\backslash`，因为 `\setminus` 的类型为 `\mathord`，而 `\setminus` 的类型为 `\mathbin`
