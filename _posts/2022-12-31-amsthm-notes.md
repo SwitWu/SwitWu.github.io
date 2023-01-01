@@ -2,8 +2,9 @@
 layout: post
 title: LaTeX 宏包介绍（一）—— amsthm
 category: LaTeX
-description: 
+description: amsthm 是美国数学会开发的用于定理类环境的宏包，这篇文章算是官方手册的一份阅读笔记。
 math: true
+last_modified_at: 2023-01-01
 ---
 
 
@@ -32,7 +33,10 @@ amsthm 是美国数学会开发的用于定理类环境的宏包，它为用户�
 \end{theorem}
 ```
 
-![theorem](/images/amsthm-note/theorem.png)
+<figure>
+  <img src="../images/amsthm-note/theorem.png" alt="theorem" class="invert" style="max-width: 100%;">
+  <figcaption markdown="span"></figcaption>
+</figure>
 
 从编译后的结果图中可以看出，定理头由指定的文本 `Theorem`、自动生成的定理编号以及标点符号 `.` 组成，并且定理头部分被自动加粗。而 `theorem` 环境中的内容 `This is a theorem.` 以意大利斜体形式接在定理头后面。
 
@@ -51,13 +55,19 @@ amsthm 是美国数学会开发的用于定理类环境的宏包，它为用户�
 \end{theorem}
 ```
 
-![Fredholm](/images/amsthm-note/Fredholm1.png)
+<figure>
+  <img src="../images/amsthm-note/Fredholm1.png" alt="Fredholm" class="invert" style="max-width: 100%;">
+  <figcaption markdown="span">给定理类环境添加可选参数</figcaption>
+</figure>
 
 可以看到，可选参数被圆括号包裹后放置于定理编号和标点符号 `.` 之间。
 
 有时候，我们想要类似于下面的效果（用来「强调某个定理的独特性和重要性」）：
 
-![MP](/images/amsthm-note/MP.png)
+<figure>
+  <img src="../images/amsthm-note/MP.png" alt="MP" class="invert" style="max-width: 100%;">
+  <figcaption markdown="span"></figcaption>
+</figure>
 
 这时，我们可以巧妙地运用 `\newtheorem*` 来实现这一效果：
 
@@ -77,19 +87,26 @@ amsthm 是美国数学会开发的用于定理类环境的宏包，它为用户�
 ### 依附于上级计数器
 
 语法为：
-<pre><code>\newtheorem{<<i>env name</i>>}{<<i>text</i>>}[<<i>parent counter</i>>]
-</code></pre>
+
+```latex
+\newtheorem{<环境名>}{<定理头文本>}[<上级计数器>]
+```
 
 例如：
+
 ```latex
 \newtheorem{theorem}{Theorem}[section]
 ```
+
 将使得 `theorem` 为 `section` 的下级计数器，且 `theorem` 环境的计数格式形如 **Theorem 1.1**、**Theorem 1.2**， 当 `section` 自增时，`theorem` 重置为零。
 
 ### 共享计数器
 
 语法为：
-<pre><code>\newtheorem{<<i>env name</i>>}[<<i>shared counter</i>>]{<<i>text</i>>}</code></pre>
+
+```latex
+\newtheorem{<环境名>}[<共享计数器>]{<定理头文本>}
+```
 
 例如，我们经常将定理、引理和推论放在一起连续编号：
 
@@ -145,7 +162,10 @@ amsthm 是美国数学会开发的用于定理类环境的宏包，它为用户�
 \end{document}
 ```
 
-![swapnumbers](/images/amsthm-note/swapnumbers.png)
+<figure>
+  <img src="/images/amsthm-note/swapnumbers.png" alt="swapnumbers" class="invert" style="max-width: 100%;">
+  <figcaption markdown="span"></figcaption>
+</figure>
 
 > 为了格式上的一致性，还是建议将 `\swapnumbers` 放在最前面，使其作用于所有定理类环境。
 
@@ -220,7 +240,11 @@ This is a note.
 \end{note}
 ```
 
-![bfnote](/images/amsthm-note/bfnote.png)
+<figure>
+  <img src="../images/amsthm-note/bfnote.png" alt="bfnote" class="invert" style="max-width: 100%;">
+  <figcaption markdown="span">利用第九个参数将可选参数加粗</figcaption>
+</figure>
+
 
 ### 需要编号形如 $n^\prime$ 的定理头
 
@@ -270,7 +294,24 @@ This is a note.
 \end{document}
 ```
 
-![variant-without-hyperref](/images/amsthm-note/variant1.png)
+<figure>
+  <img src="../images/amsthm-note/variant1.png" alt="variant1" class="invert" style="max-width: 100%;">
+  <figcaption markdown="span"></figcaption>
+</figure>
+
+如果涉及到 `hyperref` 宏包，可以参考 [egreg](https://tex.stackexchange.com/users/4427/egreg) 提供的方法：
+
+```latex
+\makeatletter
+\newcommand{\neutralize}[1]{\expandafter\let\csname c@#1\endcsname\count@}
+\makeatother
+
+\NewDocumentEnvironment{variant}{O{theorem} m}
+  {\neutralize{#1}\phantomsection%
+   \expandafter\renewcommand\csname the#1\endcsname{\ref*{#2}$'$}%
+   \begin{#1}}
+  {\end{#1}}
+```
 
 ## 最后的最后
 
@@ -279,3 +320,4 @@ This is a note.
 ## 参考
 
 + [Using the `amsthm` Package](https://www.ctan.org/pkg/amsthm)
++ [How do I make a Theorem $n$ followed by a Theorem $n^\prime$?](https://tex.stackexchange.com/questions/21506/how-do-i-make-a-theorem-n-followed-by-a-theorem-n)
