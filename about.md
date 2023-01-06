@@ -14,12 +14,14 @@ I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuh
 
 ## 文档与项目
 
-+ 泛函分析讲义答案（许全华）[[PDF]](/PDFs/XQHsolution.pdf) [[仓库](https://github.com/SwitWu/FunctionalAnalysisXQHsolution)]
-+ 抽象代数答案（张勤海）[[PDF]](/PDFs/ZQHsolution.pdf)
-+ 常微分教程答案（丁同仁、李承治）[[PDF]](/PDFs/ODEsolution.pdf) [[仓库](https://github.com/SwitWu/ODE-DingTongren-Solutions)]
++ 泛函分析讲义答案（许全华）[[PDF](/PDFs/XQHsolution.pdf)] [[仓库](https://github.com/SwitWu/FunctionalAnalysisXQHsolution)]
++ 抽象代数答案（张勤海）[[PDF](/PDFs/ZQHsolution.pdf)]
++ 常微分教程答案（丁同仁、李承治）[[PDF](/PDFs/ODEsolution.pdf)] [[仓库](https://github.com/SwitWu/ODE-DingTongren-Solutions)]
 + [数学物理方程（谷超豪）答案](https://github.com/SwitWu/mp-equation)
 + [$\LaTeX$ 常用宏包中文翻译版](https://github.com/SwitWu/LaTeX-packages-zh-cn)
 + [$\LaTeX$ 手册打印版](https://github.com/SwitWu/LaTeX-doc-print-version)
++ 论文重排
+  + [Gidas-Ni-Nirenberg-1979](https://github.com/SwitWu/Gidas-Ni-Nirenberg-1979)
 
 
 
