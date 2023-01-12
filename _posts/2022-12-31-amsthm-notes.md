@@ -313,6 +313,44 @@ This is a note.
   {\end{#1}}
 ```
 
+## `proof` 环境
+
+源码中 `proof` 环境的定义如下：
+
+```latex
+\newenvironment{proof}[1][\proofname]{\par
+  \pushQED{\qed}%
+  \normalfont \topsep6\p@\@plus6\p@\relax
+  \trivlist
+  \item[\hskip\labelsep
+        \itshape
+    #1\@addpunct{.}]\ignorespaces
+}{%
+  \popQED\endtrivlist\@endpefalse
+}
+\providecommand{\proofname}{Proof}
+```
+
++ 证明环境的头文本默认为 `Proof`，可以通过可选参数更改，如
+  ```latex
+  \begin{proof}[Proof of Theorem 2.5, concluded]
+    some text
+  \end{proof}
+  ```
++ 证明环境的头文本字体默认为 `\itshape`，可根据需要使用其他字体，如 `\bfseries`
++ `proof` 环境可以嵌套使用
++ `\ignorespaces` 为 $\TeX$ 原语，作用为无视其后面的所有空格（无论是显式空格或者 `\space`），直到遇到第一个非 space token
+
++ `\p@` 的定义为：
+  ```latex
+  \newdimen\p@ \p@=1pt
+  ```
+  `\@plus` 的定义为：
+  ```latex
+  \def\@plus{plus}
+  ```
+
+
 ## 最后的最后
 
 今天是 2022 年的最后一天，祝大家新年快乐。
@@ -321,3 +359,6 @@ This is a note.
 
 + [Using the `amsthm` Package](https://www.ctan.org/pkg/amsthm)
 + [How do I make a Theorem $n$ followed by a Theorem $n^\prime$?](https://tex.stackexchange.com/questions/21506/how-do-i-make-a-theorem-n-followed-by-a-theorem-n)
++ [$\TeX$ FAQ: $\LaTeX$ internal “abbreviations”, etc.
+](https://texfaq.org/FAQ-ltxabbrv)
++ [`\ignorespaces` vs `\relax`](https://tex.stackexchange.com/questions/671478/ignorespaces-vs-relax)
