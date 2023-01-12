@@ -325,12 +325,13 @@ This is a note.
   \item[\hskip\labelsep
         \itshape
     #1\@addpunct{.}]\ignorespaces
-}{%
+}{
   \popQED\endtrivlist\@endpefalse
 }
 \providecommand{\proofname}{Proof}
 ```
 
+关于 `proof` 环境有如下几点说明：
 + 证明环境的头文本默认为 `Proof`，可以通过可选参数更改，如
   ```latex
   \begin{proof}[Proof of Theorem 2.5, concluded]
