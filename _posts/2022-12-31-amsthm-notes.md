@@ -313,7 +313,7 @@ This is a note.
   {\end{#1}}
 ```
 
-## `proof` 环境
+## 证明环境
 
 源码中 `proof` 环境的定义如下：
 
@@ -340,15 +340,16 @@ This is a note.
   ```
 + 证明环境的头文本字体默认为 `\itshape`，可根据需要使用其他字体，如 `\bfseries`
 + `proof` 环境可以嵌套使用
-+ `\ignorespaces` 为 $\TeX$ 原语，作用为无视其后面的所有空格（无论是显式空格或者 `\space`），直到遇到第一个非 space token
++ `\ignorespaces` 为 $\TeX$ 原语，顾名思义，其作用为忽略其后的所有空格（无论是显式空格或者 `\space`），直到遇到第一个非 space token
 
-+ `\p@` 的定义为：
++ `\p@`、`\@plus` 的定义为：
   ```latex
   \newdimen\p@ \p@=1pt
-  ```
-  `\@plus` 的定义为：
-  ```latex
   \def\@plus{plus}
+  ```
+  所以 `\topsep6\p@\@plus6\p@` 实际上就是
+  ```latex
+  \topsep 6pt plus 6pt
   ```
 
 
