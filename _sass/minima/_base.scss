@@ -218,7 +218,8 @@ strong, th, .post-sidebar .active {
 }
 
 .site-title {
-  font-family: Lato;
+  font-family: $base-font-family;
+  font-weight: 200;
   font-size: $h1-font-size;
   margin-bottom: 0;
   float: left;
