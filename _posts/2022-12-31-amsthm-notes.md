@@ -10,10 +10,11 @@ last_modified_at: 2023-01-01
 
 ## 介绍
 
-amsthm 是美国数学会开发的用于定理类环境的宏包，它为用户提供了两个主要的宏：
+amsthm 是美国数学会开发的用于定理类环境的宏包，它为用户提供了几个主要的宏：
 
 + `\newtheorem`
 + `\theoremstyle`
++ `\newtheoremstyle`
 
 用于定义定理类环境，另外，amsthm 还提供了一个 `proof` 环境，用于填写证明过程。
 > 如果 amsthm 宏包与非 AMS 文档类以及 amsmath 宏包一起使用，需要先调用 amsmath 再调用 amsthm。
