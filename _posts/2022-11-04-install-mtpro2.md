@@ -55,7 +55,7 @@ MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/
 
 <figure>
   <img src="../images/install-mtpro2/blackboard-bold.png" alt="blackboard-bold" class="invert" style="max-width: 100%;">
-  <figcaption markdown="span">Blackboard Bold 数学字母表</figcaption>
+  <figcaption markdown="span">Blackboard Bold 数学字母表（[图片源代码](https://github.com/SwitWu/mtpro2blackboard)）</figcaption>
 </figure>
 
 需要注意的是 `amsbb` 选项只提供大写字母字母表，不支持小写字母和阿拉伯数字。
