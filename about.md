@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuhan University. I'm interesting in mathematics, computer science (such as Python, C and git) and $\LaTeX$.
+I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuhan University. I'm interested in mathematics, computer science (such as Python, C and git) and $\LaTeX$.
 
 ## 致谢
 
