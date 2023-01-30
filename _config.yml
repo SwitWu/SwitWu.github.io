@@ -35,6 +35,7 @@ minima:
   social_links:
     email: sywumath@gmail.com
     github: SwitWu
+    telegram: sywu818
     rss: rss
 plugins:
   - jekyll-feed
