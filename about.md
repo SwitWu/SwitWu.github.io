@@ -23,6 +23,7 @@ I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuh
 + [$\LaTeX$ 手册打印版](https://github.com/SwitWu/LaTeX-doc-print-version)
 + 论文重排
   + [Gidas-Ni-Nirenberg-1979](https://github.com/SwitWu/Gidas-Ni-Nirenberg-1979)
+  + [Kwong-1988](https://github.com/SwitWu/Kwong-1988)
 
 
 
