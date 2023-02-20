@@ -65,7 +65,9 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
 ### 获取 PDF 文档
 
 为了得到 PDF 文档，有两种方法：
-1. 创建独立的驱动文件（将其中的代码称为驱动代码），一个简短的驱动文件（假设文件名为 `demopkg.tex`）如下：
+
+
++ 方法一：创建独立的驱动文件（将其中的代码称为驱动代码），一个简短的驱动文件（假设文件名为 `demopkg.tex`）如下：
 
    ```tex
    \documentclass{article}
@@ -84,7 +86,7 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
     </figure>
 
    一般而言我们不会用「创建独立的驱动文件」这种方式，而是用下面的主流方式：
-2. 将驱动文件并入 `demopkg.dtx` 之中：
++ 方法二：将驱动文件并入 `demopkg.dtx` 之中：
 
    ```tex
    % \iffalse
@@ -125,7 +127,7 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
    % \end{environment}
    ```
 
-   此时我们直接编译 `demopkg.dtx` 文件，注意，由于这个时候驱动代码不在 `%` 后面，所以驱动代码会被执行，从 `\documentclass{article}` 开始，到 `\end{document}` 结束。在这个过程当中，第六行的 `\DocInput{demopkg.dtx}` 会导入文件 `demopkg.dtx`，但是这个时候，`%` 会被忽略掉，因此我们需要在驱动文件上下界处分别添加 `\iffalse` 和 `\fi` 以避免驱动代码二次读入。
+   此时我们直接编译 `demopkg.dtx` 文件，第一次读取 `demopkg.dtx` 时，`%` 为正常的注释符，由于这个时候驱动代码不在 `%` 后面，所以驱动代码会被执行，从 `\documentclass{article}` 开始，到 `\end{document}` 结束。在这个过程当中，第六行的 `\DocInput{demopkg.dtx}` 会二次读取文件 `demopkg.dtx`，但是这个时候，`%` 会被忽略掉，因此我们需要在驱动代码块上下方分别添加 `\iffalse` 和 `\fi` 以避免驱动代码块二次读入。
 
 ### 条件代码（Conditional Code）
 
