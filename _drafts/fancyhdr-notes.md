@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 1
-category: 1
-description: 
+title: LaTeX 宏包介绍（二）——fancyhdr
+category: latex
+description:
 ---
-
-1
+(...)
