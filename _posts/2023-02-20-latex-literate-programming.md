@@ -167,7 +167,7 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
 
 DocStrip 程序最开始是由 Frank Mittelbach 通过底层 $\TeX$ 语言编写的，后来 Denys Duchier、Johannes Braams、Marcin Woliński、Mark Wooding 等人对其进行了改进。DocStrip 程序的主要功能有：
 
-+ 从源文件中剥离文档部分，即，以单个 `%` 开头的代码行
++ 从源文件中剥离文档部分，即，以单个 `%` 开头的代码行（标签行除外）
 + 从源文件中生成目标文件，如 `.sty` 文件、`.cls` 文件
 + 自动将生成的文件安装至指定的目录中
 
@@ -176,12 +176,11 @@ DocStrip 程序最开始是由 Frank Mittelbach 通过底层 $\TeX$ 语言编写
 第一种方式是直接在命令行交互式执行 DocStrip 程序
 
 ```sh
-latex docstrip.tex
+tex/latex docstrip.tex
 ```
+上面的 `/` 表示二选一，回车后，$\LaTeX$ 会询问几个问题，用户依次回答之后，DocStrip 会据此完成它的工作。
 
-回车后，$\LaTeX$ 会询问几个问题，用户依次回答之后，DocStrip 会据此完成它的工作。
-
-上述方式只适用于从源文件中剥离文档部分，现在的主流方式是写一个安装脚本文件（后缀名一般为 `.ins`），脚本文件的一般形式为：
+上述方式只适用于从源文件中剥离文档部分，现在的主流方式是写一个脚本文件（后缀名一般为 `.ins`），脚本文件的一般形式为：
 
 ```tex
 \input docstrip
