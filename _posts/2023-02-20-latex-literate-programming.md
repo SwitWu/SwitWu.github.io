@@ -69,16 +69,18 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
 
 + 方法一：创建独立的驱动文件（将其中的代码称为驱动代码），一个简短的驱动文件（假设文件名为 `demopkg.tex`）如下：
 
-   ```tex
-   \documentclass{article}
-   \usepackage{doc}
-   \CodelineIndex
-   \begin{document}
-     \DocInput{demopkg.dtx}
-   \end{document}
-   ```
+  ```tex
+  \documentclass{article}
+  \usepackage{doc}
+  \CodelineIndex
+  \begin{document}
+    \DocInput{demopkg.dtx}
+  \end{document}
+  ```
 
    使用 $\LaTeX$ 格式[^compile-command]编译 `demopkg.tex` 就可以得到文档 `demopkg.pdf`:
+
+   [^compile-command]: 编译命令有 `latex`、`pdflatex`、`xelatex`、`lualatex`，对于纯英文推荐使用 `pdflatex`，对于中英文混排则推荐使用 `xelatex` 或者 `lualatex`。
 
    <figure>
       <img src="../images/latex-literate-programming/demoPDF.png" alt="demopdf" class="invert" style="max-width: 100%;">
@@ -138,7 +140,7 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
 
 标记代码块的方式为：
 
-```
+```tex
 %<*name>
     some lines of the code
 %</name>
@@ -148,7 +150,7 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
 
 我们还可以利用 `|` (逻辑或)、`&` (逻辑且) 和 `!` (逻辑否) 将多个标签名串起来，例如：
 
-```
+```tex
 %<*Aname|Bname&!Cname>
     some lines of code
 %</Aname|Bname&!Cname>
@@ -291,7 +293,7 @@ DocStrip 执行任务之后，便会生成宏包文件 `demopkg.sty`。
   <summary>
     问：如果不用 <code>driver</code> 标记驱动代码会怎么样？
   </summary>
-      答：驱动代码块也会被写入 <code>demopkg.sty</code> 之中，这可不是我们想要的结果。
+  驱动代码块也会被写入 <code>demopkg.sty</code> 之中，这可不是我们想要的结果。
 </details>
 
 ## 注释
@@ -305,6 +307,5 @@ DocStrip 执行任务之后，便会生成宏包文件 `demopkg.sty`。
 + [The DocStrip Program](https://ctan.org/pkg/docstrip)
 + Scott Pakin, How to Package Your $\LaTeX$ Package. `texdoc dtxtut`.
 
-[^compile-command]: : 编译命令有 `latex`、`pdflatex`、`xelatex`、`lualatex`，对于纯英文推荐使用 `pdflatex`，对于中英文混排则推荐使用 `xelatex` 或者 `lualatex`。
     
 [^clsguide]: 见 clsguide
