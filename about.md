@@ -20,7 +20,6 @@ I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuh
 + 常微分教程答案（丁同仁、李承治）[[PDF](/PDFs/ODEsolution.pdf)] [[仓库](https://github.com/SwitWu/ODE-DingTongren-Solutions)]
 + [数学物理方程（谷超豪）答案](https://github.com/SwitWu/mp-equation)
 + [$\LaTeX$ 常用宏包中文翻译版](https://github.com/SwitWu/LaTeX-packages-zh-cn)
-+ [$\LaTeX$ 手册打印版](https://github.com/SwitWu/LaTeX-doc-print-version)
 + 论文重排
   + [Gidas-Ni-Nirenberg-1979](https://github.com/SwitWu/Gidas-Ni-Nirenberg-1979)
   + [Kwong-1988](https://github.com/SwitWu/Kwong-1988)
