@@ -253,8 +253,8 @@ tex/latex docstrip.tex
 %
 % \section{Implementation}
 %
-%<*package>
 %    \begin{macrocode}
+%<*package>
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesPackage{demopkg}
 %    \end{macrocode}
@@ -270,9 +270,9 @@ tex/latex docstrip.tex
 \newenvironment{myenv}%
   {This is a \LaTeX{} environment}%
   {}
+%</package>
 %    \end{macrocode}
 % \end{environment}
-%</package>
 ```
 
 可以看到，我们用 `driver` 标签标记了驱动代码，在第二节的开头添加了宏包必不可少的标识节[^clsguide]，然后用 `package` 标签标记了第二节（因为宏包代码都在这一节之中），然后命令行执行：
