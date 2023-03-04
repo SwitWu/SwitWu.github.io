@@ -3,6 +3,7 @@ layout: post
 title: doc 宏包——创建新的 doc 元素
 category: LaTeX
 ---
+
 ## 介绍
 
 `\NewDocElement` 是版本 3 中提供的新功能，用于创建新的 doc 元素，在这之前 doc 元素有两对，分别是：
@@ -54,21 +55,19 @@ category: LaTeX
 #### 情形一：需要编组
 
 ```latex
-\NewDocElement[
-  envlike = true,
-  toplevel = false,
-  idxgroup = Options
-]{Option}{option}
+\NewDocElement[envlike  = true,
+               toplevel = false,
+               idxgroup = Options
+              ]{Option}{option}
 ```
 
 #### 情形二：不需要编组
 
 ```latex
-\NewDocElement[
-  envlike = true,
-  toplevel = true,
-  idxtype = 
-]
+\NewDocElement[envlike  = true,
+               toplevel = true,
+               idxgroup = 
+              ]{Option}{option}
 ```
 
 ### 重定义 `macro` 元素
@@ -84,4 +83,9 @@ category: LaTeX
                 ]{Macro}{macro}
 ```
 
-可以看到，重定义之后，不会创建 toplevel 索引条目，但是会创建编组索引条目，`idxtype` 和 `printtype` 设置为空。
+可以看到，重定义之后，不会创建 toplevel 索引条目，但是会创建编组索引条目（一级索引条目为 $\LaTeX$ commands），`idxtype` 和 `printtype` 设置为空。
+
+
+## 参考
+
++ [The `doc` and `shortvrb` Packages](https://ctan.org/pkg/doc)
