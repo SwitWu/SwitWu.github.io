@@ -1,9 +1,8 @@
 ---
 layout: post
-title: doc 宏包
+title: doc 宏包——创建新的 doc 元素
 category: LaTeX
 ---
-
 ## 介绍
 
 `\NewDocElement` 是版本 3 中提供的新功能，用于创建新的 doc 元素，在这之前 doc 元素有两对，分别是：
@@ -11,7 +10,7 @@ category: LaTeX
 + `Macro` 和 `macro`
 + `Env` 和 `environment`
 
-`\RenewDocElement` 类似，只是用于重定义 doc 元素，语法与 `\NewDocElement` 相同。 
+`\RenewDocElement` 类似，只是用于重定义 doc 元素，语法与 `\NewDocElement` 相同。
 
 ## 语法
 
@@ -48,11 +47,9 @@ category: LaTeX
 2. `idxtype` 和 `printtype` 都有默认值，一般情况下不需要额外设置。
 3. 若设置 `toplevel = false`，则 `idxtype` 作废。
 
-
 ## 举例
 
 ### 创建新的 doc 元素用于选项（option）
-
 
 #### 情形一：需要编组
 
