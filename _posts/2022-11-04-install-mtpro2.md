@@ -3,7 +3,7 @@ layout: post
 title: 安装及使用 mtpro2 字体宏包
 categories: LaTeX
 description: MathTime Professional II 是一款很优美的数学字体，这篇文章记录了该字体的安装方式。
-last_modified_at: 2022-11-27
+last_modified_at: 2023-04-09
 ---
 > 本教程仅在 mac 系统下经过测试，windows 用户请自行测试。
 
@@ -31,7 +31,7 @@ MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/
    + 将 `tex/latex/mtpro2` 里面的 `mtpro2.sty` 和其它几个文件拷贝路径 `texmf-local/tex/latex/local/mtpro2` 下。
    + 将 `tex/plain/mtpro2` 里面的 `mtp2.tex` 拷贝到路径 `texmf-local/tex/plain/local/mtpro2` 下。
    + 将 `tpm/package` 里面的 `tpm` 文件拷贝到路径 `texmf-local/tpm/package` 下。
-4. 终端运行 `sudo mktexlsr`。
+4. 终端运行 `sudo mktexlsr` 刷新文件名数据库。
 5. 终端运行 `sudo updmap-sys --enable Map=mtpro2.map`。
 6. 终端运行 `sudo updmap-sys --disable Map=belleek.map`。
 7. 终端运行 `texdoc mtpro2` 和 `texdoc guide2` 阅读字体使用手册。
@@ -44,7 +44,7 @@ MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/
 
 + 使用 `newtxtext` 宏包调用波兰 $\TeX$ 用户组开发的复刻字体 $\TeX$ Gyre Termes [^newtxtext]
 + 重定义 `\renewcommand{\rmdefault}{ptm}` 以使用 Adobe Times
-+ 购买 Times New Roman 或者 Times 的商业使用权，再由 `fontspec` 宏包调用字体
++ 使用 `fontspec` 宏包调用 Times New Roman 或者 Times 字体
 
 ### Blackboard Bold Math Alphabet
 
