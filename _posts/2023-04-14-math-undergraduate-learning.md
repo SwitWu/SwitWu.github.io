@@ -24,5 +24,6 @@ description:
 
 在阅读的过程中遇到困难在所难免，可以找师长朋友请教，也可以去论坛（如 [math stackexchange](https://math.stackexchange.com/)、[mathoverflow](https://mathoverflow.net/)）提问。
 
+## 注释
 
 <div id="footnotes"></div>
