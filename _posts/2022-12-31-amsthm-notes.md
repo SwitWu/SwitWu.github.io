@@ -4,7 +4,7 @@ title: LaTeX 宏包介绍（一）—— amsthm
 category: LaTeX
 description: amsthm 是美国数学会开发的用于定理类环境的宏包，这篇文章算是官方手册的一份阅读笔记。
 math: true
-last_modified_at: 2023-01-01
+last_modified_at: 2023-04-16
 ---
 
 
@@ -245,6 +245,12 @@ This is a note.
   <img src="../images/amsthm-note/bfnote.png" alt="bfnote" class="invert" style="max-width: 100%;">
   <figcaption markdown="span">利用第九个参数将可选参数加粗</figcaption>
 </figure>
+
+
+### 斜体环境中需要正体括号
+
++ 方法一：使用 `\textup`
++ 方法二：使用 `embrac` 宏包提供的 `\emb`、`\embparen` 和 `\embbracket`
 
 
 ### 需要编号形如 $n^\prime$ 的定理头
