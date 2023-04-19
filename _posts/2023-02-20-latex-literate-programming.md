@@ -2,8 +2,10 @@
 layout: post
 title: LaTeX 文学编程
 category: LaTeX
+last_modified_at: 2023-04-19
 description: $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今，不计其数的宏包开发者都以文学编程的方式编写发布他们的作品。简单说来，文学编程就是把 $\LaTeX$ 代码和文档放在一起，置于同一个源文件之中。
 ---
+
 ## 介绍
 
 $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今，不计其数的宏包开发者都以文学编程的方式编写发布他们的作品。简单说来，文学编程就是把 $\LaTeX$ 代码和文档放在一起，置于同一个源文件之中。
@@ -133,6 +135,8 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
 
 ### 条件代码（Conditional Code）
 
+#### 基本介绍
+
 由于 doc 系统最开始并不能满足 $\LaTeX$ 开发者的一些需求，比如：从一个源文件中有条件性地抽取代码生成多个目标文件或者从多个源文件中抽取代码生成一个目标文件。于是乎，doc 系统从两个方面进行了改进：
 
 + 建立语法用于标记代码块，这些代码块可以被单独引用
@@ -141,12 +145,18 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
 标记代码块的方式为：
 
 ```tex
-%<*name>
+%<*tagname>
     some lines of the code
-%</name>
+%</tagname>
+```
+和
+```tex
+%<tagname> one line of code
 ```
 
-其中 `name` 是标签名，按照习惯，一般使用 `driver` 标记驱动代码、`package` 标记宏包代码、`class` 标记文档类代码等，你会在 `.dtx` 文件中经常见到这些标签名。但是请注意，使用这些标签名只是习惯而已，自己标记代码块的时候可以随便选取标签名。
+其中第一种方式用于标记多行代码[^occupy-seperate-line]，第二种方式用于标记单行代码。`tagname` 是标签名，按照习惯，一般使用 `driver` 标记驱动代码、`package` 标记宏包代码、`class` 标记文档类代码等，你会在 `.dtx` 文件中经常见到这些标签名。但是请注意，使用这些标签名只是习惯而已，自己标记代码块的时候可以随便选取标签名。
+
+[^occupy-seperate-line]: 注意：第一种方式中的 `%<*tagname>` 和 `%</tagname>` 必须单独各占一行。
 
 我们还可以利用 `|` (逻辑或)、`&` (逻辑且) 和 `!` (逻辑否) 将多个标签名串起来，例如：
 
@@ -156,12 +166,46 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
 %</Aname|Bname&!Cname>
 ```
 
-它表示：如果
+它表示：如果 `tag-list` 中 (见下面的 `\generate`)
 
-+ 请求了 `Aname`，或者
-+ 请求了 `Bname` 但未请求 `Cname`
++ 含有 `Aname`，或者
++ 含有 `Bname` 但不含 `Cname`
 
 这段代码就会被引用。
+
+#### 举例
+
+##### Example 1: [classes.dtx](https://github.com/latex3/latex2e/blob/0b358df21d1a44aeda00d59a029fb4b0180967b1/base/classes.dtx#L797-L805)
+
+```tex
+%<*10pt|11pt|12pt>
+\if@twocolumn
+  \setlength\parindent{1em}
+\else
+%<10pt>  \setlength\parindent{15\p@}
+%<11pt>  \setlength\parindent{17\p@}
+%<12pt>  \setlength\parindent{1.5em}
+\fi
+%</10pt|11pt|12pt>
+```
+
+这是一个典型的嵌套式标记代码块，其中
+```tex
+\if@twocolumn
+  \setlength\parindent{1em}
+\else
+\fi
+```
+这四行代码被 `10pt`、`11pt` 和 `12pt` 共用，即，只要 `tag-list` 中含有 `10pt`、`11pt` 或 `12pt` 之一，就会引用这四行代码，然后剩下的三行代码就是嵌套在里面的标记代码块，用于在单栏排版中根据不同的文档类选项设置不同的 `\parindent`。例如如果 `tag-list` 中的标签为 `10pt`，那么抽取出的代码就是
+```tex
+\if@twocolumn
+  \setlength\parindent{1em}
+\else
+  \setlength\parindent{15\p@}
+\fi
+```
+
+
 
 ## DocStrip 工具
 
