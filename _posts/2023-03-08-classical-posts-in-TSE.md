@@ -26,6 +26,8 @@ last_modified_at: 2023-03-09
 
 + [`\the`、`\show`、`\showthe` 和 `\meaning`](https://tex.stackexchange.com/questions/345185/difference-between-the-showthe-and-show-commands)
 
++ [脆弱命令与健壮命令](https://tex.stackexchange.com/questions/4736/what-is-the-difference-between-fragile-and-robust-commands-when-and-why-do-we-n)
+
 
 ## 字体类
 
