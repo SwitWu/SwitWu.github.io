@@ -4,6 +4,7 @@ title: 雅思写作——小作文
 category: English
 description: 
 math: true
+last_modified_at: 2023-04-28
 ---
 
 ## 图表类型
@@ -72,7 +73,7 @@ math: true
 
 #### 地点的改写
 
-单个地点时，考虑名词和形容词互换（如 people from American 换成 Amercian people）;多个地点时，列举地点名称或概括其数量。
+单个地点时，考虑名词和形容词互换（如 people from America 换成 Amercian people）;多个地点时，列举地点名称或概括其数量。
 
 
 ### 结尾段（总结段）
@@ -167,14 +168,14 @@ math: true
 #### 句式变化（两段变化合并为一句）
 
 + 句型一
-  + 基本句型 before/after 基本句型
-  + After v-ing, 基本句型
-  + 基本句型, before v-ing
+  + 基本句 before/after 基本句
+  + After v-ing, 基本句
+  + 基本句, before v-ing
 + 句型二
-  + 基本句型 when 基本句型
+  + 基本句 when 基本句
 + 句型三
-  + 基本句型, after which + 基本句型
-  + 基本句型, which was followed by + 趋势
+  + 基本句, after which + 基本句
+  + 基本句, which was followed by + 趋势
 
 #### 动态图分段原则
 
@@ -186,3 +187,87 @@ math: true
 ### 动态图总结段
 
 总结段写整体趋势和变化大小，注意，**总结段不要写数据**。
+
+
+## 静态图写作
+
+### 三种基本句型
+
+1. 数据类型作主语： The proportion/number/amount of 描述对象 is 数据
+2. 描述对象（类别限定）作主语：描述对象（类别限定） + 占 + 数据 of the total
+    > 注意：“占”不用 occupy, take up, 而用 account for, make up, constitute, comprise, compose, represent
+3. 数据作主语：数据 + 描述对象 + 谓语动词 + 类别限定
+
+
+> 1. The proportion of tourists who came from China is 37%.
+> 2. European tourists account for 35% of all the tourists going to Australia.
+> 3. 18% the tourists going to Australia come from US.
+
+### 引出数据的方式
+
++ **at**
+  + 用在动词后
+    > After peaking at 90 billions
+  + 主语为 figure/number/percentage 一类的词
+    > The figure for resources was the highest in 1991, at 20%.
++ **with** 经常用于句子主语不是 figure/number 这类词时
+  > Petrol and oil are the dominant fuel sources throughout this period, with 35 quadrillion units used in 1980.
++ **(数据)** 括号经常跟在一个名词后面
+  > European, with the highest overall percentage of land degraded (23%), also suffered from over-cultivation (7.7%) and over-grazing (5.5%).
++ **定语从句或现在分词作状语**
+  > Heating is the largest energy consumer, (which uses)/(using) 42% of energy.
+
+  > Energy consumed by heating accounts for the largest proportion, making up 42%.
+
+### 排名第一的写法
+
+可以用 the largest, the major, the most important 等表达，例如：
+
++ Coal was the major fuel source, which contributed 50 units.
++ The most important fuel was coal, which produced 50 units.
+
+### 排名第二的写法
+
+可以把实际数据替换为 relatively/comparatively smaller/lower，然后把
+数据摆在最后面，例如：
+
++ The percentage of energy used by water heating is relatively smaller, at 30%.
++ A relatively smaller proportion of energy is used by water heating, standing at 30%.
++ Energy used by water heating accounts for a relatively smaller proportion of the total, 
+  making up 30%.
+
+也可以使用一些句型：
+
++ ... rank the second.
++ ... follow closely/behind.
++ ..., followed by ...
++ This is followed by ...
+
+### 相等或相似的表达
+
++ be the same as
++ be as large(比例)/much(不可数名词)/many(可数名词) as
++ be equal to
++ equal
++ be similar to
+
+在 be 动词后面可以加 approximately、nearly、basically、roughly、almost 等副词
+
+> 举例：两种经典句式表示相似
+> 1. A accounts for 40%, which is basically equal to B (39%).
+> 2. A is basically the same as B, accounting for 40% and 39% respectively.
+
+多个数值近似的数据合并描述，例如：
+> The spending in the remaining countries was similar, ranging from 15% to 17%.
+
+### 倍数关系
+
+be + 数字 + as large/many/much as
+
+> Energy used by water heating is 2 times as much as that used by other appliances, making up 30% and 15% respectively.
+
+> The proportion of energy used by water heating is 2 times as large as that used by other appliances, at 30% and 15% respectively.
+
+### 剩余部分及最小部分（饼图适用）
+
+remaining, remainder, minimal, least
