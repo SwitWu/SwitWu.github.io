@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage{pgf-pie}
+\usepackage{subcaption}
+\begin{document}
+\begin{figure}
+  \begin{subfigure}{.4\textwidth}
+    \begin{tikzpicture}
+      \pie[radius=2]{30/, 7/, 15/,
+        4/, 2/, 42/}
+    \end{tikzpicture}
+    \caption{Australian household energy use}
+  \end{subfigure}
+  \begin{subfigure}{.4\textwidth}
+    \begin{tikzpicture}
+      \pie[radius=2, text=legend]{32/water heating, 14/refrigeration, 28/other appliances, 8/lighting,
+        3/cooling, 15/heating}
+    \end{tikzpicture}
+    \caption{Australian household green gas emissions}
+    \label{fig:household-green-gas-emissions}
+  \end{subfigure}
+\end{figure}
+\end{document}
