@@ -312,7 +312,7 @@ remaining, remainder, minimal, least, not significant, insignificant
 >  The situation for greenhouse gas emissions, however, is quite different. The largest proportion of greenhouse gas is emitted by water heating, standing at 32%, followed by other appliances (28%). It is worth mentioning that gas emissions caused by heating are approximately the same as those caused by refrigeration, with 15% and 14% respectively. Besides, lighting and cooling accounts for the remaining 11% of greenhouse gas.
 
 <figure>
-  <img src="../images/ielts-writing-task-one/C8T1.png" alt="" class="invert" style="max-width: 300px;">
+  <img src="../images/ielts-writing-task-one/C8T1.png" alt="" class="invert" style="max-width: 100%;">
   <figcaption markdown="span">C8-Test1: Causes of worldwide land degradation</figcaption>
 </figure>
 
