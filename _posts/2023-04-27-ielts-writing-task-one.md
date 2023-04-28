@@ -302,7 +302,7 @@ remaining, remainder, minimal, least, not significant, insignificant
 ### 举例
 
 <figure>
-  <img src="../images/ielts-writing-task-one/1.png" alt="C10-Test1" class="invert" style="max-width: 100%;">
+  <img src="../images/ielts-writing-task-one/C10T1.png" alt="C10-Test1" class="invert" style="max-width: 100%;">
   <figcaption markdown="span">C10-Test1</figcaption>
 </figure>
 
