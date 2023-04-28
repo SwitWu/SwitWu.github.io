@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 雅思写作——小作文
+title: 雅思写作（一）——小作文
 category: English
 description: 
 math: true
@@ -54,7 +54,7 @@ last_modified_at: 2023-04-28
 + information $\to$ data, statistics
 + figure $\to$ the amount/number/quantity of
 + proportion $\to$ percentage
-+ kinds $\to$ types, categories, forms
++ kinds $\to$ types, categories, forms, groups, parts
 + men and women $\to$ males and females
 + people $\to$ individuals, person, population, residents, citizens
 + family $\to$ household, domestic
@@ -208,10 +208,10 @@ last_modified_at: 2023-04-28
 + **at**
   + 用在动词后
     > After peaking at 90 billions
-  + 主语为 figure/number/percentage 一类的词
+  + 主语为对象词时
     > The figure for resources was the highest in 1991, at 20%.
 + **with** 经常用于句子主语不是 figure/number 这类词时
-  > Petrol and oil are the dominant fuel sources throughout this period, with 35 quadrillion units used in 1980.
+  > Petrol and oil are the dominant fuel sources throughout this period, with 35 quadrillion (35q) units used in 1980.
 + **(数据)** 括号经常跟在一个名词后面
   > European, with the highest overall percentage of land degraded (23%), also suffered from over-cultivation (7.7%) and over-grazing (5.5%).
 + **定语从句或现在分词作状语**
@@ -270,4 +270,66 @@ be + 数字 + as large/many/much as
 
 ### 剩余部分及最小部分（饼图适用）
 
-remaining, remainder, minimal, least
+remaining, remainder, minimal, least, not significant, insignificant
+
+### 主体段结构
+
++ 第 $1$ 句：概括由几部分组成
++ 后 $n$ 句：（具体来说）由大到小介绍具体数据（突出比较关系）
+
+概括描述对象被分为 $n$ 类：
+
++ be classified/categorised/divided into
++ fall into
++ consist of, be made up of, be comprised of
++ constitute, compose
++ There be
+
+> As can be seen from the pie chart, the places for teenagers to get online were classified into five types.
+
+### 静态饼图写作思路
+
+#### 单饼图
+
++ 排序法：按数据大小排序依次描述
++ 合并法：先写出最大两个类别的和，再分开列举数据；然后依次写剩余部分
+
+#### 多饼图
+
++ 饼图之间没有关系的话，各写一段，最后总结
++ 饼图之间有关联的话，根据共同点分组，然后再逐个写
+
+### 举例
+
+<figure>
+  <img src="../images/ielts-writing-task-one/1.png" alt="C10-Test1" class="invert" style="max-width: 100%;">
+  <figcaption markdown="span">C10-Test1</figcaption>
+</figure>
+
+> Australian household energy use is divided into six parts.
+  To be more specific, energy used by heating accounts for the largest proportion, making up 42%. A further 30% of energy is used by water heating, which is 2 times as large as the figure for other appliances (15%). The remaining 13% of energy is used by refrigeration, lighting and cooling collectively, constituting 7%, 4% and 2% respectively.
+>
+>  The situation for greenhouse gas emissions, however, is quite different. The largest proportion of greenhouse gas is emitted by water heating, standing at 32%, followed by other appliances (28%). It is worth mentioning that gas emissions caused by heating are approximately the same as those caused by refrigeration, with 15% and 14% respectively. Besides, lighting and cooling accounts for the remaining 11% of greenhouse gas.
+
+<figure>
+  <img src="../images/ielts-writing-task-one/C8T1.png" alt="" class="invert" style="max-width: 300px;">
+  <figcaption markdown="span">C8-Test1: Causes of worldwide land degradation</figcaption>
+</figure>
+
+> The pie chart shows that there are four main causes of farmland becoming degraded in the world taday. Globally, 65% of degradation is caused by too much animal grazing and tree clearance, which degraded 35% and 30% respectively. A further 28% of global degradation in due to over-cultivation of crops. Other causes account for only 7% collectively.
+
+<figure>
+  <img src="../images/ielts-writing-task-one/2.png" alt="C11-Test1" class="invert" style="max-width: 100%;">
+  <figcaption markdown="span">C11-Test1</figcaption>
+</figure>
+
+> The six pie charts illustrate how much water is used for industry, agriculture and households in six regions around the world.
+>
+> In two regions, industry is the biggest consumer of water.
+  In Europe, slightly over a half is used by this sector,
+  while a third is for agricultural purposes. Households use the smallest amount, 15%. In North America, water use for agriculture constitutes 39% of the total, moderately higher than that in Europe. In addition, almost a half is consumed by industry, while domestic use represents merely 13%.
+>
+>  The other four regions saw great use of water in the        agricultural sector. Africa and central Asia use the largest amounts in agriculture, 84% and 86% respectively, while industry and households share the rest nearly equally. Around four fifths of all water consumed in Southeast Asia is for agricultural use. While 12% goes to industry, the remaining 7% is for domestic use. In South America, households are also the lowest consumer of water (one tenth), but industry uses almost twice as much. The remainder (71%) is all for agriculture.
+>
+>  In sum, the most developed areas among the six mainly use water for industry while the less
+  developed ones use water mostly in the agricultural sector.
