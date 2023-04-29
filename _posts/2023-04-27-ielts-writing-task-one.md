@@ -4,7 +4,7 @@ title: 雅思写作（一）——小作文
 category: English
 description: 
 math: true
-last_modified_at: 2023-04-28
+last_modified_at: 2023-04-29
 ---
 
 ## 图表类型
@@ -363,3 +363,194 @@ remaining, remainder, minimal, least, not significant, insignificant
 + and it mainly consists of $\cdots$ steps/stages/phases.
 + and it works as follows.
 + and it involve the following steps.
+
+### 主体段
+
+#### 整体要求
+
++ 不要省略内容
++ 按照先后顺序描述
++ 灵活运用主动和被动语态
+
+#### 流程图的要素
+
++ 原材料 (raw materials)
++ 设备 (equipment, apparatus)
++ 处理方法 (process method)
++ 产物或中间产物 (product)
+
+#### 常用词汇
+
+|操作|词汇|操作|词汇|
+|:---:|:---:|:---:|:---:|
+|放置|lay/place|挤压|squeeze|
+|混合|mix|加入|add into|
+|按压|press|旋转|rotate/spin|
+|收缩|shrink|分类|classify/categorize|
+|运送|convey|变成|turn into|
+|回收|recycle|晒干|bake/dry|
+|折叠/打开|fold/unfold|累积|accumulate|
+|缠绕/解开|wind/unwind|打包|pack|
+|流入|flow/run into|蒸发|evaporate|
+|循环|circulate|净化|purify|
+|冷却|cool down|加热|heat/warm up|
+|沸腾|boil|泄漏|leak|
+|渗透|ooze|搅拌|stir|
+|溶解|resolve|蒸馏|distill|
+|稀释|dilute|液化|liquefy|
+|倒入|pour into|融化|melt|
+|燃烧|burn|膨胀|expand|
+|压缩|compress|释放|release/emit|
+|辐射|radiate|散发|distribute|
+|点燃|ignite|作为燃料|be feuled by|
+
+#### 句型
+
+要灵活运用 which/where 引导的定语从句以及分词结构
+
++ 分词结构：after/once/before being done
+  > + After/Once being dried, the bricks are delivered to construction site.
+  > + The bricks are dried before being delivered to the construction site.
++ 定语从句：after which; which is followed by
+
+  > - The bricks are dried, after which they are delivered to construction site.
+  > - The bricks are dried, which is followed by delivery to construction site.
+
+##### Note
+
++ 任何两个步骤之间都可以使用 once/after/before/after which 进行连接
++ 任何一个产物后面都可以跟一个非限定性定语从句 ($\cdots$, which $\cdots$)
++ 任何一个设备后面都可以跟 where 从句
+
+#### 举例
+
+<figure>
+  <img src="https://coquynhielts.edu.vn/wp-content/uploads/2019/01/ielts-graph-54-bricks-manufacturing-process.png" alt="ielts-process-bricks" class="invert" style="max-width: 80%;">
+  <figcaption markdown="span">Process the bricks</figcaption>
+</figure>
+
+>   In the first step, the clay is dug out of the ground with diggers and it is then divided 
+  finely by a metal grid before small clay is conveyed by a roller. Subsequently, the chosen 
+  clay is mixed with sand and water and made into mixture which later is shaped into bricks 
+  with wire cutters or molds. Then, newly-shaped bricks are placed in order in a drying oven 
+  for 24 to 48 hours being transported to the kiln they are heated.
+  The bricks are heated in the first kiln at a moderate temperature ranging from 200 to 980°C 
+  and later in the second one at a much higher temperature from 870 to 1300°C.
+  After turning solid, the bricks are transported to the cooling chamber and are placed there for about 48 to 72 hours during which they gradually cool down.
+  Finally, bricks are packed and are then delivered by a truck to the construction sites where 
+  they are needed.
+
+### 结尾段
+
+1. 概括内容：加工过程，原材料和装置复杂或者简单
+2. 参考句式：Overall, the production of $\cdots$ is complex, with a few/several types of raw materials manufactured on/in some place.
+
+
+## 地图题
+
+### 类型
+
++ 建造类前后对比
++ 室内布局前后对比
++ 选址类
+
+### 时态和语态
+
++ 时态
+  + 过去的变化：一般过去时
+  + 将来的计划：一般将来时或表“计划”的词汇
+  + 从过去到现在的变化：现在完成时
++ 语态：被动语态
+
+### 位置和位置关系描述
+
++ 表示位于
+  + there be
+  + be located/situated/sited
+  + lie/stand/sit
+  + be built/constructed/opened
++ 在 $\cdots$ 方
+  + A be located in/on/to B
+  + A lies in/on/to B
++ 交汇处
+  + intersection
+  + joint section
++ 表示对面
+  + A be opposite B
+  + A and B are opposite each other
++ 邻近：be near, be next to, be close to, be ajdacent to
++ 沿着：along/alongside
++ 远离：be far away from
++ 中间：in the center/middle
++ 环绕：be surrounded by
++ 边/边缘：edge/side
++ (建筑物的)一侧：wing
++ 环形路口：roundabout
++ 斑马线(人行横道)：zebra crossing
+
+### 旧去新来
+
++ 旧去
+  + 旧的：the original/previous/former, in the past
+  + 移除：be demolish/removed
+  + 消失：disappear
++ 新来
+  + 新的：newly-built/present/current/existing/future/planned/proposed
+  + 建造：be built/constructed/established/set up/created
+  + 出现：appear/emerge/be added
+
+### 变化描述
+
++ 原有的事物数量/大小变化
+  > 1. The number of homes has increased/decreased/doubled.
+  > 2. The size of the library has been enlarged/extended/halved/reduced by half.
++ 转移：be moved to/transfered to/relocated in
++ 原来的 A 被新的 B 替代：
+  + A is transformed/reconstructed/redeveloped/converted/changed/turned over to/into B.
+  + A is replaced/substituted by B.
+  + A gives way to B.
+
+### 首段写作
+
++ The maps show how $\cdots$ (had been)/(has been)/(is predicted/planned to be) $\cdots$
++ The maps show the current(previous) layout of $\cdots$ and its future(current) layout.
+
+### 主体段
+
+找不同之处，包括替代的、新增的、减少的，然后利用前面的词汇组织语言
+
+### 结尾段
+
+内容：
++ 改变大或者改变小
++ 未改变之处
++ 主要新增设施类型
+
+示例套路：Overall, despite the retaining of $\cdots$, $\cdots$ has experienced apparently significant changes, with the addition of $\cdots$
+
+#### 一些概括性的词汇
+
++ 居住区：residential area/district
++ 商业区：commercial area/district
++ 运动设施：sports facility
++ 娱乐设施：entertainment/recreational facility
++ 现代化设施：modernised facility
+
+### 举例
+
+<figure>
+  <img src="https://eltecenglish.files.wordpress.com/2018/02/islip-ielts-task-1.png?w=640" alt="islip" class="invert" style="max-width: 70%;">
+  <figcaption markdown="span">C12-T6</figcaption>
+</figure>
+
+> The main road lies in the north central part of the town, linking the western and eastern ends 
+with shops standing along both sides of the middle section of the road. Beyond the main road is 
+countryside to the north, while the large area to the south is divided into two areas of housing. 
+A school to west and a park to the east are connected by two branches from the main road.
+>
+> As can be immediately seen from the second map, dramatic changes are projected to happen in the town center of Islip. The middle section of the main road will be reconstructed into a pedestrian walkway.
+>
+> The previous two branches are likely to be connected and become a circular dual carriageway, the northern part of which will enclose the major area of countryside. Most of the facilities, except the school and one section of housing, would thus be included in the dual road. The park is planned to be reduced exponentially in size and a new housing area will probably be established adjacent to it.
+>
+> It has been proposed that the northern side of the main road will be replaced by four different types of amenities, namely
+a bus station, a shopping center, a car park and a new housing area from west to east, all of which are situated in a line along the pedestrians-only road.
