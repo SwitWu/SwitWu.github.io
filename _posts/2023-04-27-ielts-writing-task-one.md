@@ -28,7 +28,7 @@ last_modified_at: 2023-04-28
 + TA (Task Achievement 任务完成度)
 + CC (Coherence and Cohesion 连贯与衔接)
 + LR (Lexical Resources 词汇丰富度)
-+ GR&A (Grammatical Range & Accurary 语法范围与准确度)
++ GR&A (Grammatical Range & Accuracy 语法范围与准确度)
 
 
 ## 动态图写作
@@ -325,11 +325,41 @@ remaining, remainder, minimal, least, not significant, insignificant
 
 > The six pie charts illustrate how much water is used for industry, agriculture and households in six regions around the world.
 >
-> In two regions, industry is the biggest consumer of water.
-  In Europe, slightly over a half is used by this sector,
-  while a third is for agricultural purposes. Households use the smallest amount, 15%. In North America, water use for agriculture constitutes 39% of the total, moderately higher than that in Europe. In addition, almost a half is consumed by industry, while domestic use represents merely 13%.
+> In two regions, industry is the biggest consumer of water. In Europe, slightly over a half is used by this sector, while a third is for agricultural purposes. Households use the smallest amount, 15%. In North America, water use for agriculture constitutes 39% of the total, moderately higher than that in Europe. In addition, almost a half is consumed by industry, while domestic use represents merely 13%.
 >
->  The other four regions saw great use of water in the        agricultural sector. Africa and central Asia use the largest amounts in agriculture, 84% and 86% respectively, while industry and households share the rest nearly equally. Around four fifths of all water consumed in Southeast Asia is for agricultural use. While 12% goes to industry, the remaining 7% is for domestic use. In South America, households are also the lowest consumer of water (one tenth), but industry uses almost twice as much. The remainder (71%) is all for agriculture.
+>  The other four regions saw great use of water in the agricultural sector. Africa and central Asia use the largest amounts in agriculture, 84% and 86% respectively, while industry and households share the rest nearly equally. Around four fifths of all water consumed in Southeast Asia is for agricultural use. While 12% goes to industry, the remaining 7% is for domestic use. In South America, households are also the lowest consumer of water (one tenth), but industry uses almost twice as much. The remainder (71%) is all for agriculture.
 >
->  In sum, the most developed areas among the six mainly use water for industry while the less
-  developed ones use water mostly in the agricultural sector.
+>  In sum, the most developed areas among the six mainly use water for industry while the less developed ones use water mostly in the agricultural sector.
+
+
+## 流程图
+
+### 流程图特征
+
+流程题主要有生命循环类和工业生产类
+
++ 特点：生词多、被动语态为主、全文用一般现在时
++ 难点：给每个步骤找动词或者补动词、提升词数
+
+### 写作要点
+
++ 确定步骤，箭头数字
++ 找起点——按顺序描述
++ 步骤过多可以合并写
++ 时态：一般现在时
++ 语态：多用被动语态（表示客观事实）
+
+### 首段改写
+
+#### 第一句参考
+
++ The diagram (flow chart) demonstrates/illustrates the process/procedure of $\cdots$
++ The diagram (flow chart) demonstrates/illustrates how $\cdots$ is produced/manufactured.
+
+#### 第二句参考
+
++ which can be divided into $\cdots$ steps/stages/phases.
++ and the whole process can be divided into $\cdots$ steps/stages/phases.
++ and it mainly consists of $\cdots$ steps/stages/phases.
++ and it works as follows.
++ and it involve the following steps.
