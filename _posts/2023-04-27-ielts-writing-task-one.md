@@ -327,7 +327,7 @@ remaining, remainder, minimal, least, not significant, insignificant
 >
 > In two regions, industry is the biggest consumer of water. In Europe, slightly over a half is used by this sector, while a third is for agricultural purposes. Households use the smallest amount, 15%. In North America, water use for agriculture constitutes 39% of the total, moderately higher than that in Europe. In addition, almost a half is consumed by industry, while domestic use represents merely 13%.
 >
->  The other four regions saw great use of water in the agricultural sector. Africa and central Asia use the largest amounts in agriculture, 84% and 86% respectively, while industry and households share the rest nearly equally. Around four fifths of all water consumed in Southeast Asia is for agricultural use. While 12% goes to industry, the remaining 7% is for domestic use. In South America, households are also the lowest consumer of water (one tenth), but industry uses almost twice as much. The remainder (71%) is all for agriculture.
+>  The other four regions saw great use of water in the agricultural sector. Africa and central Asia use the largest amounts in agriculture, 84% and 88% respectively, while industry and households share the rest nearly equally. Around four fifths of all water consumed in Southeast Asia is for agricultural use. While 12% goes to industry, the remaining 7% is for domestic use. In South America, households are also the lowest consumer of water (one tenth), but industry uses almost twice as much. The remainder (71%) is all for agriculture.
 >
 >  In sum, the most developed areas among the six mainly use water for industry while the less developed ones use water mostly in the agricultural sector.
 
@@ -432,12 +432,12 @@ remaining, remainder, minimal, least, not significant, insignificant
 >   In the first step, the clay is dug out of the ground with diggers and it is then divided 
   finely by a metal grid before small clay is conveyed by a roller. Subsequently, the chosen 
   clay is mixed with sand and water and made into mixture which later is shaped into bricks 
-  with wire cutters or molds. Then, newly-shaped bricks are placed in order in a drying oven 
-  for 24 to 48 hours being transported to the kiln they are heated.
+  with wire cutters or moulds. Then, newly-shaped bricks are placed in order in a drying oven 
+  for 24 to 48 hours before being transported to the kiln where they are heated.
   The bricks are heated in the first kiln at a moderate temperature ranging from 200 to 980°C 
   and later in the second one at a much higher temperature from 870 to 1300°C.
   After turning solid, the bricks are transported to the cooling chamber and are placed there for about 48 to 72 hours during which they gradually cool down.
-  Finally, bricks are packed and are then delivered by a truck to the construction sites where 
+  Finally, bricks are packed and then delivered by a truck to the construction sites where 
   they are needed.
 
 ### 结尾段
@@ -484,9 +484,11 @@ remaining, remainder, minimal, least, not significant, insignificant
 + 中间：in the center/middle
 + 环绕：be surrounded by
 + 边/边缘：edge/side
-+ (建筑物的)一侧：wing
++ （建筑物的）一侧：wing
 + 环形路口：roundabout
-+ 斑马线(人行横道)：zebra crossing
++ 斑马线（人行横道）：zebra crossing, pedestrian crossing
++ 车行道：roadway, carriageway
++ 人行道：sidewalk
 
 ### 旧去新来
 
@@ -540,16 +542,15 @@ remaining, remainder, minimal, least, not significant, insignificant
 
 <figure>
   <img src="https://eltecenglish.files.wordpress.com/2018/02/islip-ielts-task-1.png?w=640" alt="islip" class="invert" style="max-width: 70%;">
-  <figcaption markdown="span">C12-T6</figcaption>
+  <figcaption markdown="span">C12-Test6</figcaption>
 </figure>
 
 > The main road lies in the north central part of the town, linking the western and eastern ends 
 with shops standing along both sides of the middle section of the road. Beyond the main road is 
 countryside to the north, while the large area to the south is divided into two areas of housing. 
-A school to west and a park to the east are connected by two branches from the main road.
+A school to the west and a park to the east are connected by two branches from the main road.
 >
 > As can be immediately seen from the second map, dramatic changes are projected to happen in the town center of Islip. The middle section of the main road will be reconstructed into a pedestrian walkway.
->
 > The previous two branches are likely to be connected and become a circular dual carriageway, the northern part of which will enclose the major area of countryside. Most of the facilities, except the school and one section of housing, would thus be included in the dual road. The park is planned to be reduced exponentially in size and a new housing area will probably be established adjacent to it.
 >
 > It has been proposed that the northern side of the main road will be replaced by four different types of amenities, namely
