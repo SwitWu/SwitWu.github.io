@@ -193,15 +193,15 @@ last_modified_at: 2023-04-29
 
 ### 三种基本句型
 
-1. 数据类型作主语： The proportion/number/amount of 描述对象 is 数据
-2. 描述对象（类别限定）作主语：描述对象（类别限定） + 占 + 数据 of the total
+1. 数据类型作主语：The proportion/number/amount of 描述对象 is 数据
+2. 描述对象（类别限定）作主语：描述对象（类别限定）+ 占 + 数据 of the total
     > 注意：“占”不用 occupy, take up, 而用 account for, make up, constitute, comprise, compose, represent
 3. 数据作主语：数据 + 描述对象 + 谓语动词 + 类别限定
 
-
-> 1. The proportion of tourists who came from China is 37%.
-> 2. European tourists account for 35% of all the tourists going to Australia.
-> 3. 18% the tourists going to Australia come from US.
+> 举例：  
+> The proportion of tourists who came from China is 37%. 来自中国的游客占比为 37%。  
+> European tourists account for 35% of all the tourists going to Australia. 欧洲游客占所有前往澳大利亚游客的 35%。  
+> 18% the tourists going to Australia come from US. 18% 的前往澳大利亚的游客来自美国。
 
 ### 引出数据的方式
 
@@ -215,8 +215,7 @@ last_modified_at: 2023-04-29
 + **(数据)** 括号经常跟在一个名词后面
   > European, with the highest overall percentage of land degraded (23%), also suffered from over-cultivation (7.7%) and over-grazing (5.5%).
 + **定语从句或现在分词作状语**
-  > Heating is the largest energy consumer, (which uses)/(using) 42% of energy.
-
+  > Heating is the largest energy consumer, (which uses)/(using) 42% of energy.  
   > Energy consumed by heating accounts for the largest proportion, making up 42%.
 
 ### 排名第一的写法
@@ -228,8 +227,7 @@ last_modified_at: 2023-04-29
 
 ### 排名第二的写法
 
-可以把实际数据替换为 relatively/comparatively smaller/lower，然后把
-数据摆在最后面，例如：
+可以把实际数据替换为 relatively/comparatively smaller/lower，然后把数据摆在最后面，例如：
 
 + The percentage of energy used by water heating is relatively smaller, at 30%.
 + A relatively smaller proportion of energy is used by water heating, standing at 30%.
@@ -253,9 +251,9 @@ last_modified_at: 2023-04-29
 
 在 be 动词后面可以加 approximately、nearly、basically、roughly、almost 等副词
 
-> 举例：两种经典句式表示相似
-> 1. A accounts for 40%, which is basically equal to B (39%).
-> 2. A is basically the same as B, accounting for 40% and 39% respectively.
+> 举例：两种经典句式表示相似  
+> A accounts for 40%, which is basically equal to B (39%). A 占 40%，基本上与 B (39%) 相等。  
+> A is basically the same as B, accounting for 40% and 39% respectively. A 和 B 基本相等，分别占 40% 和 39%。
 
 多个数值近似的数据合并描述，例如：
 > The spending in the remaining countries was similar, ranging from 15% to 17%.
@@ -264,8 +262,7 @@ last_modified_at: 2023-04-29
 
 be + 数字 + as large/many/much as
 
-> Energy used by water heating is 2 times as much as that used by other appliances, making up 30% and 15% respectively.
-
+> Energy used by water heating is 2 times as much as that used by other appliances, making up 30% and 15% respectively. 水加热所用的能源是其它电器所用能源的两倍，分别占 30% 和 15%。  
 > The proportion of energy used by water heating is 2 times as large as that used by other appliances, at 30% and 15% respectively.
 
 ### 剩余部分及最小部分（饼图适用）
@@ -409,12 +406,12 @@ remaining, remainder, minimal, least, not significant, insignificant
 要灵活运用 which/where 引导的定语从句以及分词结构
 
 + 分词结构：after/once/before being done
-  > + After/Once being dried, the bricks are delivered to construction site.
-  > + The bricks are dried before being delivered to the construction site.
+  > After/Once being dried, the bricks are delivered to construction site.  
+  > The bricks are dried before being delivered to the construction site.
 + 定语从句：after which; which is followed by
 
-  > - The bricks are dried, after which they are delivered to construction site.
-  > - The bricks are dried, which is followed by delivery to construction site.
+  > The bricks are dried, after which they are delivered to construction site.  
+  > The bricks are dried, which is followed by delivery to construction site.
 
 ##### Note
 
@@ -466,19 +463,21 @@ remaining, remainder, minimal, least, not significant, insignificant
 
 + 表示位于
   + there be
-  + be located/situated/sited
-  + lie/stand/sit
+  + be located/situated/sited[^locate]
+  + lie[^lie]/stand/sit
   + be built/constructed/opened
 + 在 $\cdots$ 方
   + A be located in/on/to B
   + A lies in/on/to B
 + 交汇处
   + intersection
+  + crossing
+  + crossroad
   + joint section
 + 表示对面
   + A be opposite B
   + A and B are opposite each other
-+ 邻近：be near, be next to, be close to, be ajdacent to
++ 邻近：be near, be next to, be close to, be adjacent to
 + 沿着：along/alongside
 + 远离：be far away from
 + 中间：in the center/middle
@@ -489,6 +488,11 @@ remaining, remainder, minimal, least, not significant, insignificant
 + 斑马线（人行横道）：zebra crossing, pedestrian crossing
 + 车行道：roadway, carriageway
 + 人行道：sidewalk
+
+
+[^locate]: locate、situate、site 意为“使坐落于”，另外 locate 还有“确定···位置，定位”的意思。
+
+[^lie]: lie 表示“撒谎”时规则变化（lied, lied），表示“躺、位于”时不规则变化（lay, lain），另外 lay 也是一个动词原形，表示“放置、下蛋” 。
 
 ### 旧去新来
 
@@ -504,8 +508,8 @@ remaining, remainder, minimal, least, not significant, insignificant
 ### 变化描述
 
 + 原有的事物数量/大小变化
-  > 1. The number of homes has increased/decreased/doubled.
-  > 2. The size of the library has been enlarged/extended/halved/reduced by half.
+  > The number of homes has increased/decreased/doubled.  
+  > The size of the library has been enlarged/extended/halved/reduced by half.
 + 转移：be moved to/transfered to/relocated in
 + 原来的 A 被新的 B 替代：
   + A is transformed/reconstructed/redeveloped/converted/changed/turned over to/into B.
@@ -555,3 +559,8 @@ A school to the west and a park to the east are connected by two branches from t
 >
 > It has been proposed that the northern side of the main road will be replaced by four different types of amenities, namely
 a bus station, a shopping center, a car park and a new housing area from west to east, all of which are situated in a line along the pedestrians-only road.
+
+
+## 注释
+
+<div id="footnotes"></div>
