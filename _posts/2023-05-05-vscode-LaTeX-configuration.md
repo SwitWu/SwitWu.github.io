@@ -5,6 +5,7 @@ category: LaTeX
 description: 
 ---
 
+## 通用配置
 
 ```json
 // 编译工具
@@ -148,20 +149,6 @@ description:
 "editor.guides.bracketPairs": "active",
 // 如何选择自动补全
 "editor.suggestSelection": "first",
-// 配置外部阅读器，mac 使用 skim 阅读器
-"latex-workshop.view.pdf.viewer": "external",
-"latex-workshop.view.pdf.external.viewer.command": "/Applications/Skim.app/Contents/SharedSupport/displayline",
-"latex-workshop.view.pdf.external.viewer.args": [
-  "0",
-  "%PDF%"
-],
-"latex-workshop.view.pdf.external.synctex.command": "/Applications/Skim.app/Contents/SharedSupport/displayline",
-"latex-workshop.view.pdf.external.synctex.args": [
-  "-r",
-  "%LINE%",
-  "%PDF%",
-  "%TEX%"
-],
 
 "files.autoSave": "afterDelay",
 "security.workspace.trust.untrustedFiles": "open",
@@ -176,4 +163,44 @@ description:
 "latex-workshop.check.duplicatedLabels.enabled": true,
 // disable chktex linting
 "latex-workshop.linting.chktex.enabled": false
+```
+
+## PDF 阅读器配置
+
+### macOS
+
+```json
+"latex-workshop.view.pdf.viewer": "external",
+"latex-workshop.view.pdf.external.viewer.command": "/Applications/Skim.app/Contents/SharedSupport/displayline",
+"latex-workshop.view.pdf.external.viewer.args": [
+  "0",
+  "%PDF%"
+],
+"latex-workshop.view.pdf.external.synctex.command": "/Applications/Skim.app/Contents/SharedSupport/displayline",
+"latex-workshop.view.pdf.external.synctex.args": [
+  "-r",
+  "%LINE%",
+  "%PDF%",
+  "%TEX%"
+],
+```
+
+### Windows
+
+```json
+"latex-workshop.view.pdf.viewer": "external",
+"latex-workshop.view.pdf.ref.viewer": "external",
+"latex-workshop.view.pdf.external.viewer.command": "<SumatraPDFROOT>/SumatraPDF.exe",
+"latex-workshop.view.pdf.external.viewer.args": [
+  "-inverse-search",
+  "\"<VSCodeROOT>/bin/code.cmd\" -r -g \"%f:%l\"",
+  "%PDF%"
+],
+"latex-workshop.view.pdf.external.synctex.command":"<SumatraPDFROOT>/SumatraPDF.exe",
+"latex-workshop.view.pdf.external.synctex.args": [
+  "-forward-search",
+  "%TEX%",
+  "%LINE%",
+  "%PDF%",
+],
 ```
