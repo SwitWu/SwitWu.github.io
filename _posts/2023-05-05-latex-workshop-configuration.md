@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在 VS Code 中配置 LaTeX Workshop
+title: 配置 LaTeX Workshop
 category: LaTeX
 description: 
 ---
@@ -8,8 +8,8 @@ description:
 ## 通用配置
 
 ```json-doc
-// 编译工具
 {
+  // 编译工具
   "latex-workshop.latex.tools": [
       {
         "name": "latexmk",
@@ -67,7 +67,7 @@ description:
         ]
       }
     ],
-  // 编译处方
+  // Compiling Recipes
   "latex-workshop.latex.recipes": [
     {
       "name": "pdflatex",
@@ -107,6 +107,8 @@ description:
       ]
     },
   ],
+  // 定义默认的 recipe
+  "latex-workshop.latex.recipe.default": "first",
   // 清理中间辅助文件
   "latex-workshop.latex.clean.fileTypes": [
     "*.aux",
@@ -211,6 +213,15 @@ description:
   ],
 }
 ```
+
+## 文档及说明
+
+### 编译 $\LaTeX$ 文件的方式
+
+1. 打开命令面板（Command Palette），键入 Build LaTeX project，选择对应项，使用默认 recipe 编译。
+2. 打开命令面板（Command Palette），键入 Build with recipe，然后选择需要用的 recipe 进行编译。
+3. 点击左侧 $\TeX$ 徽章，在菜单栏中选择 Build LaTeX project，这里可以自行选择使用哪一个 recipe 进行编译。
+4. 打开 VS Code 集成终端，手动键入编译命令。
 
 ## 参考
 
