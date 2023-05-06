@@ -176,7 +176,7 @@ last_modified_at: 2023-05-06
 
 ### macOS
 
-推荐使用 [Skim](https://skim-app.sourceforge.io/) 作为外部阅读器，下载完成后，打开 skim 进入设置，在同步栏中勾选`检查文件变化`和`自动重新加载`，将 PDF-TeX 同步支持下面的预设选择为 `Visual Studio Code`。见下图：
+推荐使用 [Skim](https://skim-app.sourceforge.io/) 作为外部阅读器，下载完成后，打开 Skim 进入设置，在同步栏中勾选`检查文件变化`和`自动重新加载`，将 PDF-TeX 同步支持下面的预设选择为 `Visual Studio Code`。见下图：
 
 <figure>
   <img src="../images/latex-workshop-configuration/skim-setting.png" alt="skim-setting" class="invert" style="max-width: 50%;">
@@ -224,13 +224,15 @@ last_modified_at: 2023-05-06
 }
 ```
 
+> 这里的 `SumatraPDFROOT` 指可执行文件 `SumatraPDF.exe` 所在的路径。
+
 ## 文档及说明
 
 ### 编译 $\LaTeX$ 文件的方式
 
 1. 打开命令面板（Command Palette），键入 Build LaTeX project，选择对应项，使用默认 recipe 编译。
 2. 打开命令面板（Command Palette），键入 Build with recipe，然后选择需要用的 recipe 进行编译。
-3. 点击左侧 $\TeX$ 徽章，在菜单栏中选择 Build LaTeX project，这里可以自行选择使用哪一个 recipe 进行编译。
+3. 点击左侧 $\TeX$ 徽章，在菜单栏中选择 Build LaTeX project，这里可以自行选择 recipe 进行编译。
 4. 打开 VS Code 集成终端，手动键入编译命令。
 
 ### 正反向跳转 (macOS + Skim)
