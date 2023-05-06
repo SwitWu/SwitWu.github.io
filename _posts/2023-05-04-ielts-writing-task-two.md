@@ -144,6 +144,170 @@ description:
 ### 例子
 
 > Some people think that robots are very important for human’s future development. Others, however, think that robots are a dangerous invention that could have negative effects on society. Discuss both views and give your opinion. (2011.01.08 & 2020.10.10)  
-> (背景介绍) With the development of science and technology, an increasing number of inventions have appeared, among which robots might be the most debatable one.  
+> (背景介绍) With the development of science and technology, an increasing number of inventions have appeared, among which robots might be the most debatable one. 随着科技的发展，越来越多的发明涌现出来，其中机器人可能是最具争议的一个。  
 > (改写题目) Some individuals hold the view that robots can bring benefits to our life and work, while other people worry that they may jeopardize our future.  
 > (个人观点) Personally, I tend to agree with the former view.
+
+## 谋篇布局
+
+### 双边支持结构
+
+|段落|内容|
+|:---:|:---:|
+|首段|背景介绍 + 改写题目 + 个人观点|
+|主体段一|中心句：概括一方观点<br/>论点 1 + 论据 1<br/>论点 2 + 论据 2<br/>(论点 3 + 论据 3)|
+|主体段二|中心句：概括另一方观点<br/>论点 1 + 论据 1<br/>论点 2 + 论据 2<br/>(论点 3 + 论据 3)|
+|结尾段|总结：重申个人观点|
+
+> 例：It is generally believed that some people are born with certain talents, for instance for sport or music, and others are not. However, it is sometimes claimed that any child can be taught to become a good sports person or musician. Discuss about the two views and give your own ideas. (C7T1)
+>
+> (开头段) The relative importance of natural talent and training is a frequent topic of discussion when people try to explain different levels of ability in, for example, sport, art or music. From my perspective, they both have an indispensable role to play in becoming outstanding 
+sportsmen or musicians. (陈述争议 + 表明个人观点)  
+>
+> (主体段 1) Obviously, education systems are based on the belief that all children can effectively be taught to acquire different skills, including those associated with sport, art or music. So from our own school experience, we can find plenty of evidence to support the view that a child can acquire these skills with continued teaching and guided practice. (这一段讨论教育)
+>
+> (主体段 2) However, some people believe that innate talent is what differentiates a person who has been trained to play a sport or an instrument, from those who become good players. In other words, there is more to the skill than a learned technique, and this extra talent cannot be taught, no matter how good the teacher or how frequently a child practices. In addition, such talents can give individuals a facility for certain skills that allow them to excel, while more hard-working students never manage to reach a comparable level.
+>
+> (结尾段) I personally think as with all questions of nature versus nurture, they are not mutually exclusive. Good musicians or artists and exceptional sports stars have probably succeeded because of both good training and natural talent. Without the natural talent, continuous training would be neither attractive nor productive, and without the training, the child would not learn how to exploit and develop their talent.
+
+
+> 例：In the past, the role of teacher was to provide information. Today, students have access to wide sources of information. There is, therefore, no role of teachers in modern education. Do you agree or disagree? (20170325)
+>
+> + 老师的其它角色
+>   + 提供准确系统的知识：provide accurate and systematic knowledge
+>   + 互动式教学：interactive teaching
+>   + 育人：inculcate students with positive values, virtues and good qualities  
+> + 自己找信息的好处
+>   + 方便，随时随地：convenient
+>   + 信息全面丰富：abundant and rich information
+> + 总结段：In conclusion, teachers and the Internet have their own unique functions and advantages that are irreplaceable. A combination of them would enable students to study more effectively and efficiently.
+
+> 例：  Some people say that traveling abroad is necessary to get knowledge about other countries. But some suggest that TV and the internet can also help people know about foreign countries. Discuss both views and give your own opinion. (2016.08.04 & 2014.10.18)  
+> + 出国了解国外文化
+>   + 亲身经历：gain first hand experience, local cuisine and specialty
+>   + 印象深刻：leave a deep impression, get acquainted with locals
+>   + 信息真实可靠：authentic and reliable information
+> + 网络了解国外文化
+>   + 省时省钱，经济快捷：economical, convenient
+>   + 信息丰富：a massiv/considerable amount of information
+> + 总结段：It is up to individuals to decide which mode is preferable. For those who have enough time available for an international journey and ample money to cover all the expenses involved, travelling abroad is highly recommended, while TV and the Internet would be a good choice if travelling is financially unaffordable and time does not permit going abroad.
+
+> 例：Too much money is spent in maintaining and repairing old buildings and we should knock them down and build modern ones instead. To what extent do you agree or disagree? (2017.12.02 & 2019.07.18)
+> + decrepit apartments and office buildings 要拆
+>   + 具有安全隐患：have safety concerns/risks
+>   + 楼层低，浪费土地资源：low-rise, waste land sources
+>   + 影响城市形象：disfigure/spoil cityscape and townscape
+> + historical structures 不拆
+>   + 记录历史，具有文化意义：record history, have cultural implications
+>   + 宝贵的旅游资源：profitable/lucrative tourism resources
+
+
+### 支持单边结构——双方对立
+
+|段落|内容|
+|:---:|:---:|
+|首段|背景介绍 + 改写题目 + 个人观点|
+|主体段一|中心句：概括自己倾向的一方观点<br/>论点 1 + 论据 1<br/>论点 2 + 论据 2<br/>(论点 3 + 论据 3)|
+|主体段二|中心句：概括自己不倾向的一方观点<br/>论点 1 + 论据 1<br/>反驳论点 1 + 论据|
+|结尾段|总结：重申个人观点|
+
+> 例：Some experts believe that it is better for children to begin learning a foreign language at primary school rather than secondary school. Do the advantages of this outweigh the disadvantages? (C9T1)
+> 
+> (开头段) Traditionally, children have begun studying foreign languages at secondary school, but introducing them earlier is recommended by some educationalists. This policy has been adopted by some educational authorities or individual schools, with more positive outcomes than negative ones.（改写题目+个人观点）
+> 
+> (主体段1) The obvious argument in its favour is that young children pick up languages much more easily than teenagers. Their brains are still programmed to acquire their mother tongue, which facilitates learning another language, and unlike adolescents, they are not inhabited by self-consciousness.（分析好处，提出分论点一）
+> 
+> (主体段2) In addition, the greater flexibility of the primary timetable allows for more frequent, shorter sessions and for a play-centred approach, thus maintaining learners' enthusiasm and progress. Their command of the language in later life will benefit from this early exposure, while learning other languages subsequently will be easier for them. They may also gain a better understanding of other cultures.（分析好处，提出分论点二）
+> 
+> (主体段3) There are, however, some disadvantages. Primary school teachers are generalists, and may not have the necessary language skills themselves. If primary language teaching is not standardized, secondary schools could be faced with a great variety of levels in different languages within their intake, resulting in a classroom experience which undoes the earlier gains. There is no advantage if enthusiastic primary pupils become demotivated as soon as they change schools. However, these issues can be addressed strategically within the policy adopted. For example, specialists can be brought in to provide systematic language training for primary school teachers.（分析弊端，后面转折提出解决办法）
+> 
+> (结尾段) In conclusion, anything which encourages language learning benefits society culturally and economically, and early exposure to language learning contributes to this. Young children's innate abilities should be harnessed to make these benefits more achievable.
+
+> 例：In some countries, there has been an increase in the number of parents who educate their children themselves at home instead of sending them to school. Do the advantages of this outweigh disadvantages? (2016.02.16 & 2018.04.26)
+> 
+> + advantages
+>   + 时间与课程灵活：flexible timetable and curriculum
+>   + 与父母关系密切：establish close contact/relationships with parents
+>   + 不易受外界环境的不良影响：be immune to adverse external impacts
+> + disadvantages
+>   + 父母缺乏专业教学方法：lack pedagogical strategies
+>   + 缺乏沟通能力、合作能力和领导力：lack communication skills, team spirits and leadership
+>   + 难以交到同龄朋友：hard to get acquainted with peers
+
+> Some people think young people are not suitable for important positions in the government, while other people think it is a good idea for young people to take on these positions. Discuss both views and give your own opinion. (2017.10.21 & 2014.07.12)
+> 
+> + 年轻人不适合
+>   + 经验不足，错过最佳时机：limited experience, miss the decisive moment
+>   + 容易冲动行事：tend to act on a sudden impluse
+>   + 缺少威信：lack authority
+> + 年轻人适合
+>   + 体能好，更有精力：better physical condition, have more vigour
+>   + 思想开放，愿意接受新鲜事物：open-minded, be receptive to new things
+
+## 中心句写作
+
+主体段中心句要概括题中双方观点，回应写作要求。
+
+### 双边讨论型句式
+
++ 主体段一
+  + On the one hand, it is understandable why people might think that 观点一
+  + It is evidently reasonable for some people to argue that 观点一
++ 主体段二
+  + On the other hand, others hold a differing idea that 观点二
+  + By contrast, some others may claim that 观点二
+
+### 同不同意型句式
+
++ 主体段一
+  + On the one hand, I agree/disagree that 观点一 for the following + 数字 + reasons.
++ 主体段二
+  + Nevertheless, I also believe it is reasonable to hold the idea that 观点二
+
+### 权衡利弊型句式
+
++ 主体段一
+  + There is no doubt that sth has a bunch of benefits./sb can benefit a lot from ……
++ 主体段二
+  + However, the negative effects should also be noted.
+
+## 论证方式
+
++ 因果论证
++ 举例论证
++ 对比论证
++ 分类论证
+
+### 因果论证
+
+表示因果关系的一些词汇及短语：
+
++ 连词：as, since, for, so
++ 副词：as a result, consequently, therefore, hence
++ 介词：due to, owing to, because of
++ 动词：result in, lead to, give rise to, contribute to, account for, be responsible for, bring about, attribute to
++ 名词：reason, factor, cause, result, consequence, effect
+
+> 例：Many schools encourage students to evaluate and criticise their teachers in order to improve the quality of education, while others say this will lead to loss of respect for teachers. Discuss both views and give your own opinion. (2015.05.16)
+> 
+> 中心句：On the one hand, it is understandable why some educationalists advocate that students should be allowed to judge and even criticize their teachers.
+> 
+> 论点 1 + 论据：First of all, this practice contributes to teachers' teaching skills for the reason that teachers can make timely adjustments concerning their curriculum and teaching methods after realizing their drawbacks according to students' feedback. With teachers equipped with greater proficiency, the quality of education will be largely improved, from which students can also benefit a lot.
+> 
+> 论点 2 + 论据：In addition, evaluating teachers enables students to develop critical thinking because they have to think in a critical way so as to point out their teachers' errors or drawbacks. With critical thinking, they are more likely to look at a problem in more comprehensive ways and form an objective opinion, which is an invaluable ability for their future development.
+
+> 例：Some people think that schools should stop teaching students by using books because students find them boring and that children can learn from films, TV, video games and computers instead. To what extent do you agree or disagree? (2018.08.18)
+> 
+> 中心句：On the one hand, I disagree that books should no longer be employed in class.
+> 
+> 论点 1 + 论据：The most obvious reason is that reading facilitates the development of imagination because written materials allow students to visualize what they read in their mind. Provided that the class was delivered with TV dramas or movies, this ability would be undermined as the information will be directly presented on the screen and seen in the same way by all viewers.
+> 
+> 论点 2 + 论据：Another significant point is that reading contents on textbooks is conducive to the enhancement of students' language skills for the reason that readers need to pay attention to the grammar, logic and context when comprehending a passage. With better language proficiency, students tend to be more adept at expressing themselves and communicating with others, which is of great value to their future study and work.
+
+> 例：Nowadays a large amount of advertising aimed at children should be banned because of its negative effects. To what extent do you agree or disagree? (2018.08.11 & 2016.02.20)
+> 
+> 中心句：I agree that advertisements should be prohibited because they pose enormous harm to young children.
+> 
+> 论点 1 + 论据：Firstly, featured by toys and snacks whose temptation children show little resistance to, these advertising aims at and succeeds in encouraging children' consumption behaviors. As a result, these children tend to buy some unnecessary products irrationally, developing a bad habit of wasting.
+> 
+> 论点 2 + 论据：At the same time, children advertising is partly responsible for children being kept away from reality. Catering to the psychological needs of children, many advertisements describe the world in highly imaginative and unrealistic manners. Consequently, children who has been made to believe these advertisements will experience great difficulty in coping with problems in real life.
