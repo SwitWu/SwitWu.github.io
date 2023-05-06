@@ -3,6 +3,7 @@ layout: post
 title: 配置 LaTeX Workshop
 category: LaTeX
 description: 
+math: true
 ---
 
 ## 通用配置
@@ -185,6 +186,7 @@ description:
   "latex-workshop.view.pdf.external.synctex.command": "/Applications/Skim.app/Contents/SharedSupport/displayline",
   "latex-workshop.view.pdf.external.synctex.args": [
     "-r",
+    "-b",
     "%LINE%",
     "%PDF%",
     "%TEX%"
@@ -222,6 +224,13 @@ description:
 2. 打开命令面板（Command Palette），键入 Build with recipe，然后选择需要用的 recipe 进行编译。
 3. 点击左侧 $\TeX$ 徽章，在菜单栏中选择 Build LaTeX project，这里可以自行选择使用哪一个 recipe 进行编译。
 4. 打开 VS Code 集成终端，手动键入编译命令。
+
+### 正反向跳转 (macOS + Skim)
+
++ Source $\to$ PDF
+  + `Option`+`Command`+`J` 跳转至 PDF 对应位置
+  + `Option`+`Command`+`V` 跳转至 PDF 开头位置
++ PDF $\to$ Source: `Shift`+`Command`+`Click`
 
 ## 参考
 
