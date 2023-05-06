@@ -4,6 +4,7 @@ title: 配置 LaTeX Workshop
 category: LaTeX
 description: 
 math: true
+last_modified_at: 2023-05-06
 ---
 
 ## 通用配置
@@ -174,6 +175,13 @@ math: true
 ## PDF 阅读器配置
 
 ### macOS
+
+推荐使用 [skim](https://skim-app.sourceforge.io/) 作为外部阅读器，下载完成后，打开 skim 进入设置，在同步栏中勾选`检查文件变化`和`自动重新加载`，将 PDF-TeX 同步支持下面的预设选择为 `Visual Studio Code`。见下图：
+
+<figure>
+  <img src="../images/latex-workshop-configuration/skim-setting.png" alt="skim-setting" class="invert" style="max-width: 50%;">
+  <figcaption markdown="span">设置 skim</figcaption>
+</figure>
 
 ```json-doc
 {
