@@ -286,7 +286,7 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 + 副词：as a result, consequently, therefore, hence
 + 介词：due to, owing to, because of
 + 动词：
-  + 引起、导致（后面跟结果）：result in, lead to, give rise to, contribute to[^contribute-to], account for, be responsible for, bring about/on
+  + 引起、导致（后面跟结果）：result in, lead to, give rise to, contribute to[^contribute-to], account for, be responsible for, bring about/on, pose
   + 由于、归因于（后面跟原因）： attribute to, ascribe to, due to, owing to, put down to, credit to, on account of
 + 名词：reason, factor, cause, result, consequence, effect
 
@@ -304,17 +304,21 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 > 
 > 中心句：On the one hand, I disagree that books should no longer be employed in class.
 > 
-> 论点 1 + 论据：The most obvious reason is that reading facilitates the development of imagination because written materials allow students to visualize what they read in their mind. Provided that the class was delivered with TV dramas or movies, this ability would be undermined as the information will be directly presented on the screen and seen in the same way by all viewers.
+> 论点 1 + 论据：The most obvious reason is that reading facilitates the development of imagination because written materials allow students to visualize what they read in their mind. Provided that the class was delivered with TV dramas or movies, this ability would be undermined as the information will be directly presented on the screen and seen in the same way by all viewers.（有助于提高想象力）
 > 
-> 论点 2 + 论据：Another significant point is that reading contents on textbooks is conducive to the enhancement of students' language skills for the reason that readers need to pay attention to the grammar, logic and context when comprehending a passage. With better language proficiency, students tend to be more adept at expressing themselves and communicating with others, which is of great value to their future study and work.
+> 论点 2 + 论据：Another significant point is that reading contents on textbooks is conducive to the enhancement of students' language skills for the reason that readers need to pay attention to the grammar, logic and context when comprehending a passage. With better language proficiency, students tend to be more adept[^adept] at expressing themselves and communicating with others, which is of great value to their future study and work.（有助于增强语言能力）
 
-> 例：Nowadays a large amount of advertising aimed at children should be banned because of its negative effects. To what extent do you agree or disagree? (2018.08.11 & 2016.02.20)
+[^adept]: adept 意指“内行的、熟练的、精通的”，近义词或短语有：proficient, excel at, be good at, do well in
+
+> 例：Nowadays a large amount of advertising aimed at children should be banned because of its negative effects. To what extent do you agree or disagree? (2018.08.11 & 2016.02.20) 是否应该禁止针对儿童的广告
 > 
 > 中心句：I agree that advertisements should be prohibited because they pose enormous harm to young children.
 > 
-> 论点 1 + 论据：Firstly, featured by toys and snacks whose temptation children show little resistance to, these advertising aims at and succeeds in encouraging children' consumption behaviors. As a result, these children tend to buy some unnecessary products irrationally, developing a bad habit of wasting.
+> 论点 1 + 论据：Firstly, featured by toys and snacks whose temptation children show little resistance to, these advertising aims at and succeeds in encouraging children's consumption behaviors. As a result, these children tend to buy some unnecessary products irrationally, developing a bad habit of wasting.
 > 
-> 论点 2 + 论据：At the same time, children advertising is partly responsible for children being kept away from reality. Catering to the psychological needs of children, many advertisements describe the world in highly imaginative and unrealistic manners. Consequently, children who has been made to believe these advertisements will experience great difficulty in coping with problems in real life.
+> 论点 2 + 论据：At the same time, children advertising is partly responsible for children being kept away from reality. Catering to[^cater-to] the psychological needs of children, many advertisements describe the world in highly imaginative and unrealistic manners. Consequently, children who has been made to believe these advertisements will experience great difficulty in coping with problems in real life.
+
+[^cater-to]: cater to 迎合……（的需求）（有故意讨好之意）；cater for 意为为……提供服务（单指服务、需要，没有故意讨好之意）。
 
 ### 举例论证
 
@@ -322,9 +326,9 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 
 + For example/instance
 + Take sth as an example
-+ A case in point is
-+ A typical example can be found in
-+ This is true given the example of
++ A case in point is ……
++ A typical example can be found in ……
++ This is true given the example of ……
 
 > 例：Many customs and traditional ways of behaviour are no longer relevant to modern world, so they are not worth keeping any more. To what extent do you agree or disagree? (2016.09.10)
 > 
