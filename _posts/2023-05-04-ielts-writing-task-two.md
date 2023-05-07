@@ -285,16 +285,20 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 + 连词：as, since, for, so
 + 副词：as a result, consequently, therefore, hence
 + 介词：due to, owing to, because of
-+ 动词：result in, lead to, give rise to, contribute to, account for, be responsible for, bring about, attribute to
++ 动词：
+  + 引起、导致（后面跟结果）：result in, lead to, give rise to, contribute to[^contribute-to], account for, be responsible for, bring about/on
+  + 由于、归因于（后面跟原因）： attribute to, ascribe to, due to, owing to, put down to, credit to, on account of
 + 名词：reason, factor, cause, result, consequence, effect
+
+[^contribute-to]: 贡献、促进、有助于、导致
 
 > 例：Many schools encourage students to evaluate and criticise their teachers in order to improve the quality of education, while others say this will lead to loss of respect for teachers. Discuss both views and give your own opinion. (2015.05.16)
 > 
 > 中心句：On the one hand, it is understandable why some educationalists advocate that students should be allowed to judge and even criticize their teachers.
 > 
-> 论点 1 + 论据：First of all, this practice contributes to teachers' teaching skills for the reason that teachers can make timely adjustments concerning their curriculum and teaching methods after realizing their drawbacks according to students' feedback. With teachers equipped with greater proficiency, the quality of education will be largely improved, from which students can also benefit a lot.
+> 论点 1 + 论据：First of all, this practice contributes to teachers' teaching skills for the reason that teachers can make timely adjustments concerning their curriculum and teaching methods after realizing their drawbacks according to students' feedback. With teachers equipped with greater proficiency, the quality of education will be largely improved, from which students can also benefit a lot.（帮助老师及时调整课程和教学方法，提升教学质量）
 > 
-> 论点 2 + 论据：In addition, evaluating teachers enables students to develop critical thinking because they have to think in a critical way so as to point out their teachers' errors or drawbacks. With critical thinking, they are more likely to look at a problem in more comprehensive ways and form an objective opinion, which is an invaluable ability for their future development.
+> 论点 2 + 论据：In addition, evaluating teachers enables students to develop critical thinking because they have to think in a critical way so as to point out their teachers' errors or drawbacks. With critical thinking, they are more likely to look at a problem in more comprehensive ways and form an objective opinion, which is an invaluable ability for their future development.（有助于学生形成批判性思维）
 
 > 例：Some people think that schools should stop teaching students by using books because students find them boring and that children can learn from films, TV, video games and computers instead. To what extent do you agree or disagree? (2018.08.18)
 > 
@@ -413,3 +417,7 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 > 论点：To some extent the question depends on the age of the child.
 > 
 > 论据: To punish a very young child is both wrong and foolish, as an infant will not understand what's happening or why he or she is being punished. Once the age of reason is reached however, a child can be rewarded for good behaviour and discouraged from bad. This kind but firm approach will achieve more than harsh punishments, which might entail many negative consequences unintended by the parents.
+
+## 注释
+
+<div id="footnotes"></div>
