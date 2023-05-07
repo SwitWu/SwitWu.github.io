@@ -325,7 +325,7 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 表示“例如”的常见表达：
 
 + For example/instance
-+ Take sth as an example
++ Take sth for example
 + A case in point is ……
 + A typical example can be found in ……
 + This is true given the example of ……
@@ -338,8 +338,8 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 
 ### 对比论证
 
-+ 与反面事物对比
-+ 古今对比
++ 与反面事物对比（横向）
++ 古今对比（纵向）
 + 假设对比
 
 #### 与反面事物对比
@@ -364,7 +364,7 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 > 
 > 论点：Those who have spent some time earning a living or travelling to other places, have a broader view of life and better personal resources to draw on.
 > 
-> 论据：By contrast, a young adult who passes directly from school to university is rather restricted in terms of general knowledge and experience of the world.
+> 论据：*By contrast*, a young adult who passes directly from school to university is rather restricted in terms of general knowledge and experience of the world.
 
 > 论点：Children can enjoy a more colorful life in cities since there are various cultural activities organized and more advanced facilities available for children to enjoy in cities, such as exhibitions, galleries, museums and theaters.
 > 
@@ -386,33 +386,47 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 
 #### 假设对比
 
+找基本事实，假设现实情况继续进行下去或者假设与现实相反的情况，预测将来。
+
 + If ……, ……
-+ Supposing that
-+ Provided that
++ Supposing that ……
++ Provided that ……
 + Lack of sth
 + Without sth
 
-> 例：Countries are becoming more and more similar because people are able to buy the same products anywhere in the world. Do you think this is a positive or negative development? (C10T3P78)
+> 例：Countries are becoming more and more similar because people are able to buy the same products anywhere in the world. Do you think this is a positive or negative development? (C10T3P78&166)
 > 
-> 论点：A country's history, language and ethos are all inextricably(密不可分地) bound up in(与……息息相关) its manufactured artefacts.
+> 论点：A country's history, language and ethos are all inextricably bound up in its manufactured artefacts.
 > 
-> 论据：If the relentless(不间断的) advance of international brands into every corner of the world continues, these bland packages might one day completely oust(取代) the traditional objects of a nation, which would be a loss of richness and diversity in the world, as well as the sad disappearance of the manifestations of a place's character.
+> 论据：*If the relentless advance of international brands into every corner of the world continues*, these bland packages might one day completely oust the traditional objects of a nation, which would be a loss of richness and diversity in the world, as well as the sad disappearance of the manifestations of a place's character.（假设现实情况继续进行下去）
 
-> Some people say that the best way to improve public health is by increasing the number of sports facilities. Others, however, say that this would have little effects on public health and that other measures are required. Discuss both these views and give your own opinion. (C9T3P77)
+> 例：Some people say that the best way to improve public health is by increasing the number of sports facilities. Others, however, say that this would have little effects on public health and that other measures are required. Discuss both these views and give your own opinion. (C9T3P77)
 > 
 > 论点：Advocates of this believe that today’s sedentary lifestyle and stressful working conditions mean that physical activity is no longer part of either our work or our leisure time.
 > 
-> 论据：If there were easy-to-reach local sports centers, we would be more likely to make exercise a regular part of our lives, rather than just collapsing in front of a screen every evening.
+> 论据：*If there were easy-to-reach local sports centers*, we would be more likely to make exercise a regular part of our lives, rather than just collapsing in front of a screen every evening.（假设与现实相反的情况）
+
+> 练习：用假设对比的方式拓展下面的论点
+> 
+> 论点：A good understanding of the computer technology will give a student an edge in the modern society where the Internet is a master key to almost all the knowledge and information available.
+> 
+> 论据：If one has little knowledge of computer skills, he or she will probably experience great difficulty in finding the latest information, in danger of lagging behind the times and being excluded from what is going on in the world.
 
 ### 分类论证
 
 #### 细化话题
 
-> 例：同不同意型 用惩罚的方式教育孩子
+> 例：是否应该用动物做实验
+> 
+> 论点：Whether animal experiments should be carried out depends on the type of the experiments.
+> 
+> 论据：Personally, I disagree with the *experiments for cosmetic purposes*. I cannot think of a single item of cosmetics which would justify pain or death to an animal. However, there are some *medical experiments* which need to be done on animals prior to humans. In such cases, I am convinced that the life of a human is more valuable than the life of a lab rat.
+
+> 例：是否应该用惩罚的方式教育孩子
 > 
 > 论点：Whether punishment should be involved to teach children to distinguish between right and wrong depends on the type of the punishment.
 > 
-> 论据：Punishment of a physical nature should not be resorted to, as that merely sends the message that it is acceptable for larger people to hit smaller ones - an outcome which may well result in the child starting to bully others. Rather, teachers and parents can use a variety of methods to discipline their young charges, such as detention(留校), withdrawal of privileges, and time-out(隔离处分). Making the punishment fit the crime is a useful notion.
+> 论据：*Punishment of a physical nature* should not be resorted to, as that merely sends the message that it is acceptable for larger people to hit smaller ones---an outcome which may well result in the child starting to bully others. Rather, teachers and parents can use a variety of methods to discipline their young charges, such as detention(留校), withdrawal of privileges, and time-out(隔离处分). Making the punishment fit the crime is a useful notion.
 
 #### 细化人群
 
