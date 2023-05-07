@@ -311,3 +311,105 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 > 论点 1 + 论据：Firstly, featured by toys and snacks whose temptation children show little resistance to, these advertising aims at and succeeds in encouraging children' consumption behaviors. As a result, these children tend to buy some unnecessary products irrationally, developing a bad habit of wasting.
 > 
 > 论点 2 + 论据：At the same time, children advertising is partly responsible for children being kept away from reality. Catering to the psychological needs of children, many advertisements describe the world in highly imaginative and unrealistic manners. Consequently, children who has been made to believe these advertisements will experience great difficulty in coping with problems in real life.
+
+### 举例论证
+
+表示“例如”的常见表达：
+
++ For example/instance
++ Take sth as an example
++ A case in point is
++ A typical example can be found in
++ This is true given the example of
+
+> 例：Many customs and traditional ways of behaviour are no longer relevant to modern world, so they are not worth keeping any more. To what extent do you agree or disagree? (2016.09.10)
+> 
+> 中心句：I believe traditional culture should be preserved, for it plays a pivotal role in our understanding of history.
+> 
+> 论点 + 论据：As we know, traditional customs and rituals are reflections of historical realities. *Take* boat-racing in China *for example*. It has been an event in memory of Qu Yuan, a legendary poet in ancient China, who drowned himself after watching helplessly the demise of his country. Chinese people are still celebrating this event annually today, when boat-racing has nothing to do their daily lives, for the reason that it reminds them of the poet's patriotism.
+
+### 对比论证
+
++ 与反面事物对比
++ 古今对比
++ 假设对比
+
+#### 与反面事物对比
+
+一般性的步骤为：
+
+1. 找反面事物
+2. 定对比内容
+3. 转反面表述
+4. 加衔接词
+
+“相反”、“与……不同”的常见表达：
+
++ by/in contrast
++ conversly
++ in comparison with
++ compared with
++ different from
++ unlike
+
+> 例：In some countries young people are encouraged to work or travel for a year between finishing high school and starting university studies. Discuss the advantages and disadvantages for young people who decide to do this. (C5T2)
+> 
+> 论点：Those who have spent some time earning a living or travelling to other places, have a broader view of life and better personal resources to draw on.
+> 
+> 论据：By contrast, a young adult who passes directly from school to university is rather restricted in terms of general knowledge and experience of the world.
+
+> 论点：Children can enjoy a more colorful life in cities since there are various cultural activities organized and more advanced facilities available for children to enjoy in cities, such as exhibitions, galleries, museums and theaters.
+> 
+> 论据：Compared with children in cities, those in the countryside, who live a simple and monotonous(单调的) life and tend to be more unenlightened(未受启迪的) for lack of adequate information, are less experienced and knowledgeable.
+
+> 例：In some countries, there has been an increase in the number of parents who educate their children themselves at home instead of sending them to school. Do you think the advantages of this outweigh the disadvantages? (2016.02.13)
+> 
+> 论点：With only one child to teach, parents are able to know completely about the problems the child has.
+> 
+> 论据：On the contrary, teachers in school have dozens of students to take care of and cannot spend that much time on the same child.
+
+#### 古今对比
+
+> 例：Some people believe that the country would benefit a lot from more young people entering university; However, others think that the large number of people receiving college education only leads to graduate unemployment. Discuss both views and give your opinion. (2016.06.16)
+> 
+> 论点：As more and more young graduates pour into the job market, to get a job has become increasingly difficult due to the fierce competition.
+> 
+> 论据：A promising job was rather easy to obtain with a bachelor's degree 20 years ago, but now the same position is open only to those with a master's or even a doctor's degree.
+
+#### 假设对比
+
++ If ……, ……
++ Supposing that
++ Provided that
++ Lack of sth
++ Without sth
+
+> 例：Countries are becoming more and more similar because people are able to buy the same products anywhere in the world. Do you think this is a positive or negative development? (C10T3P78)
+> 
+> 论点：A country's history, language and ethos are all inextricably(密不可分地) bound up in(与……息息相关) its manufactured artefacts.
+> 
+> 论据：If the relentless(不间断的) advance of international brands into every corner of the world continues, these bland packages might one day completely oust(取代) the traditional objects of a nation, which would be a loss of richness and diversity in the world, as well as the sad disappearance of the manifestations of a place's character.
+
+> Some people say that the best way to improve public health is by increasing the number of sports facilities. Others, however, say that this would have little effects on public health and that other measures are required. Discuss both these views and give your own opinion. (C9T3P77)
+> 
+> 论点：Advocates of this believe that today’s sedentary lifestyle and stressful working conditions mean that physical activity is no longer part of either our work or our leisure time.
+> 
+> 论据：If there were easy-to-reach local sports centers, we would be more likely to make exercise a regular part of our lives, rather than just collapsing in front of a screen every evening.
+
+### 分类论证
+
+#### 细化话题
+
+> 例：同不同意型 用惩罚的方式教育孩子
+> 
+> 论点：Whether punishment should be involved to teach children to distinguish between right and wrong depends on the type of the punishment.
+> 
+> 论据：Punishment of a physical nature should not be resorted to, as that merely sends the message that it is acceptable for larger people to hit smaller ones - an outcome which may well result in the child starting to bully others. Rather, teachers and parents can use a variety of methods to discipline their young charges, such as detention(留校), withdrawal of privileges, and time-out(隔离处分). Making the punishment fit the crime is a useful notion.
+
+#### 细化人群
+
+> 例：同不同意型 用惩罚的方式教育孩子
+> 
+> 论点：To some extent the question depends on the age of the child.
+> 
+> 论据: To punish a very young child is both wrong and foolish, as an infant will not understand what's happening or why he or she is being punished. Once the age of reason is reached however, a child can be rewarded for good behaviour and discouraged from bad. This kind but firm approach will achieve more than harsh punishments, which might entail many negative consequences unintended by the parents.
