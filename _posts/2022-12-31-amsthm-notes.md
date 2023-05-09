@@ -371,3 +371,4 @@ This is a note.
 + [$\TeX$ FAQ: $\LaTeX$ internal “abbreviations”, etc.
 ](https://texfaq.org/FAQ-ltxabbrv)
 + [`\ignorespaces` vs `\relax`](https://tex.stackexchange.com/questions/671478/ignorespaces-vs-relax)
++ [embrac 宏包](https://www.ctan.org/pkg/amsthm/embrac)
