@@ -17,9 +17,9 @@ description:
 ### Library
 
 + Do you often go to the library?  
-  Hardly do I go to the library. There are specific learning rooms provided by my school so there is no necessity to go to the library for self-study. What's more, there are too many people in the library and I think the library is too stuffy for me to stay for a long time.
+  Hardly do I go to the library. There are specific learning rooms provided by my school so there is no necessity to go to the library for self-study. What's more, there are too many people in the library and I think the library is too stuffy for me to stay there for a long time.
 + What do you usually do in the library?  
-  Usually I go to library to borrow some mathematical books or search for some interesting extra-curricular books such as biographies. And when the final exam is coming, I'll revise in the library.
+  Usually I go to library to borrow some mathematical books or search for some interesting extracurricular books such as biographies. And when the final exam is coming, I'll revise in the library.
 + Did you go to library when you were a child?  
   No. When I was a child I lived in a small town where there was no library.
 + Do Chinese kids often go to library?  
@@ -31,15 +31,14 @@ description:
 1. Where do you go to school?  
   I'm currently a college student at Wuhan University, which is a beautiful and famous university in China.
 2. Do you go to a good school?  
-  Yes. The teaching recourses are abundant. The campus scenery is beautiful.
-  The classmates are excellent and hardworking. Make many good friends.
+  Definitely. There are abundant teaching resources, beautiful campus sceneries, excellent classmates and various sports facilities in the school. So I think the school is very good.
 3. Do you like your teachers?
     + Yes. Some teachers have a sense of humour, make me stay focused in class.
     + Some can use different teaching aids, make class more stimulating.
-4. Do you like your current learning atmosphere?
+4. Do you like your current learning atmosphere?  
+  Yes. We have periodic reports and discussions in the seminar group and the school also regularly invites some renowned scholars to give some presentations to us. So the learning atmosphere is very strong.
 5. What's the differences between your school and other schools?  
-  My school has many historical buildings and Sakura.
-  From mid to late March, many tourists come to my school to enjoy the beautiful sceneries.
+  My school has many historical buildings and Sakura. From mid to late March, many tourists come to my school to enjoy the beautiful sceneries.
 6. Is there anything you want to change about your school?  
     + More school bus stations.
     + Build more canteens in some area.
@@ -82,11 +81,33 @@ description:
   Just in case that the keys drop onto the ground, I can hear the noticeable sound.
 
 
-## Part 2
+## 第二与第三部分
 
 ### Describe your favorite place in your house where you can relax
 
-I think it should be the sitting room, which is the main part of the house. It is comfortable, cozy and
+I think it must be my study, which is a small room in my house but I like it very much.
+
+There is a personal computer on the table, many books on the bookshelf and there are several movie posters on the wall.
+
+If I want to stay alone to relax, I will go to the study because my parents and friends won't interrupt me when I'm in the study. And I can read some books, have a cup of coffee or watch a great movie, which I enjoy very much.
+
+If I'm tired, I can just take a nap on the sofa and forget all the troubles in daily life for a while.
+
+Therefore, I think the study is my favorite place to relax.
+
+#### Why is it difficult for some people to relax
+
+#### What are the benefits of doing exercise?  
+
+The benefits of exercising are numerous, making it an essential component of a healthy and balanced lifestyle.
+
+Exercise can help to improve cardiovascular health, increase flexibility and strength, boost mood, and reduce the risk of chronic health conditions.
+
+Additionally, physical activity has been shown to help individuals manage stress and anxiety, improve sleep, and increase energy levels.
+
+Engaging in regular exercise can also lead to improved self-esteem, increased confidence, and a greater sense of well-being.
+
+#### Do people in your country exercise after work?
 
 
 
@@ -102,4 +123,4 @@ After the dinner, we enjoyed the snacks that we had bought in the supermarket an
 
 I think this meal is unusual because it is the first time for the classmates to gather together to eat a meal and through the activity we get to know each other better. What's more, the party house is beautifully decorated, which has left me a deep impression.
 
-Overall, it is an unforgettable experience and I really love this meal. And I'm looking forward to it for the next time.
+Overall, it is an unforgettable experience and I really love this meal. I'm looking forward to it for the next time.
