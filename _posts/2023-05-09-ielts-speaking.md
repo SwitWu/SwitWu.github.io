@@ -71,7 +71,7 @@ description:
 3. Do you want to be an artist?
 4. Do you like modern art or traditional art?
 
-## Keys
+### Keys
 
 1. Do you always bring a lot of keys with you?  
   No. I live in the school dormitary, so I only have to take the key of the dormitary and that of my electric motor car with me.
@@ -79,6 +79,70 @@ description:
   Never. That's probably I am not a scatterbrain.
   I always put the keys into my pocket or my bag. Before I leave one place to go to another place, I'll check the keys to make sure they're 
   Just in case that the keys drop onto the ground, I can hear the noticeable sound.
+
+### Wild animals
+
+1. Is there any wild animals in your country?  
+  Yes. There are many natural reserves in China and the country has established the corresponding laws to stipulate that any behaviour that endangers rare wild animals will be punished. So there are still lots of wild animals in China.
+2. Do you often see some wild animals in your country?  
+  Several years ago, I saw some wild boars(野猪) and ibex(野山羊) in the mauntains of my hometown. However, with the deforestation and excessive hunting, the number of these animals is dramatically decreasing and I can hardly see them any more.
+3. Do you know something about wild animals?  
+Yes. I have acquired some knowledge about wild animals through watching TV and reading books.
+4. Are there TV programs about wild animals in your country?  
+  Yes. In my country there are several TV programs about wild animals, one of which is called "The Animal World". It shows how the wild animals prey, mate, migrate and so on, from which I can learn a lot about the wild animals.
+5. Have you ever been to a zoo?  
+  Yes. Several years ago I went to a zoo with my best friend and saw numerous animals that I had never seen before. It was amazing and had left a deep impression in my mind.
+
+### Ice Cream
+
+1. Do you like ice cream?  
+  I'm a big fan of ice cream
+2. Did you eat ice cream when you were a child?  
+3. Are there shops selling ice cream near the place where you live?  
+4. Can you make ice cream yourself?  
+
+### Concentration
+
+1. Did you stay focused in class when you were a child?  
+2. Are you a focused person?  
+3. How do you stay focused?  
+4. Is it easy to stay focused in a noisy environment?  
+
+### Fixing Things
+
+1. Can you fix things?  
+2. What things can you fix?  
+3. How to fix things?  
+4. Do you ask people to teach you to fix things when you were a child?  
+
+### Favorite Day
+
+1. Which day is your favorite day?  
+2. Which day is your latest day?
+3. How do you usually spend your time?
+
+### Rain
+
+1. Do you like rainy days?
+2. Does it rain much in your city?
+3. Would you like to live in a city that is dry or wet?
+
+### Day Off
+
+1. What do you do on your day off?
+2. Do you usually spend your days off with your parents or your friends?
+
+### Bags
+
+1. Do you usually carry a bag?
+2. What kinds of bags do you like to carry?
+3. Do you change your bags often?
+
+### Teachers
+
+1. Do you want to be a teacher in the future?
+2. Do you remember one of your teachers?
+3. Do you have a favorite teacher?
 
 
 ## 第二与第三部分
@@ -98,14 +162,16 @@ Therefore, I think the study is my favorite place to relax.
 + Why is it difficult for some people to relax?
 
 + What are the benefits of doing exercise?  
-  The benefits of exercising are numerous, making it an essential component of a healthy and balanced lifestyle.  
+  The benefits of exercising are numerous, making it an essential component of a healthy and balanced lifestyle. 锻炼的好处非常多，这使得其成为健康均衡的生活方式的重要组成部分。  
   Exercise can help to improve cardiovascular health, increase flexibility and strength, boost mood, and reduce the risk of chronic health conditions.  
   Additionally, physical activity has been shown to help individuals manage stress and anxiety, improve sleep, and increase energy levels.  
   Engaging in regular exercise can also lead to improved self-esteem, increased confidence, and a greater sense of well-being.
 + Do people in your country exercise after work?  
   Well, I think it depends on where people live. For those living in cities, there are enough sports facilities around their houses so they often exercise after work. But for those who live in the rural areas, sports amenities are not adequate so they may not do exercise as frequently as people in cities.
 + What is the place where people spend most of their time at home?  
-  In most homes, I guess the place where people spend most of their time is the living room.  
+  In most homes, I guess the place where people spend most of their time is the living room. The living room is used for entertaning guests, relaxing such as watching TV, spending time with family menbers and friends. And in the living room there is usually a big and confortable sofa which nearly nobody would show resistance to.
++ Do you think there should be classes for training young people and children how to relax?  
+  Yeah. I think it's necessary to teach young people and children to learn how to relax. 
 
 
 
