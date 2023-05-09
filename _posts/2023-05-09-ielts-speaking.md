@@ -6,28 +6,27 @@ hidden: true
 description: 
 ---
 
-# Part 1
+## 第一部分
 
-## Part 1 三原则
+### Part 1 三原则
 
 + 每个问题回答 3--4 句话
 + 尽量可以有理有据的说话：reason + example
 + 先把简单的话说流利
 
-## Library
+### Library
 
 + Do you often go to the library?  
-  Hardly. Specific learning room provided by the school. Only go to the library when I need to borrow some books.
+  Hardly do I go to the library. There are specific learning rooms provided by my school so there is no necessity to go to the library for self-study. What's more, there are too many people in the library and I think the library is too stuffy for me to stay for a long time.
 + What do you usually do in the library?  
-  + find some interesting extra-curricular books such as biographies
-  + revise in the library when the final exam is coming
+  Usually I go to library to borrow some mathematical books or search for some interesting extra-curricular books such as biographies. And when the final exam is coming, I'll revise in the library.
 + Did you go to library when you were a child?  
   No. When I was a child I lived in a small town where there was no library.
 + Do Chinese kids often go to library?  
   I'm not sure. Kids in the rural areas seldom go to library.
   But children in the cities may go to library frequently.
 
-## Schools
+### Schools
 
 1. Where do you go to school?  
   I'm currently a college student at Wuhan University, which is a beautiful and famous university in China.
@@ -47,7 +46,7 @@ description:
     + Improve the internet survice, it is unstable.
 
 
-## Music
+### Music
 
 1. What music do you like?  
     + Pop music, easy to follow and learn, strike a chord with me.
@@ -65,7 +64,7 @@ description:
   Jackey Cheung. He is a famous HongKong singer and actor who has won many awards. Excel at performing several kinds of music style.
 
 
-## Art
+### Art
 
 1. Do you like art?  
   Yes, I like art such as painting.
@@ -83,10 +82,24 @@ description:
   Just in case that the keys drop onto the ground, I can hear the noticeable sound.
 
 
-# Part 2
+## Part 2
 
-## Describe an unusual meal you had
+### Describe your favorite place in your house where you can relax
+
+I think it should be the sitting room, which is the main part of the house. It is comfortable, cozy and
+
+
+
+### Describe an unusual meal you had
 
 Last year I enjoyed an unusual meal on a home party which was launched and organized by the class monitor.
 
-Before the party, we made some preparations. First of all, a questionnaire was conducted to check how many students would like to take part in the party. After that, several classmates and I went to a supermarket 
+Before the party, we made some preparations. First of all, a questionnaire was conducted to check how many students would like to take part in the party. After that, we made a shopping list and then went to a supermarket to buy the raw materials needed for cooking dinner.
+
+We arrived at the destination at around 6 pm and then began to make the dinner. Everything was delicious and we had a pleasant conservation with each other.
+
+After the dinner, we enjoyed the snacks that we had bought in the supermarket and we did many interesting activities such as billizrds, singing, table games and video games.
+
+I think this meal is unusual because it is the first time for the classmates to gather together to eat a meal and through the activity we get to know each other better. What's more, the party house is beautifully decorated, which has left me a deep impression.
+
+Overall, it is an unforgettable experience and I really love this meal. And I'm looking forward to it for the next time.
