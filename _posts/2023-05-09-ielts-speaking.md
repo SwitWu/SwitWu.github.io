@@ -98,8 +98,11 @@ Yes. I have acquired some knowledge about wild animals through watching TV and r
 1. Do you like ice cream?  
   I'm a big fan of ice cream especially when it's sunny and hot.
 2. Did you eat ice cream when you were a child?  
+  No, I spent my childhood in the countryside where at that time there was neither ice cream nor ice lolly.
 3. Are there shops selling ice cream near the place where you live?  
+  Yeah. There is a big supermarket and several convenience stores in the neighborhood and they all sell ice cream. Therefore it's pretty easy for me for buy ice cream nowadays.
 4. Can you make ice cream yourself?  
+  No, I can't. I think the procedure to make an ice cream might be a little complicated and I have never learned how to make ice cream.
 
 ### Concentration
 
