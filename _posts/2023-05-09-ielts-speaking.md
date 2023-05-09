@@ -95,19 +95,18 @@ If I'm tired, I can just take a nap on the sofa and forget all the troubles in d
 
 Therefore, I think the study is my favorite place to relax.
 
-#### Why is it difficult for some people to relax
++ Why is it difficult for some people to relax?
 
-#### What are the benefits of doing exercise?  
++ What are the benefits of doing exercise?  
+  The benefits of exercising are numerous, making it an essential component of a healthy and balanced lifestyle.  
+  Exercise can help to improve cardiovascular health, increase flexibility and strength, boost mood, and reduce the risk of chronic health conditions.  
+  Additionally, physical activity has been shown to help individuals manage stress and anxiety, improve sleep, and increase energy levels.  
+  Engaging in regular exercise can also lead to improved self-esteem, increased confidence, and a greater sense of well-being.
++ Do people in your country exercise after work?  
+  Well, I think it depends on where people live. For those living in cities, there are enough sports facilities around their houses so they often exercise after work. But for those who live in the rural areas, sports amenities are not adequate so they may not do exercise as frequently as people in cities.
++ What is the place where people spend most of their time at home?  
+  In most homes, I guess the place where people spend most of their time is the living room.  
 
-The benefits of exercising are numerous, making it an essential component of a healthy and balanced lifestyle.
-
-Exercise can help to improve cardiovascular health, increase flexibility and strength, boost mood, and reduce the risk of chronic health conditions.
-
-Additionally, physical activity has been shown to help individuals manage stress and anxiety, improve sleep, and increase energy levels.
-
-Engaging in regular exercise can also lead to improved self-esteem, increased confidence, and a greater sense of well-being.
-
-#### Do people in your country exercise after work?
 
 
 
