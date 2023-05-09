@@ -96,7 +96,7 @@ Yes. I have acquired some knowledge about wild animals through watching TV and r
 ### Ice Cream
 
 1. Do you like ice cream?  
-  I'm a big fan of ice cream
+  I'm a big fan of ice cream especially when it's sunny and hot.
 2. Did you eat ice cream when you were a child?  
 3. Are there shops selling ice cream near the place where you live?  
 4. Can you make ice cream yourself?  
