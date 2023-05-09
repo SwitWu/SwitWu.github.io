@@ -107,6 +107,7 @@ Yes. I have acquired some knowledge about wild animals through watching TV and r
 ### Concentration
 
 1. Did you stay focused in class when you were a child?  
+  Yes. I often stayed focused in class when I was a child. The teachers were pretty strict with us and I was afraid to be punished if I got distractions during the class.
 2. Are you a focused person?  
 3. How do you stay focused?  
 4. Is it easy to stay focused in a noisy environment?  
