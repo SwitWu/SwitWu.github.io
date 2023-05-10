@@ -5,6 +5,8 @@ category: English
 description: 
 ---
 
+## 列表
+
 + cast(全体演员), performers
 + audience, spectator, viewer, onlooker 观众，旁观者
 + category, type, kind, group
@@ -21,8 +23,10 @@ description:
 + astound, amaze, astonish, startle, stun, surprise 使惊讶，使震惊
 + self-proclaimed, regard ……self as 自封
 + hopeless, desperate, disparing 绝望的
-+ pottery, crockery, ceramic, porcelain, earthenware
-+ perpetual, permanent, eternal, everlasting, lasting, enduring
++ 陶瓷 ceramic
+  + 陶器 pottery, earthenware, crockery, 
+  + 瓷器 porcelain, china
++ perpetual, permanent, eternal, everlasting, lasting, enduring 永恒的，持久的
 + malevolent, malicious 有恶意的，恶毒的
 + erroneous, false, wrong, incorrect 错误的
 + dearth, shortage, deficiency, scarcity, paucity, lack 缺乏，不足
@@ -32,3 +36,7 @@ description:
 + treatise, thesis, paper, dissertation 论文
 + squander, waste, dissipate, lavish 浪费，挥霍
 + demand, require, ask for, clamour for 要求
+
+## 参考
+
+[中国科技术语. 陶与瓷的区别](http://www.term.org.cn/CN/abstract/abstract11054.shtml)
