@@ -17,7 +17,7 @@ description:
 + prestigious, remowned, celebrated, reputable 有声誉的，声誉好的
 + happiness, delight, exhilaration, pleasure, rapture, joy, fun 高兴，快乐
 + prevailing, prevalent, popular 流行的
-+ oppose, object, protest 反对
++ oppose, object, protest, deprecate 反对
 + astound, amaze, astonish, startle, stun, surprise 使惊讶，使震惊
 + self-proclaimed, regard ……self as 自封
 + hopeless, desperate, disparing 绝望的
@@ -25,4 +25,10 @@ description:
 + perpetual, permanent, eternal, everlasting, lasting, enduring
 + malevolent, malicious 有恶意的，恶毒的
 + erroneous, false, wrong, incorrect 错误的
-+ dearth, shortage, deficiency 缺乏，不足
++ dearth, shortage, deficiency, scarcity, paucity, lack 缺乏，不足
++ legacy, heritage, inheritance, bequest 遗产，继承物
++ dubious, doubtful, skeptical, sceptical, suspicious 可疑的，怀疑的
++ puzzle, confuse, bewilder, baffle 使困惑，使迷惑
++ treatise, thesis, paper, dissertation 论文
++ squander, waste, dissipate, lavish 浪费，挥霍
++ demand, require, ask for, clamour for 要求
