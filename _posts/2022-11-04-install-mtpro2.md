@@ -22,6 +22,7 @@ MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/
 1. 要么直接从[官网](https://www.pctex.com/mtpro2.html)下载字体资源（需要付费购买版权），要么从 [Github 仓库](https://github.com/armeyer/mcs_web/tree/master/macros/mtp2fonts/texmf)下载 `texmf` 文件夹至本地。
 2. `texmf` 文件夹里面有 `doc`、`dvips`、`fonts`、`source`、`tex` 以及 `tpm` 这 6 个子文件夹。
 3. 按照下表复制文件夹，第二栏为绝对路径 `/usr/local/texlive/texmf-local/` 下面的各路径。
+
     |文件夹|目标路径|
     |---|---|
     |`doc`|`doc/mtpro2`|
