@@ -19,30 +19,25 @@ MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/
 
 ## 安装步骤
 
-1. 要么直接从[官网](https://www.pctex.com/mtpro2.html)下载字体资源（需要付费购买版权），要么从 [Github 仓库](https://github.com/armeyer/mcs_web/tree/master/macros/mtp2fonts/texmf)下载 `texmf` 文件夹至本地。
-
-2. `texmf` 文件夹里面有 `doc`、`dvips`、`fonts`、`source`、`tex` 以及 `tpm` 这 6 个子文件夹。
-
-3. 按照下表复制文件夹，第二栏为绝对路径 `/usr/local/texlive/texmf-local/` 下面的各路径。
+1. 要么直接从[官网](https://www.pctex.com/mtpro2.html)下载字体资源（需要付费购买版权），要么从 [Github 仓库](https://github.com/armeyer/mcs_web/tree/master/macros/mtp2fonts/texmf)下载 `texmf` 文件夹至本地；
+2. `texmf` 文件夹里面有 `doc`、`dvips`、`fonts`、`source`、`tex` 以及 `tpm` 这 6 个子文件夹；
+3. 按照下表复制文件夹，第二栏为绝对路径 `/usr/local/texlive/texmf-local/` 下面的各路径
 
     |需复制的文件夹|复制前往目标路径下|
-    |---|---|
-    |`doc`[^doc]|`doc/mtpro2`|
+    |---|:---|
+    |`doc`|`doc/mtpro2`|
     |`dvips`|`dvips/local/mtpro2`|
     |`fonts/tfm`|`fonts/tfm/local/mtpro2`|
     |`fonts/type1`|`fonts/type1/local/mtpro2`|
-    |`source`[^source]|`source/latex/mtpro2`|
+    |`source`|`source/latex/mtpro2`|
     |`tex/latex`|`tex/latex/local/mtpro2`|
     |`tex/plain`|`tex/plain/local/mtpro2`|
     |`tpm/package`|`tpm/package`|
-    
-4. 终端运行 `sudo mktexlsr` 刷新文件名数据库。
-5. 终端运行 `sudo updmap-sys --enable Map=mtpro2.map`。
-6. 终端运行 `sudo updmap-sys --disable Map=belleek.map`。
-7. 终端运行 `texdoc mtpro2` 和 `texdoc guide2` 阅读字体使用手册。
 
-[^doc]: `doc` 里面有字体包的使用手册 `guide2.pdf` 以及 `mtpro2.pdf`。
-[^source]: `source` 里面有源文件 `mtpro2.dtx` 和 `mtpro2.ins`，用户层面用不上，所以可以不复制。
+4. 终端运行 `sudo mktexlsr` 或者 `sudo texhash` 刷新文件名数据库；
+5. 终端运行 `sudo updmap-sys --enable Map=mtpro2.map`；
+6. 终端运行 `sudo updmap-sys --disable Map=belleek.map`；
+7. 终端运行 `texdoc mtpro2` 和 `texdoc guide2` 阅读字体使用手册。
 
 ## 宏包使用
 
