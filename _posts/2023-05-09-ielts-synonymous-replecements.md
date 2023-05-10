@@ -21,10 +21,10 @@ description:
 + prevailing, prevalent, popular 流行的
 + oppose, object, protest, deprecate 反对
 + astound, amaze, astonish, startle, stun, surprise 使惊讶，使震惊
-+ self-proclaimed, regard ……self as 自封
++ self-proclaimed, regard oneself as 自封
 + hopeless, desperate, disparing 绝望的
 + 陶瓷 ceramic
-  + 陶器 pottery, earthenware, crockery, 
+  + 陶器 pottery, earthenware, crockery
   + 瓷器 porcelain, china
 + perpetual, permanent, eternal, everlasting, lasting, enduring 永恒的，持久的
 + malevolent, malicious 有恶意的，恶毒的
@@ -36,7 +36,20 @@ description:
 + treatise, thesis, paper, dissertation 论文
 + squander, waste, dissipate, lavish 浪费，挥霍
 + demand, require, ask for, clamour for 要求
++ discuss, talk about 讨论
++ independently, can do …… oneself 独立地
++ childcare, babysetting
++ free, complimentary(赞美的，免费赠送的), gratuitous
++ genre(体裁，类型，题材), type
++ new, no/not …… before, be the first
++ structure, building
++ carry, ferry, ship, transit, convey, freight 运送 
++ superior, better 更好的
++ lethal, fatal, life-threatening 
++ venomous, noxious, poisonous, toxic 有毒的
++ subdue, overpower 压制，制服
+
 
 ## 参考
 
-[中国科技术语. 陶与瓷的区别](http://www.term.org.cn/CN/abstract/abstract11054.shtml)
++ [中国科技术语. 陶与瓷的区别](http://www.term.org.cn/CN/abstract/abstract11054.shtml)
