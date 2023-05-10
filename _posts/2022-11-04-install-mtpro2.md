@@ -3,7 +3,7 @@ layout: post
 title: 安装及使用 mtpro2 字体宏包
 categories: LaTeX
 description: MathTime Professional II 是一款很优美的数学字体，这篇文章记录了该字体的安装方式。
-last_modified_at: 2023-04-09
+last_modified_at: 2023-05-10
 ---
 > 本教程仅在 mac 系统下经过测试，windows 用户请自行测试。
 
@@ -21,16 +21,17 @@ MathTime Professional II 是一款由 [Michael Spivak](https://en.wikipedia.org/
 
 1. 要么直接从[官网](https://www.pctex.com/mtpro2.html)下载字体资源（需要付费购买版权），要么从 [Github 仓库](https://github.com/armeyer/mcs_web/tree/master/macros/mtp2fonts/texmf)下载 `texmf` 文件夹至本地。
 2. `texmf` 文件夹里面有 `doc`、`dvips`、`fonts`、`source`、`tex` 以及 `tpm` 这 6 个子文件夹。
-3. 为了叙述简便，下面将 `texmf-local` 这一文件夹作为绝对路径描述的起始文件夹。
-
-   + 将 `doc` 中的文件拷贝到路径 `texmf-local/doc/mtpro2` 下（注意：`texmf-local/doc` 路径下本来是没有 `mtpro2` 的，为了方面管理，建议在 `texmf-local/doc` 下创建一个 `mtpro2` 文件夹，下同）。
-   + 将 `dvips` 中的文件拷贝到路径 `texmf-local/dvips/local/mtpro2` 下。
-   + 将 `fonts/tfm` 中的文件拷贝到路径 `texmf-local/fonts/tfm/local/mtpro2` 下。
-   + 将 `fonts/type1` 中的文件拷贝到路径 `texmf-local/fonts/type1/local/mtpro2` 下。
-   + 将 `source/latex/mtpro2` 中的 `dtx` 和 `ins` 文件拷贝到路径 `texmf-local/source/latex/mtpro2` 下。
-   + 将 `tex/latex/mtpro2` 里面的 `mtpro2.sty` 和其它几个文件拷贝路径 `texmf-local/tex/latex/local/mtpro2` 下。
-   + 将 `tex/plain/mtpro2` 里面的 `mtp2.tex` 拷贝到路径 `texmf-local/tex/plain/local/mtpro2` 下。
-   + 将 `tpm/package` 里面的 `tpm` 文件拷贝到路径 `texmf-local/tpm/package` 下。
+3. 按照下表复制文件夹，第二栏为绝对路径 `/usr/local/texlive/texmf-local/` 下面的各路径。
+    |文件夹|目标路径|
+    |---|---|
+    |`doc`|`doc/mtpro2`|
+    |`dvips`|`dvips/local/mtpro2`|
+    |`fonts/tfm`|`fonts/tfm/local/mtpro2`|
+    |`fonts/type1`|`fonts/type1/local/mtpro2`|
+    |`source`|`source/latex/mtpro2`|
+    |`tex/latex`|`tex/latex/local/mtpro2`|
+    |`tex/plain`|`tex/plain/local/mtpro2`|
+    |`tpm/package`|`tpm/package`|
 4. 终端运行 `sudo mktexlsr` 刷新文件名数据库。
 5. 终端运行 `sudo updmap-sys --enable Map=mtpro2.map`。
 6. 终端运行 `sudo updmap-sys --disable Map=belleek.map`。
