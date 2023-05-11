@@ -109,6 +109,7 @@ Yes. I have acquired some knowledge about wild animals through watching TV and r
 1. Did you stay focused in class when you were a child?  
   Yes. I often stayed focused in class when I was a child. The teachers were pretty strict with us and I was afraid to be punished if I got distractions during the class.
 2. Are you a focused person?  
+  To be honest, I'm not a focused person.
 3. How do you stay focused?  
 4. Is it easy to stay focused in a noisy environment?  
 
@@ -193,3 +194,26 @@ After the dinner, we enjoyed the snacks that we had bought in the supermarket an
 I think this meal is unusual because it is the first time for the classmates to gather together to eat a meal and through the activity we get to know each other better. What's more, the party house is beautifully decorated, which has left me a deep impression.
 
 Overall, it is an unforgettable experience and I really love this meal. I'm looking forward to it for the next time.
+
+### Describe a time when you taught a friend/relative something
+
+Three years ago I taught my cousin mathematics.
+
+He was not good at math and always got distractions from class since he could't understand what the teacher had taught in class.
+
+After getting dispirited for study, he decided to become an apprentice in an auto repair shop. However, several months later, he realized the importance of knowledge and diploma, so he came back and asked for my help since my major is mathematics. I promised his resquest for two main reasons. On the one hand, it would help him to pass the College Entrance Examination, which was vital for his future. On the other hand, our friendship would be strengthened.
+
+First of all, I made a detailed time-table for him to follow. Then not only did I teach him the basic knowledge, but I also imparted him many useful problem solving techniques. When he was frustrated, I would gave him a pep talk to lift up his spirit.
+
+Finally, he succeeded in passing the examination and appreciated my help. And I also felt a sense of achievement from this experience.
+
+
+### Describe a time when you needed to search for information
+
+I can still remember there was a time when I have to look for some information to give a presentation about Chinese Space industry.
+
+Since I was not really familiar with this area, it was necessary for me to search for some information to guarantee the quality of the presentation.
+
+I used Baidu, a search engine, to investigate the development and achievement of Chinese Space industry, such as how many spacecrafts have been transported into space and how many chinese astronauts have been sent into space to carry out scientific experiments. What's more, I also asked some of my friends who are space enthusiasts to give me some advice on how to organize the presentation contents more clearly.
+
+Finally the presentation was successful and I won the applause from my classmates. Overall, from this experience I have learned that we should make full use of the resources around us to get the information we need.
