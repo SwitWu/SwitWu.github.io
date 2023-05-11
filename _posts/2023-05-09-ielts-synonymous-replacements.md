@@ -39,16 +39,36 @@ last_modified_at: 2023-05-11
 + demand, require, ask for, clamour for 要求
 + discuss, talk about 讨论
 + independently, can do …… oneself 独立地
-+ childcare, babysetting
-+ free, complimentary(赞美的，免费赠送的), gratuitous
++ childcare, babysitting
++ free, complimentary, gratuitous 免费的
 + genre(体裁，类型，题材), type
 + new, no/not …… before, be the first
 + structure, building
 + carry, ferry, ship, transit, convey, freight 运送 
 + superior, better 更好的
-+ lethal, fatal, life-threatening 
++ lethal, fatal, life-threatening 致命的
 + venomous, noxious, poisonous, toxic 有毒的
 + subdue, overpower 压制，制服
++ particular, specific
++ premiere, perform for the first time 首映
++ unpredictably, erratically
++ throughout, all over
++ exchange, swap 交换
++ inclination, tendency 趋向
++ perform, carry out
++ foreshadow, anticipate, predict, forecast 预测，预料
++ compendium, abstract, digest, excerpt, summary, brief 摘要
++ thrift, austerity, frugality 节俭
++ credible, trustworthy 可信的
++ 熟练
+  + be adept/good at
+  + excel at
+  + be proficient in
++ increasing, incremental, accretive, growing 增长的，增加的
++ mock, mimic, ape, simulate, emulate, immitate 模仿
++ oust, replace
++ slander, badmouth 诽谤
++ reserve, book, make a booking/reservation 预订，预约
 
 
 ## 参考
