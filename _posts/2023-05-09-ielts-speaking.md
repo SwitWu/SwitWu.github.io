@@ -214,6 +214,6 @@ I can still remember there was a time when I have to look for some information t
 
 Since I was not really familiar with this area, it was necessary for me to search for some information to guarantee the quality of the presentation.
 
-I used Baidu, a search engine, to investigate the development and achievement of Chinese Space industry, such as how many spacecrafts have been transported into space and how many chinese astronauts have been sent into space to carry out scientific experiments. What's more, I also asked some of my friends who are space enthusiasts to give me some advice on how to organize the presentation contents more clearly.
+I used Baidu, a search engine, to investigate the development and achievement of Chinese Space industry, such as how many spacecrafts have been transported into space and how many chinese astronauts have been sent into space to carry out scientific experiments. What's more, I asked some of my friends who are space enthusiasts to give me some advice on how to organize the presentation contents more clearly.
 
-Finally the presentation was successful and I won the applause from my classmates. Overall, from this experience I have learned that we should make full use of the resources around us to get the information we need.
+Finally the presentation was successful and I won the applause from my classmates. I really appreciated the power of the Internet and the help of my friends. From this experience I have learned that the resources around us are sometimes complementary and we can combine them properly to get the information we want.
