@@ -128,7 +128,9 @@ description:
 
 ### 要素三：个人观点
 
-+ 双边讨论型：Personally, From my own perspective, As far as I am concerned
+我个人认为 Personally, From my own perspective, As far as I am concerned
+
++ 双边讨论型
   + 同意一边：I tend to *agree with/support/side with* the former/latter view.
   + 中立：these two opinions *do not necessarily contradict* each other, but could be adopted simultaneously.
 + 同不同意型
@@ -435,6 +437,22 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 > 论点：To some extent the question depends on the age of the child.
 > 
 > 论据: To punish a very young child is both wrong and foolish, as an infant will not understand what's happening or why he or she is being punished. Once the age of reason is reached however, a child can be rewarded for good behaviour and discouraged from bad. This kind but firm approach will achieve more than harsh punishments, which might entail many negative consequences unintended by the parents.
+
+## 优秀文章
+
+### C9T2
+
+> 题目：Some people believe that unpaid community service should be a compulsory part of high school programmes (for example working for a charity, improving the neighbourhood or teaching sports to younger children). To what extent do you agree or disagree?
+>
+> It has been suggested that high school studentd should be involved in unpaid community services as a compulsory part of high school programmes. Most of the colleges are already providing opportunities to gain work experience, however these are not compulsory. In my opinion, sending students to work in community services is a good idea as it can provide them with many lots of valuable skills.
+> 
+> Life skills are very important and by doing voluntary work, students can learn how to communicate with others and work in a team but also how to manage their time and improve their organisational skills. Nowadays, unfortunately, teenagers do not have many after-school activities. After-school clubs are no longer that popular and students mostly go home and sit in front of the TV, browse internet or play video games.
+> 
+> By giving them compulsory work activities with charitable or community organisations, they will be encouraged to do something more creative. Skills gained through compulsory work will not only be an asset on their CV but also increase their employability. Students will also gain more respect towards work and money as they will realise that it is not that easy to earn them and hopefully will learn to spend them in a more practical way.
+> 
+> Healthy life balance and exercise are strongly promoted by the NHs, and therefore any kind of spare time charity work will prevent from sitting and doing nothing. It could also possibly reduce the crime level in the high school age group. If students have activities to do, they will not be bored and come up with silly ideas which can be dangerous for them or their surroundings.
+> 
+> In conclusion, I think this is a very good idea, and I hope this programme will be put into action for high schools colleges shortly.
 
 ## 注释
 
