@@ -247,11 +247,11 @@ Finally the presentation was successful and I won the applause from my classmate
 
 ### Describe a website you often visit
 
-For this topic, I would like a talk about a website called Math Stack Exchange, which is a forum for duscussing various mathematical problems.
+For this topic, I would like a talk about a website called Math Stack Exchange, which is a forum for discussing various mathematical problems.
 
-The layout of the website is very clear. The website is divided into two columns, the left of which list the latest mathematical questions asked by different users and the right column contains the tags attached to the questions and many other hot network questions.(网站的布局)
+The layout of the website is very clear. The website is divided into two columns, the left of which lists the latest mathematical questions asked by different users and the right column contains the tags attached to the questions and many other hot network questions.（网站的布局）
 
-And the website is very easy to use. There is "Ask Question" button at the top-right corner of the website and if you want to ask a question, just click it, then write down your problem and what you have tried for the problem.(网站的使用)
+And the website is very easy to use. There is "Ask Question" button at the top-right corner of the website and if you want to ask a question, just click it, then write down your problem and what you have tried for the problem.（网站的使用）
 
 I have used this website for several years. When I'm stuck with some very difficult questions that I can't resolve by myself, I'll resort to this website and typically within several hours someone will post a right answer under my question. What's more, sometimes I also help others on this site. For example, last week I saw an interesting question that is related to my research direction. It took me aroung two hours to solve the question but I felt really excited.
 
