@@ -447,7 +447,7 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 ### C9T2
 
 > 题目：Some people believe that unpaid community service should be a compulsory part of high school programmes (for example working for a charity, improving the neighbourhood or teaching sports to younger children). To what extent do you agree or disagree?
-> 
+
 > It has been suggested that high school students should be involved in unpaid community services as a compulsory part of high school programmes. Most of the colleges are already providing opportunities to gain work experience, however these are not compulsory. In my opinion, sending students to work in community services is a good idea as it can provide them with many lots of valuable skills.
 > 
 > Life skills are very important and by doing voluntary work, students can learn how to communicate with others and work in a team but also how to manage their time and improve their organisational skills. Nowadays, unfortunately, teenagers do not have many after-school activities. After-school clubs are no longer that popular and students mostly go home and sit in front of the TV, browse internet or play video games.
@@ -461,7 +461,7 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 ### Simon 1
 
 > 题目：Some people think that strict punishments for driving offences are the key to reducing traffic accidents. Others, however, believe that other measures would be more effective in improving road safety. Discuss both these views and give your own opinion.
-> 
+
 > People have differing views with regard to the question of how to make our roads safer. In my view, both punishments and a range of other measures can be used together to promote better driving habits.
 > 
 > On the one hand, strict punishments can certainly help to encourage people to drive more safely. Penalties for dangerous drivers can act as a deterrent, meaning that people avoid repeating the same offence. There are various types of driving penalty, such as small fines, licence suspension, driver awareness courses, and even prison sentences. The aim of these punishments is to show dangerous drivers that their actions have negative consequences. As a result, we would hope that drivers become more disciplined and alert, and that they follow the rules more carefully.
