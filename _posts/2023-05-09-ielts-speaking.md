@@ -85,7 +85,7 @@ description:
 1. Is there any wild animals in your country?  
   Yes. There are many natural reserves in China and the country has established the corresponding laws to stipulate that any behaviour that endangers rare wild animals will be punished. So there are still lots of wild animals in China.
 2. Do you often see some wild animals in your country?  
-  Several years ago, I saw some wild boars(野猪) and ibex(野山羊) in the mauntains of my hometown. However, with the deforestation and excessive hunting, the number of these animals is dramatically decreasing and I can hardly see them any more.
+  Several years ago, I saw some wild boars(野猪) and goats in the mauntains of my hometown. However, with the deforestation and excessive hunting, the number of these animals is dramatically decreasing and I can hardly see them any more.
 3. Do you know something about wild animals?  
 Yes. I have acquired some knowledge about wild animals through watching TV and reading books.
 4. Are there TV programs about wild animals in your country?  
@@ -147,7 +147,7 @@ Yes. I have acquired some knowledge about wild animals through watching TV and r
 ### Day Off
 
 1. What do you do on your day off?  
-   Typically I'll stay in the dormitary to watch some videos, listen to the music or just have a sleep if I'm too tired. However, if I feel energetic, I'll intive my friends to play the table tennis, which is my favorite sport.
+   Typically I'll stay in the dormitary to watch some videos, listen to the music or just have a sleep if I'm too tired. However, if I feel energetic, I'll invite my friends to play the table tennis, which is my favorite sport.
 2. Do you usually spend your days off with your parents or your friends?  
    I usually spend my days off with my friends because I'm living in the school and I hardly have the chance to go home and see my parents. And on my days off, I usually eat a meal or do some sports together with my friends. Last week, I invited my fellow apprentice to eat in a bistro where the cuisines are really delicious.
 
@@ -244,3 +244,15 @@ Since I was not really familiar with this area, it was necessary for me to searc
 I used Baidu, a search engine, to investigate the development and achievement of Chinese Space industry, such as how many spacecrafts have been transported into space and how many chinese astronauts have been sent into space to carry out scientific experiments. What's more, I asked some of my friends who are space enthusiasts to give me some advice on how to organize the presentation contents more clearly.
 
 Finally the presentation was successful and I won the applause from my classmates. I really appreciated the power of the Internet and the help of my friends. From this experience I have learned that the resources around us are sometimes complementary and we can combine them properly to get the information we want.
+
+### Describe a website you often visit
+
+For this topic, I would like a talk about a website called Math Stack Exchange, which is a forum for duscussing various mathematical problems.
+
+The layout of the website is very clear. The website is divided into two columns, the left of which list the latest mathematical questions asked by different users and the right column contains the tags attached to the questions and many other hot network questions.(网站的布局)
+
+And the website is very easy to use. There is "Ask Question" button at the top-right corner of the website and if you want to ask a question, just click it, then write down your problem and what you have tried for the problem.(网站的使用)
+
+I have used this website for several years. When I'm stuck with some very difficult questions that I can't resolve by myself, I'll resort to this website and typically within several hours someone will post a right answer under my question. What's more, sometimes I also help others on this site. For example, last week I saw an interesting question that is related to my research direction. It took me aroung two hours to solve the question but I felt really excited.
+
+Overall, I have learned a lot from this website and I'll definitely recommend it to my classmates.
