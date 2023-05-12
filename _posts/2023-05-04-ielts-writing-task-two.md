@@ -448,7 +448,19 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
   + 监禁 prison sentence
 + 驾前教育 education before driving
 + 更加关注道路安全设计，比如 traffic signs, speed bumps(减速带), road bends(弯道)
-+ 政府投资建设更好的公共交通，从而减少私家车数量
++ 政府投资建设更好的公共交通，从而减少私家车数量 invest in better public transport
+
+### 快乐
+
++ 快乐为什么难被定义？  
+因为快乐对于每一个个体而言都意味着不同的东西
+  + 每个人都无法完全理解或经历他人的感受，爱好不同，快乐的获取方式也不同
+  + 单个人也可以从不同的方式中获得快乐
++ 获取快乐的重要因素有哪些？
+  + 生活在安全的环境中，衣食无忧
+  + 不被孤立，能够与他人分享经历经验
+  + 自由
+  + 有目标(have a sense of purpose)
 
 ## 优秀文章
 
@@ -478,7 +490,7 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 > 
 > In conclusion, while punishments can help to prevent bad driving, I believe that other road safety measures should also be introduced.
 
-### Simon 3
+### Simon 2
 
 > 题目：Wild animals have no place in the 21st century, so protecting them is a waste of resources. To what extent do you agree or disagree?
 
