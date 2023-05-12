@@ -440,7 +440,15 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 
 ## 观点总结
 
+### 改善交通
 
++ 交通处罚
+  + 罚款 fine
+  + 吊销执照 license suspension
+  + 监禁 prison sentence
++ 驾前教育 education before driving
++ 更加关注道路安全设计，比如 traffic signs, speed bumps(减速带), road bends(弯道)
++ 政府投资建设更好的公共交通，从而减少私家车数量
 
 ## 优秀文章
 
@@ -469,6 +477,34 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 > On the other hand, I believe that safe driving can be promoted in several different ways that do not punish drivers. Firstly, it is vitally important to educate people properly before they start to drive, and this could be done in schools or even as part of an extended or more difficult driving test. Secondly, more attention could be paid to safe road design. For example, signs can be used to warn people, speed bumps and road bends can be added to calm traffic, and speed cameras can help to deter people from driving too quickly. Finally, governments or local councils could reduce road accidents by investing in better public transport, which would mean that fewer people would need to travel by car.
 > 
 > In conclusion, while punishments can help to prevent bad driving, I believe that other road safety measures should also be introduced.
+
+### Simon 3
+
+> 题目：Wild animals have no place in the 21st century, so protecting them is a waste of resources. To what extent do you agree or disagree?
+
+> Some people argue that it is pointless to spend money on the protection of wild animals because we humans have no need for them. I completely disagree with this point of view.
+> 
+> In my opinion, it is absurd to argue that wild animals have no place in the 21st century. I do not believe that planet Earth exists only for the benefit of humans, and there is nothing special about this particular century that means that we suddenly have the right to allow or encourage the extinction of any species. Furthermore, there is no compelling reason why we should let animals die out. We do not need to exploit or destroy every last square metre of land in order to feed or accommodate the world’s population. There is plenty of room for us to exist side by side with wild animals, and this should be our aim.
+> 
+> I also disagree with the idea that protecting animals is a waste of resources. It is usually the protection of natural habitats that ensures the survival of wild animals, and most scientists agree that these habitats are also crucial for human survival. For example, rainforests produce oxygen, absorb carbon dioxide and stabilise the Earth’s climate. If we destroyed these areas, the costs of managing the resulting changes to our planet would far outweigh the costs of conservation. By protecting wild animals and their habitats, we maintain the natural balance of all life on Earth.
+> 
+> In conclusion, we have no right to decide whether or not wild animals should exist, and I believe that we should do everything we can to protect them.
+
+### Simon 3
+
+> 题目：Happiness is considered very important in life.
+Why is it difficult to define?
+What factors are important in achieving happiness?
+
+> It is no doubt true that the majority of people would like to be happy in their lives. While the personal nature of happiness makes it difficult to describe, there do seem to be some common needs that we all share with regard to experiencing or achieving happiness.
+> 
+> Happiness is difficult to define because it means something different to each individual person. Nobody can fully understand or experience another person’s feelings, and we all have our own particular passions from which we take pleasure. Some people, for example, derive a sense of satisfaction from earning money or achieving success, whereas for others, health and family are much more important. At the same time, a range of other feelings, from excitement to peacefulness, may be associated with the idea of happiness, and the same person may therefore feel happy in a variety of different ways.
+> 
+> Although it seems almost impossible to give a precise definition of happiness, most people would agree that there are some basic preconditions to achieving it. Firstly, it is hard for a person to be happy if he or she does not have a safe place to live and enough food to eat. Our basic survival needs must surely be met before we can lead a pleasant life. Secondly, the greatest joy in life is usually found in shared experiences with family and friends, and it is rare to find a person who is content to live in complete isolation. Other key factors could be individual freedom and a sense of purpose in life.
+> 
+> In conclusion, happiness is difficult to define because it is particular to each individual, but I believe that our basic needs for shelter, food and company need to be fulfilled before we can experience it.
+
+
 
 ## 注释
 
