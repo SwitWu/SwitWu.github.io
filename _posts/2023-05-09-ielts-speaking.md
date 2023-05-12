@@ -96,7 +96,7 @@ Yes. I have acquired some knowledge about wild animals through watching TV and r
 ### Ice Cream
 
 1. Do you like ice cream?  
-  I'm a big fan of ice cream especially when it's sunny and hot.
+  I'm a big fan of ice cream especially when it's sunny and hot. And it is 
 2. Did you eat ice cream when you were a child?  
   No, I spent my childhood in the countryside where at that time there was neither ice cream nor ice lolly.
 3. Are there shops selling ice cream near the place where you live?  
@@ -109,39 +109,56 @@ Yes. I have acquired some knowledge about wild animals through watching TV and r
 1. Did you stay focused in class when you were a child?  
   Yes. I often stayed focused in class when I was a child. The teachers were pretty strict with us and I was afraid to be punished if I got distractions during the class.
 2. Are you a focused person?  
-  To be honest, I'm not a focused person.
+  To be honest, I'm not a focused person. I often get distracted by the surrounding factors. For example, when a message pops up on my phone, I can't resist to take it up and see what happens.
 3. How do you stay focused?  
+  Firstly I need to get enough sleep, otherwise I can't definitely concentrate on my work for the next day. Then I will choose to meditate, or listen to the music, or do some sports exercise such as jogging to keep myself focused. 
 4. Is it easy to stay focused in a noisy environment?  
+  No. I can't stay focused in a noisy environment since I will pay attention to what happens around me. Usually in this circumstance I'll choose to wear my earphones to insulate myself against the noise.
 
 ### Fixing Things
 
 1. Can you fix things?  
+  Yes, I can.
 2. What things can you fix?  
+  I can fix some small gadgets such as the table lamp, the bicycle brakes and so on. When my bicycle brakes break down, I always settle it by myself rather than resort to a repairman.
 3. How to fix things?  
+  Well, that's a big question and it depends on the item itself. But I think the general principle might be like this: first you should check out how the item work and then you need to repair or replace the parts that have been damaged.
 4. Do you ask people to teach you to fix things when you were a child?  
+  Yes. My grandfater is a carpenter and when I was a child, I sometimes broke my own chair, and I would ask for my grandfater to teach me how to fix the wood chair.
 
 ### Favorite Day
 
 1. Which day is your favorite day?  
-2. Which day is your latest day?
-3. How do you usually spend your time?
+  That must be Saturday since on Saturday I can have a good rest, meet with my friends or choose a local restaurant to enjoy the meal and so on.
+2. Which day is your latest favorite day?  
+   It's last Sunday when I invited my friend to watch a movie in a cinema and then we ate dinner together. After that, we had a pleasant chat on the way back. It was a really nice day.
+3. How do you usually spend your time?  
+  During the week, I usually get up early and go to the learning room for self-study and I will stay there for the whole day if there are no urgent matters to deal with. On the weekends I'll choose to get up late and then do some sports such as playing table tennis.
 
 ### Rain
 
-1. Do you like rainy days?
-2. Does it rain much in your city?
-3. Would you like to live in a city that is dry or wet?
+1. Do you like rainy days?  
+   That depends on whether the rain is heavy or not. I am fond of some light rain since it can make the air fresher and make the weather cooler. But I don't like the heavy rain since it can wet my pant leg.
+2. Does it rain much in your city?  
+   Yeah. I think the weather in Wuhan is pretty weird. Sometimes it's sunny and hot in the morning, but there is a sudden downpour in the afternoon.
+3. Would you like to live in a city that is dry or wet?  
+   I would choose to live in a dry city because it is possible and convenient for me to go out to do some sports, meet with my friends or just take a walk on sunny days. And when it's rainy, I can only stay at home, which is pretty boring.
 
 ### Day Off
 
-1. What do you do on your day off?
-2. Do you usually spend your days off with your parents or your friends?
+1. What do you do on your day off?  
+   Typically I'll stay in the dormitary to watch some videos, listen to the music or just have a sleep if I'm too tired. However, if I feel energetic, I'll intive my friends to play the table tennis, which is my favorite sport.
+2. Do you usually spend your days off with your parents or your friends?  
+   I usually spend my days off with my friends because I'm living in the school and I hardly have the chance to go home and see my parents. And on my days off, I usually eat a meal or do some sports together with my friends. Last week, I invited my fellow apprentice to eat in a bistro where the cuisines are really delicious.
 
 ### Bags
 
-1. Do you usually carry a bag?
-2. What kinds of bags do you like to carry?
-3. Do you change your bags often?
+1. Do you usually carry a bag?  
+   Yes. Basically I carry a bag everyday. Since  every morning I have to take many items such as my books, my personal computer, my water bottle and my keys with me, a bag is necessarily needed to put them all together.
+2. What kinds of bags do you like to carry?  
+   I would like to carry a middle-sized backpack which can just contain all the items I need to take along. As for the color, I'll choose some dark color such as black or dark blue which just fit my taste.
+3. Do you change your bags often?  
+   No. I think it's unnecessary to change bags often. In my opinion, bags are just for practical use and I won't change my bag until it is broken. I have used my current bag for five years and it's still in good condition. I think maybe I'll use it for another five years.
 
 ### Teachers
 
@@ -151,6 +168,16 @@ Yes. I have acquired some knowledge about wild animals through watching TV and r
 
 
 ## 第二与第三部分
+
+Part 2 需要讲两分钟，Part 3 在 Part 2 的基础上进行拓展提问，我们可以考虑将问题分类，比如：
+
++ 老人和年轻人
++ 周内和周末
++ 平时和节假日
++ 男性与女性
++ 城市与农村
+
+这样分点有助于扩充内容，也有助于将回答条理化、清晰化。
 
 ### Describe your favorite place in your house where you can relax
 
@@ -189,7 +216,7 @@ Before the party, we made some preparations. First of all, a questionnaire was c
 
 We arrived at the destination at around 6 pm and then began to make the dinner. Everything was delicious and we had a pleasant conservation with each other.
 
-After the dinner, we enjoyed the snacks that we had bought in the supermarket and we did many interesting activities such as billizrds, singing, table games and video games.
+After the dinner, we enjoyed the snacks that we had bought in the supermarket and we did many interesting activities such as playing billiards(台球), singing, playing table games and video games.
 
 I think this meal is unusual because it is the first time for the classmates to gather together to eat a meal and through the activity we get to know each other better. What's more, the party house is beautifully decorated, which has left me a deep impression.
 
