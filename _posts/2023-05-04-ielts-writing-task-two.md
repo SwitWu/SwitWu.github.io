@@ -516,7 +516,54 @@ What factors are important in achieving happiness?
 > 
 > In conclusion, happiness is difficult to define because it is particular to each individual, but I believe that our basic needs for shelter, food and company need to be fulfilled before we can experience it.
 
+### Simon 5
 
+> 题目：Some people believe that studying at university or college is the best route to a successful career, while others believe that it is better to get a job straight after school. Discuss both views and give your opinion.
+
+> When they finish school, teenagers face the dilemma of whether to get a job or continue their education. While there are some benefits to getting a job straight after school, I would argue that it is better to go to college or university.
+> 
+> The option to start work straight after school is attractive for several reasons. Many young people want to start earning money as soon as possible. In this way, they can become independent, and they will be able to afford their own house or start a family. In terms of their career, young people who decide to find work, rather than continue their studies, may progress more quickly. They will have the chance to gain real experience and learn practical skills related to their chosen profession. This may lead to promotions and a successful career.
+> 
+> On the other hand, I believe that it is more beneficial for students to continue their studies. Firstly, academic qualifications are required in many professions. For example, it is impossible to become a doctor, teacher or lawyer without having the relevant degree. As a result, university graduates have access to more and better job opportunities, and they tend to earn higher salaries than those with fewer qualifications. Secondly, the job market is becoming increasingly competitive, and sometimes there are hundreds of applicants for one position in a company. Young people who do not have qualifications from a university or college will not be able to compete.
+> 
+> For the reasons mentioned above, it seems to me that students are more likely to be successful in their careers if they continue their studies beyond school level.
+
+### Simon 6
+
+> 题目：Some people think that museums should be enjoyable places to entertain people, while others believe that the purpose of museums is to educate. Discuss both views and give you own opinion.
+
+> People have different views about the role and function of museums. In my opinion, museums can and should be both entertaining and educational.
+> 
+> On the one hand, it can be argued that the main role of a museum is to entertain. Museums are tourist attractions, and their aim is to exhibit a collection of interesting objects that many people will want to see. The average visitor may become bored if he or she has to read or listen to too much educational content, so museums often put more of an emphasis on enjoyment rather than learning. This type of museum is designed to be visually spectacular, and may have interactive activities or even games as part of its exhibitions.
+> 
+> On the other hand, some people argue that museums should focus on education. The aim of any exhibition should be to teach visitors something that they did not previously know. Usually this means that the history behind the museum’s exhibits needs to be explained, and this can be done in various ways. Some museums employ professional guides to talk to their visitors, while other museums offer headsets so that visitors can listen to detailed commentary about the exhibition. In this way, museums can play an important role in teaching people about history, culture, science and many other aspects of life.
+> 
+> In conclusion, it seems to me that a good museum should be able to offer an interesting, enjoyable and educational experience so that people can have fun and learn something at the same time.
+
+### Simon 7
+
+> 题目：Universities should accept equal numbers of male and female students in every subject. To what extent do you agree or disagree?
+
+> In my opinion, men and women should have the same educational opportunities. However, I do not agree with the idea of accepting equal proportions of each gender in every university subject.
+> 
+> Having the same number of men and women on all degree courses is simply unrealistic. Student numbers on any course depend on the applications that the institution receives. If a university decided to fill courses with equal numbers of males and females, it would need enough applicants of each gender. In reality, many courses are more popular with one gender than the other, and it would not be practical to aim for equal proportions. For example, nursing courses tend to attract more female applicants, and it would be difficult to fill these courses if fifty per cent of the places needed to go to males.
+> 
+> Apart from the practical concerns expressed above, I also believe that it would be unfair to base admission to university courses on gender. Universities should continue to select the best candidates for each course according to their qualifications. In this way, both men and women have the same opportunities, and applicants know that they will be successful if they work hard to achieve good grades at school. If a female student is the best candidate for a place on a course, it is surely wrong to reject her in favour of a male student with lower grades or fewer qualifications.
+> 
+> In conclusion, the selection of university students should be based on merit, and it would be both impractical and unfair to change to a selection procedure based on gender.
+
+### Simon 10
+
+> 题目：Nowadays the way many people interact with each other has changed because of technology.
+In what ways has technology affected the types of relationships that people make? Has this been a positive or negative development?
+
+> It is true that new technologies have had an influence on communication between people. Technology has affected relationships in various ways, and in my opinion there are both positive and negative effects.
+> 
+> Technology has had an impact on relationships in business, education and social life. Firstly, telephones and the Internet allow business people in different countries to interact without ever meeting each other. Secondly, services like Skype create new possibilities for relationships between students and teachers. For example, a student can now take video lessons with a teacher in a different city or country. Finally, many people use social networks, like Facebook, to make new friends and find people who share common interests, and they interact through their computers rather than face to face.
+> 
+> On the one hand, these developments can be extremely positive. Cooperation between people in different countries was much more difficult when communication was limited to written letters or telegrams. Nowadays, interactions by email, phone or video are almost as good as face-to-face meetings, and many of us benefit from these interactions, either in work or social contexts. On the other hand, the availability of new communication technologies can also have the result of isolating people and discouraging real interaction. For example, many young people choose to make friends online rather than mixing with their peers in the real world, and these ‘virtual’ relationships are a poor substitute for real friendships.
+> 
+> In conclusion, technology has certainly revolutionised communication between people, but not all of the outcomes of this revolution have been positive.
 
 ## 注释
 
