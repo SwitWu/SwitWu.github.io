@@ -481,6 +481,27 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
   + 语言障碍 (language barrier)
   + 需要找住宿，花钱 (have to find accomodation and pay bills)
   + 导致思乡 (cause homesickness)
++ 教育科技的优点
+  + 让课堂更加有趣
+  + 学生可以随时随地学习 (study whenever and wherever)
+  + 利用网上资源 (use resources from the internet)
++ 教育科技的缺点
+  + 会导致不熟悉一些基本技能（如长期打字会影响手写技能）
+  + 科技不能取代老师（科技无法提供结构化的课程，无法根据实际情况选择适当的教学材料，无法传授价值观，无法给人精神层面的激励）
+  + 人们可能会过度依赖电脑，电脑维护成本昂贵
++ 发展中国家的教育问题
+  + 儿童经常很小就开始工作
+  + 很多地区没有学校
+  + 很多家庭没办法获取书籍电脑等资源
+  + 识字率很低 (literacy rates are often low)
++ 发展中国家教育问题的解决方案
+  + 发达国家提供经济支持
+  + 国家投资学校和科技产业
+    + 建造学校
+    + 给老师发工资
+    + 购买教学设备（如电脑、投影仪）
+  + 政府应该立法建立义务教育，鼓励家长将孩子送到学校
+  + 儿童需要接受免费教育 (have access to free schooling)
 
 ## 优秀文章
 
