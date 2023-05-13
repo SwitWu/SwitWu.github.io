@@ -471,6 +471,16 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
   + 有学历的人可以挣更高的工资 (earn a higher salary)
   + 受教育的人能够为社会作贡献 (contribute to the society)
   + 学校可以教年轻人更多的道德价值观 (teach young people more moral values such as tolerance and sharing)
++ 留学的优点
+  + 国外的大学机构可能提供更好的课程 (foreign institutions may offer better courses)
+  + 从国外获得的学历有助于找到更好的工作 (qualifications gained abroad can open the door to better job opportunities)
+  + 拓展视野 (broaden students' horizons)
+  + 更加独立 (more independent)
+  + 学会外语 (learn a foreign language)
++ 留学的缺点
+  + 语言障碍 (language barrier)
+  + 需要找住宿，花钱 (have to find accomodation and pay bills)
+  + 导致思乡 (cause homesickness)
 
 ## 优秀文章
 
