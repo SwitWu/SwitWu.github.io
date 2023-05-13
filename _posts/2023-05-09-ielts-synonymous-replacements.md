@@ -3,7 +3,7 @@ layout: post
 title: 雅思同义替换整理
 category: English
 description: 
-last_modified_at: 2023-05-11
+last_modified_at: 2023-05-13
 ---
 
 ## 列表
@@ -33,7 +33,7 @@ last_modified_at: 2023-05-11
 + dearth, shortage, deficiency, scarcity, paucity, lack 缺乏，不足
 + legacy, heritage, inheritance, bequest 遗产，继承物
 + dubious, doubtful, skeptical, sceptical, suspicious 可疑的，怀疑的
-+ puzzle, confuse, bewilder, baffle 使困惑，使迷惑
++ puzzle, perplex, confuse, bewilder, baffle 使困惑，使迷惑
 + treatise, thesis, paper, dissertation 论文
 + squander, waste, dissipate, lavish 浪费，挥霍
 + demand, require, ask for, clamour for 要求
@@ -69,6 +69,14 @@ last_modified_at: 2023-05-11
 + oust, replace
 + slander, badmouth 诽谤
 + reserve, book, make a booking/reservation 预订，预约
++ conceal, hide, dissimulate 隐瞒
++ beginner, first-timer, novice 新手
++ mediocre, ordinary, generic, common 普通的
++ remuneration, reward, payment, emolument 报酬
++ persuasive, compelling, cogent, convincing,  convictive 令人信服的
++ immediate, instant
++ medical, checkup 体格检查
++ update, renew, be more current 更新
 
 
 ## 参考
