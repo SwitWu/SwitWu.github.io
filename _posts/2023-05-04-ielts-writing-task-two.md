@@ -3,6 +3,7 @@ layout: post
 title: 雅思写作（二）——大作文
 category: English
 description: 
+last_modified_at: 2023-05-13
 ---
 
 ## 话题分类
@@ -461,6 +462,15 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
   + 不被孤立，能够与他人分享经历经验
   + 自由
   + 有目标(have a sense of purpose)
+
+### 教育
+
++ 教育的好处
+  + 教育给人知识和技能 (education gives people knowledge and skills)
+  + 有学历的人更容易找到工作 (people with qualification are more likely to find work)
+  + 有学历的人可以挣更高的工资 (earn a higher salary)
+  + 受教育的人能够为社会作贡献 (contribute to the society)
+  + 学校可以教年轻人更多的道德价值观 (teach young people more moral values such as tolerance and sharing)
 
 ## 优秀文章
 
