@@ -4,6 +4,7 @@ title: 雅思口语
 category: English
 hidden: true
 description: 
+last_modified_at: 2023-05-16
 ---
 
 ## 第一部分
@@ -13,6 +14,28 @@ description:
 + 每个问题回答 3--4 句话
 + 尽量可以有理有据的说话：reason + example
 + 先把简单的话说流利
+
+### Hometown
+
++ Where is your hometown? Please describe your hometown a little.  
+  My hometown is Huanggang, which is a middle-sized city situated in the east of Hubei province. It is adjacent to the capital city---Wuhan. My hometown is famous for its primary and secondary education. Every year a large number of students go to the top 1 universities through the college entrance examination. And there are some tourist attractions in my hometown, the most famous one of which is the Turtle mountain. During April of every year, it will be full of azalea, which is pretty amazing.
++ Do you like your hometown?  
+  Yes. I like my hometown for several reasons.
+  + Tranquility of country life.
+  + Go hiking in the mountains, beautiful sceneries.
+  + The people there are friendly and helpful.
++ Is there anything you dislike about it?  
+  Well, there are several aspects that I dislike about my hometown. I think the biggest problem is the transport, especially the public transport. Since there is no subway and the number of buses is not enough, it is inconvenient for me to go to school, go shopping and just go to the express delivery center to fetch my goods.
++ How long have you been living there?  
+  I have been living there for about 18 years during which I had finished my work in primary school and high school. It was 2017 when I left my hometown to continue my study in Wuhan University.
++ Do you like living there?  
+  Yeah I like living in my hometown. I can enjoy the beautiful sceneries there. When I have some spare time, I can go hiking in the mountains, breathing the fresh air and listening to many kinds of brids' singing. If I'm lucky, I can even see some wild animals such as hares(野兔) and squirrels. What's more, I'm fond of the tranquility of the country life. It can let me escape from the hustle and bustle in cities and stay focused on my work.
++ Do you think you will continue living there for a long time?  
+  No. Since I plan to find a job in some city in the future and I'll definitely buy a new house in that city, I won't live there for a long time.
++ Did you learn about the history of your hometown at school?  
+  No. When I was in the high school, I learned the ancient and modern history of China. But teachers never taught me about the history of my hometown. Maybe they thought that it was a kind of work that we should finish after class by ourselves.
+
+
 
 ### Library
 
@@ -140,7 +163,7 @@ Yes. I have acquired some knowledge about wild animals through watching TV and r
 1. Do you like rainy days?  
    That depends on whether the rain is heavy or not. I am fond of some light rain since it can make the air fresher and make the weather cooler. But I don't like the heavy rain since it can wet my pant leg.
 2. Does it rain much in your city?  
-   Yeah. I think the weather in Wuhan is pretty weird. Sometimes it's sunny and hot in the morning, but there is a sudden downpour in the afternoon.
+   Not pretty much. I think the weather in Wuhan is pretty weird. Sometimes it's sunny and hot in the morning, but there is a sudden downpour in the afternoon. And typically there are about one fifth of days that are rainy.
 3. Would you like to live in a city that is dry or wet?  
    I would choose to live in a dry city because it is possible and convenient for me to go out to do some sports, meet with my friends or just take a walk on sunny days. And when it's rainy, I can only stay at home, which is pretty boring.
 
@@ -162,9 +185,12 @@ Yes. I have acquired some knowledge about wild animals through watching TV and r
 
 ### Teachers
 
-1. Do you want to be a teacher in the future?
-2. Do you remember one of your teachers?
-3. Do you have a favorite teacher?
+1. Do you want to be a teacher in the future?  
+   Yeah. I would like to be a teacher in the future. On the one hand, the job is relatively stable and I will not need to worry about unemployment if I become a teacher. On the other hand, it is a challenging vocation and I can improve my professional skills during the process of teaching and research. What's more, I can meet with many excellent friends and students, which is pretty exciting. (工作稳定+提升技能+结识朋友)
+2. Do you remember one of your teachers?  
+   Yeah. Of course. To be honest, I can remember nearly all of my teachers in my life. They have different characteristics and teaching methods. 
+3. Do you have a favorite teacher?  
+   Yes. I think it must be my math teacher when I study in the junior high school. He is a disabled person who has lost his right arm in an accident. But he is strong-minded and diligent. After getting his bachelor's degree, he gave up the high salary in cities and chose to become a teacher in the rural area. I always look up to him as a role model and I really appreciate his help during that time.
 
 
 ## 第二与第三部分
@@ -256,3 +282,41 @@ And the website is very easy to use. There is a conspicuous button at the top-ri
 I have used this website for several years. When I'm stuck with some very difficult questions that I can't resolve by myself, I'll resort to this website and typically within several hours someone will post a right answer under my question. What's more, sometimes I also help others on this site. For example, last week I saw an interesting question that is related to my research direction. It took me aroung two hours to solve the question but I felt really excited.
 
 Overall, I have learned a lot from this website and I'll definitely recommend it to my classmates.
+
++ What are the most popular and least popular apps in China?
++ What's the difference between the Internet and television?
++ Why do people like to read the news on the Internet instead of on TV?
++ Is the library still necessary? Why?
++ What kinds of people would still go to the library to read and study?
++ What are the differences between old people andyoung people when they use the
+internet?
+
+### Describe a piece of technology you own that you feel is difficult to use
+
+Well, for this topic I would like to talk about a pair of Bluetooth earbuds that I bought last year. To be honest, it sometimes even drove me up the wall[^drive-up-the-wall]!
+
+Since I was fed up with dealing with the wires getting tangled up when I was listening to the music or watching some videos, I decided to buy a pair of wireless Bluetooth earbuds which were a new technology a few years ago. I had thought that things would get better, but it turned out that I was wrong.
+
+Every time I tried to connect them with my mobile phone, I had to go through a series of cumbersome procedures---turning them on, putting them into pairing mode and hoping that my phone could recognize them. And sometimes even though they had connected successfully, they often fell disconnected or had other connection problems. And the weirdest phenomenon was that sometimes one of them was connected but the other didn't.
+
+I couldn't count the number of times when I had to fiddle (around) with[^fiddle-with] them to make them work normally. I thought frustrated since such a gadget had been just a waste of my money and time.
+
+Overall, I felt disappointed about the earbuds. I had expected for a convenient and comfortable listening experience, but in reality, I had to struggle to use this kind of technology. Perhaps in the future I'll buy another pair of Bluetooth earbuds with better services.
+
+[^drive-up-the-wall]: drive sb up the wall means to make someone extremely angry
+[^fiddle-with]: fiddle (around) with something means to make small changes to something to try to make it work
+
++ What technology do people currently use?  
+  按人群分类：
+  + students, teachers, white and blue-collar workers: they usually use some electronic devices for commnubication and research. For example, computers and laptops are some of the most important equipments for them to accomplish their work.
+  + housewives and nannies: technology that is related to household chores could help them make the work a piece of cake.
+
+
+## 注释
+
+<div id="footnotes"></div>
+
+## 参考
+
++ [维基百科. 湖北省各市州面积列表](https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8C%97%E7%9C%81%E5%90%84%E5%B8%82%E5%B7%9E%E9%9D%A2%E7%A7%AF%E5%88%97%E8%A1%A8)
++ [维基百科. 黄冈市](https://zh.wikipedia.org/wiki/%E9%BB%84%E5%86%88%E5%B8%82)
