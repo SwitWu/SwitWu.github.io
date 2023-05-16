@@ -3,7 +3,7 @@ layout: post
 title: 雅思同义替换整理
 category: English
 description: 
-last_modified_at: 2023-05-13
+last_modified_at: 2023-05-16
 ---
 
 ## 列表
@@ -66,17 +66,34 @@ last_modified_at: 2023-05-13
   + be proficient in
 + increasing, incremental, accretive, growing 增长的，增加的
 + mock, mimic, ape, simulate, emulate, immitate 模仿
-+ oust, replace
++ oust, replace, substitute
 + slander, badmouth 诽谤
 + reserve, book, make a booking/reservation 预订，预约
 + conceal, hide, dissimulate 隐瞒
 + beginner, first-timer, novice 新手
 + mediocre, ordinary, generic, common 普通的
 + remuneration, reward, payment, emolument 报酬
-+ persuasive, compelling, cogent, convincing,  convictive 令人信服的
++ persuasive, compelling, cogent, convincing, convictive 令人信服的
 + immediate, instant
 + medical, checkup 体格检查
 + update, renew, be more current 更新
++ precarious, dangerous 危险的
++ refectory, canteen, restaurant, cafeteria, dining hall 餐厅
++ sitting room, living room 起居室
++ exact, precise, accurate 准确的
++ typical, representative 有代表性的
++ extensive, a lot of, a great number of 大量的
++ eat, feed on
++ repay, reciprocate 报答
++ endure, tolerate, stand, bear, put up with, be fed up with 忍受，忍耐
++ handout, worksheet 讲义
++ conspicuous, noticeable, patent, apparent 显而易见的，明显的
++ like, resemble, analogous 像……，类似
++ cold, freezing, chilly 冷的
++ pastime, entertainment, recreation, amusement, occupation 娱乐，消遣
++ reputable, prestigious, renowned 有声望的
++ pull out(退出), stop
++ variety, diversity 多样性
 
 
 ## 参考
