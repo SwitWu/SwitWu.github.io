@@ -202,6 +202,7 @@ Part 2 需要讲两分钟，Part 3 在 Part 2 的基础上进行拓展提问，�
 + 平时和节假日
 + 男性与女性
 + 城市与农村
++ 心理和生理
 
 这样分点有助于扩充内容，也有助于将回答条理化、清晰化。
 
@@ -295,21 +296,57 @@ internet?
 
 Well, for this topic I would like to talk about a pair of Bluetooth earbuds that I bought last year. To be honest, it sometimes even drove me up the wall[^drive-up-the-wall]!
 
-Since I was fed up with dealing with the wires getting tangled up when I was listening to the music or watching some videos, I decided to buy a pair of wireless Bluetooth earbuds which were a new technology a few years ago. I had thought that things would get better, but it turned out that I was wrong.
+Since I was fed up with dealing with the wires that always got tangled up when I was listening to the music or watching some videos, I decided to buy a pair of wireless Bluetooth earbuds which were a new technology a few years ago. I had thought that things would get better, but it turned out that I was wrong.
 
-Every time I tried to connect them with my mobile phone, I had to go through a series of cumbersome procedures---turning them on, putting them into pairing mode and hoping that my phone could recognize them. And sometimes even though they had connected successfully, they often fell disconnected or had other connection problems. And the weirdest phenomenon was that sometimes one of them was connected but the other didn't.
+Every time I tried to connect the earbuds with my mobile phone, I had to go through a series of cumbersome procedures---turning them on, putting them into pairing mode and hoping that my phone could recognize them. And sometimes even though they had connected successfully, they often fell disconnected or had other connection problems. And the weirdest phenomenon was that sometimes one of them was connected but the other didn't.
 
-I couldn't count the number of times when I had to fiddle (around) with[^fiddle-with] them to make them work normally. I thought frustrated since such a gadget had been just a waste of my money and time.
+I couldn't count the number of times when I had to fiddle (around) with[^fiddle-with] them to make them work properly. I thought that my choice for this pair of earbuds was a mistake since it was a waste of money and time.
 
-Overall, I felt disappointed about the earbuds. I had expected for a convenient and comfortable listening experience, but in reality, I had to struggle to use this kind of technology. Perhaps in the future I'll buy another pair of Bluetooth earbuds with better services.
+Overall, I felt disappointed about the earbuds. I had expected for a convenient and comfortable listening experience, but in reality, I had to struggle to use this kind of technology. Perhaps in the future I'll buy another pair of Bluetooth earbuds which can provide me with better services.
 
 [^drive-up-the-wall]: drive sb up the wall means to make someone extremely angry
 [^fiddle-with]: fiddle (around) with something means to make small changes to something to try to make it work
 
 + What technology do people currently use?  
   按人群分类：
-  + students, teachers, white and blue-collar workers: they usually use some electronic devices for commnubication and research. For example, computers and laptops are some of the most important equipments for them to accomplish their work.
-  + housewives and nannies: technology that is related to household chores could help them make the work a piece of cake.
+  + students, teachers, white and blue-collar workers: they usually use some electronic devices for work and research. For example, computers and laptops are some of the most important equipments for them to accomplish their work.
+  + housewives and nannies: technology that is related to household chores could help them make the work a piece of cake. For instance, they can use washing machine to help them wash and dry the clothes. At the same time,  the range hood(抽油烟机) and the rice cooker can make the process of cooking easier and more comfortable. What's more, to help the house spick and span, the floor vacuum robot can help a lot.
+
+Finally, I think that the mobile phones are used by nearly all of the individuals since it's an important method for people to communicate with their family, friends and so on.
+
+### Describe an advertisement you have seen but you did not like
+
+About weeks ago, when streaming videos on bilibili, a video-sharing website, I came across a short video entitled: Three ways to lose 10 kilos in a short time. I guess it is eye-catching to everyone who wants to lose weight, and I was no exception.
+
+When I clicked on it, a slim and attractive young lady, probably an online influencer, showed up and started to talk about how she had lost 10 kilograms in three months without doing any exercise. In the beginning, she introduced her diet, which is low- carbon and high in protein This part took only less than a minute. But when coming to the last tip, it became a promotion of a supplement that can block carbohydrate absorption. She boasted about how effective it was for almost 5 minutes. Then came the part about how viewers can get a discount from her link. Not until then did I realize that this video was not an experience–sharing video but an advertisement for a new product.
+
+At that moment, my excitement immediately turned into disappointment. Thinking back, I also found that the information conveyed in the video was unreliable. Because it gave the audience, especially young people a false hope that we could get a good shape only by taking those “magical pills”. Nowadays, more and more companies try to sell their products through those short-videos or live selling. And sometimes we can’t tell if what the anchors say is true. Instead of spreading helpful information for the sake of the general public, they only care about making a profit. This is why I have a deep- seated aversion to most of them.
+
+### Describe another city you would like to stay for a short time
+
+Well, I would like to stay in Beijing for a short time. As is known to us all, Beijing is the capital city and political center of China. It's famous all around the world since it has witnessed many important international activities such as the 2008 Olympic Games and . What's more, Beijing is a historical city because it is the capital city of several dynasties in the history of China.
+
+Although I have known Beijing since I was a child, I have never been there. So I want to take a visit to Beijing in the near future, maybe the next summer vacation. And my friend Jack said that he also wants to visit Beijing as well, so I can invite him to go with me.
+
+I think I can do a lot of things in Beijing. First of all, I'll visit some places of interest, such as the Great Wall, the Forbidden City and the Summer Palace. And of course I can't miss the flag-rising ceremony on the Tian'anmen square. It's a spectacular activity which can stimulate people's patriotic enthusiasm and national pride. What's more, I will go to Peking University and Tsinghua University to meet with my old classmates. Since I haven't seen them for a long time, I hope I'll have an exciting conservation with them.
+
+However, I'll not stay there for a long time. On the one hand, it will cost me a lot of money since I have to pay for the fares of food, accomodation, transportation and the tickets for the tourist attractions. On the other hand, I have to come back to my university for my work.
+
+### Describe a new development in the area where you live
+
+### Describe a noisy place you have been to
+
+For this topic, I want to talk about the Hankou Railway Station, which is situated in the west of Wuhan.
+
+I can still remember it was in January when chinese spring festival was coming, I bought a train ticket online and then I took the subway to go to the train station. Since it was crowded on that day, it took me nearly an hour to go to the station.
+
+The station was packed with people since a large number of people including students and workers made their journey back home at this time. They carried all kinds of bags---backpacks, suitcases, briefcases and even big bags containing their quilts(被子). All the seats were occupied so I had to stand in a corner to wait for the train.
+
+It was really noisy. Some people were talking with their family or friends, with smiles on their faces, which seemed to express their exhilaration for the oncoming reunions with their family members at home. But I couldn't hear exactly what they were talking about. Some people were making phone calls, maybe they were making plans for the next journeys after getting off from the train. And the broadcast in the station was announcing the information of the trains with a high volume to make sure that every passenger won't miss the important notification.
+
+During that time my mom made a phone call to me, but I couldn't hear clearly what she was speaking to me. So I had to hung up and chat with her by sending the text messages. I don't like too noisy environments like this. Maybe the next time when I need to go home, I will go in ahead to avoid the huge crowds.
+
+### Describe a place you visited where the air was polluted
 
 
 ## 注释
