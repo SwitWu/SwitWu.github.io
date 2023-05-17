@@ -233,8 +233,6 @@ Therefore, I think the study is my favorite place to relax.
   Yeah. I think it's necessary to teach young people and children to learn how to relax. 
 
 
-
-
 ### Describe an unusual meal you had
 
 Last year I enjoyed an unusual meal on a home party which was launched and organized by the class monitor.
@@ -338,15 +336,27 @@ However, I'll not stay there for a long time. On the one hand, it will cost me a
 
 For this topic, I want to talk about the Hankou Railway Station, which is situated in the west of Wuhan.
 
-I can still remember it was in January when chinese spring festival was coming, I bought a train ticket online and then I took the subway to go to the train station. Since it was crowded on that day, it took me nearly an hour to go to the station.
+I can still remember it was in January when chinese spring festival was coming, I bought a train ticket online and then took the subway to go to the train station.
 
-The station was packed with people since a large number of people including students and workers made their journey back home at this time. They carried all kinds of bags---backpacks, suitcases, briefcases and even big bags containing their quilts(被子). All the seats were occupied so I had to stand in a corner to wait for the train.
+The station was packed with people since a large number of citizens including students and workers made their journey back home at this time every year. They carried all kinds of bags---backpacks, suitcases, briefcases and even big bags containing their daily necessities. All the seats were occupied so I had to stand in a corner to wait for the train.
 
 It was really noisy. Some people were talking with their family or friends, with smiles on their faces, which seemed to express their exhilaration for the oncoming reunions with their family members at home. But I couldn't hear exactly what they were talking about. Some people were making phone calls, maybe they were making plans for the next journeys after getting off from the train. And the broadcast in the station was announcing the information of the trains with a high volume to make sure that every passenger won't miss the important notification.
 
-During that time my mom made a phone call to me, but I couldn't hear clearly what she was speaking to me. So I had to hung up and chat with her by sending the text messages. I don't like too noisy environments like this. Maybe the next time when I need to go home, I will go in ahead to avoid the huge crowds.
+During that time my mom made a phone call to me, but I couldn't hear clearly what she was speaking to me. So I had to hung up and chat with her by sending the text messages. I don't like too noisy environments like this. Maybe the next time when I need to go home, I will choose an earlier time to avoid the huge crowds.
 
 ### Describe a place you visited where the air was polluted
+
+### Describe a problem you had while shopping online or in a store
+
+For this topic, I want to talk about a shopping experience when I bought a book online several months ago.
+
+Due to the study and research necessity, I had wanted to buy that book for a long time. But the book hadn't been reprinted since 20 years ago, it was difficult to find it in the surrounding brick-and-mortar bookstores. So I had to search for it on the online stores. Luckily, I finally found one store selling it several months ago and I placed an order without any hesitation.
+
+Several days later I received the package with excitement. However, when I opened the package, it turned out that the book was a second-hand book and there were many handwritten notes on it. I was surprised about this since the shopkeeper had never told me about it. So I contacted the customer service staff and sent the photo of the book to him because I need an explanation for this kind of circumstance.
+
+The service staff was pretty polite and patient. He admitted that it was their mistake and he promised to sent me a new book within three days. But since I had no reliance for this shop anymore, I just asked for a refund and chose to buy the book from another book with better credit.
+
+From this experience I have learned that when we shop online, we should differentiate between the stores to choose those with better quality goods and services. And if our consumers' rights and interests are compromised, we should actively defend them.
 
 
 ## 注释
