@@ -354,7 +354,7 @@ Due to the study and research necessity, I had wanted to buy that book for a lon
 
 Several days later I received the package with excitement. However, when I opened the package, it turned out that the book was a second-hand book and there were many handwritten notes on it. I was surprised about this since the shopkeeper had never told me about it. So I contacted the customer service staff and sent the photo of the book to him because I need an explanation for this kind of circumstance.
 
-The service staff was pretty polite and patient. He admitted that it was their mistake and he promised to sent me a new book within three days. But since I had no reliance for this shop anymore, I just asked for a refund and chose to buy the book from another book with better credit.
+The service staff was pretty polite and patient. He admitted that it was their mistake and he promised to sent me a new book within three days. But since I had no reliance for this shop anymore, I just asked for a refund and chose to buy the book from another bookstore with better credit.
 
 From this experience I have learned that when we shop online, we should differentiate between the stores to choose those with better quality goods and services. And if our consumers' rights and interests are compromised, we should actively defend them.
 
