@@ -7,6 +7,12 @@ description:
 
 ## 教育类
 
++ 初中 junior high school
++ 高中 senior high school
++ 高等教育 tertiary education
++ 必修课 a required/compulsory/mandatory course
++ 选修课 an optional course
++ 核心课程 core subjects
 + 增强技能 improve/sharpen their …… skills (e.g. use a variety of methods to sharpen leadership skills)
 + 交际能力 communication skills
 + 解决问题的能力 problem-solving skills
@@ -33,9 +39,6 @@ description:
 + 求职者 job applicants
 + 满足学生的需求 meet students’ needs
 + 更加重视 place more importance on
-+ 必修课 a required/compulsory/mandatory course
-+ 选修课 an optional course
-+ 核心课程 core subjects
 + 学术科目 academic subjects (理论知识 theoretical knowledge/为发展实践技能提供基础 provide a foundation for developing practical skills)
 + 实践技能 practical skills (获得实践经验 gain hand-on experience/应用和检验所学的知识 apply and test their knowledge)
 + 形成良好学习习惯 develop/form good learning habits (例如：regular attendance/effective note-taking/timely completion of homework )
@@ -80,7 +83,40 @@ description:
 + 形成良好的道德观念 develop good moral values
 + 处于性格形成阶段 be in their formative years
 
-## 交通、环境类
+## 交通类
+
++ 红绿灯 traffic lights
++ 人行横道、斑马线 zebra crossing
++ 人行道 sidewalk
++ 行车道 carriageway
++ 吊销驾照 license suspension
++ 汽油为动力的汽车 petrol-powered cars
++ 增加温室气体排放 increase greenhouse gas emissions/increase carbon emissions
++ 车辆排出的尾气 car fumes/traffic fumes/exhaust fumes from vehicles
++ 电动汽车 electric cars
++ 更节能 be more energy-efficient
++ 政府应该为购买电动车的车主提供补贴 Governments should offer subsidies to electric car buyers.
++ 减少人们对汽车的依赖 reduce people’s dependence on cars
++ 乘坐公共交通 take public transport
++ 步行或者骑自行车上下班 walk or cycle to and from work
++ 提高交通税 raise the vehicle tax
++ 交通事故 road accidents/car accidents
++ 交通噪音等级 traffic noise levels
++ 减轻交通拥堵 ease traffic congestion
++ 通勤时间 commuting time
++ 提供实时路况信息 provide real-time traffic information
++ 违反交规 break traffic rules
++ 危险驾驶 dangerous driving
++ 不考虑后果的司机 reckless drivers
++ 交很高的罚金 pay heavy fines
++ 安装超速监控摄像头 install speed cameras
++ 提高交通安全意识 raise public awareness of road safety
++ 航空公司 airline companies
++ 使乘坐飞机出行更加容易承担（便宜）make air travel more affordable
++ 铁路或者公路不能到达的地方 areas inaccessible by rail or road
+
+
+## 环境类
 
 + 自然资源 natural resources
 + 节约自然资源 conserve natural resources 
@@ -95,12 +131,6 @@ description:
 + 一种令人警觉的趋势 an alarming trend
 + 破坏环境 damage the environment/cause damage to the environment
 + 通过严格的立法保护环境 introduce strict laws to protect the environment
-+ 汽油为动力的汽车 petrol-powered cars
-+ 导致温室气体排放上升 increase greenhouse gas emissions/increase carbon emissions
-+ 车辆排出的尾气 car fumes/traffic fumes/exhaust fumes from vehicles
-+ 电动汽车 electric cars
-+ 更节能 be more energy-efficient
-+ 政府应该为购买电动车的车主提供补贴 Governments should offer subsidies to electric car buyers.
 + 工业烟尘 industrial fumes
 + 工厂的温室气体排放 greenhouse gas emissions from factories 
 + 全球变暖 global warming
@@ -108,7 +138,7 @@ description:
 + 导致极地冰盖融化 cause the polar ice caps to melt
 + 提升海平面 raise sea levels
 + 破坏大气臭氧层 damage the ozone layer
-+ 让更多紫外线到达地球 allow more ultraviolet rays to reach Earth
++ 让更多紫外线到达地球 allow more ultraviolet light/rays to reach Earth
 + 增加患皮肤癌的风险 increase the risk of skin cancer
 + 减少碳足迹 reduce our carbon footprint （即减少由于个人开车、使用电器、采暖导致的温室气体）
 + 治理工业污染 control industrial pollution
@@ -116,26 +146,8 @@ description:
 + 导致酸雨 lead to acid rain
 + 导致患哮喘、支气管炎和肺癌的风险上升 increase the risk of asthma, bronchitis and lung cancer
 + 破坏建筑 cause damage to buildings
-+ 减少人们对汽车的依赖 reduce people’s dependence on cars
-+ 乘坐公共交通 take public transport
-+ 步行或者骑自行车上下班 walk or cycle to and from work
-+ 提高交通税 raise the vehicle tax
-+ 交通事故 road accidents/car accidents
-+ 交通噪音等级 traffic noise levels
-+ 减轻交通拥堵 ease traffic congestion
-+ 很长的上下班时间 long commuting time
-+ 提供实时路况信息 provide real-time traffic information
-+ 违反交规 break traffic rules
-+ 危险驾驶 dangerous driving
-+ 不考虑后果的司机 reckless drivers
-+ 交很高的罚金 pay heavy fines
-+ 安装超速监控摄像头 install speed cameras
-+ 提高交通安全意识 raise public awareness of road safety
-+ 航空公司 airline companies
-+ 使乘坐飞机出行更加容易承担（便宜）make air travel more affordable
-+ 铁路或者公路不能到达的地方 areas inaccessible by rail or road
 + 污染河流和湖泊 pollute rivers and lakes
-+ 将废料排入河流 discharge waste into rivers (E.g. The factory was fined (罚款) for discharging waste into the river.)
++ 将废料排入河流 discharge waste into rivers (e.g. The factory was fined for discharging waste into the river.)
 + 石油泄漏 oil spills
 + 威胁海洋生物 threaten marine life/pose a threat to marine life
 + 砍伐森林 log forests
@@ -146,13 +158,13 @@ description:
 + 沙尘暴 dust storm
 + 洪水和干旱 floods and droughts
 + 极端天气状况 extreme weather conditions
-+ 可再生资源 renewable energy sources (energy from solar/wind/hydro power)
++ 可再生能源 renewable energy sources (energy from solar/wind/hydro power)
 + 促进可再生能源的使用 promote the use of renewable energy
 + 可替代能源 alternative energy sources
 + 实现可持续发展 achieve sustainable development
 + (太阳能/风能)严重依赖于天气状况 depend heavily on weather conditions
 + 建造核电站 build nuclear power station
-+ generate (v.) electricity without using fossil fuels
++ 发电 generate electricity
 + 有放射性的核废料 radioactive nuclear waste
 + 导致健康和安全方面的担忧 cause health and safety concerns
 + 核事故 nuclear accident
@@ -175,11 +187,11 @@ description:
 + 选择包装少的产品 choose products with less packaging
 + 不会轻易分解 do not break down easily
 + 提高环保意识 raise environmental awareness
-+ 学习提供的环境教育项目 environmental education programs in schools
-+ 媒体报导 media coverage of environmental issues 
++ 学校的环境教育项目 environmental education programs in schools
++ 媒体报导的环境问题 media coverage of environmental issues 
 + 保护濒危物种 protect endangered species
-+ 濒临灭绝 face extinction (n.)
-+ 灭绝 become extinct (adj.)
++ 濒临灭绝 face extinction, on the verge of extinction, endangered
++ 灭绝 become extinct
 + 对象牙的非法交易 the illegal ivory trade
 + be hunted for meat/fur/horns
 + 皮草 fur coats
@@ -194,31 +206,26 @@ description:
 + 建立更多自然保护区 establish more nature reserves (interesting and educational)
 + 人造栖息地（比如动物园） man-made/artificial habitat
 + 关在笼子里面 are kept in cages 可能出现的问题有：lose their freedom, feel lonely and frustrated, change their habits 
-+ 动物实验 animal testing
++ 动物实验 animal testing/experiments
 + 实验室使用的动物 laboratory animals
 + 动物保护团体 animal rights groups
-+ 减少它们的痛苦 minimize (v.) their suffering
-+ 医学研究 medical research
-+ 研发新的药品和疫苗 develop new medicines and vaccines
-+ 制药公司 pharmaceutical companies
-+ 检测新药的安全性 test the safety of new medicines
++ 减少它们的痛苦 minimize their suffering
 + (宠物可以成为)好伙伴 good companions
 + are good for people’s emotional health
 + help people relieve stress
 + ease loneliness
-+ guard dogs 守卫犬
++ 守卫犬 guard dogs
 + 有责任心的主人responsible pet owners
 + 流浪动物 stray animals
 + 传播疾病 spread diseases
-+ 动物的排泄物 pet waste
++ 动物的排泄物 pet waste/excreta/excretion/excrement
 
 ## 工作、事业
 
 + 工作满意度 job satisfaction
 + 工资高的工作 a well-paid job
-+ (职业)符合他们的技能和兴趣 match their skills and interests
-+ 实现事业发展目标 achieve their career goals
-+ 有一种荣誉感和归属感 feel a sense of pride and belonging
++ （职业）符合他们的技能和兴趣 match their skills and interests
++ 实现职业目标 achieve their career goals
 + 感到受尊重和重视 feel respected and valued
 + 人际交往能力 interpersonal skills
 + （员工）拥有平等的升职机会 have equal opportunities for promotion
@@ -226,15 +233,15 @@ description:
 + 鼓励创新 encourage innovation
 + 压制创新 stifle innovation
 + 从事重复性劳动 perform repetitive tasks
-+ 感到无聊和沮丧 feel bored and frustrated
 + 应该得到回报 should be well rewarded
 + 一个有回报的工作 a rewarding job 
-+ (经济上的回报financial rewards/心理上的回报emotional rewards)
++ (经济上的回报 financial rewards/心理上的回报 emotional rewards)
 + 保持他们的动力 keep them motivated
 + 提高士气 improve their morale
 + 打击士气 damage employee morale
 + 清晰的事业发展方向 clear/well-defined career paths
-+ 选择自己感兴趣的事业发展方向 choose career paths that really interest (v.) them
++ 选择自己感兴趣的事业发展方向 choose career paths that really interest them
++ 员工福利 employee benefits
 + 提高员工忠诚度 increase employees’ loyalty to the company
 + 工作稳定性 job security (high levels of job security)
 + 一份稳定工作 a steady job
@@ -252,55 +259,53 @@ description:
 + 从事体力工作的工人 manual workers
 + 脑力工作 office jobs/desk jobs
 + 压力很大的工作状况 stressful working conditions
-+ 导致紧张和焦虑 cause stress and anxiety
 + 频繁加班 frequently work overtime
 + 几乎没时间参加休闲活动 have little time for leisure activities
 + 更好的取得工作和生活之间的平衡 achieve a better work-life balance
 + 有更加灵活的工作时间 have more flexible working hours/flexible work schedules 
 + 收入过高 be overpaid
 + 应该有更高收入 should be better paid
-+ 生活水平living standards/ the standard of living
++ 生活水平 living standards/ the standard of living
 + 变得过于物质 become too materialistic
 + 对于自己拥有的不满足 be dissatisfied with what they have
 + 提高就业竞争力 increase the employability 
 
-## 媒体类
+## 媒体广告类
 
-+ 看电视（名词短语）television viewing
-  > e.g. They encourage students to reduce their television viewing.
-+ 导致缺少运动的生活方式 lead to a sedentary lifestyle
-+ (看电视)是一种流行的休闲活动 a popular leisure activity
++ 看电视（名词短语）television viewing (e.g. They encourage students to reduce their television viewing.)
++ 流行的休闲活动 a popular leisure activity
 + 增加家庭凝聚力的活动 a good family bonding activity
-+ (一些电视节目)信息量很大而且有教育作用 be informative and educational
++ 增长见识且有教育意义的 be informative and educational
 + 提供有趣的话题 provide good topics of conversation
 + 被动的娱乐 passive entertainment (do not require much thought)
 + 主动的娱乐 active entertainment (e.g. solve puzzles--are mentally stimulating; think actively and independently)
 + 上网 surf the Internet
 + 浏览网页 browse websites
 + 很方便的获取（信息/资源） have easy access to
-+ (e.g. Many children today have easy access to information on the Internet.)
-+ (人)接触到（信息）be exposed to
-+ Teenagers are frequently exposed to media violence.
++ （人）接触到（信息）be exposed to (e.g. Teenagers are frequently exposed to media violence.)
 + （青少年）不能区分现实和幻想 cannot easily tell the difference between reality and fantasy
-+ (政府应该)监管暴力内容 regulate (v.) media violence
++ （政府应该）监管暴力内容 regulate media violence
 + 电影分级制度 the film rating system
 + 广告 advertisements (可数) advertising (不可数)
 + 商业广告 commercials
-+ 广告宣传费用 advertising costs
-+ 广告产业 the advertising industry
-+ 受营利目的驱使 are driven by profit
-+ 媒体来自于广告的收入 advertising revenue
 + 公益广告 non-profit advertising
 + 虚假广告 false/deceptive advertising
-+ provide misleading information
++ 弹出式广告 pop-up advertising
++ 网页上弹出的广告 pop-up advertising windows
++ 针对小孩的广告 advertising aimed at children
++ 广告宣传费用 advertising costs
++ 广告产业 the advertising industry
++ 广告收入 advertising revenue
++ 广告代言人 advertising endorser
++ 受营利目的驱使 be driven by profit
++ 提供误导信息 provide misleading information
 + 减少消费者的忠诚度 reduce customer loyalty
-+ 建立忠诚度 build customer loyalty
++ 建立消费者的忠诚度 build customer loyalty
 + 让产品对消费者更有吸引力 make products more attractive to consumers
-+ 帮助消费者更好的了解产品 help consumers better understand the advertised product
++ 帮助消费者更好地了解产品 help consumers better understand the advertised product
 + 是重要的营销工具 is an important marketing tool
 + 帮助消费者根据可靠信息做出选择 help consumers to make informed choices
 + 提升广告产品销量 boost the sales of advertised products
-+ 鼓励人们把宣传的产品和富有的生活方式联系到一起 encourage people to associate the advertised product with a wealthy lifestyle
 + 崇尚消费的社会 consumer society
 + 对于新产品的需求 the demand for new products
 + 价格更加合理的消费品 more affordable consumer goods
@@ -310,14 +315,12 @@ description:
 + 形成不良消费习惯 develop unhealthy spending habits
 + 把财富等同快乐 equate wealth with happiness
 + 豪车 luxury cars
-+ (广告)让看节目的人扫兴 spoil people’s enjoyment of the show
-+ 网页上弹出的广告 pop-up advertising windows
++ （广告）让看节目的人扫兴 spoil people’s enjoyment of the show
 + 有创意和娱乐性 are creative and entertaining
 + 是一种重要的娱乐来源 is an important source of entertainment
-+ 是生活中不可缺少的一部分 is an indispensable part of our lives
++ 是生活中不可或缺的一部分 is an indispensable part of our lives
 + 大规模广告宣传 advertising campaigns
-+ 针对小孩的广告 advertising aimed at children
-+ 很容易受到广告影响 are easily influenced / swayed by advertising
++ 很容易受到广告影响 are easily influenced/swayed by advertising
 + (政府)监管针对小孩的广告 regulate advertising aimed at children
 + 名人 celebrities
 + 努力劝说人们购买某个产品 try to persuade people to buy a product
@@ -327,43 +330,40 @@ description:
 + 有不同的品味和偏好 have different tastes and preferences
 + 时事 current events
 + 帮助人们了解重要事件 inform people about important events
-+ 是生活不可或缺一部分 is an indispensable part of our lives
 + 新闻报道 news coverage/reports/stories
 + 电子媒体 electronic media
 + 提供及时的新闻资讯 provide up-to-the-minute news and information
-+ 帮助人们对…更加了解 help people gain a better understanding of …
++ 帮助人们对……更加了解 help people gain a better understanding of ……
 + 帮助人们做出基于可靠信息的决定 help people make well-informed decisions
-+ 公正，不偏颇的 fair and balanced
-+ 有偏见，不公正的 biased and unfair
 + 影响人们的看法和态度 influence people’s opinions and attitudes
 + 媒体对于事件夸大渲染 media sensationalism 
 + 夸大新闻 sensationalize (v.) news stories
-+ 吸引更多观众，听众，读者 attract more viewers, listeners or readers
++ 吸引更多观众、听众、读者 attract more viewers, listeners or readers
 + 误导公众 mislead the public
 
 ## 犯罪类
 
 + 犯罪率 crime rates
 + 违法 break the law
-+ 犯罪 commit (v.) crimes
-+ 再次犯罪 re-offend (v.)
++ 罪犯 criminal(s), offender
++ 受害者 victim(s)
++ 犯罪 commit crimes, commit a crime
++ 再次犯罪 reoffend (v.)
 + 持枪的罪犯 armed criminals
 + 用枪自我防卫 use guns in self-defense
-+ 预防犯罪 prevent (v.) crime/ crime prevention
++ 预防犯罪 prevent crime, crime prevention
 + 警官 police officers
-+ 威慑犯罪 deter (v.) crime/criminals
-+ 抓罪犯 catch/arrest criminals
++ 威慑犯罪/罪犯 deter crime/criminals
++ 抓捕罪犯 catch/arrest criminals
 + 从根本解决犯罪问题 address the root causes of crime
 + 减少社会不公 reduce social inequality
-+ 惩罚罪犯 punish (v.) criminals
-+ 严重罪行 serious offenses （美式拼写） （英式拼写： offences）
++ 惩罚罪犯 punish criminals
++ 严重罪行 serious offenses （美式拼写）（英式拼写： offences）
 + 送进监狱 are sent to prison
 + 在监狱服刑 serve prison sentences
 + 失去自由 lose their freedom
 + 不能再对别人构成威胁 cannot pose a threat to others 
 + 反思自己的行为 make them reflect on their actions
-+ 震慑犯罪 deter (v.) crime
-+ 震慑罪犯 deter (v.) criminals
 + 导致监狱人满为患 lead to prison overcrowding
 + 导致怨恨 lead to resentment 
 + （有人）可能被误判 may be wrongly convicted
@@ -372,32 +372,29 @@ description:
 + 有犯罪记录的人 people with a criminal record
 + 受到不公正待遇 be treated unfairly
 + 没有稳定收入 do not have a steady source of income
-+ 改造犯人 reform (v.) criminals (reform them into contributing members of society)
++ 改造犯人 reform criminals (reform them into contributing members of society)
 + 职业培训 vocational training
 + 增强就业适应性 increase their employability
-+ 重回社会 re-enter society / re-integrate into society
++ 重回社会 re-enter society/re-integrate into society
 + 减少再次犯罪的可能 reduce re-offending
 + 守法公民 law-abiding citizens
-+ 守法 obey (v.) laws / abide by laws
++ 守法 obey laws, abide by laws
 + 惩罚力度不够 is not a sufficient punishment
-+ 轻罪 minor crimes (vandalism 破坏公共财物；shoplifting顺手牵羊；driving without a license)
++ 轻罪 minor crimes (vandalism 破坏公共财物；shoplifting 顺手牵羊；driving without a license 无证驾驶)
 + 交罚款 pay fines
-+ 社区服务 (do/perform) community service 
-+ > There are plans for more offenders to do community service instead of short prison sentences.
++ 社区服务 (do/perform) community service (e.g. There are plans for more offenders to do community service instead of short prison sentences.)
 + 媒体对犯罪的报道 media reports on crime
 + 过度渲染犯罪 sensationalize crime
 + 增加人们对犯罪的恐惧 increase people’s fear of crime
 + 心理伤害 emotional suffering 
-+ 受害者 victims
-+ 增强安全防范措施 increase security measures
-+ (in areas with high crime rates)
++ 增强安全防范措施 increase security measures (in areas with high crime rates)
 + 增派警察巡逻 increase police patrol
-+ 安装摄像头 install (v.) security cameras in public places
++ 安装摄像头 install security cameras in public places
 + 增进社区安全 improve community safety
 + 侵犯隐私 invade people’s privacy
 + 限制自由 restrict people’s freedom
 + 可替代枪支的方法 alternatives to guns (pepper spray 胡椒喷雾)
-+ (用枪)可能伤及无辜 may shoot innocent people
++ （用枪）可能伤及无辜 may shoot innocent people
 
 ## 科技类
 
@@ -416,7 +413,7 @@ description:
 + 工业装配线（流水线）assembly lines
 + 被大批量生产的产品 mass-produced goods
 + 信息时代 the information age
-+ 电子设备：electronic devices (可数) electronic equipment (不可数)
++ 电子设备 electronic devices (可数) electronic equipment (不可数)
 + 使用化肥 use chemical fertilizers 
 + 提高农作物产量 increase crop yield 
 + 提高农业生产率 improve farming productivity 
@@ -427,7 +424,6 @@ description:
 + 有机食品 organic food (is safer and more nutritious)
 + 利用网上资源 use online resources
 + 搜索引擎 search engine (e.g. Google/find information efficiently and effectively)
-+ 休闲活动 a leisure activity
 + 促进思想和信息的自由交流 promote free exchange of ideas and information
 + 电子书 e-books/electronic books 
 + 提供很多搜索选择 provide many search options
@@ -439,24 +435,26 @@ description:
 + 喜欢翻书的体验 enjoy turning the pages
 + 喜欢捧书的感觉 prefer to hold a real book in their hands
 + 不容易导致视疲劳 are easier on the eyes
-+ 可以舒服的做笔记 can take notes comfortably
++ 可以舒服地做笔记 can take notes comfortably
 + 网店 online shops
-+ 以更低价格购物 shop (v.) at lower prices
++ 以更低价格购物 shop at lower prices
 + 可以看用户评语 can read customer reviews 
-+ 实体店 physical shops/bricks-and-mortar shops
++ 实体店 physical shops/brick-and-mortar shops
 + 远程教育 distance education (students can study at their own pace)
-+ 传统的实体教室 traditional/physical/bricks-and-mortar classrooms
++ 传统的实体教室 traditional/physical/brick-and-mortar classrooms
 + 面对面讨论 face-to-face discussions
-+ 形成亲密友谊 form (v.) close friendships
++ 形成亲密友谊 form close friendships
 + （教师）利用网络资源来作为教学补充 supplement their teaching with online resources
-+ 远程上班 work from home/ work remotely
-+ (…have more flexible work schedules/can achieve a better work-life balance/save money on transport costs)
++ 远程上班 work from home/work remotely
+  + have more flexible work schedules
+  + can achieve a better work-life balance
+  + save money on transport costs
 + （雇主）减少办公室的开支 reduce office costs
 + （雇主）可以扩大招聘员工的选择范围 can expand their labor pool
 + 视频会议 video conference
 + 在一个虚拟的世界里 in a virtual world
-+ 社交网 social networking websites
-+ 视频分享网站 video-sharing websites (e.g. YouTube)
++ 社交网络 social network
++ 视频分享网站 video-sharing websites (e.g. YouTube, TikTok, bilibili)
 + 参与网络论坛讨论 participate in online forum 
 + 在网上和朋友互动 interact with friends online
 + 过度依赖 rely heavily on
@@ -815,6 +813,7 @@ description:
 
 ## 健康类
 
++ 导致久坐不动/缺少运动的生活方式 lead to a sedentary lifestyle
 + 吃健康的、均衡的饮食 eat/have a healthy and balanced diet
 + 形成健康的饮食习惯 develop healthy eating habits
 + 在年轻人中推广健康的生活方式 promote healthy lifestyles among young people
@@ -889,3 +888,14 @@ description:
 + 对健康有害 is damaging to their health/cause damage to their health
 + 有机食品 organic food 
 + 是未使用化学产品生产的 are produced without chemicals
++ 医学研究 medical research
++ 研发新的药品和疫苗 develop new medicines and vaccines
++ 制药公司 pharmaceutical companies
++ 检测新药的安全性 test the safety of new medicines
+
+## 情感、感受类
+
++ 荣誉感 a sense of pride
++ 归属感 a sense of belonging
++ 感到无聊和沮丧 feel bored and frustrated
++ 导致紧张和焦虑 cause stress and anxiety
