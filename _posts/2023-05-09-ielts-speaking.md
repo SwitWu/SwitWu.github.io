@@ -115,14 +115,13 @@ math: true
 ### Rain($*$)
 
 1. Do you like rainy days?  
-   That depends on whether the rain is heavy or not. I am fond of some light rain since it can make the air fresher and make the weather cooler. But I don't like the heavy rain since it can wet my pant leg.
+   That depends on whether the rain is heavy or not. I am fond of some light rain since it can make the air fresher and make the weather cooler. But I don't like the heavy rain since it can wet my pant leg even with the protection of the umbrella.
 2. Does it rain much in your city?  
    Not pretty much. I think the weather in Wuhan is pretty weird. Sometimes it's sunny and hot in the morning, but there is a sudden downpour in the afternoon. And typically there are about one fifth of days that are rainy.
 3. Would you like to live in a city that is dry or wet?  
    I would choose to live in a dry city because it is possible and convenient for me to go out to do some sports, meet with my friends or just take a walk on sunny days. And when it's rainy, I can only stay at home, which is pretty boring.
 4. Would you change your plan if it rained?  
   I think it will depend on the plan itself. If I'm going to do some outdoor activities like going hiking or going cycling with my friends, then I'll definitely change my plan. But if I'm gonna watch a movie or have a dinner in the restaurant, then I won't change my mind since the weather won't influence my mood, nor will it influence the plan.
-
 
 ### Bags
 
@@ -178,24 +177,43 @@ math: true
 ### T-shirt
 
 + Do you like wearing T-shirts?  
-+ How often do you wear T-shrts? 
-+ Do you like T-shirts with pictures or prints?
-+ Do you think older people who wear T-shirts are fashionable?
-+ Would you buy T-shirts as souvenirs on vacation?
+  (百搭+舒适+容易洗)  
+  Yes I'm fond of wearing T-shirts. They go with everything, whether shorts(短裤) or pants(长裤). And it's confortable to wear T-shirts compared with wearing shirts which are required in some formal circumstances. What's more, T-shirts are easily washed.
++ How often do you wear T-shrts?  
+  To be honest I wear T-shirts nearly everyday in summer. The pure cotton ones are my favorite coz they are comfortable to wear and they don’t smell awful after workout. I have bought many T-shirts online or in the physical shops.
++ Do you like T-shirts with pictures or prints?  
+  For me, I don't like T-shirts that are totally blank without any pictures or prints since they'll look monotonious. And I am fond of T-shirts with some words or just a brand badge on them. That will make T-shirts look simple and fashionable.
++ Do you think older people who wear T-shirts are fashionable?  
+  (分情况：胖子和体型好的人)  
+  Well, I think that will depend on different people. If an senior people who is overweight wears a baggy T-shirt, this person might look like he or she is in low spirits. If the person has a good figure and wears a T-shirt that goes well with the trousers like the jeans, then he or she must look fashionable.
++ Would you buy T-shirts as souvenirs on vacation?  
+  (不会，旅行时关注点都在景点、美食、摄影上面，另外如果想买纪念品，我会选择一些手工制品，比如折扇或者小雕刻品)  
+  No. When I have a vacation, I usually pay all my attention on the tourist attractions, local delicious food and taking photographs. And if I want to buy some souvenirs, I'll choose to search for some local artefacts like a folding fan or some little sculptures. It think they are more memorable.
+
 
 ### Jewelry
 
-+ Do you often wear jewelry?
++ Do you often wear jewelry?  
+  To be honest, I don't buy any jewelry since I don't want to spend time and money on the jewelries and I think it's unnecessary for me to wear the jewelry to go outside. As long as my clothes are comfortable for me, then I'll be satisfied.
 + What type of jewelry do you like?
 + Do you usually buy jewelry?
-+ Why do you think some people wear a piece of jewelry for a long time?
++ Why do you think some people wear a piece of jewelry for a long time?  
+  (将首饰视作护身符 lucky charm，比如有的孩子戴的生肖吊坠 zodiac pendants；也有可能是来自某个重要的人，具有情感价值)    
+  I guess one of the reasons is the jewelry is like the lucky charm for them. It’s a kind of tradition in China you know. People wear zodiac pendants(生肖吊坠) from childhood. Another thing is, the jewelry may be given by someone who means a lot to that person, so it’s of great sentimental value.
 
 ### Outer space and stars
 
-+ Have you ever learnt about outer space and stars?
-+ Do you like science fiction movies? Why?
-+ Do you want to know more about outer space?
-+ Do you want to go into outer space in the future?
++ Have you ever learnt about outer space and stars?  
+  (课程+课外)  
+  Yes. I began to learn something about outer space and stars since I was in high school. At that time teachers taught us some basic knowledge. And I also have also acquired some knowledge through watching some videos and reading some extracurricular books about that.
++ Do you like science fiction movies? Why?  
+  (喜欢，因为画面和特效很壮观，给人视觉冲击、创造了一个不同的世界，让观众从平淡的生活中脱离出来)  
+  Yes definitely. One of the reasons is that the images and special effects in science fiction movies are spectacular and they can give people lots of visual impacts. And the directors are usually creating a different world, which can make the audiences escape from the mundane life for a while.
++ Do you want to know more about outer space?  
+  (是的，因为我对外太空感兴趣，现在还有很多未解之谜)  
+  Yes I do because I'm always curious about outer space. There are still many unresolved mysteries like whether there exists highly developed civilization in the outer space and whether it is feasible for human beings to migrate to another planet.
++ Do you want to go into outer space in the future?  
+  No not really. First I think it might be too expensive for me to afford the space traveling. And even if I have enough money in the future, I still don't dare to have a try because it's dangerous and I'm afraid it might be a one-way trip.
 
 ### Chocolate
 
@@ -416,8 +434,6 @@ I think I can do a lot of things in Beijing. First of all, I'll visit some place
 However, I'll not stay there for a long time. On the one hand, it will cost me a lot of money since I have to pay for the fares of food, accomodation, transportation and the tickets for the tourist attractions. On the other hand, I have to come back to my university for my work.
 
 ### Describe a new development in the area where you live
-
-For this topic I want to talk about 
 
 ### Describe a noisy place you have been to
 
