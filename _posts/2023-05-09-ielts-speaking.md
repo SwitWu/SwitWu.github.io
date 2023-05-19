@@ -56,9 +56,11 @@ math: true
 ### Library
 
 + Do you often go to the library?  
+  (基本不去，学院有专门的研修室，所以没必要去图书馆自习；图书馆人太多，闷热)  
   Hardly do I go to the library. There are specific learning rooms provided by my school so there is no necessity to go to the library for self-study. What's more, there are too many people in the library and I think the library is too stuffy for me to stay there for a long time.
 + What do you usually do in the library?  
-  Usually I go to library to borrow some mathematical books or search for some interesting extracurricular books such as biographies. And when the final exam is coming, I'll revise in the library.
+  (借书+小组讨论+期末复习)  
+  Usually I go to library to borrow some mathematical books or search for some interesting extracurricular books such as biographies. Sometimes I need to give some presentations in class, then I'll reverse a seminar room in the library and discuss with my group members. And when the final exam is coming, I'll revise in the library.
 + Did you go to library when you were a child?  
   No. When I was a child I lived in a small town where there was no library.
 + Do Chinese kids often go to library?  
