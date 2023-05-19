@@ -217,8 +217,10 @@ math: true
 
 ### Chocolate
 
-+ Do you like eating chocolate? Why/why not?
-+ How often do you eat chocolate?
++ Do you like eating chocolate? Why/why not?  
+  Not really, I'm not a big fan of chocolates. I think chocolates are too sweet for me and eating too much chocolate is detrimental to our health since they contain a lot of sugar and some bad fat.
++ How often do you eat chocolate?  
+  Maybe several times a year. 
 + Did you often eat chocolate when you were a kid?
 + Why do you think chocolate is popular around the world?
 + What's your favourite flavour?
@@ -392,10 +394,71 @@ Part 2 需要讲两分钟，Part 3 在 Part 2 的基础上进行拓展提问，�
 + 男性与女性
 + 城市与农村
 + 心理和生理
++ 量的多少
 
 这样分点有助于扩充内容，也有助于将回答条理化、清晰化。
 
 ## 地点类
+
+### Describe a place you plan to travel to that is far away from your home in the future($*$)
+
+套用题目 [Describe another city you want to stay for a short time](#describe-another-city-you-want-to-stay-for-a-short-time)
+
+### Describe the ideal house you would like to have($*$)
+
++ 位置：城市中心（交通方便、购物城）
++ 环境：外部环境（附近有公园、地铁站），内部环境（面积大、设计装修良好、有书房）
++ 总结：向往很久，想要实现梦想还有很多事要做
+
+For this topic I want to talk about an ideal house that I have always dreamed of in my mind.
+
+First of all, I want the house to be situated in the city center because there are many advantages. For example, the transport will be convenient so I can go anywhere I want within a short time. In the city center there are many shopping malls so I can go shopping, watch a movie or eat in the restaurant very easily.
+
+Then I wonna talk about the environment of the house. For the outside, I hope there is a park near my house so I could take a walk and breathe the fresh air in the park after work. And it's better to have a subway station in the neighborhood since taking the subway is economical and you don't have to worry about traffic congestion. And for inside environment, I wish its area is big enough so I can entertain my relatives and friends without worrying that there won't have enough space. And I hope the house is well designed and decorated so that it will look confortable and cozy. What's more, a study is necessary for me since I'm a bookworm and I need some separate space which can help me escape from the noisy environment and keep myself focused.
+
+The aforementioned conditions satisfy all my expectations, so I believe it's my ideal house. To be honest, I've been dreaming about it for a long time. But to achieve this dream, there are still many things to do.
+
+### Describe a place you have been to where there were lots of people($*$)
+
+### Describe a new shop that recently opened in your city/town($*$)
+
+一家奶茶店 a milk tea shop
+
++ 位置：is situated in the Meiyuan CBD of my school, not very far from my dormitary, it take 20 minutes to walk
++ 环境：
+  + 外部环境 it is at the foot of the Luojia Mountain, scenery is amazing, countless big trees, so it's shady and the air is fresh
+  + 内部环境 pretty small but well decorated, light is soft so it's cozy to drink there with your friends, workers are patient and passionate, they'll introduce the latest flavor to the customers
++ 饮品：sell milk tea with dozens of tastes which can basically satisfy everyone's flavor
++ 顾客：there is a long queue in front of the shop every day, most of the customers are college students and a minortiy of them are teachers' kids
++ 发展：this brand originated from Changsha, it has only three shops in Wuhan, so it has gained great popularity since the day it is opened. I think it will become more successful with local people's recommedation.
+
+### Describe another city you want to stay for a short time
+
+Well, I would like to stay in Beijing for a short time. As is known to us all, Beijing is the capital city and political center of China. It's famous all around the world since it has witnessed many important international activities such as the 2008 Olympic Games. What's more, Beijing is a historical city because it is the capital city of several dynasties in the history of China.
+
+Although I have known Beijing since I was a child, I have never been there. So I want to take a visit to Beijing in the near future, maybe the next summer vacation. And my friend Jack said that he also wants to visit Beijing as well, so I can invite him to go with me.
+
+I think I can do a lot of things in Beijing. First of all, I'll visit some places of interest, such as the Great Wall, the Forbidden City and the Summer Palace. And of course I can't miss the flag-rising ceremony on the Tian'anmen square. It's a spectacular activity which can stimulate people's patriotic enthusiasm and national pride. What's more, I will go to Peking University and Tsinghua University to meet with my old classmates. Since I haven't seen them for a long time, I hope I'll have an exciting conservation with them.
+
+However, I'll not stay there for a long time. On the one hand, it will cost me a lot of money since I have to pay for the fares of food, accomodation, transportation and the tickets for the tourist attractions. On the other hand, I have to come back to my university for my work.
+
+### Describe a new development in the area where you live
+
+银泰创意城 Yintai Shopping Mall
+
+
+
+### Describe a noisy place you have been to
+
+For this topic, I want to talk about the Hankou Railway Station, which is situated in the west of Wuhan.
+
+I can still remember it was in January when chinese spring festival was coming, I bought a train ticket online and then took the subway to go to the train station.
+
+The station was packed with people since a large number of citizens including students and workers made their journey back home at this time every year. They carried all kinds of bags---backpacks, suitcases, briefcases and even big bags containing their daily necessities. All the seats were occupied so I had to stand in a corner to wait for the train.
+
+It was really noisy. Some people were talking with their family or friends, with smiles on their faces, which seemed to express their exhilaration for the oncoming reunions with their family members at home. But I couldn't hear exactly what they were talking about. Some people were making phone calls, maybe they were making plans for the next journeys after getting off from the train. And the broadcast in the station was announcing the information of the trains with a high volume to make sure that every passenger won't miss the important notification.
+
+During that time my mom made a phone call to me, but I couldn't hear clearly what she was speaking to me. So I had to hung up and chat with her by sending the text messages. I don't like too noisy environments like this. Maybe the next time when I need to go home, I will choose an earlier time to avoid the huge crowds.
 
 ### Describe your favorite place in your house where you can relax
 
@@ -423,41 +486,16 @@ Therefore, I think the study is my favorite place to relax.
 + Do you think there should be classes for training young people and children how to relax?  
   Yeah. I think it's necessary to teach young people and children to learn how to relax. 
 
-### Describe another city you want to stay for a short time
-
-Well, I would like to stay in Beijing for a short time. As is known to us all, Beijing is the capital city and political center of China. It's famous all around the world since it has witnessed many important international activities such as the 2008 Olympic Games. What's more, Beijing is a historical city because it is the capital city of several dynasties in the history of China.
-
-Although I have known Beijing since I was a child, I have never been there. So I want to take a visit to Beijing in the near future, maybe the next summer vacation. And my friend Jack said that he also wants to visit Beijing as well, so I can invite him to go with me.
-
-I think I can do a lot of things in Beijing. First of all, I'll visit some places of interest, such as the Great Wall, the Forbidden City and the Summer Palace. And of course I can't miss the flag-rising ceremony on the Tian'anmen square. It's a spectacular activity which can stimulate people's patriotic enthusiasm and national pride. What's more, I will go to Peking University and Tsinghua University to meet with my old classmates. Since I haven't seen them for a long time, I hope I'll have an exciting conservation with them.
-
-However, I'll not stay there for a long time. On the one hand, it will cost me a lot of money since I have to pay for the fares of food, accomodation, transportation and the tickets for the tourist attractions. On the other hand, I have to come back to my university for my work.
-
-### Describe a new development in the area where you live
-
-### Describe a noisy place you have been to
-
-For this topic, I want to talk about the Hankou Railway Station, which is situated in the west of Wuhan.
-
-I can still remember it was in January when chinese spring festival was coming, I bought a train ticket online and then took the subway to go to the train station.
-
-The station was packed with people since a large number of citizens including students and workers made their journey back home at this time every year. They carried all kinds of bags---backpacks, suitcases, briefcases and even big bags containing their daily necessities. All the seats were occupied so I had to stand in a corner to wait for the train.
-
-It was really noisy. Some people were talking with their family or friends, with smiles on their faces, which seemed to express their exhilaration for the oncoming reunions with their family members at home. But I couldn't hear exactly what they were talking about. Some people were making phone calls, maybe they were making plans for the next journeys after getting off from the train. And the broadcast in the station was announcing the information of the trains with a high volume to make sure that every passenger won't miss the important notification.
-
-During that time my mom made a phone call to me, but I couldn't hear clearly what she was speaking to me. So I had to hung up and chat with her by sending the text messages. I don't like too noisy environments like this. Maybe the next time when I need to go home, I will choose an earlier time to avoid the huge crowds.
-
 ### Describe a place you visited where the air was polluted
+
++ 情节设计：去大连旅游，途径太原，父亲想去见一见他的老朋友，所以就在太原逗留了
++ 旅馆在工业区，被大型生产工厂和高耸的烟囱包围，空气被工厂的排放物污染（我们害怕如果我们打开窗户，空气会让我们窒息），天空是深灰色的，能见度很低；街道上只有少数人在匆匆行走，大多数都戴着口罩
 
 For this topic I would like to talk about Taiyuan, which is a city in Shanxi province. Last summer my parents took me to Dalian for vacation. But on the half way, my dad wanted to meet his old friend and so we stopped in Taiyuan. My mum and I were left in a hotel waiting for him.
 
-Our hotel was situated in the industrial area, which was surrounded by large production plants and towering chimneys, from which thick and dusty smoke was rising up. The air was contaminated by emissions from the factories and we were afraid that if we opened the window, the air would chock us. The smokey sky was dark gray, with poor visibility. In the streets, there were only a few people walking in a hurry, mostly wearing masks. We were stricken by the outrageous air condition and left the city shortly afterward.
+Our hotel was situated in the industrial area, which was surrounded by large production plants and towering chimneys, from which thick and dusty smoke was rising up. The air was contaminated by emissions from the factories and we were afraid that if we opened the window, the air would choke us. The smokey sky was dark gray, with poor visibility. In the streets, there were only a few people walking in a hurry, mostly wearing masks. We were stricken by the outrageous air condition and left the city shortly afterward.
 
 It is the most polluted place I have ever been to. It made me realize that if we don’t stop letting off waste air, our world will become hell. So I do hope the government would carry out policies to improve the condition of the air. I am sure they must have done something right now. Because quite frankly, the pollution there was appalling, and even survival would become a problem then.
-
-### Describe a new shop that recently opened in your city/town
-
-### Describe a place away from your home and you want to visit in the future
 
 ## 人物类
 
@@ -468,8 +506,6 @@ It is the most polluted place I have ever been to. It made me realize that if we
 ### Describe a person you met at a party who you enjoyed talking with
 
 ### Describe a film character played by an actor or actress whom you admire
-
-### Describe an unusual meal you had
 
 ### Describe a popular person
 
