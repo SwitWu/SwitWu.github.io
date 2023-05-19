@@ -565,7 +565,35 @@ At that moment, my excitement immediately turned into disappointment. Thinking b
 
 ### 事件类
 
-### Describe a time when you taught a friend/relative something
+### 1. Describe an enjoyable experience in your childhood($*$)
+
+
+
+### 2. Describe an occasion when you spent time with a young child($*$)
+
+### 3. Describe an occasion when you got incorrect information($*$)
+
+### 4. Describe an occasion when you lost your way($*$)
+
+### 5. Describe a traditional festival in your country that you enjoy($*$)
+
+### 6. Describe an exciting adventure you would like to take in the future($*$)
+
+### 7. Describe a happy experience in your childhood($*$)
+
+与第一题 [Describe an enjoyable experience in your childhood](#1-describe-an-enjoyable-experience-in-your-childhood) 重复
+
+### 8. Describe an interesting job that you want to have in the future($*$)
+
+### 9. Describe the game you enjoyed playing when you were younger($*$)
+
+### 10. Describe a speech that you gave in public
+
+### 11. Describe an important decision that you made($*$)
+
+### 12. Describe a car journey you remember well($*$)
+
+### 17. Describe a time when you taught a friend/relative something
 
 Three years ago I taught my cousin mathematics.
 
@@ -577,7 +605,7 @@ First of all, I made a detailed time-table for him to follow. Then not only did 
 
 Finally, he succeeded in passing the examination and appreciated my help. And I also felt a sense of achievement from this experience.
 
-### Describe an unusual meal you had
+### 18. Describe an unusual meal you had
 
 Last year I enjoyed an unusual meal on a home party which was launched and organized by the class monitor.
 
