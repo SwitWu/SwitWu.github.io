@@ -493,7 +493,7 @@ Therefore, I think the study is my favorite place to relax.
 
 For this topic I would like to talk about Taiyuan, which is a city in Shanxi province. Last summer my parents took me to Dalian for vacation. But on the half way, my dad wanted to meet his old friend and so we stopped in Taiyuan. My mum and I were left in a hotel waiting for him.
 
-Our hotel was situated in the industrial area, which was surrounded by large production plants and towering chimneys, from which thick and dusty smoke was rising up. The air was contaminated by emissions from the factories and we were afraid that if we opened the window, the air would choke us. The smokey sky was dark gray, with poor visibility. In the streets, there were only a few people walking in a hurry, mostly wearing masks. We were stricken by the outrageous air condition and left the city shortly afterward.
+Our hotel was situated in the industrial area, which was surrounded by large production plants and towering chimneys, from which thick and dusty smoke was rising up. The air was contaminated by emissions from the factories and we were afraid that if we opened the window, the air would choke us. The sky was dark gray, with poor visibility. In the streets, there were only a few people walking in a hurry, mostly wearing masks. We were stricken by the outrageous air condition and left the city shortly afterward.
 
 It is the most polluted place I have ever been to. It made me realize that if we don’t stop letting off waste air, our world will become hell. So I do hope the government would carry out policies to improve the condition of the air. I am sure they must have done something right now. Because quite frankly, the pollution there was appalling, and even survival would become a problem then.
 
@@ -573,7 +573,7 @@ Overall, I felt disappointed about the earbuds. I had expected for a convenient 
 
 About weeks ago, when streaming videos on bilibili, a video-sharing website, I came across a short video entitled: Three ways to lose 10 kilos in a short time. I guess it is eye-catching to everyone who wants to lose weight, and I was no exception.
 
-When I clicked on it, a slim and attractive young lady, probably an online influencer, showed up and started to talk about how she had lost 10 kilograms in three months without doing any exercise. In the beginning, she introduced her diet, which is low- carbon and high in protein This part took only less than a minute. But when coming to the last tip, it became a promotion of a supplement that can block carbohydrate absorption. She boasted about how effective it was for almost 5 minutes. Then came the part about how viewers can get a discount from her link. Not until then did I realize that this video was not an experience–sharing video but an advertisement for a new product.
+When I clicked on it, a slim and attractive young lady, probably an online influencer, showed up and started to talk about how she had lost 10 kilograms in three months without doing any exercise. In the beginning, she introduced her diet, which is low-carbon and high in protein This part took only less than a minute. But when coming to the last tip, it became a promotion of a supplement that can block carbohydrate absorption(碳水化合物的吸收). She boasted about how effective it was for almost 5 minutes. Then came the part about how viewers can get a discount from her link. Not until then did I realize that this video was not an experience–sharing video but an advertisement for a new product.
 
 At that moment, my excitement immediately turned into disappointment. Thinking back, I also found that the information conveyed in the video was unreliable. Because it gave the audience, especially young people a false hope that we could get a good shape only by taking those “magical pills”. Nowadays, more and more companies try to sell their products through those short-videos or live selling. And sometimes we can’t tell if what the anchors say is true. Instead of spreading helpful information for the sake of the general public, they only care about making a profit. This is why I have a deep- seated aversion to most of them.
 
@@ -629,6 +629,27 @@ Well I think my favorite traditional festival must be spring festival, which is 
 
 ### 8. Describe an interesting job that you want to have in the future($*$)
 
+旅行视频博主 traveling vlogger
+
++ 从 bilibili 上看到很多阿婆主在国内到处旅行，甚至还有去国外的
++ 成为一位旅行视频博主需要的技能
+  + 使用简易的设备睡觉、做饭
+  + 适应各种严酷的自然环境
+  + 拍视频、剪辑视频、给视频加字幕加背景音乐
++ 为什么想成为旅行视频博主
+  + 拓展视野、见到各种风景、体验各地的风俗文化
+  + 与朝九晚五的打工人相比，自由、不受约束
+  + 获得粉丝，有稳定经济来源
+
+For this topic I want to talk about an interesting job which is to become a traveling vlogger.
+
+In bilibili---a video-sharing website, I have seen many video uploaders travel around around China, some even around the world, and take videos to share their daily life. I think it's pretty exciting and cool.
+
+However, it's not easy to become a traveling vlogger. You have to acquire many skills. Firstly you have to use simple equipments to sleep and cook since it's impossible for you to take all kinds items along with you. And you need to adapt all kinds of harsh natural environments. Whether it's freezing cold or scorching hot, you have to go ahead. What's more, you need learn how to take videos and how to edit videos such as adding subtitles(字幕) and backgroung music into the videos.
+
+As for the reasons why I want to become a traveling vlogger, here are some points. First of all, through traveling, you can broaden your horizon, appreciate a lot of majestic sceneries and experience various customs and cultures in different places. And comparied with 9 to 5 workers, you are free and you can escape from the restrictions from the environment. And if your videos are of good quality, you can gain a lot of followers and then you don't have to worry about the economic income.
+
+
 ### 9. Describe the game you enjoyed playing when you were younger($*$)
 
 ### 10. Describe a speech that you gave in public($*$)
@@ -639,7 +660,7 @@ Well I think my favorite traditional festival must be spring festival, which is 
 
 ### 13. Describe a piece of good news that you heard about someone you know well
 
-Well, a few months ago, my friend Jack shared some good news with me. He told me that he passed a difficult exam called the National Judicial examination. It's one of the most difficult qualification exams in China. The pass rate is only about 10% every year. Plus, you have to read and study lOts of law books. In fact, many people around me failed the exam. Some of them didn't even finish it. So I really admire him for passing it.
+Well, a few months ago, my friend Jack shared some good news with me. He told me that he passed a difficult exam called the National Judicial examination. It's one of the most difficult qualification exams in China. The pass rate is only about 10% every year. Plus, you have to read and study lots of law books. In fact, many people around me failed the exam. Some of them didn't even finish it. So I really admire him for passing it.
 
 Actually Jack and I are close friends. Our friendship has lasted over a decade. I know how hard he worked because we chat from time to time. He made a study schedule and tried him best to stick to it for half a year. During those six months, he didn't socialize at all. He took lots of online classes and studied law for hours every day. To be honest, I've never seen anyone who could work that hard.
 
