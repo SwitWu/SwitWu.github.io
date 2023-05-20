@@ -566,8 +566,8 @@ Overall, I felt disappointed about the earbuds. I had expected for a convenient 
   按人群分类：
   + students, teachers, white and blue-collar workers: they usually use some electronic devices for work and research. For example, computers and laptops are some of the most important equipments for them to accomplish their work.
   + housewives and nannies: technology that is related to household chores could help them make the work a piece of cake. For instance, they can use washing machine to help them wash and dry the clothes. At the same time,  the range hood(抽油烟机) and the rice cooker can make the process of cooking easier and more comfortable. What's more, to help the house spick and span, the floor vacuum robot can help a lot.
+  + Finally, I think that the mobile phones are used by nearly all of the individuals since it's an important method for people to communicate with their family, friends and so on.
 
-Finally, I think that the mobile phones are used by nearly all of the individuals since it's an important method for people to communicate with their family, friends and so on.
 
 ### 10. Describe an advertisement you have seen but you did not like
 
@@ -631,7 +631,7 @@ Well I think my favorite traditional festival must be spring festival, which is 
 
 ### 9. Describe the game you enjoyed playing when you were younger($*$)
 
-### 10. Describe a speech that you gave in public
+### 10. Describe a speech that you gave in public($*$)
 
 ### 11. Describe an important decision that you made($*$)
 
@@ -706,6 +706,15 @@ You know, it's amazing to hear about a female ruler in a time where it was very 
 
 ### 22. Describe your first day at school that you remember
 
+Well, I remember the first day of my college so clearly. I really looked forward to starting this new journey. But I have to say the first day was such a roller coaster.
+
+I arrived at the university's gate on the registration day. There were a lot of booths. A group of senior students were there as volunteers. After the paperwork was done, a senior student named Penny was assigned to lead me to my dorm.
+
+She gave me a tour of campus. She was so nice and patient. I mean, I had tons of questions. But she answered all of them in detail. She even gave me her phone number in case I had more questions.
+Her amazing personality really impressed me. Most importantly, she was so pretty. Honestly, I had a crush on her. When we were walking around campus, I was thinking about asking her out on a date
+
+At the end of the tour and orientation, we arrived at the student residence. She congratulated me again. Then she told me that her boyfriend lived in my building... I was so disappointed when she said that. I tried to stay calm. But I was so upset. It was a great day overall... I just didn't expect to have those kinds of ups and downs.
+
 ### 23. Describe something you did that made you feel proud
 
 When it comes to something I did that made me feel proud, I'm going to talk about the time my essay won an award. *If memory serves correctly*, this happened two years ago. Since I was interested in literature, I took part in an optional literature course. Although reading and writing about literature has never been one of my strong suits. I still really enjoyed the course.
@@ -720,9 +729,39 @@ After the semester ended, my professor told me that she had nominated my essay f
 
 ### 25. Describe a complaint that you made and you were satisfied with the result
 
+ [Describe a problem you had while shopping online or in a store](#describe-a-problem-you-had-while-shopping-online-or-in-a-store) 套用在网店买书然后发现是二手书，后面结局改为售后重新发货。
+
 ### 26. Describe something that you did with someone/a group of people
 
+I'd like to talk about my experience of making a presentation with my classmates in college. When I was a freshman, I took a course in history. During one class, the teacher asked us to have a discussion on history and culture. He divided the class into groups, and asked each group to make a presentation one week later.
+
+At that time, we had just entered college and didn't know each other, so when we were assigned to a group, we were shy and didn't know how to start the group project. That is, until one of the boys, Jack, volunteered to be the group leader. He let everyone introduce themselves first, which made us
+more relaxed.
+
+However, we still had no idea how to go about the presentation. As history and culture are big topics, we didn't know where to start. But Jack stepped up and led us each to discuss our understanding of the topic. It was like a big brainstorming session. We began forming plans and ideas piece by piece. He even provided specific sources for research. Some of us went to the library, some searched the Internet, and others even watched TV for information.
+
+With Jack's leadership, we did a great job presenting. Our teacher also complimented us on it.
+Each member of our group got high marks in that assignment. We were all very grateful to Jack, and we became closer because of this group project. Honestly, it was one of the best teams I've ever joined in my life.
+
+我想说的是大学时候和同学们一起做课堂报告的经历。我在大一时，曾经上过一段时间历史课。有一次历史老师组织大家针对历史文化进行过论，并且给全班分了组，要求一周后每一组都做小组报告。
+
+那时候我们都刚进大学校门没多久，彼此还不是很熟悉，所以一开始被分到一个组的时候，我们都有点害羞，也不知道该怎么开始这个小组作业，直到其中一个男孩 Jack 主动承担起小组长的角色。他让大家做了自我介绍，慢慢气氛变得轻松了很多。
+
+但是对于如何做课堂报告我们还是一头雾水，因为历史和文化是很大的主题，我们不知道要从哪里开始。这时候，Jack 主动站出来，引导我们每个人讲了自己对话题的理解。这就像是上了一节头脑风暴课一样。我们逐渐开始一点点地有了思路和想法。Jack 甚全还具体分配了去哪里查找资料。有人去图书馆，有人去网上搜，还有人甚至去电视节目里找可用的信息。
+
+因为 Jack 的领导，我们那次的小组汇报做的非常好。老师也给予了我们极大的肯定，那次作业我们组的人分数都很高。我们都非常感谢 Jack，而且因为这次小组活动，我们几个也变得更亲密了。老实说，那是我加入过的最棒的一个小组。
+
 ### 27. Describe a time when someone gave you something that you really wanted
+
+I'd like to talk about getting a pair of noise-cancelling earbuds that I wanted. A few months ago, 1 saw a pair of Bluetooth noise cancelling earbuds online. They're a pair of JBL brand earbuds and cost around 1000 Yuan. They were pretty expensive, so I didn't buy them.
+
+Actually, I really wanted those earbuds because at the time, I was busy preparing for lots of difficult exams. So I was really stressed. What's worse, I found myself often distracted by noise around me, especially people talking. Then I learned online that a pair of noise cancelling earbuds could help me out. So I was eager to try them.
+
+Unfortunately, I couldn't afford the earbuds. But when I told my mom about them on the phone, she sent me a package with Apple noise-cancelling earbuds. They were more expensive than the ones I wanted. She said she hoped they would help me with my studies. I was so touched.
+
+It turned out that the earbuds worked great. Once I put them on, I can't hear any external noise.
+It makes me way more productive while studying. Sometimes, I even wear them to bed. It helps me fall asleep more quickly. So, thanks to my mom, I always have my noise-cancelling earbuds with me.
+I'm truly grateful for everything my mom does to help me out.
 
 ### Describe a time when you needed to search for information
 
