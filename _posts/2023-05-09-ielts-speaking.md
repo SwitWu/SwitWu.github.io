@@ -499,17 +499,40 @@ It is the most polluted place I have ever been to. It made me realize that if we
 
 ## 人物类
 
-### Describe a person you have met who you want to work/study with
+### 1. Describe a famous person you are interested in($*$)
 
-### Describe an interesting old person you have met
+### 2. Describe someone you know who has recently moved to a new place($*$)
 
-### Describe a person you met at a party who you enjoyed talking with
+### 3. Describe someone you know who often helps others($*$)
 
-### Describe a film character played by an actor or actress whom you admire
+### 4. Describe a person you have met who you want to work/study with
 
-### Describe a popular person
+I'm going to talk about a college friend of mine, Jack. He's a great independent learner who I love studying with.
 
-### Describe someone who moved to your community and brought positive influence
+I remember the first time I studied with him, we prepared a presentation together. That was my freshman year of college. I was taking a course in history. During one class, the teacher asked us to have a discussion on history and culture. He divided the class into groups, and asked each group to make a presentation one week later.
+
+At that time, we had just entered college and didn't know each other, so when we were assigned to a group, we were shy and didn't know how to start the group project. That is, until one of the boys, Jack, volunteered to be the group leader. He led us each to discuss our understanding of the topic. It was like a big brainstorming session. We began forming plans and ideas piece by piece. He even provided specific sources for research. Around the deadline, he also organized a number of mock presentations.
+
+With Jack's leadership, we did a great job presenting. Our teacher also complimented us on it.
+More than that, I was fortunate enough to be in a group with him several times. Whenever he was there, we got high marks on our group work because he was like a mentor to us. Studying with him gives me the opportunity to learn how to think and how to do things effectively. It is for this reason that I enjoy studying with him so much.
+
+### 5. Describe an interesting old person you have met
+
+### 6. Describe a film character played by an actor or actress whom you admire
+
+杀死一只知更鸟
+
+I'd like to talk about Gregory Peck, a famous Hollywood actor. Although he has passed away, he is still one of the best actors of all time.
+
+I knew him from an old film called To Kill a Mocking bird. And I got to know this film several years ago when I was scrolling through social media. There was a list of must-watch films posted by someone, and this movie was on top of the list. So I decided to give it a go.
+
+It's an award-winning American film from the 1960s. Peck played Mr. Finch, a decent lawyer who defends an innocent black man. He always told his children that they should never kill mockingbirds, because they don't do anything but make music for us to enjoy. Honestly, the mockingbird doesn't have much to do with the plot of the movie. But when you're done with the film, you know the mockingbird is a symbol that represents black people who are good and innocent. Mr. Finch is trying to make children understand prejudice in the world of adults. He stands up against racism and social injustice, setting a good example for children.
+
+Anyway, Pecks handsome appearance and outstanding acting definitely add a lot of charisma to the character. Actually he had always played a young handsome guy before Mr. Finch, who was a decent father.
+So this role really caught people's attention. He proved that a good actor can play a variety of characters and
+always surprise the audience. That's why Iadmire him so much
+
+### 7. Describe a person you met at a party who you enjoyed talking with
 
 ## 物体类
 
@@ -525,7 +548,36 @@ It is the most polluted place I have ever been to. It made me realize that if we
 
 ### 6. Describe a book that you have read many times($*$)
 
+《杀死一只知更鸟》
+
+I'd like to talk about a famous American novel called To Kill a Mockingbird. I got to know this book several years ago when I was scrolling through social media. There was a list of must-read books posted by someone, and this book was on top of the list. So I decided to give it a go.
+
+It turned out to be a captivating book. I finished it in under a week when I first read it. The protagonist of the book is a young girl, and her father's Mr. Finch, a decent lawyer who defends an innocent black man. He always tells his children that they should never kill mockingbirds, because they don't do anything but make music for us to enjoy. Honestly, the mockingbird doesn't have much to do with the plot of the book. But when you're done with the novel, you know the mockingbird is a symbol that represents black people who are good and innocent. Mr. Finch is trying to make children understand prejudice in the world of adults. He stands up
+against racism and social injustice, setting a good example tor children.
+
+Actually, the book talks about more than just racism. Through the eyes of Mr. Finch's daughter, it explores different themes like family, courage, justice and so on. I've read the book several times and gained new insights each time. I'm sure my perspective will change when I have kids. So I recommend this book to everyone who hasn't read it. I believe that they won't be let down.
+
+---
+
+Functional Analysis Hiam Brezis
+
++ 开端：同学在看这本书，向我推荐，于是我从网上下载了文件打印出来
++ 内容：书中讲了很多和我的研究方向有关的定理和结论
++ 风格：作者的写作非常清晰严谨，对读者非常友好，作者会将一个研究动机讲出来，由浅入深，以前搞不清楚的概念现在搞清楚了
++ 为什么多次读：
+  + 有的地方比较难，需要反复阅读思考才能完全弄清楚
+  + 书中有大量习题，需要反复阅读，学习方法技巧才能将习题全部解决
+
 ### 7. Describe a movie you watched recently that you felt disappointed about($*$)
+
+I'd like to talk about a movie adapted from a novel called To Kill a Mockingbird. A while ago, I read the original novel. I got to know this book when I was scrolling through social media. It's a captivating book and I finished it in under a week.
+
+After learning of the movie adaptation, I downloaded it out of curiosity. It's an award-winning American film from the 1960s. The protagonist is Gregory Peck, a famous Hollywood actor. So I thought the movie would
+be great. But my expectations were very different from reality
+
+The movie tells the story of Mr. Finch, played by Peck, a decent lawyer who defends an innocent black man. He is trying to make children understand prejudice in the world of adults. He stands up against racism and social injustice, setting a good example for children. You know, this is all the same as the original book's content. However, the book talks about more than just racism. Through the eyes of Mr. Finch's daughter, the novel explores different themes like family, courage, justice and so on. But these are hardly reflected in the movie.
+
+So, the movie is not as detailed as the book, making it appear plain in comparison. Although Peck's handsome appearance and outstanding acting add a lot of charisma to the protagonist, I can't see any outstanding points besides that. Actually, after that movie, I decided I was done with book-to-movie adaptations. It's a letdown for book fans.
 
 ### 8. Describe a website you often visit
 
@@ -643,11 +695,11 @@ Well I think my favorite traditional festival must be spring festival, which is 
 
 For this topic I want to talk about an interesting job which is to become a traveling vlogger.
 
-In bilibili---a video-sharing website, I have seen many video uploaders travel around around China, some even around the world, and take videos to share their daily life. I think it's pretty exciting and cool.
+In bilibili---a video-sharing website, I have seen many video uploaders travel around China, some even around the world, and take videos to share their daily life. I think it's pretty exciting and cool.
 
-However, it's not easy to become a traveling vlogger. You have to acquire many skills. Firstly you have to use simple equipments to sleep and cook since it's impossible for you to take all kinds items along with you. And you need to adapt all kinds of harsh natural environments. Whether it's freezing cold or scorching hot, you have to go ahead. What's more, you need learn how to take videos and how to edit videos such as adding subtitles(字幕) and backgroung music into the videos.
+However, it's not easy to become a traveling vlogger. You have to acquire many skills. Firstly you have to utilise simple equipments to sleep and cook since it's impossible for you to take all kinds of items along with you. And you need to adapt all sorts of harsh natural environments. Whether it's freezing cold or scorching hot, you have to go ahead. What's more, you need to learn how to take videos and how to edit videos such as adding subtitles(字幕) and background music into them.
 
-As for the reasons why I want to become a traveling vlogger, here are some points. First of all, through traveling, you can broaden your horizon, appreciate a lot of majestic sceneries and experience various customs and cultures in different places. And comparied with 9 to 5 workers, you are free and you can escape from the restrictions from the environment. And if your videos are of good quality, you can gain a lot of followers and then you don't have to worry about the economic income.
+As for the reasons why I want to become a traveling vlogger, here are some points. First of all, through traveling, you can broaden your horizon, appreciate a lot of majestic sceneries and experience various customs and cultures in different places. And comparied with 9 to 5 workers, you are free and you can escape from the restrictions from the environment. And if your videos are of good quality, you can gain a lot of followers and then you can make both ends meet and even save some money.
 
 
 ### 9. Describe the game you enjoyed playing when you were younger($*$)
