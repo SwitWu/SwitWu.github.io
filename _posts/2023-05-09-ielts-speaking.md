@@ -513,7 +513,21 @@ It is the most polluted place I have ever been to. It made me realize that if we
 
 ## 物体类
 
-### Describe a website you often visit
+### 1. Describe a water sport you would like to try in the future($*$)
+
+### 2. Describe a sport you enjoy watching($*$)
+
+### 3. Describe an expensive gift that you would like to give someone when you save a lot of money($*$)
+
+### 4. Describe an invention that is useful in your daily life($*$)
+
+### 5. Describe a piece of clothing you enjoy wearing($*$)
+
+### 6. Describe a book that you have read many times($*$)
+
+### 7. Describe a movie you watched recently that you felt disappointed about($*$)
+
+### 8. Describe a website you often visit
 
 For this topic, I would like a talk about a website called Math Stack Exchange, which is a forum for discussing various mathematical problems.
 
@@ -533,7 +547,7 @@ Overall, I have learned a lot from this website and I'll definitely recommend it
 + What are the differences between old people andyoung people when they use the
 internet?
 
-### Describe a piece of technology you own that you feel is difficult to use
+### 9. Describe a piece of technology you own that you feel is difficult to use
 
 Well, for this topic I would like to talk about a pair of Bluetooth earbuds that I bought last year. To be honest, it sometimes even drove me up the wall[^drive-up-the-wall]!
 
@@ -555,7 +569,7 @@ Overall, I felt disappointed about the earbuds. I had expected for a convenient 
 
 Finally, I think that the mobile phones are used by nearly all of the individuals since it's an important method for people to communicate with their family, friends and so on.
 
-### Describe an advertisement you have seen but you did not like
+### 10. Describe an advertisement you have seen but you did not like
 
 About weeks ago, when streaming videos on bilibili, a video-sharing website, I came across a short video entitled: Three ways to lose 10 kilos in a short time. I guess it is eye-catching to everyone who wants to lose weight, and I was no exception.
 
@@ -597,9 +611,15 @@ From this experience I realized that taking care of a little child is not an eas
 
 ### 3. Describe an occasion when you got incorrect information($*$)
 
+
+
 ### 4. Describe an occasion when you lost your way($*$)
 
 ### 5. Describe a traditional festival in your country that you enjoy($*$)
+
+Well I think my favorite traditional festival must be spring festival, which is the most important festival in China.
+
+
 
 ### 6. Describe an exciting adventure you would like to take in the future($*$)
 
@@ -616,6 +636,36 @@ From this experience I realized that taking care of a little child is not an eas
 ### 11. Describe an important decision that you made($*$)
 
 ### 12. Describe a car journey you remember well($*$)
+
+### 13. Describe a piece of good news that you heard about someone you know well
+
+Well, a few months ago, my friend Jack shared some good news with me. He told me that he passed a difficult exam called the National Judicial examination. It's one of the most difficult qualification exams in China. The pass rate is only about 10% every year. Plus, you have to read and study lOts of law books. In fact, many people around me failed the exam. Some of them didn't even finish it. So I really admire him for passing it.
+
+Actually Jack and I are close friends. Our friendship has lasted over a decade. I know how hard he worked because we chat from time to time. He made a study schedule and tried him best to stick to it for half a year. During those six months, he didn't socialize at all. He took lots of online classes and studied law for hours every day. To be honest, I've never seen anyone who could work that hard.
+
+So, when he told me that he passed the exam by a lot, I was so happy for him. It was a great sense of accomplishment for him. Plus, he's finally qualified to be a lawyer. That means I'm going to have a lawyer friend! I'm very proud of him.
+
+### 14. Describe something you would like to learn in the future
+
+$\LaTeX$
+
++ 怎么接触到 $\LaTeX$ 的
++ 自己获取资料学习
++ 加入论坛与他人交流
++ 还有很多底层知识和细节需要学习
+
+### 15. Describe a time when you missed or were late for an important meeting/event
+
+### 16. Describe an activity you enjoyed in your free time when you were young
+
+One of my favourite activities when I was a child was cycling. You know, when I was young, I was an active kid. I loved to run around. So when I learned how to ride a bike around the age of 10, I thought that I had found my passion. I literally rode my bike everywhere.
+
+My neighbor, Jack, was the friend who rode with me the most. He is two years older than me.
+Since we're almost the same age, we became friends right away. We both like cycling. When we were in middle school, Jack liked to discover more unusual cycling trails every weekend. He always persuaded me to ride somewhere far and challenge ourselves on more difficult routes. It made cycling really fun.
+
+Besides, in our hometown, there's a long bike path along the lake. We loved to have cycling races along the lake. We pretended that we were professional athletes and always had so much fun cycling together. When we got tired, we laid on a nearby grass land and enjoyed the warm sun. It felt amazing.
+
+So cycling was my favorite thing to do back then. I would ride around the town for an entire afternoon until my mother yelled at me to do my homework. Those bike rides were definitely the best part of my childhood.
 
 ### 17. Describe a time when you taught a friend/relative something
 
@@ -643,6 +693,36 @@ I think this meal is unusual because it is the first time for the classmates to 
 
 Overall, it is an unforgettable experience and I really love this meal. I'm looking forward to it for the next time.
 
+### 19. Describe a historical period/moment you would like to learn more about
+
+I'd love to learn more about the reign of Wu Zetian. She's an amazing historical figure because she was the first and only Empress in all of China's history.
+
+If memory serves correctly, I first became interested in Wu Zetian several years ago. I was watching a historical drama all about her rise to power and what her life was like as Empress. It totally hooked me.
+Normally I don't care much about history. But her story was so fascinating.
+
+Based on the show, I know that she started as a concubine of Emperor Taizong. But then, after he died, she married his ninth son and became an empress consort. Even though she was the Emperor's wife, most historians consider her to be the powerful one in their relationship. She was known to be a very intelligent and influential woman. Then, when he died, she gained total control of the throne and began the Zhou dynasty.
+
+You know, it's amazing to hear about a female ruler in a time where it was very uncommon for women to have that much influence. I definitely think she's someone to look up to. So I hope to discover more about her. I was especially curious about things like if she encountered any sexism even though she was the ruler of the empire. Plus, I hope to learn about how she was perceived by commoners. I'll invest some time in reading more historical books to learn more about those aspects.
+
+### 22. Describe your first day at school that you remember
+
+### 23. Describe something you did that made you feel proud
+
+When it comes to something I did that made me feel proud, I'm going to talk about the time my essay won an award. *If memory serves correctly*, this happened two years ago. Since I was interested in literature, I took part in an optional literature course. Although reading and writing about literature has never been one of my strong suits. I still really enjoyed the course.
+
+Our final assignment was a ten-page paper. I was really stressed about the assignment. I met with the professor and told her my idea. She said that it sounded good and gave me some tips on how to write a strong essay. I decided that I would do my best, even though I was overwhelmed.
+
+I had my work carved out for me, so I got rid of distractions and worked on the paper for three days straight. I stayed at the library for hours on end working away at it. It was pretty tough to stay focused, but I wanted to do a good job. Through lots of focus and hard work, I managed to finish the essay on time.
+
+After the semester ended, my professor told me that she had nominated my essay for an award. Then, a few months later, I found out that I won! I was over the moon. All my hard work paid off in an amazing way. It felt so good to earn recognition for my work.
+
+### 24. Describe a daily routine that you enjoy
+
+### 25. Describe a complaint that you made and you were satisfied with the result
+
+### 26. Describe something that you did with someone/a group of people
+
+### 27. Describe a time when someone gave you something that you really wanted
 
 ### Describe a time when you needed to search for information
 
