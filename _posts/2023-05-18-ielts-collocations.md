@@ -87,7 +87,7 @@ description:
 
 + 红绿灯 traffic lights
 + 人行横道、斑马线 zebra crossing
-+ 人行道 sidewalk
++ 人行道 sidewalk, pavement, footpath
 + 行车道 carriageway
 + 吊销驾照 license suspension
 + 汽油为动力的汽车 petrol-powered cars

@@ -567,9 +567,33 @@ At that moment, my excitement immediately turned into disappointment. Thinking b
 
 ### 1. Describe an enjoyable experience in your childhood($*$)
 
+在我十岁的时候，我爸爸要到武汉见一位老朋友，他带我一起来武汉看一看。这是我第一次来武汉这样的大城市，在这以前我一直在乡村生活学习。
 
+我们乘坐高铁从家乡来到武汉，然后我们乘坐地铁到达目的地，我第一次知道有地铁这个玩意儿，而且地下交通系统竟然可以如此发达。
+在爸爸的朋友家吃饭午饭后，我们去了武汉最大的动物园，在那里我见到了各种各样的野生动物，比如长颈鹿、梅花鹿、河马和大象，这让我感受到了大自然的神奇，初步领略了生物多样性。
+第二天我们就回家了，我觉得这是一次令人激动的经历，因为我见到了很多以前没有见多的事物，大大增长了我的见识。
+
+When I was ten years old, my father had to meet an old friend in Wuhan. Since I was always curious about the outside world, I asked my dad to bring me along and eventually he agreed. It was my first time to visit such a big city like Wuhan, before then I had never left the small countryside in my hometown.
+
+We travelled from my hometown to Wuhan by high speed train and then we took the metro to our destination. It was the first time I knew there was such a thing as a metro and that the underground transport system could be so well developed.
+
+After having lunch at my dad's friend's house, we went to the largest zoo in Wuhan, where I saw all kinds of wild animals, such as giraffes, plum deer, hippos and elephants, which gave me a sense of the wonders of nature and an initial appreciation of biodiversity.
+
+Then my dad took me to the Museum of Hubei Province, which I witnessed numerous cultural relics such as the Bronze Chime-bells and the sword of Goujian. From this experience, I appreciated the wisdom of ancient people and how time-honored my country is.
+
+We went home the next day and I found it an exciting experience as I had seen many things that I had never seen before and this short journey greatly increased my knowledge and broadened my horizon.
 
 ### 2. Describe an occasion when you spent time with a young child($*$)
+
+去年暑假我堂姐把她的孩子带到我家来玩，由于她要和我妈妈去果园里摘些果子，她就把小孩丢给我来照看。
+
+小孩子非常调皮，刚开始他一直在客厅里追我家的小狗，非常吵闹，搞得我都没有心情看书。所以我就在想有什么东西能够转移他的注意力，让他消停一会儿。我突然想到小孩子们都喜欢看动画片，于是我在电脑上搜了几部动画片，但是他都说不喜欢看，这令我非常沮丧。就在这时，我看到桌上有一本数独，我试探性地问他敢不敢挑战数独游戏，他带着骄傲地语气说道：“有什么不敢的，我就喜欢挑战自己”，于是，我向他介绍了数独游戏的规则，就这样，他玩起了数独游戏，同时周围也变得安静了下来。我长舒了一口气，终于可以静下心来看会儿书了。
+
+Last summer my cousin brought her son over to my house to play and as she had to go to the orchard with my mum to pick some fruit, she left the boy with me to look after.
+
+The child was very naughty and at first he kept chasing my puppy around the living room, making so much noise that I couldn't concentrate on my work. So I was thinking of something that could distract him from the little dog for a while. It occurred to me that children like to watch cartoons, so I searched for a few on the computer, but he said he didn't like them, which was very frustrating to me. At that moment, I saw a Sudoku book on the table and I tentatively asked him whether he dared to challenge himself to a Sudoku game. He said with a proud tone of voice, "What's there to be afraid of, I just like to challenge myself", so I introduced the basic rules of Sudoku to him and after that, he played the game while the surroundings became quiet. I breathed a sigh of relief because I was finally able to settle down and read for a while.
+
+From this experience I realized that taking care of a little child is not an easy task you need to use your patience and wisdom to keep a balance between looking after him and finishing your own work.
 
 ### 3. Describe an occasion when you got incorrect information($*$)
 

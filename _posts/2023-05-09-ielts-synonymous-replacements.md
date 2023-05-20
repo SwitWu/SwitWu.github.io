@@ -14,7 +14,7 @@ last_modified_at: 2023-05-16
 + cutlery, knives and forks
 + plan, ambition
 + overrun, check timing
-+ follow …… pattern, organise more clearly
++ follow …… pattern, organise more clearly, structure
 + avoid, skirt, bypass, steer clear of 绕开，避开
 + famous, prominent, eminent
 + prestigious, remowned, celebrated, reputable 有声誉的，声誉好的
@@ -94,6 +94,16 @@ last_modified_at: 2023-05-16
 + reputable, prestigious, renowned 有声望的
 + pull out(退出), stop
 + variety, diversity 多样性
++ confidential, secret 秘密的
++ procrastinate, hang up, temporize 拖延
++ computer, laptop
++ frequent, often
++ fragrance, perfume, aroma, odour, smell, scent (有区别，前三个意为芳香)
++ pay, bear the cost
++ turn down, reject 拒绝
++ sympathise, take pity on 同情
++ diligent, industrious 勤奋的
++ lazy, slothful 懒惰的
 
 
 ## 参考
