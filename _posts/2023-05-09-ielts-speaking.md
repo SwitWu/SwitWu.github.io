@@ -538,7 +538,33 @@ always surprise the audience. That's why Iadmire him so much
 
 ### 1. Describe a water sport you would like to try in the future($*$)
 
+赛龙舟
+
++ 历史背景：赛龙舟是中国的一个传统习俗，在每年的端午节，人们都会赛龙舟以此纪念我国伟大的爱国诗人屈原
++ 运动介绍
++ 难点
++ 理由
+
+For this topic I want to talk about a water sport which is called dragon boat race. It is a Chinese traditional custom. In the Dragon Boat Festival every year, people will do this sport to commemorate the great patrotic poet QuYuan.
+
+The racing lanes are straight and their lengths are usually between 400 and 1,000 meters. And the course of the competition is chosen on still water field, in this way we can ensure as fair a race as possible. Plus, there shouldn't be any water plants, reefs or stakes in the neighborhood, otherwise some accidents might happen and this is what we want to see. As for the competitors, there are 23 team members in each team, which consist of a coxswain(舵手), a gong player(锣手), a drummer(鼓手) and 20 paddlers(桨手). When the race begins, the coxswain is responsible for the orientation. The gong player and drummer are responsible for boosting the morale. And it is the paddlers that provide the forward momentum.
+
+To be honest, it is a difficult sports activity coz it requires that you must have enough stamina and strength. Plus, you have to cooperate with your teammates. If you don't coordinate well with your teammates, your efforts may backfire.
+
+But I want to have a try since this can help to strengthen my body and improve my teamwork ability. What's more, I can also make new friends in the competition.
+
+
 ### 2. Describe a sport you enjoy watching($*$)
+
+和上一题一样，选取赛龙舟的素材
+
+For this topic I want to talk about a water sport which is called dragon boat race. It is a Chinese traditional custom. In the Dragon Boat Festival every year, people will do this sport to commemorate the great patrotic poet QuYuan.
+
+The racing lanes are straight and their lengths are usually between 400 and 1,000 meters. And the course of the competition is chosen on still water field, in this way we can ensure as fair a race as possible. Plus, there shouldn't be any water plants, reefs or stakes in the neighborhood, otherwise some accidents might happen and this is what we want to see. As for the competitors, there are 23 team members in each team, which consist of a coxswain(舵手), a gong player(锣手), a drummer(鼓手) and 20 paddlers(桨手). When the race begins, the coxswain is responsible for the orientation. The gong player and drummer are responsible for boosting the morale. And it is the paddlers that provide the forward momentum.
+
+To be honest, it is a difficult sports activity coz it requires that you must have enough stamina and strength. Plus, you have to cooperate with your teammates. If you don't coordinate well with your teammates, your efforts may backfire.
+
+I really enjoy watching the dragon boat races coz it's an exciting sports activity. You can feel the enthusiasm and cohesion that people exude when they play. I hope in the future I can participate in this activity.
 
 ### 3. Describe an expensive gift that you would like to give someone when you save a lot of money($*$)
 
@@ -559,7 +585,7 @@ Actually, the book talks about more than just racism. Through the eyes of Mr. Fi
 
 ---
 
-Functional Analysis Hiam Brezis
+Functional Analysis Haim Brezis
 
 + 开端：同学在看这本书，向我推荐，于是我从网上下载了文件打印出来
 + 内容：书中讲了很多和我的研究方向有关的定理和结论
@@ -867,3 +893,4 @@ From this experience I have learned that when we shop online, we should differen
 
 + [维基百科. 湖北省各市州面积列表](https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8C%97%E7%9C%81%E5%90%84%E5%B8%82%E5%B7%9E%E9%9D%A2%E7%A7%AF%E5%88%97%E8%A1%A8)
 + [维基百科. 黄冈市](https://zh.wikipedia.org/wiki/%E9%BB%84%E5%86%88%E5%B8%82)
++ [国家体育总局. 龙舟规则简介](https://www.sport.gov.cn/n20001280/n20001265/n20067611/c20106578/content.html)
