@@ -4,7 +4,7 @@ title: 雅思写作（一）——小作文
 category: English
 description: 
 math: true
-last_modified_at: 2023-04-29
+last_modified_at: 2023-05-21
 ---
 
 ## 图表类型
@@ -124,8 +124,8 @@ last_modified_at: 2023-04-29
 + 适中地：modestly, moderately
 
 主体段第一句常用：
-+ According to $\cdots$
-+ As is shown in $\cdots$
++ According to ……
++ As is shown in ……
 
 描述数据，表示大约、高于、低于、超过等的常见词汇：
 
@@ -204,12 +204,12 @@ last_modified_at: 2023-04-29
 > 18% the tourists going to Australia come from US. 18% 的前往澳大利亚的游客来自美国。  
 
 > Muslims make up 55% of the population. 穆斯林占人口的 55%。  
-> China's ethnic minorirites constitute less than 7% of its total population. 中国的少数民族占总人口不到 7%。  
+> China's ethnic minorities constitute less than 7% of its total population. 中国的少数民族占总人口不到 7%。  
 > Italian students comprise/compose 60% of the class. 意大利学生占全班的 60%。
 
 be comprised/composed of 表示由……组成
 
-> Air is composed mainly of nitrogen and oxygen. 空气主要由氮和氧构成。
+> Air is comprised/composed mainly of nitrogen and oxygen. 空气主要由氮和氧构成。
 
 ### 引出数据的方式
 
@@ -358,14 +358,14 @@ remaining, remainder, minimal, least, not significant, insignificant
 
 #### 第一句参考
 
-+ The diagram (flow chart) demonstrates/illustrates the process/procedure of $\cdots$
-+ The diagram (flow chart) demonstrates/illustrates how $\cdots$ is produced/manufactured.
++ The diagram (flow chart) demonstrates/illustrates the process/procedure of ……
++ The diagram (flow chart) demonstrates/illustrates how …… is produced/manufactured.
 
 #### 第二句参考
 
-+ which can be divided into $\cdots$ steps/stages/phases.
-+ and the whole process can be divided into $\cdots$ steps/stages/phases.
-+ and it mainly consists of $\cdots$ steps/stages/phases.
++ which can be divided into …… steps/stages/phases.
++ and the whole process can be divided into …… steps/stages/phases.
++ and it mainly consists of …… steps/stages/phases.
 + and it works as follows.
 + and it involve the following steps.
 
@@ -448,7 +448,7 @@ remaining, remainder, minimal, least, not significant, insignificant
 ### 结尾段
 
 1. 概括内容：加工过程，原材料和装置复杂或者简单
-2. 参考句式：Overall, the production of $\cdots$ is complex, with a few/several types of raw materials manufactured on/in some place.
+2. 参考句式：Overall, the production of …… is complex, with a few/several types of raw materials manufactured on/in some place.
 
 
 ## 地图题
@@ -498,9 +498,9 @@ remaining, remainder, minimal, least, not significant, insignificant
 + 人行道：sidewalk
 
 
-[^locate]: locate、situate、site 意为“使坐落于”，另外 locate 还有“确定···位置，定位”的意思。
+[^locate]: locate、situate、site 意为「使坐落于」，另外 locate 还有「确定……位置，定位」的意思。
 
-[^lie]: lie 表示“撒谎”时规则变化（lied, lied），表示“躺、位于”时不规则变化（lay, lain），另外 lay 也是一个动词原形，表示“放置、下蛋” 。
+[^lie]: lie 表示「撒谎」时规则变化（lied, lied），表示「躺、位于」时不规则变化（lay, lain），另外 lay 也是一个动词原形，表示「放置、下蛋」。
 
 ### 旧去新来
 
@@ -540,7 +540,7 @@ remaining, remainder, minimal, least, not significant, insignificant
 + 未改变之处
 + 主要新增设施类型
 
-示例套路：Overall, despite the retaining of $\cdots$, $\cdots$ has experienced apparently significant changes, with the addition of $\cdots$
+示例套路：Overall, despite the retaining of ……, …… has experienced apparently significant changes, with the addition of ……
 
 #### 一些概括性的词汇
 
