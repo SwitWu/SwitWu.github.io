@@ -547,7 +547,7 @@ always surprise the audience. That's why Iadmire him so much
 
 For this topic I want to talk about a water sport which is called dragon boat race. It is a Chinese traditional custom. In the Dragon Boat Festival every year, people will do this sport to commemorate the great patrotic poet QuYuan.
 
-The racing lanes are straight and their lengths are usually between 400 and 1,000 meters. And the course of the competition is chosen on still water field, in this way we can ensure as fair a race as possible. Plus, there shouldn't be any water plants, reefs or stakes in the neighborhood, otherwise some accidents might happen and this is what we want to see. As for the competitors, there are 23 team members in each team, which consist of a coxswain(舵手), a gong player(锣手), a drummer(鼓手) and 20 paddlers(桨手). When the race begins, the coxswain is responsible for the orientation. The gong player and drummer are responsible for boosting the morale. And it is the paddlers that provide the forward momentum.
+The racing lanes are straight and their lengths are usually between 400 and 1,000 meters. And the course of the competition is chosen on still water field, in this way we can ensure as fair a race as possible. Plus, there shouldn't be any water plants, reefs or stakes in the neighborhood, otherwise some accidents might happen and this is not what we want to see. As for the competitors, there are 23 team members in each team, which consists of a coxswain(舵手), a gong player(锣手), a drummer(鼓手) and 20 paddlers(桨手). When the race begins, the coxswain is responsible for the orientation. The gong player and drummer are responsible for boosting the morale. And it is the paddlers that provide the forward momentum.
 
 To be honest, it is a difficult sports activity coz it requires that you must have enough stamina and strength. Plus, you have to cooperate with your teammates. If you don't coordinate well with your teammates, your efforts may backfire.
 
@@ -560,7 +560,7 @@ But I want to have a try since this can help to strengthen my body and improve m
 
 For this topic I want to talk about a water sport which is called dragon boat race. It is a Chinese traditional custom. In the Dragon Boat Festival every year, people will do this sport to commemorate the great patrotic poet QuYuan.
 
-The racing lanes are straight and their lengths are usually between 400 and 1,000 meters. And the course of the competition is chosen on still water field, in this way we can ensure as fair a race as possible. Plus, there shouldn't be any water plants, reefs or stakes in the neighborhood, otherwise some accidents might happen and this is what we want to see. As for the competitors, there are 23 team members in each team, which consist of a coxswain(舵手), a gong player(锣手), a drummer(鼓手) and 20 paddlers(桨手). When the race begins, the coxswain is responsible for the orientation. The gong player and drummer are responsible for boosting the morale. And it is the paddlers that provide the forward momentum.
+The racing lanes are straight and their lengths are usually between 400 and 1,000 meters. And the course of the competition is chosen on still water field, in this way we can ensure as fair a race as possible. Plus, there shouldn't be any water plants, reefs or stakes in the neighborhood, otherwise some accidents might happen and this is not what we want to see. As for the competitors, there are 23 team members in each team, which consists of a coxswain(舵手), a gong player(锣手), a drummer(鼓手) and 20 paddlers(桨手). When the race begins, the coxswain is responsible for the orientation. The gong player and drummer are responsible for boosting the morale. And it is the paddlers that provide the forward momentum.
 
 To be honest, it is a difficult sports activity coz it requires that you must have enough stamina and strength. Plus, you have to cooperate with your teammates. If you don't coordinate well with your teammates, your efforts may backfire.
 
@@ -568,9 +568,33 @@ I really enjoy watching the dragon boat races coz it's an exciting sports activi
 
 ### 3. Describe an expensive gift that you would like to give someone when you save a lot of money($*$)
 
++ 高中同学，他给了我很多帮助和鼓励
++ 他喜欢联系书法（细节），一直希望买一只好钢笔
++ 我决定攒一些钱：节流（尽量在食堂吃不点外卖、不买衣服鞋子），做一些兼职
++ 理由：作为回报(reciprocate his previous helps and encouragement to me)、巩固友谊(consolidate our friendship)
+
 ### 4. Describe an invention that is useful in your daily life($*$)
 
+电脑
+
++ 我用过的电脑
++ 学习方面：搜索以及下载资料、阅读电子书籍、写文档、写博客
++ 娱乐方面：和朋友聊天、看视频听音乐
+
 ### 5. Describe a piece of clothing you enjoy wearing($*$)
+
++ 时间地点：去年春节去城里购物，下午去步行街，发现一件外套，我奶奶给我买下来了
++ 描述：外套风格简约时尚，外套上方是浅灰色，下方是蓝色，立领，非常合身，有一个缺点就是拉链不好拉
++ 频率：冬夏不穿，因为气温不适合，在春秋季我经常穿这件衣服
++ 原因：穿着非常舒服，让人显得有精气神，这件衣服能够让我经常想起我的奶奶
+
+Well for this topic I want to talk about a coat that I enjoy wearing.
+
+If *memory serves correctly*, it was three years ago when the spring festival was coming, my family went to the city center to buy some necessary items. In the afternoon, we shopped around in the Pedestrain Street. As its name shows, it's a street which is only accessible for pedestrians. When we were roaming in the stores, I found one coat that I liked very much and my grandmother bought it for me.
+
+The style of the coat is simple and stylish. It can be divided into two parts, the upper part of which is light gray and lower part is blue with some Chinese characters printed on it. Plus, the coat has a stand-up collar. The only drawback is the zipper. You know, sometimes lots of efforts are needed to zip up the coat.
+
+Wuhan is a city with four distinct seasons. So I don't wear the coat in winter and summer since the temperature is not appropriate. However, I wear it quite often in spring and autumn. Typically I combine it with a sweatshirt. It looks perfect. On the one hand, this coat is very comfortable to wear and it makes me look refreshed. On the other hand, it can remind me of my deceased grandmother.
 
 ### 6. Describe a book that you have read many times($*$)
 
@@ -613,7 +637,7 @@ The layout of the website is very clear. The website is divided into two columns
 
 And the website is very easy to use. There is a conspicuous button at the top-right corner of the website and if you want to ask a question, just click it, then write down your problem and what you have tried for the problem.（网站的使用）
 
-I have used this website for several years. When I'm stuck with some very difficult questions that I can't resolve by myself, I'll resort to this website and typically within several hours someone will post a right answer under my question. What's more, sometimes I also help others on this site. For example, last week I saw an interesting question that is related to my research direction. It took me aroung two hours to solve the question but I felt really excited.
+I have used this website for several years. When I'm stuck with some very difficult questions that I can't resolve by myself, I'll resort to this website and typically within several hours someone will post a right answer under my question. What's more, sometimes I also help others on this site. For example, last week I saw an interesting question that is related to my research direction. It took me around two hours to solve the question but I felt really excited.
 
 Overall, I have learned a lot from this website and I'll definitely recommend it to my classmates.
 
@@ -645,7 +669,6 @@ Overall, I felt disappointed about the earbuds. I had expected for a convenient 
   + students, teachers, white and blue-collar workers: they usually use some electronic devices for work and research. For example, computers and laptops are some of the most important equipments for them to accomplish their work.
   + housewives and nannies: technology that is related to household chores could help them make the work a piece of cake. For instance, they can use washing machine to help them wash and dry the clothes. At the same time,  the range hood(抽油烟机) and the rice cooker can make the process of cooking easier and more comfortable. What's more, to help the house spick and span, the floor vacuum robot can help a lot.
   + Finally, I think that the mobile phones are used by nearly all of the individuals since it's an important method for people to communicate with their family, friends and so on.
-
 
 ### 10. Describe an advertisement you have seen but you did not like
 
