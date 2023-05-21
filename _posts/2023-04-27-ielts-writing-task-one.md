@@ -193,15 +193,23 @@ last_modified_at: 2023-04-29
 
 ### 三种基本句型
 
-1. 数据类型作主语：The proportion/number/amount of 描述对象 is 数据
-2. 描述对象（类别限定）作主语：描述对象（类别限定）+ 占 + 数据 of the total
-    > 注意：“占”不用 occupy, take up, 而用 account for, make up, constitute, comprise, compose, represent
+1. 数据类型作主语：The proportion/percentage/number/amount of 描述对象 is 数据
+2. 描述对象（类别限定）作主语：描述对象（类别限定）+ 占 + 数据 of the total  
+   注意：表示「占」的词汇有 account for, make up, constitute, comprise, compose，这几个可以互相替换
 3. 数据作主语：数据 + 描述对象 + 谓语动词 + 类别限定
 
-> 举例：  
+> 三种基本句型举例：  
 > The proportion of tourists who came from China is 37%. 来自中国的游客占比为 37%。  
 > European tourists account for 35% of all the tourists going to Australia. 欧洲游客占所有前往澳大利亚游客的 35%。  
-> 18% the tourists going to Australia come from US. 18% 的前往澳大利亚的游客来自美国。
+> 18% the tourists going to Australia come from US. 18% 的前往澳大利亚的游客来自美国。  
+
+> Muslims make up 55% of the population. 穆斯林占人口的 55%。  
+> China's ethnic minorirites constitute less than 7% of its total population. 中国的少数民族占总人口不到 7%。  
+> Italian students comprise/compose 60% of the class. 意大利学生占全班的 60%。
+
+be comprised/composed of 表示由……组成
+
+> Air is composed mainly of nitrogen and oxygen. 空气主要由氮和氧构成。
 
 ### 引出数据的方式
 
