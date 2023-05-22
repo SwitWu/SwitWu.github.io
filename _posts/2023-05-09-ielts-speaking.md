@@ -420,9 +420,19 @@ The aforementioned conditions satisfy all my expectations, so I believe it's my 
 
 ### Describe a place you have been to where there were lots of people($*$)
 
+和 [Describe a noisy place you have been to](#describe-a-noisy-place-you-have-been-to) 共用情节
+
+For this topic I want to talk about the Hankou Railway Station I have been to where there were lots of people.
+
+I can still remember it was in January when chinese spring festival was coming, I bought a train ticket online and then took the subway to go to the train station.
+
+The station was packed with people since a large number of citizens including students and workers made their journey back home at this time every year. They carried all kinds of bags---backpacks, suitcases, briefcases and even big bags containing their daily necessities. All the seats were occupied so I had to stand in a corner to wait for the train.
+
+It was really noisy. Some people were talking with their family or friends, with smiles on their faces, which seemed to express their exhilaration for the oncoming reunions with their family members at home. But I couldn't hear exactly what they were talking about. Some people were making phone calls, maybe they were making plans for the next journeys after getting off from the train. Plus, some people wore their earbuds to listen the music or watch videos. And the broadcast in the station was announcing the information of the trains with a high volume to make sure that every passenger won't miss the important notification.
+
 ### Describe a new shop that recently opened in your city/town($*$)
 
-一家奶茶店 a milk tea shop
+茶颜悦色奶茶店 a milk tea shop
 
 + 位置：is situated in the Meiyuan CBD of my school, not very far from my dormitary, it take 20 minutes to walk
 + 环境：
@@ -444,9 +454,7 @@ However, I'll not stay there for a long time. On the one hand, it will cost me a
 
 ### Describe a new development in the area where you live
 
-银泰创意城 Yintai Shopping Mall
-
-
+同 [Describe a new shop that recently opened in your city/town](#describe-a-new-shop-that-recently-opened-in-your-citytown)
 
 ### Describe a noisy place you have been to
 

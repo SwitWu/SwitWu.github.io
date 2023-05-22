@@ -114,6 +114,12 @@ last_modified_at: 2023-05-16
 + sympathise, commiserate 同情
 + jeopardize, imperil, hazard, endanger 危害，危及
 + unbiased, even-handed, evenhanded, fair, equitable 公平的
++ double, make……two times
++ triple, make……three times
++ be rich in, have high levels of 富含……
++ provenance, source 起源，来源
++ refuge, sanctuary 避难所，庇护
++ disguise, camouflage (n,v) 掩饰，伪装
 
 
 ## 参考
