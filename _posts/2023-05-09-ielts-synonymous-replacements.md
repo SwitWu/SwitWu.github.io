@@ -42,7 +42,7 @@ last_modified_at: 2023-05-16
 + childcare, babysitting
 + free, complimentary, gratuitous 免费的
 + genre(体裁，类型，题材), type
-+ new, no/not …… before, be the first
++ new, no/not …… before, be the first, latest
 + structure, building
 + carry, ferry, ship, transit, convey, freight 运送 
 + superior, better 更好的
@@ -104,6 +104,16 @@ last_modified_at: 2023-05-16
 + sympathise, take pity on 同情
 + diligent, industrious 勤奋的
 + lazy, slothful 懒惰的
++ conventional, traditional 传统的
++ millennium, thousand years 千年
++ only, entirely
++ enforce, inflict 强加
++ enrolment, registration 登记
++ hilarious, funny 滑稽的
++ legitimacy, validity 合法性
++ sympathise, commiserate 同情
++ jeopardize, imperil, hazard, endanger 危害，危及
++ unbiased, even-handed, evenhanded, fair, equitable 公平的
 
 
 ## 参考

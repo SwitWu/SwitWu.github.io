@@ -712,13 +712,36 @@ From this experience I realized that taking care of a little child is not an eas
 
 ### 3. Describe an occasion when you got incorrect information($*$)
 
+本科室友来武汉办事，一起吃饭，回来的时候先是在附近逛了一下，然后想步行去最近的地铁站，结果导航给了错误的信息（细节）
 
+For this topic I want to talk about an experience when I got incorrect information from a navigation app.
+
+If memory serves correctly, it was around a month ago when my previous dormmate came to Wuhan to deal with his matters about applying for the foreign master's program. After he finished his matters, I invited him to have a dinner in a restaurant. That restaurant was pretty far from my school so we went there by subway.
+
+After eating, we roamed around the neighborhood of the restaurant. There was a very long pedestrian street and it took us a long time to arrive at the other end of the street. Then we continued to go ahead without caring about the forward direction. Around half an hour later, we decided to go back school. Since we need to find the subway station first, I opened the navigation app on my phone and followed its guidance. However, we got last in the halfway. It turned out that the local government was constructing a new road and the former one was obsolete and closed. While the navigation app didn't update its map date to the latest. So we just had to backtrack and call a taxi to aviod further trouble.
+
+From this experience I realize that sometimes the navigation app isn't always trustworthy. And it's better to plan the route before we go somewhere far away.
 
 ### 4. Describe an occasion when you lost your way($*$)
 
+同上
+
 ### 5. Describe a traditional festival in your country that you enjoy($*$)
 
-Well I think my favorite traditional festival must be spring festival, which is the most important festival in China.
+春节
+
++ 介绍：辞旧迎新，总结过去一年，展望新的一年
++ 活动：
+  + 临近春节时买年货、制作一些食品（肉糕、饺子、糍粑）
+  + 年三十和家人放鞭炮、吃年夜饭、看春晚
+  + 大年初一后面的半个月去亲戚朋友家拜年，向他们致以新春的祝福
++ 理由：放松自己、和家人团聚、和亲戚朋友相见聊天（有的人甚至一年只能见一面）、自我总结与规划
+
+Well I think my favorite traditional festival must be the Spring Festival, which is the most important festival in China.
+
+During the Spring Festival, we usually do a lot of activities. Before the lunar new year is coming, every family buy the necessities for the new year. And we make some food such as meat cake, rice cake and dumplings by ourselves. On the New Year's Eve, we'll set off firecrackers, eat an abundant and delicious dinner with family members and watch the Spring Festival gala until 12 o'clock. And in the beginning half month of the lunar new year, we typically visit our relatives and friends to give them our best wishes for them.
+
+I'm really fond of the Spring Festival for several reasons. Firstly, it's a good period for me to relax myself. When I'm in the school, I spent most of the time on my work and study. Secondly, I can stay with my parents, meet and communicate with my friends. You know, I can only meet some of my friends once in a year. So the opportunity is really precious. What's more, during this time I can recall the defeats and victories in the last year, summarise the corresponding experiences and make plans for the next year.
 
 
 
