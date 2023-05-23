@@ -509,6 +509,14 @@ It is the most polluted place I have ever been to. It made me realize that if we
 
 ### 1. Describe a famous person you are interested in($*$)
 
+For this topic I want to talk about a famous movie star Donald Chow.
+
+Donald was born in Hong Kong. When he was a child, he studied at the local high school. At the age of 17, he dropped out of school to support his family. In the later period, he did many jobs, such as shoeshiner, office assistant, hotel waiter, camera salesman and taxi driver.
+
+Chow's life started to change after college when he responded to a newspaper advertisement, and his actor-trainee application was accepted by TVB, the local television station. He signed a three-year contract with the studio and made his acting debut. Chow became a heartthrob and familiar face in soap operas that were exported internationally. In 1986 he teamed up with film director John Woo in the gangster action-melodrama A Better Tomorrow, which swept the box offices in Asia and established Chow and Woo as megastars. This film won him his first Best Actor award at the Hong Kong Film Awards.
+
+I am interested in him for two reasons. Firstly, I want to learn more about his childhood experiences and his opinions and thoughts about films since he has made many successful ones. Plus, he is a benevolent person. He said that he would donate 99% of his wealth to charity via setting up a foundation to help those in need. So he has set a model role for everyone.
+
 ### 2. Describe someone you know who has recently moved to a new place($*$)
 
 ### 3. Describe someone you know who often helps others($*$)
@@ -948,3 +956,4 @@ From this experience I have learned that when we shop online, we should differen
 + [维基百科. 湖北省各市州面积列表](https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8C%97%E7%9C%81%E5%90%84%E5%B8%82%E5%B7%9E%E9%9D%A2%E7%A7%AF%E5%88%97%E8%A1%A8)
 + [维基百科. 黄冈市](https://zh.wikipedia.org/wiki/%E9%BB%84%E5%86%88%E5%B8%82)
 + [国家体育总局. 龙舟规则简介](https://www.sport.gov.cn/n20001280/n20001265/n20067611/c20106578/content.html)
++ [Wikipedia. Chow Yun Fat](https://en.wikipedia.org/wiki/Chow_Yun-fat)

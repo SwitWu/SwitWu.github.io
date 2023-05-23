@@ -67,7 +67,7 @@ last_modified_at: 2023-05-16
 + increasing, incremental, accretive, growing 增长的，增加的
 + mock, mimic, ape, simulate, emulate, immitate 模仿
 + oust, replace, substitute
-+ slander, badmouth 诽谤
++ slander, smear, badmouth 诽谤
 + reserve, book, make a booking/reservation 预订，预约
 + conceal, hide, dissimulate 隐瞒
 + beginner, first-timer, novice 新手
@@ -120,6 +120,7 @@ last_modified_at: 2023-05-16
 + provenance, source 起源，来源
 + refuge, sanctuary 避难所，庇护
 + disguise, camouflage (n,v) 掩饰，伪装
++ antiquated, obsolete 过时的，淘汰的，废弃的
 
 
 ## 参考
