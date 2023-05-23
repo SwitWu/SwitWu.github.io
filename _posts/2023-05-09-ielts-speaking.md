@@ -515,11 +515,25 @@ Donald was born in Hong Kong. When he was a child, he studied at the local high 
 
 Chow's life started to change after college when he responded to a newspaper advertisement, and his actor-trainee application was accepted by TVB, the local television station. He signed a three-year contract with the studio and made his acting debut. Chow became a heartthrob and familiar face in soap operas that were exported internationally. In 1986 he teamed up with film director John Woo in the gangster action-melodrama A Better Tomorrow, which swept the box offices in Asia and established Chow and Woo as megastars. This film won him his first Best Actor award at the Hong Kong Film Awards.
 
-I am interested in him for two reasons. Firstly, I want to learn more about his childhood experiences and his opinions and thoughts about films since he has made many successful ones. Plus, he is a benevolent person. He said that he would donate 99% of his wealth to charity via setting up a foundation to help those in need. So he has set a model role for everyone.
+I am interested in him for several reasons. Firstly, I want to learn more about his personal experiences and his opinions and thoughts about films since he has made many successful ones. Plus, he is a benevolent person. He said that he would donate 99% of his wealth to charity via setting up a foundation to help those in need. So he has set a good role model for everyone.
 
 ### 2. Describe someone you know who has recently moved to a new place($*$)
 
+For this topic I want to talk about one of my dormmates who has recently moved to another place.
+
+If memory serves correctly, it was around three months ago, his supervisor told him that there was a master's program in France and asked whether he would like to apply for it. He thought this was a good opportunity to pursue advanced education so he said yes without any hesitation.
+
+After preparing for the language and document materials, he recently went to Paris and started a new college life. Although he is now far away from me, sometimes I still communicate online with him. Now he lives in an apartment of the campus. Unlike in Wuhan University we have to live in the four-bedroom. He can now live in a single room. Although the expense is more expensive than that in Wuhan. He said that there are many advantages to live in a single room. Firstly, the room is spacious and he can buy some necessary appliances such as the washing machine, the rice cooker and the microwave oven. Secondly, the environment and facilities around the apartment is pretty good. There is a grassland in front of the dormtary so he can take a rest on the ground when he is tired. Plus, there is a convenient store and a small restaurant in the neighborhood, which means that it's convenient for him to eat and purchase some daily necessities.
+
 ### 3. Describe someone you know who often helps others($*$)
+
+For this topic I want to talk about my class monitor who often help others. He comes from Beijing and he is a warm-hearted person.
+
+I first met him at the orientation meeting. He is a outgoing person with round face, big nose and black hair. In the class election meeting, he was the only person who volunteered to be the monitor. You know, being a monitor isn't a good job for most students since it means more responsibility and no pay.
+
+He does many things for the surrounding students. Firstly he usually communicates with the school councellor and deliver the notifications and messages to students. He also helps those who have difficulty in studies. Especially when the final exam is coming, he helps them to summarise the basic knowledge and tell them many useful problem-solving techniques. Plus, when some students get ill, he sent them to the school hospital. What's more, he sometimes organize activities to solidify the class cohesion. Last year, he luanched and organized a home part in which we had a good time and got to know each other much better.
+
+As for myself, sometimes when I'm stuck with a difficult math problem. I'll resort to him. And he always halt his own matters and helps me to solve the problem first. Therefore I really appreciate his kindness.
 
 ### 4. Describe a person you have met who you want to work/study with
 
