@@ -523,15 +523,15 @@ For this topic I want to talk about one of my dormmates who has recently moved t
 
 If memory serves correctly, it was around three months ago, his supervisor told him that there was a master's program in France and asked whether he would like to apply for it. He thought this was a good opportunity to pursue advanced education so he said yes without any hesitation.
 
-After preparing for the language and document materials, he recently went to Paris and started a new college life. Although he is now far away from me, sometimes I still communicate online with him. Now he lives in an apartment of the campus. Unlike in Wuhan University we have to live in the four-bedroom. He can now live in a single room. Although the expense is more expensive than that in Wuhan. He said that there are many advantages to live in a single room. Firstly, the room is spacious and he can buy some necessary appliances such as the washing machine, the rice cooker and the microwave oven. Secondly, the environment and facilities around the apartment is pretty good. There is a grassland in front of the dormtary so he can take a rest on the ground when he is tired. Plus, there is a convenient store and a small restaurant in the neighborhood, which means that it's convenient for him to eat and purchase some daily necessities.
+After preparing for the language and document materials, he recently went to Paris and started a new college life. Although he is now far away from me, sometimes I still communicate online with him. Now he lives in an apartment of the campus. Unlike in Wuhan University we have to live in the four-bedroom. He can now live in a single room. Although the accommodation and other costs are higher than that in Wuhan. He said that there are many advantages to live in that new place. Firstly, the room is spacious and he can buy some necessary appliances such as the washing machine, the rice cooker and the microwave oven and place them in the room. Secondly, the environment and facilities around the apartment are pretty good. There is a grassland in front of the dormtary so he can take a rest on the ground when he is tired. Plus, there is a convenient store and a small restaurant in the neighborhood, which means that it's handy for him to eat and purchase some daily necessities.
 
 ### 3. Describe someone you know who often helps others($*$)
 
 For this topic I want to talk about my class monitor who often help others. He comes from Beijing and he is a warm-hearted person.
 
-I first met him at the orientation meeting. He is a outgoing person with round face, big nose and black hair. In the class election meeting, he was the only person who volunteered to be the monitor. You know, being a monitor isn't a good job for most students since it means more responsibility and no pay.
+I first met him at the orientation meeting. He is an outgoing person with round face, big nose and black hair. In the class election meeting, he was the only person who volunteered to be the monitor. You know, being a monitor isn't a good job for most students since it means more responsibility and no pay.
 
-He does many things for the surrounding students. Firstly he usually communicates with the school councellor and deliver the notifications and messages to students. He also helps those who have difficulty in studies. Especially when the final exam is coming, he helps them to summarise the basic knowledge and tell them many useful problem-solving techniques. Plus, when some students get ill, he sent them to the school hospital. What's more, he sometimes organize activities to solidify the class cohesion. Last year, he luanched and organized a home part in which we had a good time and got to know each other much better.
+He does many things for the surrounding students. Firstly he usually communicates with the school councellor and delivers the notifications and messages to classmates. He also helps those who have difficulty in studies. Especially when the final exam is coming, he helps them to summarise the basic knowledge and tell them many useful problem-solving techniques. Plus, when some students get ill, he sent them to the school hospital. What's more, he sometimes organize activities to solidify the class cohesion. Last year, he luanched and organized a home part in which we had a good time and got to know each other much better.
 
 As for myself, sometimes when I'm stuck with a difficult math problem. I'll resort to him. And he always halt his own matters and helps me to solve the problem first. Therefore I really appreciate his kindness.
 
@@ -550,7 +550,17 @@ More than that, I was fortunate enough to be in a group with him several times. 
 
 ### 6. Describe a film character played by an actor or actress whom you admire
 
-杀死一只知更鸟
+《肖申克的救赎》
+
+For this topic I want to talk about a character called Andy Dufresne(安迪·杜弗伦) in the great film---The Shawshank Redemption.
+
+The film tells the story of banker Andy Dufresne (Tim Robbins), who is sentenced to life in Shawshank State Penitentiary for the murders of his wife and her lover, despite his claims of innocence. Over the following two decades, he befriends a fellow prisoner, contraband smuggler Ellis "Red" Redding (Morgan Freeman), and becomes instrumental in a money laundering operation led by the prison warden Samuel Norton.
+
+One day, the guards find Andy's cell empty. The irate Norton throws a rock at a poster of Raquel Welch hanging on the cell wall, revealing a tunnel that Andy had dug with his rock hammer over the past 19 years. The previous night, Andy used the rope to escape through the tunnel and prison sewage pipe, taking Norton's suit, shoes, and ledger, containing evidence of the money laundering.
+
+I have watched this film for several times and learned a lot from Andy. First of all, hope is a good thing and we should never drop good expectations about the future. Secondly, adapt yourself. Everything can change in a moment. Life doesn't owe you any fairness. It's very rare that you will find yourself in the perfect situation to perform well. The key to survival is to accept what you have to make the best of the situation you're in. Thirdly, persistence and patience, without which Andy couldn't have escaped from the prison and gained freedom successfully.  What's more, make friends is importrant. We can share with them our happiness and sadness and they can lend us a hand when we're in trouble.
+
+《杀死一只知更鸟》
 
 I'd like to talk about Gregory Peck, a famous Hollywood actor. Although he has passed away, he is still one of the best actors of all time.
 
