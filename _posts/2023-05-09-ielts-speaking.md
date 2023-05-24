@@ -131,7 +131,7 @@ math: true
 2. Do you change your bags often?  
    No. I think it's unnecessary to change bags often. In my opinion, bags are just for practical use and I won't change my bag until it is broken. I have used my current bag for five years and it's still in good condition. I think maybe I'll use it for another five years.
 3. What kinds of bags would you use when travelling?  
-  I will choose a bag that can contain a lot of things and that's not expensive. If you carry a quite expensive one, sometimes you may get yourself in trouble because your bag is likely to be stolen b    y someone else if you're not careful enough. So I'll choose the useful and practical ones.
+  I will choose a bag that can contain a lot of things and that's not expensive. If you carry a quite expensive one, sometimes you may get yourself in trouble because your bag is likely to be stolen by someone else if you're not careful enough. So I'll choose the useful and practical ones.
 4. Is bag an ideal gift?  
   For most girls and boys, I think a bag might be an ideal gift for them. But for me, I usually don't spend too much money on bags, clothes, shoes and so on. So I'd prefer some gifts that have a special meaning.
 5. Did you use a backpack when you were a child?  
@@ -146,13 +146,13 @@ math: true
     + Classical music, hard to get what the writer wants to express.
     + DJ music, I just think that it is too noisy.
 3. Do you often listen to one type of music?  
-  Yes. Some singers I like very much, listen to some album of them for a long time.
+   Yes. There are some singers that I like very much, so I often listen to the albums of them for a long time. And I'm a big fan of Cantonese songs, I collect those that I like very much together and play the collection when I study.
 4. What music do your friend like? Do you enjoy the same type of music?  
-  One of my friends like classical music very much, he learned to play classical music on the violin when he was young.
+   One of my friends like classical music very much, he learned to play classical music on the violin when he was young.
 5. What's the most popular type of music where you live?  
-  It depends. For young people, it must be pop music. For the elderly people, it might be the folk music and opera.
+   It depends. For young people, it must be pop music. For the elderly people, it might be the folk music and opera.
 6. What singer or musician would you like to see in person?  
-  Jackey Cheung. He is a famous HongKong singer and actor who has won many awards. Excel at performing several kinds of music style.
+   Jackey Cheung. He is a famous HongKong singer and actor who has won many awards. Excel at performing several kinds of music style.
 
 ### Art
 
@@ -172,14 +172,14 @@ math: true
 1. Do you always bring a lot of keys with you?  
   No. I live in the school dormitary, so I only have to take the key of the dormitary and that of my electric motor car with me.
 2. Have you ever lost your keys?  
-  Never. That's probably I am not a scatterbrain.
+  Never. That's probably because I am not a scatterbrain.
   I always put the keys into my bag or my pockets. Before I leave one place to go to another place, I'll check the keys to make sure they're here with me. Just in case that the keys drop onto the ground, I can hear the noticeable sound.
 
 ### T-shirt
 
 + Do you like wearing T-shirts?  
   (百搭+舒适+容易洗)  
-  Yes I'm fond of wearing T-shirts. They go with everything, whether shorts(短裤) or pants(长裤). And it's confortable to wear T-shirts compared with wearing shirts which are required in some formal circumstances. What's more, T-shirts are easily washed.
+  Yes I'm fond of wearing T-shirts. They go with everything, whether shorts(短裤) or pants(长裤). And it's comfortable to wear T-shirts compared with wearing shirts which are required in some formal circumstances. What's more, T-shirts are easily washed.
 + How often do you wear T-shrts?  
   To be honest I wear T-shirts nearly everyday in summer. The pure cotton ones are my favorite coz they are comfortable to wear and they don’t smell awful after workout. I have bought many T-shirts online or in the physical shops.
 + Do you like T-shirts with pictures or prints?  
@@ -200,13 +200,13 @@ math: true
 + Do you usually buy jewelry?
 + Why do you think some people wear a piece of jewelry for a long time?  
   (将首饰视作护身符 lucky charm，比如有的孩子戴的生肖吊坠 zodiac pendants；也有可能是来自某个重要的人，具有情感价值)    
-  I guess one of the reasons is the jewelry is like the lucky charm for them. It’s a kind of tradition in China you know. People wear zodiac pendants(生肖吊坠) from childhood. Another thing is, the jewelry may be given by someone who means a lot to that person, so it’s of great sentimental value.
+  I guess one of the reasons is some people regard the jewelry as a lucky charm for them. It’s a kind of tradition in China, you know. People wear zodiac pendants from childhood. Another thing is, the jewelry may be given by someone who means a lot to that person, so it’s of great sentimental value.
 
 ### Outer space and stars
 
 + Have you ever learnt about outer space and stars?  
   (课程+课外)  
-  Yes. I began to learn something about outer space and stars since I was in high school. At that time teachers taught us some basic knowledge. And I also have also acquired some knowledge through watching some videos and reading some extracurricular books about that.
+  Yes. I began to learn something about outer space and stars since I was in high school. At that time teachers taught us some basic knowledge about the celestial bodies. And I also have also acquired some knowledge through watching videos and reading extracurricular books about that.
 + Do you like science fiction movies? Why?  
   (喜欢，因为画面和特效很壮观，给人视觉冲击、创造了一个不同的世界，让观众从平淡的生活中脱离出来)  
   Yes definitely. One of the reasons is that the images and special effects in science fiction movies are spectacular and they can give people lots of visual impacts. And the directors are usually creating a different world, which can make the audiences escape from the mundane life for a while.
@@ -297,7 +297,7 @@ math: true
 + Do you prefer buying things in big companies or small businesses?  
   It depends. If I want to buy some expensive digital devices such as personal computer or mobile phone, I'll choose to buy from the big companies since the quality can be guaranteed. And if I need to buy some clothes, I usually prefer the small companies because it's less likely for me to wear the same clothes as others.
 + Have you ever worked in small businesses?  
-  No. I haven't finished my master's program and before going to companies to gain some intership work experience, I need to write my thesis first.
+  No. I haven't finished my master's program and before going to companies to gain some internship work experience, I need to write my thesis first.
 + Have you ever thought about starting your own business?  
   Well, it never *crossed my mind*. I mean, for the moment. Pioneering in the business needs courage because the owner has to bear risks. For me, I prefer to *work freelance*. In this way, I can balance my life and work better.
 
@@ -419,7 +419,7 @@ For this topic I want to talk about an ideal house that I have always dreamed of
 
 First of all, I want the house to be situated in the city center because there are many advantages. For example, the transport will be convenient so I can go anywhere I want within a short time. In the city center there are many shopping malls so I can go shopping, watch a movie or eat in the restaurant very easily.
 
-Then I wonna talk about the environment of the house. For the outside, I hope there is a park near my house so I could take a walk and breathe the fresh air in the park after work. And it's better to have a subway station in the neighborhood since taking the subway is economical and you don't have to worry about traffic congestion. And for inside environment, I wish its area is big enough so I can entertain my relatives and friends without worrying that there won't have enough space. And I hope the house is well designed and decorated so that it will look confortable and cozy. What's more, a study is necessary for me since I'm a bookworm and I need some separate space which can help me escape from the noisy environment and keep myself focused.
+Then I wonna talk about the environment of the house. For the outside, I hope there is a park near my house so I could take a walk and breathe the fresh air in the park after work. And it's better to have a subway station in the neighborhood since taking the subway is economical and you don't have to worry about traffic congestion. And for inside environment, I wish its area is big enough so I can entertain my relatives and friends without worrying that there won't have enough space. And I hope the house is well designed and decorated so that it will look comfortable and cozy. What's more, a study is necessary for me since I'm a bookworm and I need some separate space which can help me escape from the noisy environment and keep myself focused.
 
 The aforementioned conditions satisfy all my expectations, so I believe it's my ideal house. To be honest, I've been dreaming about it for a long time. But to achieve this dream, there are still many things to do.
 
@@ -429,11 +429,11 @@ The aforementioned conditions satisfy all my expectations, so I believe it's my 
 
 For this topic I want to talk about the Hankou Railway Station I have been to where there were lots of people.
 
-I can still remember it was in January when chinese spring festival was coming, I bought a train ticket online and then took the subway to go to the train station.
+I can still remember it was in January when Chinese Spring Festival was coming, I bought a train ticket online and then took the subway to go to the train station.
 
 The station was packed with people since a large number of citizens including students and workers made their journey back home at this time every year. They carried all kinds of bags---backpacks, suitcases, briefcases and even big bags containing their daily necessities. All the seats were occupied so I had to stand in a corner to wait for the train.
 
-It was really noisy. Some people were talking with their family or friends, with smiles on their faces, which seemed to express their exhilaration for the oncoming reunions with their family members at home. But I couldn't hear exactly what they were talking about. Some people were making phone calls, maybe they were making plans for the next journeys after getting off from the train. Plus, some people wore their earbuds to listen the music or watch videos. And the broadcast in the station was announcing the information of the trains with a high volume to make sure that every passenger won't miss the important notification.
+It was really noisy. Some people were talking with their family or friends, with smiles on their faces, which seemed to express their exhilaration for the oncoming reunions with their family members at home. But I couldn't hear exactly what they were talking about. Some people were making phone calls, maybe they were making plans for the next routes after getting off from the train or dealing with some working matters that hadn't been finished yet. Plus, some people wore their earbuds to listen the music or watch videos. And the broadcast in the station was announcing the information of the trains with a high volume to make sure that every passenger won't miss the important notification.
 
 ### Describe a new shop that recently opened in your city/town($*$)
 
@@ -442,7 +442,7 @@ It was really noisy. Some people were talking with their family or friends, with
 + 位置：is situated in the Meiyuan CBD of my school, not very far from my dormitary, it take 20 minutes to walk
 + 环境：
   + 外部环境 it is at the foot of the Luojia Mountain, scenery is amazing, countless big trees, so it's shady and the air is fresh
-  + 内部环境 pretty small but well decorated, light is soft so it's cozy to drink there with your friends, workers are patient and passionate, they'll introduce the latest flavor to the customers
+  + 内部环境 pretty small but well decorated with soft lights so it's cozy to drink there with your friends, workers are patient and passionate, they'll introduce the latest flavor to the customers
 + 饮品：sell milk tea with dozens of tastes which can basically satisfy everyone's flavor
 + 顾客：there is a long queue in front of the shop every day, most of the customers are college students and a minortiy of them are teachers' kids
 + 发展：this brand originated from Changsha, it has only three shops in Wuhan, so it has gained great popularity since the day it is opened. I think it will become more successful with local people's recommedation.
@@ -495,7 +495,7 @@ Therefore, I think the study is my favorite place to relax.
 + Do people in your country exercise after work?  
   Well, I think it depends on where people live. For those living in cities, there are enough sports facilities around their houses so they often exercise after work. But for those who live in the rural areas, sports amenities are not adequate so they may not do exercise as frequently as people in cities.
 + What is the place where people spend most of their time at home?  
-  In most homes, I guess the place where people spend most of their time is the living room. The living room is used for entertaning guests, relaxing such as watching TV, spending time with family menbers and friends. And in the living room there is usually a big and confortable sofa which nearly nobody would show resistance to.
+  In most homes, I guess the place where people spend most of their time is the living room. The living room is used for entertaning guests, relaxing such as watching TV, spending time with family menbers and friends. And in the living room there is usually a big and comfortable sofa which nearly nobody would show resistance to.
 + Do you think there should be classes for training young people and children how to relax?  
   Yeah. I think it's necessary to teach young people and children to learn how to relax. 
 
@@ -528,7 +528,7 @@ For this topic I want to talk about one of my dormmates who has recently moved t
 
 If memory serves correctly, it was around three months ago, his supervisor told him that there was a master's program in France and asked whether he would like to apply for it. He thought this was a good opportunity to pursue advanced education so he said yes without any hesitation.
 
-After preparing for the language and document materials, he recently went to Paris and started a new college life. Although he is now far away from me, sometimes I still communicate online with him. Now he lives in an apartment of the campus. Unlike in Wuhan University we have to live in the four-bedroom. He can now live in a single room. Although the accommodation and other costs are higher than that in Wuhan. He said that there are many advantages to live in that new place. Firstly, the room is spacious and he can buy some necessary appliances such as the washing machine, the rice cooker and the microwave oven and place them in the room. Secondly, the environment and facilities around the apartment are pretty good. There is a grassland in front of the dormtary so he can take a rest on the ground when he is tired. Plus, there is a convenient store and a small restaurant in the neighborhood, which means that it's handy for him to eat and purchase some daily necessities.
+After preparing for the language and document materials, he recently went to Paris and started a new college life. Although he is now far away from me, sometimes I still communicate online with him. Now he lives in an apartment of the campus. Unlike in Wuhan University we have to live in the four-bedroom. He now lives in a single room. Although the accommodation and other costs are higher than that in Wuhan. He said that there are many advantages to live in that new place. Firstly, the room is spacious and he can buy some necessary appliances such as the washing machine, the rice cooker and the microwave oven and place them in the room without worrying that there is no enough space. Secondly, the environment and facilities around the apartment are pretty good. There is a grassland in front of the dormitary so he can take a rest on the ground when he is tired. Plus, there is a convenient store and a small restaurant in the neighborhood, which means that it's handy for him to eat and purchase some daily necessities.
 
 ### 3. Describe someone you know who often helps others($*$)
 
@@ -536,15 +536,15 @@ For this topic I want to talk about my class monitor who often help others. He c
 
 I first met him at the orientation meeting. He is an outgoing person with round face, big nose and black hair. In the class election meeting, he was the only person who volunteered to be the monitor. You know, being a monitor isn't a good job for most students since it means more responsibility and no pay.
 
-He does many things for the surrounding students. Firstly he usually communicates with the school councellor and delivers the notifications and messages to classmates. He also helps those who have difficulty in studies. Especially when the final exam is coming, he helps them to summarise the basic knowledge and tell them many useful problem-solving techniques. Plus, when some students get ill, he sent them to the school hospital. What's more, he sometimes organize activities to solidify the class cohesion. Last year, he luanched and organized a home part in which we had a good time and got to know each other much better.
+He does many things for the surrounding students. Firstly he usually communicates with the school councellor and delivers the notifications and messages to classmates. He also helps those who have difficulty in studies. Especially when the final exam is coming, he helps them to summarise the basic knowledge and tell them many useful problem-solving techniques. Plus, when some students get ill, he sent them to the school hospital. What's more, he sometimes organize activities to solidify the class cohesion. Last year, he luanched and organized a home party in which we had a good time and got to know each other much better.
 
-As for myself, sometimes when I'm stuck with a difficult math problem. I'll resort to him. And he always halts his own matters and helps me to solve the problem first. Therefore I really appreciate his kindness and assistance.
+As for myself, sometimes when I'm stuck with some difficult math problems. I'll resort to him. And he always halts his own matters and helps me to solve the problems first. Therefore I really appreciate his kindness and assistance.
 
 ### 4. Describe a person you have met who you want to work/study with
 
 I'm going to talk about a college friend of mine, Jack. He's a great independent learner who I love studying with.
 
-I remember the first time I studied with him, we prepared a presentation together. That was my freshman year of college. I was taking a course in history. During one class, the teacher asked us to have a discussion on history and culture. He divided the class into groups, and asked each group to make a presentation one week later.
+I remember the first time I studied with him, we prepared a presentation together. That was my freshman year of college. I was taking an optional course in history. During one class, the teacher asked us to have a discussion on history and culture. He divided the class into groups, and asked each group to make a presentation one week later.
 
 At that time, we had just entered college and didn't know each other, so when we were assigned to a group, we were shy and didn't know how to start the group project. That is, until one of the boys, Jack, volunteered to be the group leader. He led us each to discuss our understanding of the topic. It was like a big brainstorming session. We began forming plans and ideas piece by piece. He even provided specific sources for research. Around the deadline, he also organized a number of mock presentations.
 
@@ -592,7 +592,7 @@ always surprise the audience. That's why Iadmire him so much
 
 For this topic I want to talk about a water sport which is called dragon boat race. It is a Chinese traditional custom. In the Dragon Boat Festival every year, people will do this sport to commemorate the great patrotic poet QuYuan.
 
-The racing lanes are straight and their lengths are usually between 400 and 1,000 meters. And the course of the competition is chosen on still water field, in this way we can ensure as fair a race as possible. Plus, there shouldn't be any water plants, reefs or stakes in the neighborhood, otherwise some accidents might happen and this is not what we want to see. As for the competitors, there are 23 team members in each team, which consists of a coxswain(舵手), a gong player(锣手), a drummer(鼓手) and 20 paddlers(桨手). When the race begins, the coxswain is responsible for the orientation. The gong player and drummer are responsible for boosting the morale. And it is the paddlers that provide the forward momentum.
+The racing lanes are straight and their lengths are usually between 400 and 1,000 meters. And the course of the competition is chosen on still water field, in this way we can ensure as fair a race as possible. Plus, there shouldn't be any water plants, reefs or stakes in the neighborhood, otherwise some accidents might happen and this is not what we want to see. As for the competitors, there are 23 team members in each team, which consists of a coxswain(舵手), a gong player(锣手), a drummer(鼓手) and 20 paddlers(桨手). When the race begins, the coxswain is responsible for the orientation. The gong player and drummer are in charge of boosting the team morale. And it is the paddlers that provide the forward momentum.
 
 To be honest, it is a difficult sports activity coz it requires that you must have enough stamina and strength. Plus, you have to cooperate with your teammates. If you don't coordinate well with your teammates, your efforts may backfire.
 
