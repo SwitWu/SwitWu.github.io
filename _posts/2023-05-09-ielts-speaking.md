@@ -291,10 +291,14 @@ math: true
 
 ### Small business
 
-+ Do you know many small businesses where you live?
-+ Do you prefer buying things in big companies or small businesses?
-+ Have you ever worked in small businesses?
-+ Have you ever thought about starting your own business?
++ Do you know many small businesses where you live?  
+  I’m afraid I know very little about small companies. It has something to do with brand awareness, you know. I’ve never heard of those companies’ names in the commercials. Maybe they’re startups and don’t have the hottest selling items, or the businesses specialize in something that I know nothing about.
++ Do you prefer buying things in big companies or small businesses?  
+  It depends. If I want to buy some expensive digital devices such as personal computer or mobile phone, I'll choose to buy from the big companies since the quality can be guaranteed. And if I need to buy some clothes, I usually prefer the small companies because it's less likely for me to wear the same clothes as others.
++ Have you ever worked in small businesses?  
+  No. I haven't finished my master's program and before going to companies to gain some intership work experience, I need to write my thesis first.
++ Have you ever thought about starting your own business?  
+  Well, it never *crossed my mind*. I mean, for the moment. Pioneering in the business needs courage because the owner has to bear risks. For me, I prefer to *work freelance*. In this way, I can balance my life and work better.
 
 ### Doing sports
 
@@ -533,7 +537,7 @@ I first met him at the orientation meeting. He is an outgoing person with round 
 
 He does many things for the surrounding students. Firstly he usually communicates with the school councellor and delivers the notifications and messages to classmates. He also helps those who have difficulty in studies. Especially when the final exam is coming, he helps them to summarise the basic knowledge and tell them many useful problem-solving techniques. Plus, when some students get ill, he sent them to the school hospital. What's more, he sometimes organize activities to solidify the class cohesion. Last year, he luanched and organized a home part in which we had a good time and got to know each other much better.
 
-As for myself, sometimes when I'm stuck with a difficult math problem. I'll resort to him. And he always halt his own matters and helps me to solve the problem first. Therefore I really appreciate his kindness.
+As for myself, sometimes when I'm stuck with a difficult math problem. I'll resort to him. And he always halts his own matters and helps me to solve the problem first. Therefore I really appreciate his kindness and assistance.
 
 ### 4. Describe a person you have met who you want to work/study with
 
