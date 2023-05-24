@@ -49,7 +49,7 @@ last_modified_at: 2023-05-16
 + lethal, fatal, life-threatening 致命的
 + venomous, noxious, poisonous, toxic 有毒的
 + subdue, overpower 压制，制服
-+ particular, specific
++ particular, particularly, specific, specifically, special, specially
 + premiere, perform for the first time 首映
 + unpredictably, erratically
 + throughout, all over
@@ -67,7 +67,7 @@ last_modified_at: 2023-05-16
 + increasing, incremental, accretive, growing 增长的，增加的
 + mock, mimic, ape, simulate, emulate, immitate 模仿
 + oust, replace, substitute
-+ slander, smear, badmouth 诽谤
++ slander, smear, badmouth, libel 诽谤
 + reserve, book, make a booking/reservation 预订，预约
 + conceal, hide, dissimulate 隐瞒
 + beginner, first-timer, novice 新手
@@ -121,6 +121,7 @@ last_modified_at: 2023-05-16
 + refuge, sanctuary 避难所，庇护
 + disguise, camouflage (n,v) 掩饰，伪装
 + antiquated, obsolete 过时的，淘汰的，废弃的
++ breed, feed, rear 饲养
 
 
 ## 参考

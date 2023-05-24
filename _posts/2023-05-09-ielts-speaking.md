@@ -628,16 +628,16 @@ I really enjoy watching the dragon boat races coz it's an exciting sports activi
 
 ### 5. Describe a piece of clothing you enjoy wearing($*$)
 
-+ 时间地点：去年春节去城里购物，下午去步行街，发现一件外套，我奶奶给我买下来了
++ 时间地点：三年前春节去城里购物，下午去步行街，发现一件外套，我奶奶给我买下来了
 + 描述：外套风格简约时尚，外套上方是浅灰色，下方是蓝色，立领，非常合身，有一个缺点就是拉链不好拉
 + 频率：冬夏不穿，因为气温不适合，在春秋季我经常穿这件衣服
 + 原因：穿着非常舒服，让人显得有精气神，这件衣服能够让我经常想起我的奶奶
 
 Well for this topic I want to talk about a coat that I enjoy wearing.
 
-If *memory serves correctly*, it was three years ago when the spring festival was coming, my family went to the city center to buy some necessary items. In the afternoon, we shopped around in the Pedestrain Street. As its name shows, it's a street which is only accessible for pedestrians. When we were roaming in the stores, I found one coat that I liked very much and my grandmother bought it for me.
+If *memory serves correctly*, it was three years ago when the Spring Festival was coming, my family went to the city center to buy some necessary items. In the afternoon, we shopped around in the Pedestrain Street. As its name shows, it's a street which is only accessible for pedestrians. When we were roaming in the stores, I found one coat that I liked very much and my grandmother bought it for me.
 
-The style of the coat is simple and stylish. It can be divided into two parts, the upper part of which is light gray and lower part is blue with some Chinese characters printed on it. Plus, the coat has a stand-up collar. The only drawback is the zipper. You know, sometimes lots of efforts are needed to zip up the coat.
+The style of the coat is simple and stylish. It can be divided into two parts, the upper part of which is light gray and lower part is blue with some Chinese characters printed on it. Plus, the coat has a stand-up collar. The only drawback is the zipper. You know, sometimes lots of efforts are needed to zip up and unzip the coat.
 
 Wuhan is a city with four distinct seasons. So I don't wear the coat in winter and summer since the temperature is not appropriate. However, I wear it quite often in spring and autumn. Typically I combine it with a sweatshirt. It looks perfect. On the one hand, this coat is very comfortable to wear and it makes me look refreshed. On the other hand, it can remind me of my deceased grandmother.
 
@@ -682,7 +682,7 @@ The layout of the website is very clear. The website is divided into two columns
 
 And the website is very easy to use. There is a conspicuous button at the top-right corner of the website and if you want to ask a question, just click it, then write down your problem and what you have tried for the problem.（网站的使用）
 
-I have used this website for several years. When I'm stuck with some very difficult questions that I can't resolve by myself, I'll resort to this website and typically within several hours someone will post a right answer under my question. What's more, sometimes I also help others on this site. For example, last week I saw an interesting question that is related to my research direction. It took me around two hours to solve the question but I felt really excited.
+I have used this website for several years. When I'm stuck with some very difficult questions that I can't resolve by myself, I'll resort to this website and typically within several hours someone will post a satisfying answer under my question. What's more, sometimes I also help others on this site. For example, last week I saw an interesting question that is related to my research direction. It took me around two hours to solve the question but I felt a sense of accomplishment after that.
 
 Overall, I have learned a lot from this website and I'll definitely recommend it to my classmates.
 
@@ -700,7 +700,7 @@ Well, for this topic I would like to talk about a pair of Bluetooth earbuds that
 
 Since I was fed up with dealing with the wires that always got tangled up when I was listening to the music or watching some videos, I decided to buy a pair of wireless Bluetooth earbuds which were a new technology a few years ago. I had thought that things would get better, but it turned out that I was wrong.
 
-Every time I tried to connect the earbuds with my mobile phone, I had to go through a series of cumbersome procedures---turning them on, putting them into pairing mode and hoping that my phone could recognize them. And sometimes even though they had connected successfully, they often fell disconnected or had other connection problems. And the weirdest phenomenon was that sometimes one of them was connected but the other didn't.
+Every time I tried to connect the earbuds with my mobile phone, I had to go through a series of cumbersome procedures---turning them on, switching them into pairing mode and hoping that my phone could recognize them. And sometimes even though they had connected successfully, they often fell disconnected or had other connection problems. And the weirdest phenomenon was that sometimes one of them was connected but the other didn't.
 
 I couldn't count the number of times when I had to fiddle (around) with[^fiddle-with] them to make them work properly. I thought that my choice for this pair of earbuds was a mistake since it was a waste of money and time.
 
@@ -719,9 +719,9 @@ Overall, I felt disappointed about the earbuds. I had expected for a convenient 
 
 About weeks ago, when streaming videos on bilibili, a video-sharing website, I came across a short video entitled: Three ways to lose 10 kilos in a short time. I guess it is eye-catching to everyone who wants to lose weight, and I was no exception.
 
-When I clicked on it, a slim and attractive young lady, probably an online influencer, showed up and started to talk about how she had lost 10 kilograms in three months without doing any exercise. In the beginning, she introduced her diet, which is low-carbon and high in protein This part took only less than a minute. But when coming to the last tip, it became a promotion of a supplement that can block carbohydrate absorption(碳水化合物的吸收). She boasted about how effective it was for almost 5 minutes. Then came the part about how viewers can get a discount from her link. Not until then did I realize that this video was not an experience–sharing video but an advertisement for a new product.
+When I clicked on it, a slim and attractive young lady, probably an online influencer, showed up and started to talk about how she had lost 10 kilograms in three months without doing any exercise. In the beginning, she introduced her diet, which is low-carbon and high in protein. This part took only less than a minute. But when coming to the last tip, it became a promotion of a supplement that can block carbohydrate absorption(碳水化合物的吸收). She boasted about how effective it was for almost 5 minutes. Then came the part about how viewers can get a discount from her link. Not until then did I realize that this video was not an experience–sharing video but an advertisement for a new product.
 
-At that moment, my excitement immediately turned into disappointment. Thinking back, I also found that the information conveyed in the video was unreliable. Because it gave the audience, especially young people a false hope that we could get a good shape only by taking those “magical pills”. Nowadays, more and more companies try to sell their products through those short-videos or live selling. And sometimes we can’t tell if what the anchors say is true. Instead of spreading helpful information for the sake of the general public, they only care about making a profit. This is why I have a deep- seated aversion to most of them.
+At that moment, my excitement immediately turned into disappointment. Thinking back, I also found that the information conveyed in the video was unreliable. Because it gave the audience, especially young people a false hope that we could get a good shape only by taking those “magical pills”. Nowadays, more and more companies try to sell their products through those short-videos or live selling. And sometimes we can’t tell if what the anchors say is true. Instead of spreading helpful information for the sake of the general public, they only care about making a profit. This is why I have a deep-seated aversion to most of them.
 
 ### 事件类
 
@@ -735,11 +735,11 @@ At that moment, my excitement immediately turned into disappointment. Thinking b
 
 When I was ten years old, my father had to meet an old friend in Wuhan. Since I was always curious about the outside world, I asked my dad to bring me along and eventually he agreed. It was my first time to visit such a big city like Wuhan, before then I had never left the small countryside in my hometown.
 
-We travelled from my hometown to Wuhan by high speed train and then we took the metro to our destination. It was the first time I knew there was such a thing as a metro and that the underground transport system could be so well developed.
+We travelled from my hometown to Wuhan by high-speed train and then we took the metro to our destination. It was the first time I knew there was such a thing as a metro and that the underground transport system could be so well developed.
 
-After having lunch at my dad's friend's house, we went to the largest zoo in Wuhan, where I saw all kinds of wild animals, such as giraffes, plum deer, hippos and elephants, which gave me a sense of the wonders of nature and an initial appreciation of biodiversity.
+After having lunch at the friend's house, we went to the largest zoo in Wuhan, where I saw all kinds of wild animals, such as giraffe, sika deer, hippo and elephant, which let me experience the wonders of nature and gave me an initial appreciation of biodiversity.
 
-Then my dad took me to the Museum of Hubei Province, which I witnessed numerous cultural relics such as the Bronze Chime-bells and the sword of Goujian. From this experience, I appreciated the wisdom of ancient people and how time-honored my country is.
+Then my dad took me to the Museum of Hubei Province, where I witnessed numerous cultural relics such as the Bronze Chime-bells and the sword of Goujian. From this experience, I got to know the wisdom of ancient people and how time-honored my country is.
 
 We went home the next day and I found it an exciting experience as I had seen many things that I had never seen before and this short journey greatly increased my knowledge and broadened my horizon.
 

@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://switwu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 copyright: © 2020--2022 Siyu Wu
 twitter_username: 
-github_username:  SwitWu
+github_username: SwitWu
 google_analytics: UA-132846370-1
 
 # Build settings
