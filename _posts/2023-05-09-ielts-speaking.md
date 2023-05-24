@@ -874,11 +874,9 @@ Last year I enjoyed an unusual meal on a home party which was launched and organ
 
 Before the party, we made some preparations. First of all, a questionnaire was conducted to check how many students would like to take part in the party. After that, we made a shopping list and then went to a supermarket to buy the raw materials needed for cooking dinner.
 
-We arrived at the destination at around 6pm and then began to make dinner. There was a long table in the sitting room, we put double-flavour hot pots on the table, added water and the soup bases. And then we put all kinds of raw materials into the pods such as ham, sliced beef, sliced mutton, mushrooms and so on. Everything was delicious and we had a pleasant conservation with each other.
+We arrived at the destination at around 6pm and then began to make dinner. There was a long table in the sitting room, we put double-flavour hot pots on the table, added water and the soup bases. And then we put all kinds of raw materials into the pots such as ham, sliced beef, sliced mutton, mushrooms and so on. Everything was delicious and we had a pleasant conservation with each other. After the dinner, we enjoyed the snacks that we had bought in the supermarket and we did many interesting activities such as playing billiards, singing, playing table games and video games.
 
-After the dinner, we enjoyed the snacks that we had bought in the supermarket and we did many interesting activities such as playing billiards(台球), singing, playing table games and video games.
-
-I think this meal is unusual because it is the first time for the classmates to gather together to eat a meal and through the activity we get to know each other better. What's more, the party house is beautifully decorated, which has left me a deep impression.
+I think this meal is unusual because it is the first time for the classmates to gather together to eat a meal and this meal is totally prepared and made by ourselves. Through the activity we get to know each other better. What's more, the party house is beautifully decorated, which has left me a deep impression.
 
 Overall, it is an unforgettable experience and I really love this meal. I'm looking forward to it for the next time.
 
