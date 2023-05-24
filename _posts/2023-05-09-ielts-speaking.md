@@ -874,7 +874,7 @@ Last year I enjoyed an unusual meal on a home party which was launched and organ
 
 Before the party, we made some preparations. First of all, a questionnaire was conducted to check how many students would like to take part in the party. After that, we made a shopping list and then went to a supermarket to buy the raw materials needed for cooking dinner.
 
-We arrived at the destination at around 6 pm and then began to make the dinner. Everything was delicious and we had a pleasant conservation with each other.
+We arrived at the destination at around 6pm and then began to make dinner. There was a long table in the sitting room, we put double-flavour hot pots on the table, added water and the soup bases. And then we put all kinds of raw materials into the pods such as ham, sliced beef, sliced mutton, mushrooms and so on. Everything was delicious and we had a pleasant conservation with each other.
 
 After the dinner, we enjoyed the snacks that we had bought in the supermarket and we did many interesting activities such as playing billiards(台球), singing, playing table games and video games.
 
