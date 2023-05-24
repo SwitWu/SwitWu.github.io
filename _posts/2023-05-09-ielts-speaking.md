@@ -4,7 +4,7 @@ title: 雅思口语
 category: English
 hidden: true
 description: 
-last_modified_at: 2023-05-19
+last_modified_at: 2023-05-24
 math: true
 ---
 
@@ -28,9 +28,9 @@ math: true
   + Go hiking in the mountains, beautiful sceneries.
   + The people there are friendly and helpful.
 + Is there anything you dislike about it?  
-  Well, there are several aspects that I dislike about my hometown. I think the biggest problem is the transport, especially the public transport. Since there is no subway and the number of buses is not enough, it is inconvenient for me to go to school, go shopping and just go to the express delivery center to fetch my goods.
+  Well, there are several aspects that I dislike about my hometown. I think the biggest problem is the transport, especially the public transport. Since there is no subway and the number of buses is not enough, it is inconvenient for me to go to school, go shopping or just go to the express delivery center to fetch my packages.
 + How long have you been living there?  
-  I have been living there for about 18 years during which I had finished my work in primary school and high school. It was 2017 when I left my hometown to continue my study in Wuhan University.
+  I have been living there for about 18 years during which I had finished my work in primary school and high school. It was in 2017 when I left my hometown to continue my study in Wuhan University.
 + Do you like living there?  
   Yeah I like living in my hometown. I can enjoy the beautiful sceneries there. When I have some spare time, I can go hiking in the mountains, breathing the fresh air and listening to many kinds of brids' singing. If I'm lucky, I can even see some wild animals such as hares(野兔) and squirrels. What's more, I'm fond of the tranquility of the country life. It can let me escape from the hustle and bustle in cities and stay focused on my work.
 + Do you think you will continue living there for a long time?  
@@ -49,7 +49,7 @@ math: true
 + How long have you lived in this city?  
   I have lived in Wuhan for 6 years. In 2017 I came to Wuhan to start my undergraduate's program. And in 2021 I started my postgraduate's program. Maybe I'll leave here in the next year.
 + Are there big changes in this city?  
-  Yeah. Wuhan is changing with a high speed. Especially the subway system, there years the government has invested a large amount of money in constructing the underground transportation. By now there have been 8 subway lines in Wuhan, which faciliate local people's daily transport.
+  Yeah. Wuhan is changing with a high speed. Especially the subway system, there years the government has invested a large amount of money in constructing the underground transportation. By now there have been 11 subway lines in Wuhan, which faciliate local people's daily transport.
 + Is this city your permanent residence?  
   I'm not sure. It depends on where my future work place will be located. If I can find a stable job in Wuhan in the future, then I'll consider buy a house in Wuhan and choose it as my permanent residence.
 
@@ -60,7 +60,7 @@ math: true
   Hardly do I go to the library. There are specific learning rooms provided by my school so there is no necessity to go to the library for self-study. What's more, there are too many people in the library and I think the library is too stuffy for me to stay there for a long time.
 + What do you usually do in the library?  
   (借书+小组讨论+期末复习)  
-  Usually I go to library to borrow some mathematical books or search for some interesting extracurricular books such as biographies. Sometimes I need to give some presentations in class, then I'll reverse a seminar room in the library and discuss with my group members. And when the final exam is coming, I'll revise in the library.
+  Usually I go to library to borrow some mathematical reference books or search for some interesting extracurricular books such as biographies. Sometimes I need to give some presentations in class, then I'll reserve a seminar room in the library and discuss with my group members. And when the final exam is coming, I'll revise in the library.
 + Did you go to library when you were a child?  
   No. When I was a child I lived in a small town where there was no library.
 + Do Chinese kids often go to library?  
@@ -75,11 +75,11 @@ math: true
   Definitely. There are abundant teaching resources, beautiful campus sceneries, excellent classmates and various sports facilities in the school. So I think the school is very good.
 3. Do you like your teachers?
     + Yes. Some teachers have a sense of humour, make me stay focused in class.
-    + Some can use different teaching aids, make class more stimulating.
+    + Some can use different teaching aids, make class more stimulating and interesting.
 4. Do you like your current learning atmosphere?  
   Yes. We have periodic reports and discussions in the seminar group and the school also regularly invites some renowned scholars to give some presentations to us. So the learning atmosphere is very strong.
 5. What's the differences between your school and other schools?  
-  My school has many historical buildings and Sakura. From mid to late March, many tourists come to my school to enjoy the beautiful sceneries.
+  My school has many historical buildings and Sakura. From mid to late March, many tourists come to my school to enjoy the beautiful sceneries and take lots of photos. But the large population can sometimes cause trouble for us because the main road will be congested and it takes us a long time to go to the classrooms.
 6. Is there anything you want to change about your school?  
     + More school bus stations.
     + Build more canteens in some area.
@@ -92,11 +92,12 @@ math: true
 1. What languages can you speak?  
   I can speak Chinese and English. Chinese is my mother tongue so I can speak it fluently and English is my second language. I started learning English from primary school.
 2. What languages would you like to learn in the future?  
-  I want to learn French in the future because France is a romantic country and I would like to go there in the future. What's more, France is a mathematical powerhouse, so mastering France will make it easier for me to communicate with French mathematicians.
+  I want to learn French in the future because France is a romantic country and I would like to visit there in the future. What's more, France is a mathematical powerhouse, so mastering French will make it easier for me to communicate with French mathematicians.
 3. How do you learn a foreign language?  
   Well, I think it's a pretty complicated thing. Aprt from the basic learning in classes, I usually buy some extra books to learn the grammar and writing. And I often watch some English videos on bilibili, which is a video-sharing platform. This can improve my listening and speaking skills.
 4. How are languages taught and learned in your school?  
-  Well, the school will distribute specific textbooks to every student. And in classes the teachers will teach us vocabularies, grammars and writing skills.
+  + Chinese: We'll first learn some basic Chinese characters. Then teachers will teach us some simple poems, sayings and Chinese idioms.
+  + english: Well, the school will distribute specific textbooks to every student. And in classes the teachers will teach us vocabulary, grammar and writing skills.
 
 
 ### Ice Cream($*$)
@@ -104,13 +105,13 @@ math: true
 1. Do you like ice cream?  
   I'm a big fan of ice cream especially when it's sunny and hot. And I think it's the icy and sweet texture that attracts me most.
 2. Do you eat ice cream a lot?  
-  Not really. Although ice cream fits my taste, I don't eat ice cream too much because it contains a lot of sugar and some fat which is detrimental to our body. And some people said that "If you eat a lot of ice cream, it's gonna accelerate your aging process." So, yeah, I don't eat a lot of ice cream.
+  Not really. Although ice cream fits my taste, I don't eat ice cream too much because it contains a lot of sugar and some fat which are detrimental to our body. And some people said that "If you eat a lot of ice cream, it's gonna accelerate your aging process." So, yeah, I don't eat a lot of ice cream.
 3. Did you eat ice cream when you were a child?  
   No, I spent my childhood in the countryside where at that time there was neither ice cream nor ice lolly.
 4. Are there shops selling ice cream near the place where you live?  
   Yeah. There is a big supermarket and several convenience shops in the neighborhood and they all sell ice cream. Therefore it's pretty easy for me for buy ice cream nowadays.
 5. Can you make ice cream yourself?  
-  No, I can't. I think the procedure to make an ice cream might be a little complicated and I have never learned how to make ice cream. And nowadys it's pretty convenient to buy ice cream from the shops, so I think it's unnecessary to make ice cream by myself.
+  No, I can't. I think the procedure to make ice cream might be a little complicated and I have never learned how to make ice cream. And nowadys it's pretty convenient to buy ice cream from the shops, so I think it's unnecessary to make ice cream by myself.
 
 ### Rain($*$)
 
@@ -130,7 +131,7 @@ math: true
 2. Do you change your bags often?  
    No. I think it's unnecessary to change bags often. In my opinion, bags are just for practical use and I won't change my bag until it is broken. I have used my current bag for five years and it's still in good condition. I think maybe I'll use it for another five years.
 3. What kinds of bags would you use when travelling?  
-  I will choose a bag that can contain a lot of things and that's not expensive. If you carry a quite expensive one, sometimes you may get yourself in trouble because your bag is likely to be stolen my someone else if you're not careful enough. So I'll choose the useful and practical ones.
+  I will choose a bag that can contain a lot of things and that's not expensive. If you carry a quite expensive one, sometimes you may get yourself in trouble because your bag is likely to be stolen b    y someone else if you're not careful enough. So I'll choose the useful and practical ones.
 4. Is bag an ideal gift?  
   For most girls and boys, I think a bag might be an ideal gift for them. But for me, I usually don't spend too much money on bags, clothes, shoes and so on. So I'd prefer some gifts that have a special meaning.
 5. Did you use a backpack when you were a child?  
@@ -140,7 +141,7 @@ math: true
 
 1. What music do you like?  
     + Pop music, easy to follow and learn, strike a chord with me.
-    + Pinao Music, make me feel relaxed, use it as a sleep aid.
+    + Pinao Music, make me feel relaxed, use it as a sleeping aid.
 2. What music do you dislike?  
     + Classical music, hard to get what the writer wants to express.
     + DJ music, I just think that it is too noisy.
