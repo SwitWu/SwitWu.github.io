@@ -851,6 +851,12 @@ As for the reasons why I want to become a traveling vlogger, here are some point
 
 ### 10. Describe a speech that you gave in public($*$)
 
+英语课上模仿奥巴马演讲
+
++ 起因：Two years ago I had a mandatory English class. In the middle of the semester, the English teacher required every student to choose a famous English speech in history, learn and emulate it and then give a speech in class.
++ 准备：I searched for many famous speech videos online. Finally, I chose the one which was given by Obama in Chicago when he was elected as the Amercia president successfully. You know, it is a moving and exciting speech. I downloaded the text script of the speech and printed it. And then I watched the speech video over and over again to learn Obama's tone, accent and choices of pause points. I found that the task was far more difficult than I had expected. Sometimes it was hard to juggle every aspect of the speech.
++ 演讲：In the final presentation, I was pretty nervous since it was my first time to give an English speech before the classmates. I tried to keep myself calm and recall what I have learned in the preparation process. My teacher told me that eye contact with other people was important. I realized that when I was speaking, I was looking at the ground and the two-side windows, which was inappropriate.
+
 ### 11. Describe an important decision that you made($*$)
 
 高考填志愿(Choose major before entering the college)
