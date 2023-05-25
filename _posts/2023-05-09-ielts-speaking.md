@@ -399,6 +399,7 @@ Part 2 需要讲两分钟，Part 3 在 Part 2 的基础上进行拓展提问，�
 + 男性与女性
 + 城市与农村
 + 心理和生理
++ 工作与生活
 + 量的多少
 
 这样分点有助于扩充内容，也有助于将回答条理化、清晰化。
@@ -763,7 +764,7 @@ For this topic I want to talk about an experience when I got incorrect informati
 
 If memory serves correctly, it was around a month ago when my previous dormmate came to Wuhan to deal with his matters about applying for the foreign master's program. After he finished his matters, I invited him to have a dinner in a restaurant. That restaurant was pretty far from my school so we went there by subway.
 
-After eating, we roamed around the neighborhood of the restaurant. There was a very long pedestrian street and it took us a long time to arrive at the other end of the street. Then we continued to go ahead without caring about the forward direction. Around half an hour later, we decided to go back school. Since we need to find the subway station first, I opened the navigation app on my phone and followed its guidance. However, we got last in the halfway. It turned out that the local government was constructing a new road and the former one was obsolete and closed. While the navigation app didn't update its map date to the latest. So we just had to backtrack and call a taxi to aviod further trouble.
+After eating, we roamed around the neighborhood of the restaurant. There was a very long pedestrian street and it took us a long time to arrive at the other end of the street. Then we continued to go ahead without caring about the forward direction. Around half an hour later, we decided to go back school. Since we need to find the subway station first, I opened the navigation app on my phone and followed its guidance. However, we got last in the halfway. It turned out that the local government was constructing a new road and the former one was obsolete and closed. While the navigation app didn't update its map data to the latest. So we just had to backtrack and call a taxi to aviod further trouble.
 
 From this experience I realize that sometimes the navigation app isn't always trustworthy. And it's better to plan the route before we go somewhere far away.
 
@@ -791,6 +792,22 @@ I'm really fond of the Spring Festival for several reasons. Firstly, it's a good
 
 
 ### 6. Describe an exciting adventure you would like to take in the future($*$)
+
+骑行
+
++ 介绍：看网上看到一些视频博主骑行，挑战严酷的环境
++ 地点：中国西北部，因为那里高海拔，人烟稀少，环境恶劣
++ 队友：bilibili 上有很多网友说想去骑行，我可以在上面找一个同伴
++ 理由：拓展视野，见到不一样的风景，增强生存能力，掌握剪辑视频的能力
+
+For this topic I want to talk about an exciting adventure which is traveling by racing.
+
+In bilibli---a video-sharing website, I have seen several video uploaders travel around China to challenge the harsh natural environment, which is pretty exciting. So I just want to have a try in the future.
+
+As for the location, I'd choose to travel around northwest area of China because the altitude there is very high, the population density is small which means that you can hardly find a house on some pieces of the journey, and the natural environment is poor. You have to go through desert, snow field and so on. Plus, I must learn how to take precaution against some dangerous wild animals such as the wolfs.
+
+Since many internet friends leave comments claiming that they also want to travel around China, I can commnuicate with them and find a like-minded companion to go with me.
+
 
 ### 7. Describe a happy experience in your childhood($*$)
 
@@ -821,9 +838,17 @@ As for the reasons why I want to become a traveling vlogger, here are some point
 
 ### 9. Describe the game you enjoyed playing when you were younger($*$)
 
+
+
 ### 10. Describe a speech that you gave in public($*$)
 
 ### 11. Describe an important decision that you made($*$)
+
+高考填志愿(Choose major before entering the college)
+
++ 事前
++ 事中
++ 事后
 
 ### 12. Describe a car journey you remember well($*$)
 
