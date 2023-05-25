@@ -254,13 +254,13 @@ math: true
 1. Can you fix things?  
    Yes, I can fix some small gadgets such as the table lamp, the bicycle brakes and so on. When they break down, I always choose to settle it by myself rather than resort to a professional repairman. And sometimes there are some glitchs in my PC or mobile phone. I just restart it and it typically works.
 2. Did anybody teach you to fix things when you were a child?  
-   Yes. My grandfather was a carpenter and when I was a child, I sometimes broke my own chair or wooden toys, and I would ask for my grandfater to teach me how to fix them.
+   Yes. My grandfather was a carpenter and when I was a child, I sometimes broke my own chair or wooden toys, and I would ask for my grandfather to teach me how to fix them.
 3. Do you think it is necessary for people to learn to fix things?  
-   I think it's a good idea for people to learn how to repair some simple and cheap items such as the rice cookers, electric fans and so on. But the repairs of expensive things such as computers should be left to the corresponding experts since ordinary people' efforts may backfire and cause unnecessary ecomonic losts.
+   I think it's a good idea for people to learn how to repair some simple and cheap items such as the rice cookers, electric fans and so on. But the repairs of expensive things such as computers should be left to the corresponding experts since non-professional people' efforts may backfire and cause unnecessary ecomonic losts.
 4. What do you do when a thing is broken and cannot be fixed?  
    It depends on what the broken item is. If it has the momumental meaning such as a mobile phone or a bicycle that I have used for many years, then I'll keep it in my house. On the other hand, if it doesn't, I'll just drop it away. 
 5. How to fix things?  
-   Well, that's a big question and it depends on the item itself. But I think the general principle might be like this: first you should check out how the item work and then you need to repair or replace the parts that have been damaged.
+   Well, that's a big question and it depends on the item itself. But I think the general principle might be like this: first you should check out how the item works and then you need to repair or replace the parts that have been damaged.
 
 ### Week($*$)
 
@@ -301,11 +301,11 @@ math: true
 + Do you know many small businesses where you live?  
   I’m afraid I know very little about small companies. It has something to do with brand awareness, you know. I’ve never heard of those companies’ names in the commercials. Maybe they’re startups and don’t have the hottest selling items, or the businesses specialize in something that I know nothing about.
 + Do you prefer buying things in big companies or small businesses?  
-  It depends. If I want to buy some expensive digital devices such as personal computer or mobile phone, I'll choose to buy from the big companies since the quality can be guaranteed. And if I need to buy some clothes, I usually prefer the small companies because it's less likely for me to wear the same clothes as others.
+  It depends. If I want to buy some expensive digital devices such as personal computer or mobile phone, I'll choose to buy from the big companies since the qualities can be guaranteed. And if I need to buy some clothes, I usually prefer the small companies because it's less likely for me to wear the same clothes as others.
 + Have you ever worked in small businesses?  
-  No. I haven't finished my master's program and before going to companies to gain some internship work experience, I need to write my thesis first.
+  No. I haven't finished my master's program and before going to companies to gain some internship work experience, I need to write my thesis first which is the precondition for my graduation.
 + Have you ever thought about starting your own business?  
-  Well, it never *crossed my mind*. I mean, for the moment. Pioneering in the business needs courage because the owner has to bear risks. For me, I prefer to *work freelance*. In this way, I can balance my life and work better.
+  Well, it never *crossed my mind*. I mean, for the moment. Pioneering in the business needs courage because the company leader has to bear risks of failures and liabilities. For me, I prefer to *work freelance*. In this way, I can balance my personal life and work much better.
 
 ### Doing sports
 
@@ -328,16 +328,17 @@ math: true
 ### Wild animals($*$)
 
 1. Is there any wild animals in your country?  
-  Yes. There are many natural reserves in China and the country has established the corresponding laws to stipulate that any behaviour that endangers rare wild animals will be punished. So there are still lots of wild animals in China.
+   Yes. There are many natural reserves in China and the country has established the corresponding laws to stipulate that any behaviour that endangers rare wild animals will be punished. So under these protections there are still lots of wild animals in China.
 2. Do you often see some wild animals in your country?  
-  Several years ago, I saw some wild boars(野猪) and goats in the mauntains of my hometown. However, with the deforestation and excessive hunting, the number of these animals is dramatically decreasing and I can hardly see them any more.
+   Several years ago, I saw some wild boars(野猪) and goats in the mauntains of my hometown. However, due to the deforestation and excessive hunting, their habitats are being destroyed and the number of these animals is dramatically decreasing. Nowadays I can hardly see them any more in my hometown.
 3. Do you know something about wild animals?  
-Yes. I have acquired some knowledge about wild animals through watching TV and reading books.
+   Yes. I have acquired some knowledge about wild animals through watching TV and reading books.
 4. Are there TV programs about wild animals in your country?  
-  Yes. In my country there are several TV programs about wild animals, one of which is called "The Animal World". It shows how the wild animals prey, mate, migrate and so on, from which I can learn a lot about the wild animals.
-5. Have you ever been to a zoo or a safari park?
-  Yes. Several years ago I went to a zoo with my best friend and saw numerous animals that I had never seen before. It was amazing and had left a deep impression in my mind.
+   Yes. In my country there are several TV programs about wild animals, one of which is called "The Animal World". It shows how the wild animals in south Africa prey, mate, migrate and so on, from which I can learn a lot about the wild animals.
+5. Have you ever been to a zoo or a safari park?  
+   Yes. Several years ago I went to a zoo with my best friend and saw numerous wild animals that I had never seen before, like giraffes, elephants and hippos. It was amazing and had left a deep impression in my mind.
 6. What is the animal you would like to see in the wild?
+   That must be the giant panda. I have always been attracted by their unique appearance and behaviour. Pandas are not only cute and cuddly, but they are also an endangered species in China. I want to see them in Sichuan province in the future. I'm sure it'll be an exciting experience.
 
 ### Friends($*$)
 
@@ -350,7 +351,8 @@ Yes. I have acquired some knowledge about wild animals through watching TV and r
 ### Teachers($*$)
 
 1. Do you want to be a teacher in the future?  
-   Yeah. I would like to be a teacher in the future. On the one hand, the job is relatively stable and I will not need to worry about unemployment if I become a teacher. On the other hand, it is a challenging vocation and I can improve my professional skills during the process of teaching and research. What's more, I can meet with many excellent friends and students, which is pretty exciting. (工作稳定+提升技能+结识朋友)
+   (工作稳定+提升技能+结识朋友)  
+   Yeah. I would like to be a teacher in the future. On the one hand, the job is relatively stable and I will not need to worry about unemployment if I become a teacher. On the other hand, it is a challenging vocation and I can improve my professional skills during the process of teaching and research. What's more, I can meet with many excellent friends and students, which is pretty exciting.
 2. Do you remember one of your teachers?  
    Yeah. Of course. To be honest, I can remember nearly all of my teachers in my life. They have different characteristics and teaching methods. 
 3. What were your primary teachers look like?
@@ -843,7 +845,9 @@ As for the reasons why I want to become a traveling vlogger, here are some point
 
 ### 9. Describe the game you enjoyed playing when you were younger($*$)
 
-
++ 王者荣耀 Honor of Kings
++ 介绍：It is a tower defense game. In each round, there are 10 players who are divided into two groups. At the beginning of the game, each player should choose a hero from his or her own hero pool. It should be emphasized that choosing heros is not a casual thing. Team members should fully communicate with each other to form a reasonable and powerful combination. And the winner is the group who devastates the other group's main defense tower.
++ 经历：I started playing this game 6 years ago. It was recommended by my dormmate. At that time I was addicted to this game and I usually spent at least two hours on this game with my friends every day since it was like a kind of drug for me. It could give me a sense of achievement which I could not obtain in the real world. Once you win in a round, you'll have a strong feeling of exhilaration and relief. What's more, it was also a method for me to chat online with my friends who live away from me. However, later I realized that I should restrict the time on it and pay more attention to my study and research. Nowdays I don't regard it as my spiritual home any more.
 
 ### 10. Describe a speech that you gave in public($*$)
 
@@ -983,21 +987,23 @@ I'm truly grateful for everything my mom does to help me out.
 
 ### Describe a time when you needed to search for information
 
+做一个有关中国航天的课堂报告
+
 I can still remember there was a time when I have to look for some information to give a presentation about Chinese Space industry.
 
 Since I was not really familiar with this area, it was necessary for me to search for some information to guarantee the quality of the presentation.
 
-I used Baidu, a search engine, to investigate the development and achievement of Chinese Space industry, such as how the rocket manufacturing process has been developed, how many chinese astronauts have been sent into space and what scientific experiments have been carried out in the past several decades. What's more, I asked some of my friends who are space enthusiasts to give me some advice on how to organize the presentation contents to make it more clearly and they also provided me some extra details about Chinese Space industry which were very interesting.
+I used Baidu, a search engine, to investigate the development and achievement of Chinese Space industry, such as how the rocket manufacturing process has been developed, how many chinese astronauts have been sent into space and what scientific experiments have been carried out in the past several decades. Plus, to obtain some precise datas, I went to the library and looked up some revevant books. What's more, I asked some of my friends who are space enthusiasts to give me some advice on how to organize the presentation contents to make it more clear and they also provided me some extra details about Chinese Space industry which were very interesting.
 
-Finally the presentation was successful and I won the applause from my classmates. I really appreciated the power of the Internet and the help of my friends. From this experience I have learned that the resources around us are sometimes complementary and we can combine them properly to get the information we want.
+Finally the presentation was successful and I won the applause from my classmates. I really appreciated the power of the Internet and the help of my friends. From this experience I have learned that the resources around us are sometimes complementary and we can combine them properly to get the best result we want.
 
 ### Describe a problem you had while shopping online or in a store
 
 For this topic, I want to talk about a shopping experience when I bought a book online several months ago.
 
-Due to the study and research needs, I had wanted to buy that book for a long time. But the book hadn't been reprinted since 20 years ago, it was difficult to find it in the surrounding brick-and-mortar bookstores. So I had to search for it on the online stores. Luckily, I finally found one store selling it several months ago and I placed an order without any hesitation.
+Due to the study and research needs, I had wanted to buy that book for a long time. But the book hadn't been reprinted since 20 years ago, it was difficult to find it in the surrounding brick-and-mortar bookstores. So I had to search for it in the online stores. Luckily, I finally found one store selling it several months ago and I placed an order without any hesitation.
 
-Several days later I received the package with excitement. However, when I opened the package, it turned out that the book was a second-hand book and there were many handwritten notes on it. I was annoyed at this since the shopkeeper had never told me about it. So I contacted the customer service staff and sent the photo of the book to him because I need an explanation for this kind of circumstance.
+Several days later I received the package with excitement. However, when I opened the package, it turned out that the book was a second-hand book and there were many handwritten notes on it. I was annoyed at this since the shopkeeper had never told me about it. So I contacted the customer service staff and sent the photo of the notes to him because I need an explanation for this kind of circumstance.
 
 The staff admitted that it was their mistake and he promised to sent me a new book within three days. But I just rejected him and asked for a refund since I had no reliance for this shop anymore.
 
