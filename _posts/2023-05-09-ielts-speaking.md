@@ -244,7 +244,7 @@ math: true
   Yes, I think so, I mean we often join in too many chat groups and every day there are lots of unnecessary messages to scroll. And sometimes we also spend too much time on the video-sharing platforms such as YouTube and bilibili. These matters waste a large amount of our time.
 + Do you want to work in social media? Why?  
   No, that has never crossed my mind because my profession has nothing to do with social media. I major in mathematics and my skills don't meet the requirements of the social media companies. Plus, I have no interest in that kind of job.
-+ What's the most popular social media in China? Why?
++ What's the most popular social media in China? Why?  
   I guess it might be bilibili, which is a popular video-sharing platform in China. There are many entertaining and educational videos uploaded on it. Plus, many professors from universities are becoming uploaders in bilibili. I recently subscribe a channel of a professor from Renmin University of China. She tells many interesting historical facts about the Qing dynasty, which is pretty interesting.
 
 ## Event
@@ -252,13 +252,15 @@ math: true
 ### Fixing Things($*$)
 
 1. Can you fix things?  
-  Yes, I can fix some small gadgets such as the table lamp, the bicycle brakes and so on. When my bicycle brakes break down, I always settle it by myself rather than resort to a repairman.
+   Yes, I can fix some small gadgets such as the table lamp, the bicycle brakes and so on. When they break down, I always choose to settle it by myself rather than resort to a professional repairman. And sometimes there are some glitchs in my PC or mobile phone. I just restart it and it typically works.
 2. Did anybody teach you to fix things when you were a child?  
-  Yes. My grandfater is a carpenter and when I was a child, I sometimes broke my own chair, and I would ask for my grandfater to teach me how to fix the wood chair.
-3. Do you think it is necessary for people to learn to fix things?
-4. What do you do when a thing is broken and cannot be fixed?
+   Yes. My grandfather was a carpenter and when I was a child, I sometimes broke my own chair or wooden toys, and I would ask for my grandfater to teach me how to fix them.
+3. Do you think it is necessary for people to learn to fix things?  
+   I think it's a good idea for people to learn how to repair some simple and cheap items such as the rice cookers, electric fans and so on. But the repairs of expensive things such as computers should be left to the corresponding experts since ordinary people' efforts may backfire and cause unnecessary ecomonic losts.
+4. What do you do when a thing is broken and cannot be fixed?  
+   It depends on what the broken item is. If it has the momumental meaning such as a mobile phone or a bicycle that I have used for many years, then I'll keep it in my house. On the other hand, if it doesn't, I'll just drop it away. 
 5. How to fix things?  
-  Well, that's a big question and it depends on the item itself. But I think the general principle might be like this: first you should check out how the item work and then you need to repair or replace the parts that have been damaged.
+   Well, that's a big question and it depends on the item itself. But I think the general principle might be like this: first you should check out how the item work and then you need to repair or replace the parts that have been damaged.
 
 ### Week($*$)
 
