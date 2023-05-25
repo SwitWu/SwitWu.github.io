@@ -238,10 +238,14 @@ math: true
 
 ### Social Media
 
-+ Do you or your friends like using social media?
-+ Do you think you or your friends use too much social media?
-+ Do you want to work in social media? Why?
++ Do you or your friends like using social media?  
+  Of course, we all use social medias such as Wechat and QQ. They can be related to both work and personal life. At work, we use them to receive and deliver important notifications. And in the leisure time, we use them to chat with our family members and friends.
++ Do you think you or your friends use too much social media?  
+  Yes, I think so, I mean we often join in too many chat groups and every day there are lots of unnecessary messages to scroll. And sometimes we also spend too much time on the video-sharing platforms such as YouTube and bilibili. These matters waste a large amount of our time.
++ Do you want to work in social media? Why?  
+  No, that has never crossed my mind because my profession has nothing to do with social media. I major in mathematics and my skills don't meet the requirements of the social media companies. Plus, I have no interest in that kind of job.
 + What's the most popular social media in China? Why?
+  I guess it might be bilibili, which is a popular video-sharing platform in China. There are many entertaining and educational videos uploaded on it. Plus, many professors from universities are becoming uploaders in bilibili. I recently subscribe a channel of a professor from Renmin University of China. She tells many interesting historical facts about the Qing dynasty, which is pretty interesting.
 
 ## Event
 
@@ -666,12 +670,11 @@ Functional Analysis Haim Brezis
 
 ### 7. Describe a movie you watched recently that you felt disappointed about($*$)
 
-I'd like to talk about a movie adapted from a novel called To Kill a Mockingbird. A while ago, I read the original novel. I got to know this book when I was scrolling through social media. It's a captivating book and I finished it in under a week.
+I'd like to talk about a movie adapted from a novel called To Kill a Mockingbird. I got to know this book when I was scrolling through social media. Many readers say that this is a captivating book so I read it with three weeks.
 
-After learning of the movie adaptation, I downloaded it out of curiosity. It's an award-winning American film from the 1960s. The protagonist is Gregory Peck, a famous Hollywood actor. So I thought the movie would
-be great. But my expectations were very different from reality
+After learning of the movie adaptation, I watched it online out of curiosity. It's an award-winning American film from the 1960s. The protagonist is Gregory Peck, a famous Hollywood actor. So I thought the movie would be great. But in reality it didn't rise up to meet my expectations.
 
-The movie tells the story of Mr. Finch, played by Peck, a decent lawyer who defends an innocent black man. He is trying to make children understand prejudice in the world of adults. He stands up against racism and social injustice, setting a good example for children. You know, this is all the same as the original book's content. However, the book talks about more than just racism. Through the eyes of Mr. Finch's daughter, the novel explores different themes like family, courage, justice and so on. But these are hardly reflected in the movie.
+The movie tells the story of Mr. Finch, played by Peck. He is a decent lawyer who defends an innocent black man. He is trying to make children understand prejudice in the world of adults. He stands up against racism and social injustice, setting a good example for children. You know, this is all the same as the original book's content. However, the book talks about more than just racism and justice. Through the eyes of Mr. Finch's daughter, the novel explores different themes like family, friendship, courage and so on. But these are hardly reflected in the movie.
 
 So, the movie is not as detailed as the book, making it appear plain in comparison. Although Peck's handsome appearance and outstanding acting add a lot of charisma to the protagonist, I can't see any outstanding points besides that. Actually, after that movie, I decided I was done with book-to-movie adaptations. It's a letdown for book fans.
 
