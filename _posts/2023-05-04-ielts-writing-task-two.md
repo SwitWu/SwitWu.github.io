@@ -3,7 +3,7 @@ layout: post
 title: 雅思写作（二）——大作文
 category: English
 description: 
-last_modified_at: 2023-05-13
+last_modified_at: 2023-05-26
 ---
 
 ## 话题分类
@@ -89,6 +89,10 @@ last_modified_at: 2023-05-13
 
 一些人认为观点 A，而另一些人认为观点 B
 
+|数量|人|认为|观点|
+|:--:|:--:|:--:|--|
+|some <br>most <br>an increasing number <br>a majority of <br>quite a few|people <br>individuals <br>experts <br>specialists <br>educationalists <br>others <br>other people|think <br>claim <br>argue <br>believe <br>insist <br>hold the view of|观点 A/B|
+
 #### 陈述争议法
 
 是观点 A 还是观点 B 引起了热烈的讨论
@@ -107,19 +111,21 @@ last_modified_at: 2023-05-13
 
 #### 古今对比法
 
-+ 以前：in the past, previously, formly, traditionally, … years ago
++ 以前：in the past, previously, formly, traditionally, …… years ago
 + 现在：now, currently, at present, today, these days
 
 > 例：Some experts believe that it is better for children to begin learning a foreign language at primary school rather than a secondary school. Do the advantages of this outweigh the disadvantages? (C9T1)  
 > 改写：In the past, children began studying foreign languages at secondary school, but now it is widely recommended by some educationalists that foreign language learning should begin earlier.
 
 > 例：More and more people buy and use their own car. Do you think advantages of this trend for individuals outweigh the disadvantages for environment? (2019.06.22)  
-> 改写一：Thirty years ago, private vehicles were exlusive to well-off families, but these days, an increasing number of individuals are able to afford their own cars.  
+> 改写一：Thirty years ago, private vehicles were exclusive to well-off families, but these days, an increasing number of individuals are able to afford their own cars.  
 > 改写二：Previously, the majority of citizens travel by public transport, but currently, with the proliferation of private vehicles, driving one's own car has become the most prevalent way of travelling.
 
 #### 让步法
 
 尽管观点 A，但我认为观点 B
+
+当题干中出现绝对表述如：最高级、all、only、not、never、no longer 时，可以考虑用让步法改写题目。
 
 > 例：Many governments think that economic progress is their most important goal. Some people, however, think that other types of progress are equally important for a country. Discuss both these views and give your own opinion. (C11T4)  
 > 改写：Although/While it is often suggested that governments should give top priority to economic growth, I personally believe other principal developments in such fields as education, military and medical care should also be valued.
