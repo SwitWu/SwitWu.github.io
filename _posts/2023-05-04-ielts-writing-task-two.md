@@ -198,7 +198,7 @@ sportsmen or musicians. (陈述争议 + 表明个人观点)
 >   + 信息真实可靠：authentic and reliable information
 > + 网络了解国外文化
 >   + 省时省钱，经济快捷：economical, convenient
->   + 信息丰富：a massiv/considerable amount of information
+>   + 信息丰富：a massive/considerable amount of information
 > + 总结段：It is up to individuals to decide which mode is preferable. For those who have enough time available for an international journey and ample money to cover all the expenses involved, travelling abroad is highly recommended, while TV and the Internet would be a good choice if travelling is financially unaffordable and time does not permit going abroad.
 
 > 例：Too much money is spent in maintaining and repairing old buildings and we should knock them down and build modern ones instead. To what extent do you agree or disagree? (2017.12.02 & 2019.07.18)

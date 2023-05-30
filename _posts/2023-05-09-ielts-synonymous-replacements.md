@@ -103,7 +103,7 @@ last_modified_at: 2023-05-16
 + turn down, reject 拒绝
 + sympathise, take pity on 同情
 + diligent, industrious 勤奋的
-+ lazy, slothful 懒惰的
++ lazy, slothful, indolent 懒惰的
 + conventional, traditional 传统的
 + millennium, thousand years 千年
 + only, entirely
@@ -122,6 +122,11 @@ last_modified_at: 2023-05-16
 + disguise, camouflage (n,v) 掩饰，伪装
 + antiquated, obsolete 过时的，淘汰的，废弃的
 + breed, feed, rear 饲养
++ help, support
++ reduction, loss
++ foresee, forecast, predict, prediction 预测
++ priority, the (most) important thing/part
++ eradication, extermination 消灭，根除
 
 
 ## 参考
