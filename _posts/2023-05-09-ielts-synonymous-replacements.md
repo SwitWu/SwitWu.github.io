@@ -127,6 +127,9 @@ last_modified_at: 2023-05-16
 + foresee, forecast, predict, prediction 预测
 + priority, the (most) important thing/part
 + eradication, extermination 消灭，根除
++ abstract, compendium, synopsis, summary, syllabus 摘要
++ highland, plateau 高原
++ menace, threaten, intimidate 威胁，恐吓
 
 
 ## 参考
