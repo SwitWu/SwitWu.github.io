@@ -13,20 +13,15 @@ last_modified_at: 2023-03-09
 ## 比较类
 
 + [$\LaTeX$ 中的各种长度](https://tex.stackexchange.com/questions/41476/lengths-and-when-to-use-them)
-
 + [`\newcommand` 和 `\newcommand*`](https://tex.stackexchange.com/questions/1050/whats-the-difference-between-newcommand-and-newcommand)
-
 + [`\mathop`、`\operatorname` 和 `\DeclareMathOperator`](https://tex.stackexchange.com/questions/84302/what-is-the-difference-of-mathop-operatorname-and-declaremathoperator)
-
 + [句后标点符号和缩写词后标点符号的不同](https://tex.stackexchange.com/questions/2229/is-a-period-after-an-abbreviation-the-same-as-an-end-of-sentence-period)
-
 + [`\if` 和 `\ifx`](https://tex.stackexchange.com/questions/127502/difference-between-if-and-ifx)
-
 + [`\strut`、`\mathstrut` 和 `\vphantom`](https://tex.stackexchange.com/questions/41185/strutting-around-whats-the-difference-between-strut-mathstrut-and-vphantom)
-
 + [`\the`、`\show`、`\showthe` 和 `\meaning`](https://tex.stackexchange.com/questions/345185/difference-between-the-showthe-and-show-commands)
-
 + [脆弱命令与健壮命令](https://tex.stackexchange.com/questions/4736/what-is-the-difference-between-fragile-and-robust-commands-when-and-why-do-we-n)
++ [`\cs_new:Npn` 和 `\cs_new:Nn`](https://tex.stackexchange.com/questions/385671/cs-newnpn-vs-cs-newnn?rq=1)
++ [$\LaTeX3$ 的 seq 模块与 clist 模块](https://tex.stackexchange.com/questions/44295/latex3-what-is-the-difference-between-the-modules-l3seq-and-l3clist)
 
 
 ## 字体类
@@ -39,3 +34,8 @@ last_modified_at: 2023-03-09
 + [`\the`](https://tex.stackexchange.com/questions/38674/the-the-command)
 + [`\@ifnextchar`](https://tex.stackexchange.com/questions/57788/understanding-ifnextchar)
 + [`\makeatletter` 和 `\makeataother` 的作用](https://tex.stackexchange.com/questions/8351/what-do-makeatletter-and-makeatother-do)
+
+## 数学符号构造
+
++ [在积分号上下方添加短横线](https://tex.stackexchange.com/questions/211101/bar-over-under-integral-symbol)
++ [平均积分符号](https://tex.stackexchange.com/questions/759/average-integral-symbol)
