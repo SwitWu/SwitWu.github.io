@@ -130,6 +130,9 @@ last_modified_at: 2023-05-16
 + abstract, compendium, synopsis, summary, syllabus 摘要
 + highland, plateau 高原
 + menace, threaten, intimidate 威胁，恐吓
++ enigma, mystery, riddle, puzzle 谜
++ exhaustive, thorough, comprehensive 彻底的，详尽的
++ envy, begrudge, jealous, envious 羡慕，嫉妒（的）
 
 
 ## 参考
