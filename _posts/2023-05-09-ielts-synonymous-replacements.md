@@ -103,7 +103,7 @@ last_modified_at: 2023-05-16
 + turn down, reject 拒绝
 + sympathise, take pity on 同情
 + diligent, industrious 勤奋的
-+ lazy, slothful, indolent 懒惰的
++ lazy, slothful, indolent, sluttish 懒惰的
 + conventional, traditional 传统的
 + millennium, thousand years 千年
 + only, entirely
