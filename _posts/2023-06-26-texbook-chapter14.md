@@ -8,7 +8,7 @@ math: true
 
 ## 水平模式的 items
 
-在断行之前，$\TeX$ 中的一个自然段实际上是一个水平列表，也就是 $\TeX$ 在水平模式下收集到的一列 items，这些 items 可以分为下面八类：
+在断行之前，$\TeX$ 中的一个段落实际上是一个水平列表，也就是 $\TeX$ 在水平模式下收集到的一列 items，这些 items 可以分为下面八类：
 
 + 一个盒子（character, ligature, rule, hbox, vbox）
 + 一个任意可断点
@@ -20,6 +20,29 @@ math: true
 + 公式开始或者公式结束
 
 前四类为不可丢弃型，而后四类（glue, kern, penalty, math items）为可丢弃型，因为它们在断行处可能会改变或消失。
+
+## 任意可断点
+
+一个任意可断点（discretionary break）由三部分组成：
++ pre-break text
++ post-break text
++ no-break text
+
+语法为
+
+```tex
+\discretionary{<pre-break text>}{<post-break text>}{<no-break text>}
+```
+
+如果在此处断行，则 pre-break text 会出现在当前行结尾，post-break text 会出现在下一行开头；如果不在此处断行，则 no-break text 会出现在当前行。
+
+例如，可以在 difficult 的两个 f 间设置可断点：
+
+```tex
+di\discretionary{-f}{fi}{ffi}cult
+```
+
+但实际上，我们不需要手动设置，$\TeX$ 的连字算法会在幕后完成这些工作。
 
 ## 断行点
 
@@ -33,9 +56,9 @@ math: true
 
 每一个潜在的可断点都有一个对应的惩罚值，这个惩罚值代表了在该点进行断行的“美学代价”。对于前三种情形，惩罚值为零；第 4 中情形的惩罚值是显式指定的；对于最后一种情形，我们要分两种情况讨论，如果 pre-break text 非空的话，那么惩罚值为 `\hyphenpenalty` 的当前值，如果 pre-break text 为空的话，那么惩罚值为 `\exhyphenpenalty` 的当前值。
 
-> Plain $\TeX$ 设置 `\hyphenpenalty=50`, `\exhyphenpenalty=50`
+> plain $\TeX$ 设置 `\hyphenpenalty=50`, `\exhyphenpenalty=50`
 
-举个例子，如果你在自然段中的某个点处插入 `\penalty 100`，那么这个点就成为了一个合法的断行点，但是会有一个 $100$ 的惩罚值。如果插入的是 `\penalty -100`，那么 $\TeX$ 会将此处视为一个相当好的断行点，因为负的惩罚值即为奖励值。
+举个例子，如果你在段落中的某个点处插入 `\penalty 100`，那么这个点就成为了一个合法的断行点，但是会有一个 $100$ 的惩罚值。如果插入的是 `\penalty -100`，那么 $\TeX$ 会将此处视为一个相当好的断行点，因为负的惩罚值即为奖励值。
 
 $\TeX$ 绝不会在惩罚值大于等于 $10000$ 的地方断行，与此对应，$\TeX$ 绝对会在惩罚值小于等于 $-10000$ 的地方断行。对此，plain $\TeX$ 定义了宏
 
@@ -56,6 +79,59 @@ $\TeX$ 绝不会在惩罚值大于等于 $10000$ 的地方断行，与此对应�
 
 如果一行的 badness 大于等于 13 的话，那么粘连设置比率必然超过了 50%。在这种情况下，根据粘连是收缩还是伸长，我们分别将这行称为 tight 的和 loose 的，如果 badness 大于等于 100，我们认为这一行 very loose。但如果 badness 小于等于 12，我们这一行还是非常不错的 (decent)。所以，根据 badness 的值，我们把行分为了四类：tight, decent, loose, very loose。相邻的两行被称为视觉上不兼容，如果它们所处的类别不相邻，也即，一个 tight line 邻接一个 loose line 或 very loose line，也可能是 decent line 邻接一个 very loose line。
 
+$\TeX$ 对每个潜在的断行点序列进行评估，评估的方法计算每行的 demerit 值的总和。假设一行的 badness 值为 $b$，行末断行点对应的 penalty 值为 $p$。如果 $p\geq 10000$ 或者 $b$ 超过了当前的 tolerance 或 pretolerance 的值，$\TeX$ 根本不会考虑这样的断行，否则该行的 demerit 值定义为
+
+$$
+d = \begin{cases}
+  (l+b)^2 + p^2, & \text{if } 0\leq p<10000; \\
+  (l+b)^2 - p^2, & \text{if } -10000<p<0; \\
+  (l+b)^2,       & \text{if } p\leq -10000.
+\end{cases}
+$$
+
+这里的 $l$ 为 `\linepenalty` 的当前值，plain $\TeX$ 设置 `\linepenalty=10`。例如，如果某一行的 badness 值为 20，并且断行点在粘连处，那么 demerit 值为 $(10+20)^2=900$，因为在粘连处断行的惩罚值为零。
+
+如果相邻的两行视觉上不兼容，那么 $d$ 的值会加上 `\adjdemerits`，如果相邻的两行都以任意可断点结尾，那么 $d$ 的值会加上 `\doublehyphendemerits`，如果倒数第二行以任意可断点结尾，那么 $d$ 会加上 `\finalhyphendemerits`。plain $\TeX$ 设置了三者的值分别为 10000、10000 和 5000。
+
+## 断行前的工作
+
+在 $\TeX$ 开始选择断行点前，它会做两件重要的事：
+
+1. 如果当前水平列表最后的 item 为粘连，会将其丢弃。
+2. 额外的三个 items 会添加到当前水平列表的末尾：`\penalty10000`（禁止断行）、`\hskip\parfillskip`（添加结束粘连至段落）、`\penalty-10000`（强制断行）。plain $\TeX$ 设置 `\parfillskip=0pt plus 1fil`，这会使得每个段落的最后一行被空白间距填充。当然，可以修改 `\parfillskip` 以实现特殊的效果，例如，如果设置 `\parfillskip=0pt`，那么段落的最后一行将会被文本填充至 right margin，请注意，如果段落没有足够的长度，其排版效果可能非常糟糕。
+
+## `\leftskip` 和 `\rightskip`
+
+$\TeX$ 中有两个参数叫做 `\leftskip` 和 `\rightskip`，这两个参数指定了插入在段落每行左右两侧的粘连，当计算 badness 和 demerit 的值时，这些粘连会被考虑进去。一般情况下，plain $\TeX$ 保持二者为零。有一个宏叫做 `\narrower`，它会把 `\leftskip` 和 `\rightskip` 都加上 `\parindent` 的值：
+
+```tex
+\def\narrower{\advance\leftskip by\parindent
+  \advance\rightskip by\parindent}
+```
+
+可以使用 `\narrower` 来引用文本，如：
+
+```tex
+{\narrower\smallskip\noindent
+This paragraph will have narrower lines than
+the surrounding paragraphs do, because it
+uses the ``narrower'' feature of plain \TeX.
+The former margins will be restored after
+this group ends.\smallskip}
+```
+
+第二个 `\smallskip`[^smallskip] 会结束段落，一定要在结束编组之前结束段落，否则 `\narrower` 的效果会在 $\TeX$ 选择断行点之前消失。
+
+[^smallskip]: 注意 `\smallskip` 在 plain $\TeX$ 和 $\LaTeX$ 中的定义不同，这会导致上面的用法在 $\LaTeX$ 中失效，见 [Why does \narrower not work in LaTeX as in plain TeX?](https://tex.stackexchange.com/questions/568415/why-does-narrower-not-work-in-latex-as-in-plain-tex) 中的讨论
+
+> `\line`、`\leftline`、`\rightline` 和 `\centerline` 的定义并未将 `\leftskip` 和 `\rightskip` 考虑进去，为了改进这一点，我们可以将 `\line` 的定义改为 
+> ```tex
+> \def\line#1{\hbox to\hsize{\hskip\leftskip#1\hskip\rightskip}}
+> ```
+> 其它三个都是基于 `\line` 定义的，所以不用改动。
+
 ---
 
 未完待续……
+
+<div id="footnotes"></div>
