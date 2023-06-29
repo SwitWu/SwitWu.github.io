@@ -159,7 +159,7 @@ this group ends.\smallskip}
 `\hangindent=<dimen>` 指定悬挂缩进的长度，`\hangafter=<number>` 指定在哪些行进行缩进。令 $x$ 和 $n$ 分别为二者的值，并令 $h$ 为 `\hsize` 的值；如果 $n\geq 0$，则悬挂缩进发生于段落的第 $n+1$ 行至最后一行；如果 $n<0$，则悬挂缩进发生于段落的第一行至第 $\lvert n\rvert$ 行。悬挂缩进意味着这些行的宽度为 $h-\lvert x\rvert$ 而不是 $h$；若 $x\geq 0$，则从左侧进行缩进，否则从右侧进行缩进。
 
 
-
+---
 未完待续……
 
 <div id="footnotes"></div>
