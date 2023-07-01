@@ -4,6 +4,7 @@ title: TeXbook 第十四章——断行
 category: LaTeX
 description: 
 math: true
+last_modified_at: 2023-06-30
 ---
 
 ## 水平模式的 items
@@ -44,6 +45,8 @@ di\discretionary{-f}{fi}{ffi}cult
 
 但实际上，我们不需要手动设置，$\TeX$ 的连字算法会在幕后完成这些工作。
 
+为了节省时间，$\TeX$ 会在不插入任意连字符的前提下尝试第一次断行，如果断行的结果是所有行的 badness 值都未超过 `\pretolerance` 的当前值，那么第一次尝试成功通过。若第一次尝试失败了，$\TeX$ 会使用附录 H 中的方法将任意可断点插入到水平列表中，第二次将以 `\tolerance` 作为依据。当行较宽时，实验证明第一次尝试在 90% 的情况下都会通过，平均每段不超过两个单词需要递交给连字算法进行处理。但是如果行较窄时，第一次尝试通常很快就会失败。plain $\TeX$ 设置 `\pretolerance=100`、`\tolerance=200`。如果设置 `\pretolerance=10000`，那么第一次尝试基本上总会成功，但是效果很糟糕；相反，如果设置 `\pretolerance=-1`，$\TeX$ 会跳过第一次尝试。
+
 ## 断行点
 
 断行只能出现在水平列表的特定位置，具体来说，断行允许出现在下列五种情形中：
@@ -71,9 +74,9 @@ $\TeX$ 绝不会在惩罚值大于等于 $10000$ 的地方断行，与此对应�
 
 所以 `\nobreak` 禁止断行，`\break` 强制断行，`\allowbreak` 允许断行，`~` 为一个不可断行的空格（俗称为带子）。
 
-当在某个点发生断行后，$\TeX$ 移除该断行点后面的所有可丢弃的 items，直到遇见不可丢弃的 item，或者直到遇见另一个被选择的断行点。
+当在某个点发生断行后，$\TeX$ 移除该断行点后面的所有可丢弃的 items，直到遇见不可丢弃的 item，或者直到遇见另一个被选择的断行点。例如，如果中间没有盒子介入的话，断行点后面的一列粘连和惩罚将作为整体消失。
 
-## 行的美观程度——badness
+## badness 和 demerits
 
 一行的 badness 是一个整数，近似等于 100 乘以一个比值的立方，这个比值就是为了得到所要求尺寸的 hbox，行中的粘连必须伸缩的比例。例如，如果粘连的总收缩能力是 10 points, 并且粘连总共被压缩了 9 points，那么 badness 的值是 73 (因为 $100\times(9/10)^3=72.9$)；类似地，如果粘连的伸长长度为其伸长能力的两倍，那么 badness 的值为 $100\times 2^3=800$。但是如果计算出来的 badness 的值超过了 $10000$，就会使用 $10000$ 这个值。（见第十二章关于粘连设置比率 $r$ 和粘连设置阶数 $i$ 的讨论，如果 $i\neq 0$，那么粘连具有无限伸缩性，于是 badness 的值恒为零，否则 badness 的值约等于 $\min(100r^3, 10000)$）。
 
@@ -158,8 +161,54 @@ this group ends.\smallskip}
 
 `\hangindent=<dimen>` 指定悬挂缩进的长度，`\hangafter=<number>` 指定在哪些行进行缩进。令 $x$ 和 $n$ 分别为二者的值，并令 $h$ 为 `\hsize` 的值；如果 $n\geq 0$，则悬挂缩进发生于段落的第 $n+1$ 行至最后一行；如果 $n<0$，则悬挂缩进发生于段落的第一行至第 $\lvert n\rvert$ 行。悬挂缩进意味着这些行的宽度为 $h-\lvert x\rvert$ 而不是 $h$；若 $x\geq 0$，则从左侧进行缩进，否则从右侧进行缩进。
 
+## 断行后的粘连与惩罚
 
 断行完成之后，$\TeX$ 将这些行加入到当前垂直列表，并插入行间粘连（见第 12 章），行间粘连依赖于 `\baselineskip`、`\lineskip` 和 `\lineskiplimit` 的值。为了帮助控制后面的分页，$\TeX$ 还会在每个行间粘连前插入 penalty。
+
+行间 penalty 的计算方法：假设 $\TeX$ 已经为某个段落或者（在行间公式前面的）部分段落选择好了断行点，并且已经形成 $n$ 行，那么在第 $j$ 行和第 $j+1$ 行 ($1\leq j<n$) 之间的 penalty 为 `\interlinepenalty` 的值加上在一些特殊情形下的额外 penalty，具体来说，当 $j=1$ 时（即第一行后面）会加上 `\clubpenalty`；当 $j=n-1$ 时（即最后一行前面）会加上 `\displaywidowpenalty` 或 `\widowpenalty`（取决于后面跟的是不是行间公式）；如果第 $j$ 行以任意可断点结尾，还会加上 `\brokenpenalty`。plain $\TeX$ 设置了:
+
+```tex
+\clubpenalty=150
+\widowpenalty=150
+\displaywidowpenalty=50
+\brokenpenalty=100
+```
+
+`\interlinepenalty` 的值一般为零，但是在脚注中会增加到 100，这样会使得长脚注尽量不分页。
+
+例如，考虑一个 5 行的段落，其中第二行和第四行以连字符结尾，各行之间的惩罚分别是 150，100，0，250。考虑一个只有两行的段落，那么惩罚为 `\interlinepenalty` 加 `\clubpenalty` 加 `\widowpenalty` 再加可能有的 `\brokenpenalty`。
+
+## `\vadjust`
+
+如果在段落中使用 `\vadjust{<垂直模式材料>}`，$\TeX$ 会使用内部垂直模式将`<垂直模式材料>`插入到 `\vadjust` 所在行的后面。例如，可以通过 `\vadjust{\kern1pt}` 增加两行间的距离。另外，如果想要在某个特定行后面立即分页，可以在该行中使用 `\vadjust{\eject}`，其中 `\eject` 的作用是强制分页（`\def\eject{\par\penalty-10000}`）。
+
+
+## `\everypar`
+
+当 $\TeX$ 进入水平模式，它会中断正常扫描，读取由 `\everypar={<token list>}` 预定义的 tokens。
+
+例如，假设你声明了 `\everypar={A}`，然后在垂直模式中输入 `B`，那么 $\TeX$ 会切换到水平模式（在为当前页面添加 `\parskip` 粘连之后），然后构建水平列表，最开始当然是宽度为 `\parindent` 的空盒子，接着 $\TeX$ 会读取 `AB`。
+
+
+经验证明 $\TeX$ 的断行算法可以用来处理各种各样的任务。下面举个例子：出版在 *Mathematical Reviews* 的文章通常都会签署审稿人的姓名和地址，并且这些信息按右对齐排版，如下图所示：
+
+<figure>
+  <img src="../images/texbook-chapter14/mathematical-reviews.png" alt="mathematical-reviews" class="invert" style="max-width: 100%;">
+  <figcaption markdown="span"></figcaption>
+</figure>
+
+如果段落的最后一行剩余足够的空间，那么姓名和地址就会放在同一行，否则会放在下一行。为此，定义宏
+
+{% raw %}
+```tex
+\def\signed #1 (#2){{\unskip\nobreak\hfil\penalty50
+  \hskip2em\hbox{}\nobreak\hfil\sl#1 \rm(#2)
+  \parfillskip=0pt \finalhyphendemerits=0 \par}}
+```
+{% endraw %}
+
+如果在 `\penalty50` 处断行了，那么 `\hskip2em` 就会消失，空盒子 `\hbox{}` 出现在下一行的开头，后面紧跟着粘连 `\hfil`，这样会生成两行，badness 的值为零。注意这里一定要有一个空盒子，否则的话，不光 `\hskip2em` 会消失，后面的 `\nobreak\hfil` 也会消失。如果没有在 `\penalty50` 处断行，那么在 review 和姓名之间会有 2em plus 2fil 的粘连。
+
 
 ---
 未完待续……
