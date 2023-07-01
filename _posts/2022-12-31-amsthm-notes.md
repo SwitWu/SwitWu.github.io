@@ -4,7 +4,7 @@ title: LaTeX 宏包介绍（一）—— amsthm
 category: LaTeX
 description: amsthm 是美国数学会开发的用于定理类环境的宏包，这篇文章算是官方手册的一份阅读笔记。
 math: true
-last_modified_at: 2023-04-16
+last_modified_at: 2023-07-01
 ---
 
 
@@ -324,6 +324,7 @@ This is a note.
 
 源码中 `proof` 环境的定义如下：
 
+{% raw %}
 ```latex
 \newenvironment{proof}[1][\proofname]{\par
   \pushQED{\qed}%
@@ -332,11 +333,12 @@ This is a note.
   \item[\hskip\labelsep
         \itshape
     #1\@addpunct{.}]\ignorespaces
-}{
+}{%
   \popQED\endtrivlist\@endpefalse
 }
 \providecommand{\proofname}{Proof}
 ```
+{% endraw %}
 
 关于 `proof` 环境有如下几点说明：
 + 证明环境的头文本默认为 `Proof`，可以通过可选参数更改，如

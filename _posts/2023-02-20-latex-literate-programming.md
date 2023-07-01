@@ -67,7 +67,7 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
 + 在 `%` 和 `\end{macrocode}` 之间必须有四个空格符
 + `\begin{macrocode}` 和 `\end{macrocode}` 之间的代码行不应该以 `%` 开头
 
-> 我们可以直接在导言区 `\input{demopkg.dtx}` 来使用 `\mycmd` 命令和 `myenv` 环境。除此之外，后面我们将通过 DocStrip 程序从 `demopkg.dtx` 中剥离出宏包文件 `demopkg.sty`。
+事实上，可以直接在导言区 `\input{demopkg.dtx}` 来使用 `\mycmd` 命令和 `myenv` 环境。除此之外，后面将通过 DocStrip 程序从 `demopkg.dtx` 中剥离出宏包文件 `demopkg.sty`。
 
 ### 获取 PDF 文档
 
