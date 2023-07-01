@@ -86,7 +86,7 @@
 
 .post-content {
   p, ul, ol, dl, pre, blockquote, figure, .table-wrapper {
-    margin-bottom: calc($spacing-unit / 2);
+    margin-bottom: $spacing-unit / 2;
   }
 
   table, pre, figcaption {
@@ -105,12 +105,12 @@
 
   h3 {
     font-size: $h3-font-size;
-    margin: calc($spacing-unit / 2) 0;
+    margin: $spacing-unit / 2 0;
   }
 
   h4 {
     font-size: $h4-font-size;
-    margin: calc($spacing-unit / 2) 0;
+    margin: $spacing-unit / 2 0;
   }
 
   .table-wrapper {
@@ -130,7 +130,7 @@
   }
 
   th, td {
-    padding: calc($spacing-unit / 4) calc($spacing-unit / 2);
+    padding: ($spacing-unit / 4) ($spacing-unit / 2);
     border: $border;
   }
 
@@ -175,7 +175,7 @@
       margin-bottom: 2px;
     }
     >p>img {
-      margin: calc($spacing-unit / 2) auto;
+      margin: $spacing-unit / 2 auto;
     }
   }
 
@@ -205,7 +205,7 @@
   blockquote {
     color: var(--dark-gray-color);
     border-left: 4px solid var(--light-gray-color);
-    padding-left: calc($spacing-unit / 2);
+    padding-left: $spacing-unit / 2;
 
     a {
       color: var(--dark-gray-color);

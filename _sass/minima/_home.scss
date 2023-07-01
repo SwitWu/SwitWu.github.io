@@ -81,7 +81,7 @@
 .archive > h1 {
   font-size: $h2-font-size;
   font-weight: normal;
-  margin-bottom: calc($spacing-unit / 2);
+  margin-bottom: $spacing-unit / 2;
 }
 
 .archive-list {
