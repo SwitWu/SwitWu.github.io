@@ -25,7 +25,7 @@
     line-height: 1ex;
   }
   td {
-    padding: $spacing-unit / 4;
+    padding: calc($spacing-unit / 4);
   }
 }
 

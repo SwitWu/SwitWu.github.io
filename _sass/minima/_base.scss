@@ -187,7 +187,7 @@ strong {
   max-width: -webkit-calc(#{$content-width} + #{$sidebar-width} + #{$spacing-unit});
   max-width:         calc(#{$content-width} + #{$sidebar-width} + #{$spacing-unit});
   margin: 0 auto;
-  padding: 0 $spacing-unit / 2;
+  padding: 0 calc($spacing-unit / 2);
   // // @extend %clearfix; // TODO
 
   @include media-on-large {
