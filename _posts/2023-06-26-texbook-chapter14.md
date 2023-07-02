@@ -40,7 +40,7 @@ last_modified_at: 2023-06-30
 例如，可以在 difficult 的两个 f 间设置可断点：
 
 ```tex
-di\discretionary{-f}{fi}{ffi}cult
+di\discretionary{f-}{fi}{ffi}cult
 ```
 
 但实际上，我们不需要手动设置，$\TeX$ 的连字算法会在幕后完成这些工作。
@@ -54,7 +54,7 @@ di\discretionary{-f}{fi}{ffi}cult
 1. 在粘连处，只要这个粘连的前面是一个不可丢弃的 item 并且粘连不在数学公式中。粘连处的断行发生在 glue space 的左侧。
 2. 在 kern 处，只要这个 kern 后面跟的是粘连并且不是数学公式的一部分。
 3. 在数学公式结束处且公式后面跟的是粘连
-4. 在一个惩罚处（公式中可能会自动插入 penalty）
+4. 在一个惩罚处（公式中可能会自动插入惩罚）
 5. 在任意可断点处
 
 每一个潜在的可断点都有一个对应的惩罚值，这个惩罚值代表了在该点进行断行的“美学代价”。对于前三种情形，惩罚值为零；第 4 中情形的惩罚值是显式指定的；对于最后一种情形，我们要分两种情况讨论，如果 pre-break text 非空的话，那么惩罚值为 `\hyphenpenalty` 的当前值，如果 pre-break text 为空的话，那么惩罚值为 `\exhyphenpenalty` 的当前值。plain $\TeX$ 设置 `\hyphenpenalty=50`, `\exhyphenpenalty=50`。
@@ -92,7 +92,7 @@ $$
 
 这里的 $l$ 为 `\linepenalty` 的当前值，plain $\TeX$ 设置 `\linepenalty=10`。例如，如果某一行的 badness 值为 20，并且断行点在粘连处，那么 demerit 值为 $(10+20)^2=900$，因为在粘连处断行的惩罚值为零。
 
-如果相邻的两行视觉上不兼容，那么 $d$ 的值会加上 `\adjdemerits`，如果相邻的两行都以任意可断点结尾，那么 $d$ 的值会加上 `\doublehyphendemerits`，如果倒数第二行以任意可断点结尾，那么 $d$ 会加上 `\finalhyphendemerits`。plain $\TeX$ 设置了三者的值分别为 10000、10000 和 5000。
+如果相邻的两行视觉上不兼容，那么 $d$ 的值会加上 `\adjdemerits`，如果相邻的两行都以任意可断点结尾，那么 $d$ 的值会加上 `\doublehyphendemerits`，如果倒数第二行以任意可断点结尾，那么 $d$ 会加上 `\finalhyphendemerits`。plain $\TeX$ 设置了三者的值分别为 10000、10000 和 5000。tolerance 和 penalty 的量级与 badness 一样，但是 demerit 是 badness 的平方量级（从定义式可以看出），所以若想让 demerit 类的参数起显著作用，必须将其参数值设置得足够大。
 
 ## 断行前的工作
 
