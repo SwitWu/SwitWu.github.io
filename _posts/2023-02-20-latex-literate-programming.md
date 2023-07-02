@@ -2,7 +2,7 @@
 layout: post
 title: LaTeX 文学编程
 category: LaTeX
-last_modified_at: 2023-04-19
+last_modified_at: 2023-07-02
 description: $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今，不计其数的宏包开发者都以文学编程的方式编写发布他们的作品。简单说来，文学编程就是把 $\LaTeX$ 代码和文档放在一起，置于同一个源文件之中。
 ---
 
@@ -224,14 +224,18 @@ DocStrip 程序最开始是由 Frank Mittelbach 通过底层 $\TeX$ 语言编写
 
 ### 使用 DocStrip 程序
 
-第一种方式是直接在命令行交互式执行 DocStrip 程序
+#### 方式一
+
+直接在命令行交互式执行 DocStrip 程序
 
 ```sh
 tex/latex docstrip.tex
 ```
-上面的 `/` 表示二选一，回车后，$\LaTeX$ 会询问几个问题，用户依次回答之后，DocStrip 会据此完成它的工作。
+上面的 `/` 表示二选一，回车后，$\LaTeX$ 会询问几个问题，用户依次回答之后，DocStrip 会据此完成它的工作。此方式只适用于从源文件中剥离文档部分，现在不常用。
 
-上述方式只适用于从源文件中剥离文档部分，现在的主流方式是写一个脚本文件（后缀名一般为 `.ins`），脚本文件的一般形式为：
+#### 方式二
+
+写一个脚本文件（后缀名一般为 `.ins`），脚本文件的一般形式为：
 
 ```tex
 \input docstrip
@@ -344,6 +348,54 @@ DocStrip 执行任务之后，便会生成宏包文件 `demopkg.sty`。
   </summary>
   驱动代码块也会被写入 <code>demopkg.sty</code> 之中，这可不是我们想要的结果。
 </details>
+
+#### 方式三
+
+部分项目如 `ctex` 和 `wrapstuff` 将脚本 `.ins` 文件合并到 `.dtx` 文件中，其内容看起来虽然更加复杂，但是核心框架容易分析出来：
+
+```tex
+% \iffalse meta-comment
+% 一些魔法注释，如 !TeX program = XeLaTeX
+%<*internal>
+\iffalse
+%</internal>
+
+%<*readme>
+项目的 README 文件内容
+%</readme>
+
+%<*internal>
+\fi
+\begingroup
+  \def\temp{LaTeX2e}
+\expandafter\endgroup\ifx\temp\fmtname\else
+\csname fi\endcsname
+%</internal>
+
+%<*install>
+\input ctxdocstrip %
+\generate{...}
+\endbatchfile
+%</install>
+
+%<*internal>
+\fi
+%</internal>
+
+%<*driver>
+\documentclass{ltxdoc} ^^M 或者其它文档类，如 ctex.dtx 使用的 ctxdoc
+\begin{document}
+  \DocInput{\jobname.dtx}
+  \PrintChanges
+  \PrintIndex
+\end{document}
+%</driver>
+% \fi
+
+code and documentation ...
+```
+
+使用 plain $\TeX$ 格式运行 `.dtx` 文件会启动 DocStrip 程序，生成目标文件（根据 `\generate` 里的具体指令）；使用 `latex` 格式运行会生成 PDF 手册。
 
 ## 注释
 
