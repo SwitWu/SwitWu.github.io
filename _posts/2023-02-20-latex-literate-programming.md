@@ -2,7 +2,7 @@
 layout: post
 title: LaTeX 文学编程
 category: LaTeX
-last_modified_at: 2023-07-02
+last_modified_at: 2023-07-03
 description: $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今，不计其数的宏包开发者都以文学编程的方式编写发布他们的作品。简单说来，文学编程就是把 $\LaTeX$ 代码和文档放在一起，置于同一个源文件之中。
 ---
 
@@ -359,11 +359,9 @@ DocStrip 执行任务之后，便会生成宏包文件 `demopkg.sty`。
 %<*internal>
 \iffalse
 %</internal>
-
 %<*readme>
 项目的 README 文件内容
 %</readme>
-
 %<*internal>
 \fi
 \begingroup
@@ -371,17 +369,14 @@ DocStrip 执行任务之后，便会生成宏包文件 `demopkg.sty`。
 \expandafter\endgroup\ifx\temp\fmtname\else
 \csname fi\endcsname
 %</internal>
-
 %<*install>
 \input ctxdocstrip %
 \generate{...}
 \endbatchfile
 %</install>
-
 %<*internal>
 \fi
 %</internal>
-
 %<*driver>
 \documentclass{ltxdoc} ^^M 或者其它文档类，如 ctex.dtx 使用的 ctxdoc
 \begin{document}
@@ -391,11 +386,10 @@ DocStrip 执行任务之后，便会生成宏包文件 `demopkg.sty`。
 \end{document}
 %</driver>
 % \fi
-
-code and documentation ...
+% code and documentation ...
 ```
 
-使用 plain $\TeX$ 格式运行 `.dtx` 文件会启动 DocStrip 程序，生成目标文件（根据 `\generate` 里的具体指令）；使用 `latex` 格式运行会生成 PDF 手册。
+使用 plain $\TeX$ 格式运行 `.dtx` 文件会启动 DocStrip 程序，生成目标文件（根据 `\generate` 里的具体指令）；使用 `latex` 格式运行会生成 PDF 手册。具体分析见 [David Carlisle](https://tex.stackexchange.com/a/690145/241621) 在 TSE 的回答。
 
 ## 注释
 
@@ -407,6 +401,6 @@ code and documentation ...
 + [The `doc` and `shortvrb` Packages](https://ctan.org/pkg/doc)
 + [The DocStrip Program](https://ctan.org/pkg/docstrip)
 + Scott Pakin, How to Package Your $\LaTeX$ Package. `texdoc dtxtut`.
-
++ [TSE. Merge the ins file into dtx file](https://tex.stackexchange.com/questions/690129/merge-the-ins-file-into-dtx-file)
     
 [^clsguide]: 见 clsguide
