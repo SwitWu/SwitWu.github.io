@@ -350,7 +350,7 @@ This is a note.
   \end{proof}
   ```
 + 证明环境的头文本字体默认为 `\itshape`，可根据需要使用其他字体，如 `\bfseries`
-+ 头文本后面默认有一个句号（`\@addpunct{.}`）
++ 头文本后面默认有一个句号（通过 `\@addpunct{.}` 添加）
 + `proof` 环境内部使用了平凡列表环境 `trivlist`，这样做保证了垂直间距的美观与统一性，`trivlist` 环境将 `\leftmargin`、`\labelwidth` 和 `\itemindent` 都设置为零，而且标签盒子的起始位置是通过将 `\itemindent` 的参考点向左移动 `\labelwidth` $+$ `\labelsep` 得到的。在当前情况下，`\itemindent` 的参考点刚好位于版心左边界上，而 `\labelwidth` $+$ `\labelsep` 等于`\labelsep`，所以标签盒子的起始位置超出了版心边界，与左边界的距离为 `\labelsep`，这也就是为什么 `trivlist` 的 `\item` 中会有 `\hskip\labelsep`
 + `\ignorespaces` 为 $\TeX$ 原语，顾名思义，其作用为忽略其后的所有空格（无论是显式空格或者 `\space`），直到遇到第一个非 space token
 
