@@ -4,12 +4,12 @@ title: TeXbook 第十四章——断行
 category: LaTeX
 description: 
 math: true
-last_modified_at: 2023-06-30
+last_modified_at: 2023-07-20
 ---
 
 ## 带子(tie)
 
-首先我们要说一个用得比较多的东西——带子（`~`），其定义会在后面给出。实际上，带子（`~`）就是一个不可断行的空格，为了排版的规范和美观，我们应该在一些场景中使用带子：
+首先我们要说一个用得比较多的东西——带子（`~`），其定义会在后面给出。实际上，带子就是一个不可断行的空格，为了排版的规范和美观，我们应该在一些场景中使用带子：
 
 + 在缩写后面，如 `Mr.`、`Mrs.`、`Ms.`、`Prof.`、`Dr.`、`Fig.`、`cf.` 等，如果不进行干预，$\TeX$ 会把这里的句号视为句子的结尾。为此，需要在句号后面使用 `~` 来插入正常间距并避免在句号后面断行，如 `Prof.~Evans`
 + 引用命名块，如 `Chapter~12`、`Theorem~1.2`、`Appendix~A` 等
@@ -28,13 +28,13 @@ last_modified_at: 2023-06-30
 
 在断行之前，$\TeX$ 中的一个段落实际上是一个水平列表，也就是 $\TeX$ 在水平模式下收集到的一列 items，这些 items 可以分为下面八类：
 
-+ 一个盒子（character, ligature, rule, hbox, vbox）
-+ 一个任意可断点
-+ 一个 'whatsit'
++ 盒子（character, ligature, rule, hbox, vbox）
++ 任意可断点
++ 'whatsit'
 + 垂直材料（来自 `\mark` 或者 `\vadjust` 或者 `\insert`）
-+ 一个粘连团或者 `\leaders`
-+ 一个 kern（类似于粘连，但是不能伸缩）
-+ 一个惩罚
++ 粘连或者 `\leaders`
++ kern（类似于粘连，但是不能伸缩）
++ 惩罚
 + 公式开始或者公式结束
 
 前四类为不可丢弃型，而后四类（glue, kern, penalty, math items）为可丢弃型，因为它们在断行处可能会改变或消失。
@@ -71,7 +71,7 @@ di\discretionary{f-}{fi}{ffi}cult
 1. 在粘连处，只要这个粘连的前面是一个不可丢弃的 item 并且粘连不在数学公式中。粘连处的断行发生在 glue space 的左侧。
 2. 在 kern 处，只要这个 kern 后面跟的是粘连并且不是数学公式的一部分。
 3. 在数学公式结束处且公式后面跟的是粘连
-4. 在一个惩罚处（公式中可能会自动插入惩罚）
+4. 在惩罚处（公式中可能会自动插入惩罚）
 5. 在任意可断点处
 
 每一个潜在的可断点都有一个对应的惩罚值，这个惩罚值代表了在该点进行断行的“美学代价”。对于前三种情形，惩罚值为零；第 4 中情形的惩罚值是显式指定的；对于最后一种情形，我们要分两种情况讨论，如果 pre-break text 非空的话，那么惩罚值为 `\hyphenpenalty` 的当前值，如果 pre-break text 为空的话，那么惩罚值为 `\exhyphenpenalty` 的当前值。plain $\TeX$ 设置 `\hyphenpenalty=50`, `\exhyphenpenalty=50`。
