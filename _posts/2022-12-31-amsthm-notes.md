@@ -341,6 +341,8 @@ This is a note.
 {% endraw %}
 
 关于 `proof` 环境有如下几点说明：
+
++ `proof` 环境可以嵌套使用
 + 证明环境的头文本默认为 `Proof`，可以通过可选参数更改，如
   ```latex
   \begin{proof}[Proof of Theorem 2.5, concluded]
@@ -348,7 +350,8 @@ This is a note.
   \end{proof}
   ```
 + 证明环境的头文本字体默认为 `\itshape`，可根据需要使用其他字体，如 `\bfseries`
-+ `proof` 环境可以嵌套使用
++ 头文本后面默认有一个句号（`\@addpunct{.}`）
++ `proof` 环境内部使用了平凡列表环境 `trivlist`，这样做保证了垂直间距的美观与统一性，`trivlist` 环境将 `\leftmargin`、`\labelwidth` 和 `\itemindent` 都设置为零，而且标签盒子的起始位置是通过将 `\itemindent` 的参考点向左移动 `\labelwidth` $+$ `\labelsep` 得到的。在当前情况下，`\itemindent` 的参考点刚好位于版心左边界上，而 `\labelwidth` $+$ `\labelsep` 等于`\labelsep`，所以标签盒子的起始位置超出了版心边界，与左边界的距离为 `\labelsep`，这也就是为什么 `trivlist` 的 `\item` 中会有 `\hskip\labelsep`
 + `\ignorespaces` 为 $\TeX$ 原语，顾名思义，其作用为忽略其后的所有空格（无论是显式空格或者 `\space`），直到遇到第一个非 space token
 
 + `\p@`、`\@plus` 的定义为：
