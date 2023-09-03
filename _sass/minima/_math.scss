@@ -1,0 +1,37 @@
+body {
+  counter-reset: theorem;
+}
+
+div.theorem {
+  background-color: rgb(241, 241, 241);
+  border-left: 2px solid;
+  border-color: rgb(31, 99, 133);
+  margin: 20px 0px 20px 0px;
+  padding: 10px 10px 5px 10px;
+  font-style: normal;
+  counter-reset: item;
+}
+
+div.theorem::before {
+  counter-increment: theorem;
+  content: "Theorem " counter(theorem) ". ";
+  font-weight: 600;
+}
+
+div.theorem[data-attr]::before {
+  content: "Theorem " counter(theorem) " ("attr(data-attr)"). ";
+}
+
+div.proof {
+  background-color: rgb(255, 255, 255);
+  border-left: 2px solid;
+  border-color: rgb(213, 67, 94);
+  margin: 20px 0px 20px 0px;
+  padding: 10px 10px 5px 10px;
+  font-style: normal;
+}
+
+div.proof::before {
+  content: "Proof. ";
+  font-style: italic;
+}
