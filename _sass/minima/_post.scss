@@ -201,6 +201,27 @@
     }
   }
 
+  ol.resume {
+    list-style: none;
+    >li {
+      counter-increment: item;
+    }
+    >li::before {
+      content: counter(item) '.';
+      display: inline-block;
+      width: 2em;
+      margin-right: .5em;
+      margin-left: -2.5em;
+      text-align: right;
+      font-feature-settings: 'tnum';
+      font-variant-numeric: tabular-nums;
+      letter-spacing: -.04em;
+    }
+    li>p {
+      display: inline-table;
+    }
+  }
+
   // TODO
   blockquote {
     color: var(--dark-gray-color);
