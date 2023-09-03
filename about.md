@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuhan University. I'm interested in mathematics, computer science (such as Python, C and git) and $\LaTeX$.
+I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuhan University. I'm interested in mathematics, computer science (such as Python, C, HTML, CSS, JavaScript, git) and $\LaTeX$.
 
 ## 致谢
 
@@ -12,6 +12,10 @@ I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuh
 + [Jekyll Minima Theme](https://jekyll.github.io/minima/)
 + [stone-zeng.github.io](https://stone-zeng.github.io/)
 + [Gitalk](https://github.com/gitalk/gitalk)
++ [Inter font family](https://rsms.me/inter/)
++ [JetBrains Mono font family](https://www.jetbrains.com/lp/mono/)
++ [Source Han Sans](https://fonts.adobe.com/fonts/source-han-sans-cjk-simplified-chinese)
++ [KaTeX](https://katex.org/)
 
 ## 文档与项目
 
@@ -23,7 +27,7 @@ I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuh
 + 论文重排
   + [Gidas-Ni-Nirenberg-1979](https://github.com/SwitWu/Gidas-Ni-Nirenberg-1979)
   + [Kwong-1988](https://github.com/SwitWu/Kwong-1988)
-
++ [Tool: Convert string to title case](https://title-case.github.io)
 
 
 ## 统计
