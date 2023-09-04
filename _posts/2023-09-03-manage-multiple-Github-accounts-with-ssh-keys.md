@@ -76,11 +76,12 @@ The string between `@` and `:` should match what we have given in the SSH config
 
 ## Setting remote url for existing repositories
 
-To list the Git remote of the repository, use `git remote -v`. We can set the git URL as follows:
+To list the Git remote of a repository, use `git remote -v`. We can set the git URL as follows:
 
 ```sh
-git remote set-url origin git@userB.github.com:/owner/repo.git
+git remote set-url origin git@userB.github.com:owner/repo.git
 ```
+
 If you find this command is hard to remember, you can also open `.git/config` file in the repository by your favorite editor and modify the `url` item there.
 
 ## References
