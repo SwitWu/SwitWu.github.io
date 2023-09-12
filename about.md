@@ -27,6 +27,7 @@ I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuh
 + 论文重排
   + [Gidas-Ni-Nirenberg-1979](https://github.com/SwitWu/Gidas-Ni-Nirenberg-1979)
   + [Kwong-1988](https://github.com/SwitWu/Kwong-1988)
+  + [Payne-Weinberger-1960](https://github.com/SwitWu/Payne-Weinberger-1960)
 + [Tool: Convert string to title case](https://title-case.github.io)
 
 
