@@ -29,7 +29,7 @@ I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuh
   + [Kwong-1988](https://github.com/SwitWu/Kwong-1988)
   + [Payne-Weinberger-1960](https://github.com/SwitWu/Payne-Weinberger-1960)
 + [Tool: Convert string to title case](https://title-case.github.io)
-
++ [Tool: dtx2tex](https://github.com/SwitWu/dtx2tex) (Python script used to strip the documentation lines in the `.dtx` file to create a corresponding `.tex` file.)
 
 ## 统计
 
