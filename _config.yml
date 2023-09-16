@@ -61,6 +61,8 @@ exclude:
   - vendor/
 
 markdown: kramdown
+kramdown:
+    math_engine: katex
 sass:
     style: compressed
     quiet_deps: true
