@@ -30,6 +30,7 @@ I'm Siyu Wu, a postgraduate student at School of Mathematics and Statistics, Wuh
   + [Payne-Weinberger-1960](https://github.com/SwitWu/Payne-Weinberger-1960)
 + [Tool: Convert string to title case](https://title-case.github.io)
 + [Tool: dtx2tex](https://github.com/SwitWu/dtx2tex) (Python script used to strip the documentation lines in the `.dtx` file to create a corresponding `.tex` file.)
++ [Beamer HTML Manual](https://www.beamer.plus)
 
 ## 统计
 
