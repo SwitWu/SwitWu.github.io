@@ -66,7 +66,7 @@ kramdown:
 sass:
     style: compressed
     quiet_deps: true
-paginate: 6
+paginate: 8
 paginate_path: /page/:num
 
 gitalk:
