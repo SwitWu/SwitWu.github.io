@@ -184,6 +184,7 @@
     counter-reset: li;
     >li {
       counter-increment: li;
+      position: relative;
     }
     >li::before {
       content: counter(li) '.';
@@ -195,16 +196,20 @@
       font-feature-settings: 'tnum';
       font-variant-numeric: tabular-nums;
       letter-spacing: -.04em;
+      position: absolute;
+      top: 0;
+      left: 0;
     }
-    li>p {
-      display: inline-table;
-    }
+    // li>p {
+    //   display: inline-table;
+    // }
   }
 
   ol.resume {
     list-style: none;
     >li {
       counter-increment: item;
+      position: relative;
     }
     >li::before {
       content: counter(item) '.';
@@ -216,10 +221,13 @@
       font-feature-settings: 'tnum';
       font-variant-numeric: tabular-nums;
       letter-spacing: -.04em;
+      position: absolute;
+      top: 0;
+      left: 0;
     }
-    li>p {
-      display: inline-table;
-    }
+    // li>p {
+    //   display: inline-table;
+    // }
   }
 
   // TODO
