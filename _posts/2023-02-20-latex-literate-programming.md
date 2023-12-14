@@ -2,7 +2,7 @@
 layout: post
 title: LaTeX 文学编程
 category: LaTeX
-last_modified_at: 2023-07-03
+last_modified_at: 2023-12-14
 description: $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今，不计其数的宏包开发者都以文学编程的方式编写发布他们的作品。简单说来，文学编程就是把 $\LaTeX$ 代码和文档放在一起，置于同一个源文件之中。
 ---
 
@@ -62,12 +62,15 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
 % \end{environment}
 ```
 
+上面这段代码虽然简短（只有两个 section），但却反映出了很多宏包 `.dtx` 文件的基本框架，第一小节为
+User's Manual，用于向用户解释宏包的用法；第二小节为 Implementation，用于记录宏包的具体实现细节。
+为了演示，这段代码只定义了一个命令 `\mycmd` 和一个环境 `myenv`，事实上，可以直接在导言区 `\input{demopkg.dtx}` 来使用 `\mycmd` 命令和 `myenv` 环境（你不妨试试）。
+
 关于 `macrocode` 环境需要说明：
 
 + 在 `%` 和 `\end{macrocode}` 之间必须有四个空格符
 + `\begin{macrocode}` 和 `\end{macrocode}` 之间的代码行不应该以 `%` 开头
 
-事实上，可以直接在导言区 `\input{demopkg.dtx}` 来使用 `\mycmd` 命令和 `myenv` 环境。除此之外，后面将通过 DocStrip 程序从 `demopkg.dtx` 中剥离出宏包文件 `demopkg.sty`。
 
 ### 获取 PDF 文档
 
@@ -94,7 +97,7 @@ $\LaTeX$ 文学编程的思想最初由 Donald Knuth 提出并使用，现如今
       <figcaption markdown="span">编译生成 `demopkg.pdf`</figcaption>
     </figure>
 
-   一般而言我们不会用「创建独立的驱动文件」这种方式，而是用下面的主流方式：
+   一般而言我们不会用「创建独立的驱动文件」这种方式，而是用下面的主流
 + 方法二：将驱动文件并入 `demopkg.dtx` 之中：
 
    ```tex
