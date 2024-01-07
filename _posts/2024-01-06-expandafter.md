@@ -7,7 +7,7 @@ math: true
 ---
 <style type="text/css">
   ol {
-    list-style: none;
+    list-style: lower-arabic !important;
     counter-reset: none;
   }
   ol > li::before {
@@ -48,13 +48,13 @@ then the following rules describe the execution of `\expandafter`:
   </li>
   <li>
     Now {% include token.html content="1" %}, which is the token after the saved {% include token.html content="e" %}, is analyzed. The following cases can be distinguished:
-    <ol style="list-style-type: lower-alpha;">
+    <ol style="list-style-type: lower-alpha !important;">
       <li>
         {% include token.html content="1" %} is a <em>macro</em>: The macro {% include token.html content="1" %} will be expanded. In other words, the macro and its arguments, if any, will be replaced by the replacement text. After this $\TeX$ will <strong>not</strong> look at the first token of this new replacement text to expand it again or execute it. See 3 instead! Examples 1&ndash;6 and others below fall into this category.
       </li>
       <li>
         {% include token.html content="1" %} is <em>primitive</em>: Here is what we can say about this case: Normally a primitive can not be expanded so the <code>\expandafter</code> has no effect; see Example 7. But there are exceptions:
-        <ol style="list-style-type: lower-roman;">
+        <ol style="list-style-type: lower-roman !important;">
           <li>
             {% include token.html content="1" %} is another <code>\expandafter</code>: See the section on "Multiple <code>\expandafter</code>s" later in this article, and also look at Example 9.
           </li>
