@@ -33,8 +33,8 @@ As a control sequence, `\expandafter` can be followed by a number of argument to
 
 then the following rules describe the execution of `\expandafter`:
 
-1. {% include token.html content="e" %} , the token immediately following `\expandafter`, is saved without expansion.
-2. Now {% include token.html content="1" %}, which is token after the saved {% include token.html content="e" %}, is analyzed. The following cases can be distinguished:
+1. {% include token.html content="e" %}, the token immediately following `\expandafter`, is saved without expansion.
+2. Now {% include token.html content="1" %}, which is the token after the saved {% include token.html content="e" %}, is analyzed. The following cases can be distinguished:
     + {% include token.html content="1" %} is a *macro*: The macro {% include token.html content="1" %} will be expanded. In other words, the macro and its arguments, if any, will be replaced by the replacement text. After this $\TeX$ will **not** look at the first token of this new replacement text to expand it again or execute it. See 3 instead! Examples 1--6 and others below fall into this category.
     + {% include token.html content="1" %} is *primitive*: Here is what we can say about this case: Normally a primitive can not be expanded so the `\expandafter` has no effect; see Example 7. But there are exceptions:
         1. {% include token.html content="1" %} is another `\expandafter`: See the section on "Multiple `\expandafter`s" later in this article, and also look at Example 9.
@@ -139,7 +139,7 @@ Here is an application of these macros (Example 4 and 5) where one string is ext
 
 Let us analyze Example 4: `\PickFirstOfTwo` is saved because of the `\expandafter` and `\a` is expanded to `{First part}{Second part}`. The two strings inside curly braces generated this way form the arguments of `\PickFirstOfTwo`, which is re-inserted in front of `{First part}{Second part}`. Finally, the macro call to `\PickFirstOfTwo` will be executed, leaving only `First part` on the main token list.
 
-Naturally the above `\Pick...` macros could be extended to pick out $x$ arguments from $y$ arguments, where $x\leq y$, to offer a theoretical example.
+Naturally the above `\Pick...` macros could be extended to pick out $$x$$ arguments from $$y$$ arguments, where $$x\leq y$$, to offer a theoretical example.
 
 
 ## Example 6: `\expandafter` and `\read`
@@ -244,7 +244,7 @@ Very rarely the reversed expansion of four tokens `\a`, `\b`, `\c` and `\d` is n
 
 {% endraw %}
 
-In general, to reverse the expansion of $n$ tokens {% include token.html content="1" %} ... {% include token.html content="n" %}, the $i$-th token has to be preceded by $2^{n-i}-1$ `\expandafter`s.
+In general, to reverse the expansion of $$n$$ tokens {% include token.html content="1" %} ... {% include token.html content="n" %}, the $$i$$-th token has to be preceded by $$2^{n-i}-1$$ `\expandafter`s.
 
 
 {% raw %}
