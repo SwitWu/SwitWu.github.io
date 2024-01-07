@@ -396,3 +396,14 @@ now about 800 pages long, grew out of my teaching and consulting experience.
 The main emphasis of the book is to give concrete and useful examples in all
 areas of $\TeX$. It contains, to give just one example, 100 (!!) `\halign` tables.
 In this book you should be able to find an answer to almost any $\TeX$ problem.
+
+## 注
+
+作者在文中提到的 Another Look At $\TeX$ 这本书应该又名为 $\TeX$ in Practice，分四卷：
+
++ Volume I: Basics
++ Volume II: Paragraphs, Math and Fonts
++ Volume III: Tokens, Macros
++ Volume IV: Output Routines, Tables
+
+本文章所讲述的内容位于第三卷之中。
