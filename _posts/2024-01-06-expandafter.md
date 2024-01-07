@@ -139,7 +139,7 @@ Here is an application of these macros (Example 4 and 5) where one string is ext
 
 Let us analyze Example 4: `\PickFirstOfTwo` is saved because of the `\expandafter` and `\a` is expanded to `{First part}{Second part}`. The two strings inside curly braces generated this way form the arguments of `\PickFirstOfTwo`, which is re-inserted in front of `{First part}{Second part}`. Finally, the macro call to `\PickFirstOfTwo` will be executed, leaving only `First part` on the main token list.
 
-Naturally the above `\Pick...` macros could be extended to pick out $$x$$ arguments from $$y$$ arguments, where $$x\leq y$$, to offer a theoretical example.
+Naturally the above `\Pick...` macros could be extended to pick out $x$ arguments from $y$ arguments, where $x\leq y$, to offer a theoretical example.
 
 
 ## Example 6: `\expandafter` and `\read`
@@ -244,7 +244,7 @@ Very rarely the reversed expansion of four tokens `\a`, `\b`, `\c` and `\d` is n
 
 {% endraw %}
 
-In general, to reverse the expansion of $$n$$ tokens {% include token.html content="1" %} ... {% include token.html content="n" %}, the $$i$$-th token has to be preceded by $$2^{n-i}-1$$ `\expandafter`s.
+In general, to reverse the expansion of $n$ tokens {% include token.html content="1" %} ... {% include token.html content="n" %}, the $i$-th token has to be preceded by $2^{n-i}-1$ `\expandafter`s.
 
 
 {% raw %}
