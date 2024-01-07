@@ -132,7 +132,7 @@ function addHashTags(headers) {
 
 function updateSidebar(headers) {
   const headerPositions = Array.from(headers).map((e) =>
-    e.getBoundingClientRect().top + window.pageYOffset - e.ownerDocument.documentElement.clientTop);
+    e.getBoundingClientRect().top + window.scrollY - e.ownerDocument.documentElement.clientTop);
   const sidebarHeader = (i) => 'sidebar-header-' + i.toString();
   const getHeaderIndex = (pos) => {
     for (let i = 0; i < headerPositions.length; i++) if (headerPositions[i] > pos) return i - 1;
@@ -141,7 +141,7 @@ function updateSidebar(headers) {
   document.querySelectorAll('#sidebar-ul a').forEach((e, i) => e.id = sidebarHeader(i));
   window.onscroll = () => {
     document.querySelectorAll('#sidebar-ul a').forEach((e) => e.className = 'inactive');
-    const headerIndex = getHeaderIndex(window.pageYOffset);
+    const headerIndex = getHeaderIndex(window.scrollY);
     if (headerIndex >= 0) document.getElementById(sidebarHeader(headerIndex)).className = 'active';
   };
 }
