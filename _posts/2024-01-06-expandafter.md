@@ -5,7 +5,16 @@ category: TeX
 description: 这是 Stephan v. Bechtolshein 于 1988 年在 TUGboat 上发表的一篇关于 `\expandafter` 的文章，存档于此处。
 math: true
 ---
-
+<style type="text/css">
+  ol {
+    list-style: none;
+    counter-reset: none;
+  }
+  ol > li::before {
+    content: none !important;
+    display: none !important;
+  }
+</style>
 这是 Stephan v. Bechtolshein 于 1988 年在 TUGboat 上发表的一篇关于 `\expandafter` 的文章，存档于此处。
 
 ## Introduction
@@ -21,7 +30,7 @@ This article is condensed from a draft of my book, *Another Look at $\TeX$*. See
 
 As a control sequence, `\expandafter` can be followed by a number of argument tokens. Assuming that the tokens in the following list have been defined previously
 
-<div style="text-align: center">
+<div style="text-align: center; margin-bottom: 15px;">
   <code style="background: none">\expandafter</code> 
   {% include token.html content="e" %}
   {% include token.html content="1" %}
@@ -33,15 +42,39 @@ As a control sequence, `\expandafter` can be followed by a number of argument to
 
 then the following rules describe the execution of `\expandafter`:
 
-1. {% include token.html content="e" %}, the token immediately following `\expandafter`, is saved without expansion.
-2. Now {% include token.html content="1" %}, which is the token after the saved {% include token.html content="e" %}, is analyzed. The following cases can be distinguished:
-    + {% include token.html content="1" %} is a *macro*: The macro {% include token.html content="1" %} will be expanded. In other words, the macro and its arguments, if any, will be replaced by the replacement text. After this $\TeX$ will **not** look at the first token of this new replacement text to expand it again or execute it. See 3 instead! Examples 1--6 and others below fall into this category.
-    + {% include token.html content="1" %} is *primitive*: Here is what we can say about this case: Normally a primitive can not be expanded so the `\expandafter` has no effect; see Example 7. But there are exceptions:
-        1. {% include token.html content="1" %} is another `\expandafter`: See the section on "Multiple `\expandafter`s" later in this article, and also look at Example 9.
-        2. {% include token.html content="1" %} is `\csname`: $\TeX$ will look for matching `\endcsname`, and replace the text between the `\csname` and the `\endcsname` by the token resulting from this operation. See Example 11.
-        3. {% include token.html content="1" %} is an opening curly brace which leads to the opening curly brace temporarily being suspensed. This is listed as a separate case because it has some interesting applications; see Example 8.
-        4. {% include token.html content="1" %} is `\the`: the `\the` operation is performed, which involves reading the token after `\the`.
-3. {% include token.html content="e" %} is stuck back in front of the tokens generated in the previous step, and processing continues with {% include token.html content="e" %}.
+<ol style="list-style-type: decimal;">
+  <li>
+    {% include token.html content="e" %}, the token immediately following <code>\expandafter</code>, is saved without expansion.
+  </li>
+  <li>
+    Now {% include token.html content="1" %}, which is the token after the saved {% include token.html content="e" %}, is analyzed. The following cases can be distinguished:
+    <ol style="list-style-type: lower-alpha;">
+      <li>
+        {% include token.html content="1" %} is a <em>macro</em>: The macro {% include token.html content="1" %} will be expanded. In other words, the macro and its arguments, if any, will be replaced by the replacement text. After this $\TeX$ will <strong>not</strong> look at the first token of this new replacement text to expand it again or execute it. See 3 instead! Examples 1&ndash;6 and others below fall into this category.
+      </li>
+      <li>
+        {% include token.html content="1" %} is <em>primitive</em>: Here is what we can say about this case: Normally a primitive can not be expanded so the <code>\expandafter</code> has no effect; see Example 7. But there are exceptions:
+        <ol style="list-style-type: lower-roman;">
+          <li>
+            {% include token.html content="1" %} is another <code>\expandafter</code>: See the section on "Multiple <code>\expandafter</code>s" later in this article, and also look at Example 9.
+          </li>
+          <li>
+            {% include token.html content="1" %} is <code>\csname</code>: $\TeX$ will look for matching <code>\endcsname</code>, and replace the text between the <code>\csname</code> and the <code>\endcsname</code> by the token resulting from this operation. See Example 11.
+          </li>
+          <li>
+            {% include token.html content="1" %} is an opening curly brace which leads to the opening curly brace temporarily being suspensed. This is listed as a separate case because it has some interesting applications; see Example 8.
+          </li>
+          <li>
+            {% include token.html content="1" %} is <code>\the</code>: the <code>\the</code> operation is performed, which involves reading the token after <code>\the</code>.
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>
+    {% include token.html content="e" %} is stuck back in front of the tokens generated in the previous step, and processing continues with {% include token.html content="e" %}.
+  </li>
+</ol>
 
 
 ## Example 1 and 2: Macros and `\expandafter`
