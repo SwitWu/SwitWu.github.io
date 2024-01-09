@@ -56,13 +56,13 @@ then the following rules describe the execution of `\expandafter`:
         {% include token.html content="1" %} is <em>primitive</em>: Here is what we can say about this case: Normally a primitive can not be expanded so the <code>\expandafter</code> has no effect; see Example 7. But there are exceptions:
         <ol style="list-style-type: lower-roman !important;">
           <li>
-            {% include token.html content="1" %} is another <code>\expandafter</code>: See the section on "Multiple <code>\expandafter</code>s" later in this article, and also look at Example 9.
+            {% include token.html content="1" %} is another <code>\expandafter</code>: See the section on &ldquo;Multiple <code>\expandafter</code>s&rdquo; later in this article, and also look at Example 9.
           </li>
           <li>
             {% include token.html content="1" %} is <code>\csname</code>: $\TeX$ will look for matching <code>\endcsname</code>, and replace the text between the <code>\csname</code> and the <code>\endcsname</code> by the token resulting from this operation. See Example 11.
           </li>
           <li>
-            {% include token.html content="1" %} is an opening curly brace which leads to the opening curly brace temporarily being suspensed. This is listed as a separate case because it has some interesting applications; see Example 8.
+            {% include token.html content="1" %} is an opening curly brace which leads to the opening curly brace temporarily being suspended. This is listed as a separate case because it has some interesting applications; see Example 8.
           </li>
           <li>
             {% include token.html content="1" %} is <code>\the</code>: the <code>\the</code> operation is performed, which involves reading the token after <code>\the</code>.
@@ -282,7 +282,7 @@ In general, to reverse the expansion of $n$ tokens {% include token.html content
 
 {% raw %}
 
-## Example 8: Forcing the partial expansion of token lists of `\writes`
+## Example 8: Forcing the partial expansion of token lists of `\write`s
 
 `\expandafter` can be used to force the expansion of the first token of a delayed `\write`.
 Remember that unless `\write` is preceded by `\immediate`, the expansion of the token list of a `\write` is delayed until `\write` operation is really executed, as side effect of the `\shipout` instruction in the output routine. So, when given the instruction `\write\stream{\x\y\z}`, $\TeX$ will try to expand `\x`, `\y` and `\z` when the `\shipout` is performed, not when this `\write` instruction is given.
@@ -298,7 +298,7 @@ instruction is later actually performed as side effect of `\shipout`. This can b
 ```
 
 Going back to our explanation of multiple `\expandafter`s: `\ws` corresponds to `\a`,
-`{` to `\b`, and `\x` to `c`. In other words `\x` will be expanded (!!), and `{`
+`{` to `\b`, and `\x` to `\c`. In other words `\x` will be expanded (!!), and `{`
 will be inserted back in front of it (it cannot be expanded). Finally, `\ws` will
 be expanded into `\write\stream`. Now `\write` will be performed and the token list
 of the `\write` will be saved without expansion. But observe that `\x` was already
@@ -309,8 +309,8 @@ expanded. `\y` and `\z`, on the other hand, will be expanded when the correspond
 ## Example 9: Extracting a substring
 
 Assume that a macro `\xx` (without parameters) expands to text which contains the two
-tokens `\aaa` and `\bbb` embedded in it between `\aaa` and `\bbb`. Here is how this could
-be done:
+tokens `\aaa` and `\bbb` embedded in it somewhere. You would like to extract
+the tokens between `\aaa` and `\bbb`. Here is how this could be done:
 
 ```tex
 % Define macro to extract substring
@@ -325,7 +325,7 @@ be done:
 \def\extract #1\aaa#2\bbb#3\Del{#2}
 % Call macro to extract substring
 % from \xx.
-% Prints "TTXXTT.
+% Prints "TTXXTT".
 \expandafter\extract\xx\Del
 % which is equivalent to:
 \extract This is fun\aaa TTXXTT
@@ -409,7 +409,7 @@ definition you have to do it the following way:
 \expandafter\def\csname a?a-4\endcsname{...}
 ```
 
-The effact of the `\expandafter` is of course to give `\csname` a chance
+The effect of the `\expandafter` is of course to give `\csname` a chance
 to form the requested token rather than defining a new macro called `\csname`.
 
 {% endraw %}
