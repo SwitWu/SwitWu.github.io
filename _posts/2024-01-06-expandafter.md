@@ -2,8 +2,9 @@
 layout: post
 title: \expandafter
 category: TeX
-description: 这是 Stephan v. Bechtolshein 于 1988 年在 TUGboat 上发表的一篇关于 `\expandafter` 的文章，存档于此处。
+description: 这是 Stephan v. Bechtolsheim 于 1988 年在 TUGboat 上发表的一篇关于 `\expandafter` 的文章，存档于此处。
 math: true
+last_modified_at: 2024-01-11
 ---
 <style type="text/css">
   ol {
@@ -15,7 +16,7 @@ math: true
     display: none !important;
   }
 </style>
-这是 Stephan v. Bechtolshein 于 1988 年在 TUGboat 上发表的一篇关于 `\expandafter` 的文章，存档于此处。另外，本文中存在一些技术性的问题，请读者留心观察，我会在最后一节指出。
+这是 Stephan v. Bechtolsheim 于 1988 年在 TUGboat 上发表的一篇关于 `\expandafter` 的[文章](https://tug.org/TUGboat/tb09-1/tb20bechtolsheim.pdf)，存档于此处。另外，本文中存在一些技术性的问题，请读者留心观察，我会在最后一节指出。
 
 ## Introduction
 
