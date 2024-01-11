@@ -15,7 +15,7 @@ math: true
     display: none !important;
   }
 </style>
-这是 Stephan v. Bechtolshein 于 1988 年在 TUGboat 上发表的一篇关于 `\expandafter` 的文章，存档于此处。
+这是 Stephan v. Bechtolshein 于 1988 年在 TUGboat 上发表的一篇关于 `\expandafter` 的文章，存档于此处。另外，本文中存在一些技术性的问题，请读者留心观察，我会在最后一节指出。
 
 ## Introduction
 
@@ -344,7 +344,7 @@ we will test for the presence of `abc` in `\xx`'s replacement text. For that pur
 we define a macro `\@TestSubS` as follows: (`\@Del` is a delimiter):
 
 ```tex
-\def\@TestSubS #1abc#2\@del{...}
+\def\@TestSubS #1abc#2\@Del{...}
 ```
 
 Now look at the following source:
@@ -439,4 +439,7 @@ In this book you should be able to find an answer to almost any $\TeX$ problem.
 + Volume III: Tokens, Macros
 + Volume IV: Output Routines, Tables
 
-本文章所讲述的内容位于第三卷之中。
+本文章所讲述的内容位于第三卷之中。下面指出文章中的问题：
+
+1. 在[第二节](#the-theory-behind-it)中，如果 token<sub>1</sub> 为花括号的话，$\TeX$ 会试图展开 `{`，然而任何 character token 都是不可展开的，所以在这种情况下 `\expandafter` 没有任何作用。如果 token<sub>e</sub> 为 `{` 的话，$\TeX$ 会尝试展开花括号后面的 token (以及该 token 可能附带的参数)，一个经典的例子是 `\uppercase\expandafter{\romannumeral3}`，$\TeX$ 先将 `{` 后面的 `\romannumeral3` 展开为 `iii`，然后执行 `\uppercase{iii}` 得到 `III`。
+2. 同样在第二节中，作者的叙述容易误导读者以为可以展开的 primitives 只有 `\expandafter`、`\csname` 和 `\the`，事实上，所有的 *conditionals* (包括 `\if` 系列、`\else`、`\fi`) 以及 `\number` 都是可展开的。
