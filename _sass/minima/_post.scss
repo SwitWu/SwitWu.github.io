@@ -352,6 +352,26 @@
   .small {
     font-size: smaller;
   }
+
+  /* _sass/_post.css */
+  div.highlighter-rouge {
+    position: relative;
+  }
+  div.highlighter-rouge button {
+    opacity: 0;
+    position: absolute;
+    top: 0.5rem;
+    right: 10px;
+    border: 2px solid gray;
+    border-radius: 0.2rem;
+  }
+  div.highlighter-rouge:hover button {
+    opacity: 1;
+  }
+  div.highlighter-rouge button:active,
+  div.highlighter-rouge button:focus {
+    opacity: 1;
+  }
 }
 
 // See .pagination in _home.scss
