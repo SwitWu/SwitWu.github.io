@@ -44,3 +44,30 @@ description:
 + Garamond-Math. Yuansheng Zhao, Xiangdong Zeng
 + Lato Math. Chenjing Bu, Daniel Flipo
 
+## 文学编程
+
++ The doc and shortvrb Packages. Frank Mittelbach. `texdoc doc`
++ The DocStrip program. `texdoc docstrip`
++ How to Package Your $\LaTeX$ Package. Scott Pakin. `texdoc dtxtut`
+
+## 宏包及文档类开发
+
++ $\LaTeX$ for package and class authors. `texdoc clsguide`. 这个只是最基础的教程，开发一个宏包或者文档类模版远不止这么简单。
+
+## $\LaTeX3$
+
++ The $\LaTeX$3 Interfaces. `texdoc interface3`
++ The expl3 package and $\LaTeX$3 programming. `texdoc expl3.pdf`
++ $\LaTeX$ for authors. `texdoc xparse`
+
+## 绘图
+
++ TikZ/PGF `texdoc tikz`
++ pgfplots `texdoc pgfplots`
++ tkz-euclide `texdoc tkz-euclide`
++ Asymptote: the Vector Graphics Language. `texdoc asymptote`
+
+## 内核源码
+
++ $\LaTeXe$ 内核：`texdoc source2e`
++ $\LaTeX$3 内核：`texdoc source3`
