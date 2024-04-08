@@ -21,6 +21,7 @@ description:
 + Natural Sciences Citations and References (Author-Year and Numerical Schemes). Patrick W. Daly. `texdoc natbib`
 + GB/T 7714 $\BibTeX$ style. Zeping Lee. `texdoc gbt7714`
 + The biblatex Package Programmable Bibliographies and Citations. Philip Kime, Moritz Wemheuer, Philipp Lehman. `texdoc biblatex`
++ 符合 GB/T 7714-2015 标准的 biblatex 参考文献样式. 胡振震. `texdoc biblatex-gb7714-2015`
 
 ## 数学公式
 
