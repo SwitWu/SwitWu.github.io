@@ -50,6 +50,10 @@ description:
 + The doc and shortvrb Packages. Frank Mittelbach. `texdoc doc`
 + The DocStrip program. `texdoc docstrip`
 + How to Package Your $\LaTeX$ Package. Scott Pakin. `texdoc dtxtut`
++ The gmdoc bundle. Grzegorz Murzynowski. `texdoc gmdoc`
++ The hypdoc package. Heiko Oberdiek. `texdoc hypdoc`
++ The docmfp package. Will Robertson. `texdoc docmfp`
++ The xdoc package -- experimental reimplementations of features from doc, second prototype. Lars Hellstr ̈om. `texdoc xdoc2`
 
 ## 宏包及文档类开发
 
