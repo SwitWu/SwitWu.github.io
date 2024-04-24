@@ -72,6 +72,10 @@ description:
 + tkz-euclide `texdoc tkz-euclide`
 + Asymptote: the Vector Graphics Language. `texdoc asymptote`
 
+## 钩子管理
+
++ $\LaTeX$’s hook management. Frank Mittelbach. `texdoc lthooks-doc`
+
 ## 内核源码
 
 + $\LaTeXe$ 内核：`texdoc source2e`
