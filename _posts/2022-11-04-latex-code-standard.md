@@ -97,11 +97,9 @@ last_modified_at: 2023-11-01
 \usepackage{amsmath,amssymb}
 ```
 
-有些宏包之间的调用顺序会影响配置的效果。 通常将所有宏包集中在一起调用，再进行相应的配置。 这是因为宏包在调用时会处理与其他宏包的兼容性，可能导致先前的配置失效。
+有些宏包之间的调用顺序会影响配置的效果、甚至会导致报错。 通常将所有宏包集中在一起调用，再进行相应的配置。 这是因为宏包在调用时会处理与其他宏包的兼容性，可能导致先前的配置失效。
 
-需要注意 `hyperref` 宏包应该在其它大多数宏包的调用和配置之后再进行调用，少数宏包会在其手册中声明需要在 `hyperref` 后面进行调用（如 `fixdif`）[^fixdif]。
-
-[^fixdif]: [The fixdif package](https://www.ctan.org/pkg/fixdif)
+需要注意 `hyperref` 宏包应该在其它大多数宏包的调用和配置之后再进行调用，少数宏包会在其手册中声明需要在 `hyperref` 后面进行调用。
 
 ```tex
 % 推荐
@@ -114,6 +112,12 @@ last_modified_at: 2023-11-01
 \usepackage{hyperref}
 \hypersetup{...}
 ```
+
+根据宏包手册以及我自己的使用经验，下面列出一些宏包调用的顺序规则：
+
+1. `amsmath` 在 `amsthm` 之前
+2. `amsmath` 在 `mathabx` 之前
+3. 先调用 `hyperref`，再定义 `tcolorbox` 的环境与命令以避免 *duplicate identifiers*。（见 `tcolorbox` 手册第五节开头）
 
 ## 空格
 
