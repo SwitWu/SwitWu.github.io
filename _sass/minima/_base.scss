@@ -78,9 +78,9 @@ a {
   font-family: $punct-font-family;
   font-feature-settings: 'fwid';
 }
-.zh-punct-kern {
-  letter-spacing: -.5em;
-}
+// .zh-punct-kern {
+//   letter-spacing: -.5em;
+// }
 .zh-punct-bound {
   margin-left: -.5em;
 }
