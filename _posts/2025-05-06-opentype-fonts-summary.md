@@ -7,7 +7,7 @@ description:
 
 1. 标注有 (✰) 的字体为 TeX 发行版自带字体。
 2. 标注有 (⍟) 的字体有相应的宏包直接调用。
-3. 要查看字体信息，可以使用 `otfinfo` 命令行工具
+3. 要查看字体信息，可以使用命令行工具 `otfinfo`。
 
 ## 西文文本字体
 
@@ -25,6 +25,9 @@ description:
 1. + Family: STIX Two Text (✰)
    + PostScript name: STIXTwoText-Regular
    + File name: `STIXTwoText-Regular.otf`
+1. + Family: XITS (✰)
+   + PostScript name: XITS-Regular
+   + File name: `XITS-Regular.otf`
 1. + Family: TeX Gyre Termes (✰)
    + PostScript name: TeXGyreTermes-Regular
    + File name: `texgyretermes-regular.otf`
@@ -39,6 +42,9 @@ description:
 1. + Family: Charter
    + PostScript name: Charter-Roman
    + File name: `Charter.ttc`
+1. + Family: XCharter (✰)
+   + PostScript name: XCharter-Roman
+   + File name: `XCharter-Roman.otf`
 1. + Family: Roboto Serif (✰)
    + PostScript name: RobotoSerif-Regular
    + File name: `RobotoSerif-Regular.otf`
@@ -89,6 +95,7 @@ description:
 1. + Family: Libertinus Serif (✰)(⍟)
    + PostScript name: LibertinusSerif-Regular
    + File name: `LibertinusSerif-Regular.otf`
+   + Note: `libertinus-otf` 宏包调用
 1. + Family: Garamond Libre (✰)
    + PostScript name: GaramondLibre-Regular
    + File name: `GaramondLibre-Regular.otf`
@@ -151,21 +158,22 @@ description:
 9. + Family: Libertinus Sans (✰)(⍟)
    + PostScript name: LibertinusSans-Regular
    + File name: `LibertinusSans-Regular.otf`
-10. + Family: Inter (✰)
-    + PostScript name: Inter-Regular
-    + File name: `Inter-Regular.otf`
-11. + Family: Fire Sans (✰)
-    + PostScript name: FiraSans-Regular
-    + File name: `FiraSans-Regular.otf`
-12. + Family: Chivo (✰)
-    + PostScript name: Chivo-Regular
-    + File name: `Chivo-Regular.otf`
-13. + Family: Comic Neue (✰)
-    + PostScript name: ComicNeue-Regular
-    + File name: `ComicNeue-Regular.otf`
-14. + Family: KpSans (✰)
-    + PostScript name: KpSans-Regular
-    + File name: `KpSans-Regular.otf`
+   + Note: `libertinus-otf` 宏包调用
+1. + Family: Inter (✰)
+   + PostScript name: Inter-Regular
+   + File name: `Inter-Regular.otf`
+1. + Family: Fire Sans (✰)
+   + PostScript name: FiraSans-Regular
+   + File name: `FiraSans-Regular.otf`
+1. + Family: Chivo (✰)
+   + PostScript name: Chivo-Regular
+   + File name: `Chivo-Regular.otf`
+1. + Family: Comic Neue (✰)
+   + PostScript name: ComicNeue-Regular
+   + File name: `ComicNeue-Regular.otf`
+1. + Family: KpSans (✰)
+   + PostScript name: KpSans-Regular
+   + File name: `KpSans-Regular.otf`
 1. + Family: Nunito (✰)
    + PostScript name: Nunito-Regular
    + File name: `Nunito-Regular.otf`
@@ -178,7 +186,7 @@ description:
 1. + Family: Latin Modern Mono (✰)(⍟)
    + PostScript name: LMMono10-Regular
    + File name: `lmmono10-regular.otf`
-   + Note: `lmodern` 宏包调用
+   + `lmodern` 宏包调用
 2. + Family: NewComputerModernMono10 (✰)
    + PostScript name: NewCMMono10-Regular
    + Mac font menu name: NewComputerModernMono10-Regular
@@ -190,6 +198,7 @@ description:
 4. + Family: Libertinus Mono (✰)(⍟)
    + PostScript name: LibertinusMono-Regular
    + File name: `LibertinusMono-Regular.otf`
+   + Note: `libertinus-otf` 宏包调用
 5. + Family: Fira Mono (✰)
    + PostScript name: FiraMono-Regular
    + File name: `FiraMono-Regular.otf`
@@ -213,6 +222,9 @@ description:
 1. + Family: STIX Two Math (✰)
    + PostScript name: STIXTwoMath-Regular
    + File name: `STIXTwoMath-Regular.otf`
+1. + Family: XITS Math (✰)
+   + PostScript name: XITSMath-Regular
+   + File name: `XITSMath-Regular.otf`
 1. + Family: TeX Gyre Termes Math (✰)
    + PostScript name: TeXGyreTermesMath-Regular
    + File name: `texgyretermes-math.otf`
