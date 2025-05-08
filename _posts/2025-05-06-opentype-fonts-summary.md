@@ -7,7 +7,8 @@ description:
 
 1. 标注有 (✰) 的字体为 TeX 发行版自带字体。
 2. 标注有 (⍟) 的字体有相应的宏包直接调用。
-3. 要查看字体信息，可以使用命令行工具 `otfinfo`。
+3. 标注有 (☪) 的字体有同系列的衬线/无衬线/等宽字体搭配使用。
+4. 要查看字体信息，可以使用命令行工具 `otfinfo`。
 
 ## 西文文本字体
 
@@ -37,7 +38,7 @@ description:
    + File name: `ztm-Reg.otf`
 1. + Family: TeX Gyre TermesX (✰)(⍟)
    + PostScript name: TeXGyreTermesX-Regular
-   + File name: TeXGyreTermesX-Regular.otf
+   + File name: `TeXGyreTermesX-Regular.otf`
    + Note: `newtx` 宏包调用
 1. + Family: Charter
    + PostScript name: Charter-Roman
@@ -45,28 +46,28 @@ description:
 1. + Family: XCharter (✰)
    + PostScript name: XCharter-Roman
    + File name: `XCharter-Roman.otf`
-1. + Family: Roboto Serif (✰)
+1. + Family: Roboto Serif (✰)(☪)
    + PostScript name: RobotoSerif-Regular
    + File name: `RobotoSerif-Regular.otf`
    + 注：和 Roboto 搭配使用
-1. + Family: Source Serif Pro (✰)
+1. + Family: Source Serif Pro (✰)(☪)
    + PostScript name: SourceSerifPro-Regular
    + File name: `SourceSerifPro-Regular.otf`
-1. + Family: IBM Plex Serif (✰)
+1. + Family: IBM Plex Serif (✰)(☪)
    + PostScript name: IBMPlexSerif-Regular
    + File name: `IBMPlexSerif-Regular.otf`
 1. + Family: Crimson (✰)
    + PostScript name: Crimson-Roman
    + File name: `Crimson-Roman.otf`
-1. + Family: Latin Modern Roman (✰)(⍟)
+1. + Family: Latin Modern Roman (✰)(⍟)(☪)
    + PostScript name: LMRoman10-Regular
    + File name: `lmroman10-regular.otf`
    + Note: `lmodern` 宏包调用
-1. + Family: NewComputerModern10 (✰)(⍟)
+1. + Family: NewComputerModern10 (✰)(⍟)(☪)
    + PostScript name: NewCM10-Regular
    + Mac font menu name: NewComputerModern 10 Regular
    + File name: `NewCM10-Regular.otf`
-1. + Family: NewComputerModern10 (✰)(⍟)
+1. + Family: NewComputerModern10 (✰)(⍟)(☪)
    + PostScript name: NewCM10-Book
    + Mac font menu name: NewComputerModern 10 Book
    + File name: `NewCM10-Book.otf`
@@ -83,7 +84,7 @@ description:
    + Note: [Palatino](https://en.wikipedia.org/wiki/Palatino) 的复刻字体
 1. + Family: TeX Gyre PagellaX (✰)(⍟)
    + PostScript name: TeXGyrePagellaX-Regular
-   + File name: `TeXGyrePagellaX-Regular`
+   + File name: `TeXGyrePagellaX-Regular.otf`
    + Note: `newpx` 宏包调用
 1. + Family: TeX Gyre Bonum (✰)
    + PostScript name: TeXGyreBonum-Regular
@@ -92,7 +93,7 @@ description:
 1. + Family: Linux Libertine O
    + PostScript name: LinLibertineO
    + File name: `LinLibertine_R.otf`
-1. + Family: Libertinus Serif (✰)(⍟)
+1. + Family: Libertinus Serif (✰)(⍟)(☪)
    + PostScript name: LibertinusSerif-Regular
    + File name: `LibertinusSerif-Regular.otf`
    + Note: `libertinus-otf` 宏包调用
@@ -111,7 +112,7 @@ description:
 1. + Family: BaskervilleF (✰)
    + PostScript name: BaskervilleF-Regular
    + File name: `BaskervilleF-Regular.otf`
-1. + Family: KpRoman (✰)
+1. + Family: KpRoman (✰)(☪)
    + PostScript name: KpRoman-Regular
    + File name: `KpRoman-Regular.otf`
 1. + Family: Old Standard (✰)
@@ -120,30 +121,30 @@ description:
 1. + Family: NovelDeco (✰)
    + PostScript name: NovelDeco
    + File name: `NovelDeco.otf`
-1. + Family: IBM Plex Serif (✰)
+1. + Family: IBM Plex Serif (✰)(☪)
    + PostScript name: IBMPlexSerif-Regular
    + File name: `IBMPlexSerif-Regular.otf`
 
 ### 无衬线体
 
-1. + Family: Source Sans Pro (✰)
+1. + Family: Source Sans Pro (✰)(☪)
    + PostScript name: SourceSansPro-Regular
    + File name: `SourceSansPro-Regular.otf`
 2. + Family: Cantarell (✰)
    + PostScript name: Cantarell Regular
    + File name: `Cantarell-Regular.otf` 
-3. + Family: Roboto (✰)
+3. + Family: Roboto (✰)(☪)
    + PostScript name: Roboto-Regular
    + File name: `Roboto-Regular.otf`
-4. + Family: Latin Modern Sans (✰)(⍟)
+4. + Family: Latin Modern Sans (✰)(⍟)(☪)
    + PostScript name: LMSans10-Regular
    + File name: `lmsans10-regular.otf`
    + Note: `lmodern` 宏包调用
-5. + Family: NewComputerModernSans10 (✰)(⍟)
+5. + Family: NewComputerModernSans10 (✰)(⍟)(☪)
    + PostScript name: NewCMSans10-Regular
    + Mac font menu name: NewComputerModern10-Regular
    + File name: `NewCMSans10-Regular.otf`
-6. + Family: NewComputerModernSans10 (✰)(⍟)
+6. + Family: NewComputerModernSans10 (✰)(⍟)(☪)
    + PostScript name: NewCMSans10-Book
    + Mac font menu name: NewComputerModernSans10-Book
    + File name: `NewCMSans10-Book.otf`
@@ -155,14 +156,14 @@ description:
    + PostScript name: TeXGyreHeros-Regular
    + File name: `texgyreheros-regular.otf`
    + Note: Helvetica 的复刻字体
-9. + Family: Libertinus Sans (✰)(⍟)
+9. + Family: Libertinus Sans (✰)(⍟)(☪)
    + PostScript name: LibertinusSans-Regular
    + File name: `LibertinusSans-Regular.otf`
    + Note: `libertinus-otf` 宏包调用
 1. + Family: Inter (✰)
    + PostScript name: Inter-Regular
    + File name: `Inter-Regular.otf`
-1. + Family: Fire Sans (✰)
+1. + Family: Fire Sans (✰)(☪)
    + PostScript name: FiraSans-Regular
    + File name: `FiraSans-Regular.otf`
 1. + Family: Chivo (✰)
@@ -171,23 +172,23 @@ description:
 1. + Family: Comic Neue (✰)
    + PostScript name: ComicNeue-Regular
    + File name: `ComicNeue-Regular.otf`
-1. + Family: KpSans (✰)
+1. + Family: KpSans (✰)(☪)
    + PostScript name: KpSans-Regular
    + File name: `KpSans-Regular.otf`
 1. + Family: Nunito (✰)
    + PostScript name: Nunito-Regular
    + File name: `Nunito-Regular.otf`
-1. + Family: IBM Plex Sans (✰)
+1. + Family: IBM Plex Sans (✰)(☪)
    + PostScript name: IBMPlexSans
    + File name: `IBMPlexSans.otf`
 
 ### 等宽字体
 
-1. + Family: Latin Modern Mono (✰)(⍟)
+1. + Family: Latin Modern Mono (✰)(⍟)(☪)
    + PostScript name: LMMono10-Regular
    + File name: `lmmono10-regular.otf`
    + `lmodern` 宏包调用
-2. + Family: NewComputerModernMono10 (✰)
+2. + Family: NewComputerModernMono10 (✰)(☪)
    + PostScript name: NewCMMono10-Regular
    + Mac font menu name: NewComputerModernMono10-Regular
    + File name: `NewCMMono10-Regular.otf`
@@ -195,11 +196,11 @@ description:
    + PostScript name: TeXGyreCursor-Regular
    + File name: `texgyrecursor-regular.otf`
    + Note: [Courier](https://en.wikipedia.org/wiki/Courier_(typeface)) 的复刻字体
-4. + Family: Libertinus Mono (✰)(⍟)
+4. + Family: Libertinus Mono (✰)(⍟)(☪)
    + PostScript name: LibertinusMono-Regular
    + File name: `LibertinusMono-Regular.otf`
    + Note: `libertinus-otf` 宏包调用
-5. + Family: Fira Mono (✰)
+5. + Family: Fira Mono (✰)(☪)
    + PostScript name: FiraMono-Regular
    + File name: `FiraMono-Regular.otf`
 6. + Family: Cascadia Code (✰)
@@ -208,10 +209,10 @@ description:
 7. + Family: JetBrains Mono (✰)
    + PostScript name: JetBrainsMono-Regular
    + File name: `JetBrainsMono-Regular.otf`
-8. + Family: KpMono (✰)
+8. + Family: KpMono (✰)(☪)
    + PostScript name: KpMono-Regular
    + File name: `KpMono-Regular.otf`
-1. + Family: IBM Plex Mono (✰)
+1. + Family: IBM Plex Mono (✰)(☪)
    + PostScript name: IBMPlexMono
    + File name: `IBMPlexMono-Regular.otf`
    
