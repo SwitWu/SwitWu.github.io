@@ -291,6 +291,62 @@ description:
    + File name: `FiraMath-Regular.otf`
 
 
+## 中文字体
+
+### 宋体
+
+1. + Family: FandolSong (✰)(☪)
+   + PostScript name: FandolSong-Regular
+   + File name: `FandolSong-Regular`
+1. + Family: Source Han Serif SC (☪) 思源宋体
+   + PostScript name: SourceHanSerifSC-Regular
+   + `SourceHanSerifSC-Regular.otf`
+1. + Family: FZShuSong-Z01S (☪) 方正书宋简体
+   + PostScript name: FZSSJW--GB1-0
+   + File name: `FZSSJW.TTF`
+1. + Family: SimSun (☪) 中易宋体
+   + PostScript name: SimSun
+   + File name: `simsun.ttf`
+
+### 黑体
+
+1. + Family: FandolHei (✰)(☪)
+   + PostScript name: FandolHei-Regular
+   + File name: `FandolHei-Regular.otf`
+1. + Family: Source Han Sans SC (☪) 思源黑体
+   + PostScript name: SourceHanSansSC-Regular
+   + File name: `SourceHanSansSC-Regular.otf`
+1. + Family: FZHei-B01S (☪) 方正黑体简体
+   + PostScript name: FZHTJW--GB1-0
+   + File name: `FZHTJW.TTF`
+1. + Family: SimHei (☪) 中易黑体
+   + PostScript name: SimHei
+   + File name: `SimHei.ttf`
+
+### 楷体
+
+1. + Family: FandolKai (✰)(☪)
+   + PostScript name: FandolKai-Regular
+   + File name: `FandolKai-Regular`
+1. + Family: FZKai-Z03S (☪) 方正楷体简体
+   + PostScript name: FZKTJW--GB1-0
+   + File name: `FZKTJW.TTF`
+1. + Family: KaiTi (☪) 中易楷体
+   + PostScript name: KaiTi
+   + File name: `simkai.ttf`
+
+### 仿宋
+
+1. + Family: FandolFang (✰)(☪)
+   + PostScript name: FandolFang-Regular
+   + File name: `FandolFang-Regular.otf`
+1. + Family: FZFangSong-Z02S (☪)
+   + PostScript name: FZFSJW--GB1-0
+   + File name: `FZFSJW.TTF`
+1. + Family: FangSong (☪) 中易仿宋
+   + PostScript name: FangSong
+   + File name: `SimFang.ttf`
+
 ## 参考文献
 
 1. [The TeX Gyre (TG) Collection of Fonts](https://www.gust.org.pl/projects/e-foundry/tex-gyre)
