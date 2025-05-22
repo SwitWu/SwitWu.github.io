@@ -272,7 +272,7 @@ description:
    + PostScript name: KpMath-Regular
    + File name: `KpMath-Regular.otf`
 1. + Family: Cambria Math
-   + PostScript name: Cambria-Math
+   + PostScript name: CambriaMath
    + File name: `Cambria Math.ttf`
 1. + Family: GFS Neohellenic Math (✰)
    + PostScript name: GFSNeohellenicMath
