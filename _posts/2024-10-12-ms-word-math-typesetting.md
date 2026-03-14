@@ -66,4 +66,4 @@ $$\sum_{i=0}^{m+n}$$
 
 + [Wikipedia: $n$th root](https://en.wikipedia.org/wiki/Nth_root)
 + [The Word 2007/2010 Equation Editor](https://mathiho.sitehost.iu.edu/doc/equation-editor-shortcut-commands.pdf)
-+ [Unicode Nearly Plain-Text Encoding of Mathematics. Murray Sargent III](https://unicode.org/notes/tn28/UTN28-PlainTextMath-v2.pdf)
++ [Unicode Nearly Plain-Text Encoding of Mathematics. Murray Sargent III](https://unicode.org/notes/tn28/UTN28-PlainTextMath-v3.3.pdf)
